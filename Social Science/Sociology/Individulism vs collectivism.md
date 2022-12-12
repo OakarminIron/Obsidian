@@ -1,0 +1,6 @@
+Each person have their fucking interests and goals its important to know brifly.
+Collecitivist societes will have more emotionally depend on members in their org, while in equlibrum have more responsibility.
+
+Individualism (IDV) is high in the US (91), Australia (90), and Great Britain (89). Contrarily Hong Kong and Serbia (25), Malaysia (26), and Portugal (27) are considered to be collectivists
+
+Myanmar remains in the middle of the collectivism score and what this means is that it is hard to determine if the country is itself leans towards more individualistic tendencies or collective tendencies. The problem likely arises from the location in which the study was executed.  In more rural areas of Myanmar, collectivism might be more common especially in villages that are tight knit and reliance on neighbors is high however, in the city where individual wealth is most likely increased and the hierarchy is much more prominent (rich vs poor), individual thinking is more likely to take place.

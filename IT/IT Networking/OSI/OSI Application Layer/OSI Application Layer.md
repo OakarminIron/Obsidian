@@ -1,0 +1,15 @@
+https://en.wikipedia.org/wiki/Application_layer
+
+
+[[HTTP]]
+[[Telnet]] , [[Secure Shell]], [[SSH]]
+[[FTP]]
+[[SMTP]]
+[[DNS]]
+[[LDAP]]
+
+[[Whois]]
+
+[[DHCP]]
+
+RTMP , RTPS, RTP

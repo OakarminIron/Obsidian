@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "fa7b9df59cd582e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "00b51347715e8c18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd77d926392e5962",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Programming/OOP/OOP.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d56bed7c06b3d5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a002823e29c51b4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb9a4a184e2925b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a095a423a895527b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "array",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6721fac72b8e2e2d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357.5
+  },
+  "right": {
+    "id": "20cb4d4e78c58110",
+    "type": "split",
+    "children": [
+      {
+        "id": "a315d990137dac82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "443d5d0a279cd544",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IT/Programming/OOP/OOP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "56339e67a970c95f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "IT/Programming/OOP/OOP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "051fd3e6bdb492a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "51e0c87aa400cb44",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IT/Programming/OOP/OOP.md"
+              }
+            }
+          },
+          {
+            "id": "749fbadab5c1a2e7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bb9a4a184e2925b5",
+  "lastOpenFiles": [
+    "IT/Object/Object.md",
+    "IT/Programming/OOP/OOP.md",
+    "IT/Programming/OOP/Model Driven Design.md",
+    "IT/Programming/OOP/OOP Paradign Features.md",
+    "2.md",
+    "IT/DSA/DataStructure/Array List.md",
+    "IT/DSA/DataStructure/List functions.md",
+    "IT/Programming/OOP/OOP Primary Principles.md",
+    "IT/Programming/Programming Pardadigms.md",
+    "IT/Programming/Programming.md"
+  ]
+}

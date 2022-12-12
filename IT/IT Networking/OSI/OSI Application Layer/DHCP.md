@@ -1,0 +1,1 @@
+(Dynamic Host Configuration Protocol) IP ချပေးတာ

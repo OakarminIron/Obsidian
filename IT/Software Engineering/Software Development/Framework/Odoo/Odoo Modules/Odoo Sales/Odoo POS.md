@@ -1,0 +1,2 @@
+[[Odoo Shop]]
+[[Odoo Resturant]]

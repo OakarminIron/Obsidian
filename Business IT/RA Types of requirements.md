@@ -1,0 +1,10 @@
+Business requirements
+Architectural requirements
+Structural requirements
+Behavioral requirements
+Functional requirements
+Non-functional requirements
+Performance requirements
+Design requirements
+Derived requirements
+Allocated requirements

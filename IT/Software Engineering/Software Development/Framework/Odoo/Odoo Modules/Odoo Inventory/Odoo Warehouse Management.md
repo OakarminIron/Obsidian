@@ -1,0 +1,10 @@
+
+[[Odoo Products]]
+[[Odoo Warehouse and Locations]]
+[[Odoo Replenishment strategies]]
+[[Odoo Inventory Adjustment]]
+[[Odoo Delivery Orders]]
+[[Odoo Incoming Shipments]]
+[[Odoo Miscellaneous Operations]]
+[[Odoo Inventory Planning]]
+[[Odoo Inventory Valuation]]

@@ -1,0 +1,3 @@
+Socrates
+Plato
+Aristotle
