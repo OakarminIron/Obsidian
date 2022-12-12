@@ -11,13 +11,8 @@
             "id": "fd77d926392e5962",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Programming/OOP/OOP.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Programming/OOP/OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Programming/OOP/OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "IT/Programming/OOP/OOP.md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,10 +136,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bb9a4a184e2925b5",
+  "active": "fd77d926392e5962",
   "lastOpenFiles": [
-    "IT/Object/Object.md",
     "IT/Programming/OOP/OOP.md",
+    "IT/Object/Object.md",
     "IT/Programming/OOP/Model Driven Design.md",
     "IT/Programming/OOP/OOP Paradign Features.md",
     "2.md",
