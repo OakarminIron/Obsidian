@@ -2,7 +2,6 @@
 
 [[Requirements planning and management]]
 
-[[Requirements elicitation Technique]]
-
-[[Requirement Analysis (RARE)]] and [[BA Documentation]]
+[[Requirement Analysis]] 
+[[BA Documentation]]
 

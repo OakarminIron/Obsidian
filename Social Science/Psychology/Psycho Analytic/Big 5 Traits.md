@@ -1,0 +1,5 @@
+- openness to experience (inventive/curious vs. consistent/cautious)
+- conscientiousness (efficient/organized vs. extravagant/careless)
+- extraversion (outgoing/energetic vs. solitary/reserved)
+- agreeableness (friendly/compassionate vs. critical/rational)
+- neuroticism (sensitive/nervous vs. resilient/confident)

@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -18,34 +18,48 @@
       "query": "path:\"Business/\"",
       "color": {
         "a": 1,
-        "rgb": 15770895
-      }
-    },
-    {
-      "query": "path:\"IT/Software Engineering/Software Development/Software Design/Software Design Patterns/\"",
-      "color": {
-        "a": 1,
-        "rgb": 16689407
+        "rgb": 16755200
       }
     },
     {
       "query": "path:\"Business IT/\"",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 65322
+      }
+    },
+    {
+      "query": "path:\"IT/\"",
+      "color": {
+        "a": 1,
+        "rgb": 59898
+      }
+    },
+    {
+      "query": "path:\"System Engineering/\"",
+      "color": {
+        "a": 1,
+        "rgb": 11420231
+      }
+    },
+    {
+      "query": "path:\"Social Science/\"",
+      "color": {
+        "a": 1,
+        "rgb": 1573073
       }
     }
   ],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 0.993229166666667,
+  "nodeSizeMultiplier": 1.19739583333333,
   "lineSizeMultiplier": 2.24375,
   "collapse-forces": false,
-  "centerStrength": 0.135416666666667,
-  "repelStrength": 14.0625,
-  "linkStrength": 0.880208333333333,
-  "linkDistance": 30,
-  "scale": 0.013897132222849055,
+  "centerStrength": 0.182291666666667,
+  "repelStrength": 11.875,
+  "linkStrength": 1,
+  "linkDistance": 74,
+  "scale": 0.05932617187500309,
   "close": false
 }

@@ -1,0 +1,1 @@
+Outcomes that can be measured in numerical terms.  ဒီအတွက် စရိတ်ကို စဉ်းစားတဲ့အခါ Accounting concept အောက်က ကိန်းတွေနဲ့တွက်မရပေမဲ့ စဉ်းစားရပါမယ်

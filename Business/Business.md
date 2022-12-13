@@ -20,4 +20,4 @@
 [[Research]]
 
 
-[[Business Culture]]
+[[Organizational Culture]]

@@ -1,9 +1,9 @@
-[[[Odoo Build of Materials]]]
+[[Odoo Manufacturing]]
 
-[[Odoo Work Centers]]
+[[Odoo PLM]]
+
 
 [[Odoo QC]]
 
 [[Odoo Subcontract]]
 
-[[Odoo Master Production Schedule]]

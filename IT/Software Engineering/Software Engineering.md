@@ -1,7 +1,7 @@
 [[Software Development]]
 
 
-[[Dev Ops]]
+[[DevOps]]
 
 [[API]]
 

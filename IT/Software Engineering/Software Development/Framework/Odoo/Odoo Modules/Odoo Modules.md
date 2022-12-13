@@ -17,4 +17,5 @@
 
 [[Odoo Document]]
 
-[[Odoo Manufacturing]]
+[[Odoo Accounting]]
+

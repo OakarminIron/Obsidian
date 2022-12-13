@@ -37,4 +37,4 @@ https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns
 -   [Peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer "Peer-to-peer")
 -   [Representational state transfer](https://en.wikipedia.org/wiki/Representational_state_transfer "Representational state transfer") (REST)
 -   [Service-oriented](https://en.wikipedia.org/wiki/Service-oriented_architecture "Service-oriented architecture")
--   [Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing "Cloud computing") patterns [[2]](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns#cite_note-ieeesw-2)
+-   [Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing "Cloud computing") patterns (https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns#cite_note-ieeesw-2)

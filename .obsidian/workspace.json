@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "00b51347715e8c18",
+        "id": "225eec1b8eb04ea9",
         "type": "tabs",
         "children": [
           {
-            "id": "fd77d926392e5962",
+            "id": "7e030bccc70349a7",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "e8292d5c3894b064",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business IT/RARE/Requirmenet Engineering Activities.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "array",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 425.5
   },
   "right": {
     "id": "20cb4d4e78c58110",
@@ -136,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fd77d926392e5962",
+  "active": "7e030bccc70349a7",
   "lastOpenFiles": [
-    "IT/Programming/OOP/OOP.md",
-    "IT/Object/Object.md",
-    "IT/Programming/OOP/Model Driven Design.md",
-    "IT/Programming/OOP/OOP Paradign Features.md",
-    "2.md",
-    "IT/DSA/DataStructure/Array List.md",
-    "IT/DSA/DataStructure/List functions.md",
-    "IT/Programming/OOP/OOP Primary Principles.md",
-    "IT/Programming/Programming Pardadigms.md",
-    "IT/Programming/Programming.md"
+    "Business IT/RARE/Requirmenet Engineering Activities.md",
+    "Business IT/RARE/RA Forms.md",
+    "Business IT/RARE/Requirement Engineering RE.md",
+    "Business IT/RARE/Requirement Analysis.md",
+    "Business IT/RARE/RARE Techniques.md",
+    "Business IT/System Engineering/System Engineering.md",
+    "Business IT/BA Sub-disciplines.md",
+    "IT/Software Engineering/System Design.md",
+    "Business IT/System Engineering/System Engineering Subfields.md",
+    "Business IT/Business IT.md"
   ]
 }

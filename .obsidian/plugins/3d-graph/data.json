@@ -1,23 +1,14 @@
 {
   "filters": {
-    "doShowOrphans": false
+    "doShowOrphans": true
   },
   "groups": {
-    "groups": [
-      {
-        "query": "path:\"Professional Notes/IT/Software Engineering/Software Development/Framework/Odoo/\"",
-        "color": "#beb019"
-      },
-      {
-        "query": "",
-        "color": "#bababa"
-      }
-    ]
+    "groups": []
   },
   "display": {
-    "nodeSize": 2,
-    "linkThickness": 1,
+    "nodeSize": 3,
+    "linkThickness": 5,
     "particleSize": 9,
-    "particleCount": 8
+    "particleCount": 4
   }
 }
