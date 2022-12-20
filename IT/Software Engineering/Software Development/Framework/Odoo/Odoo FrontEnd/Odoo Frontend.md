@@ -1,5 +1,0 @@
-[[Bootstrap]]
-
-[[QWeb]]
-
-[[OWL Framework]]

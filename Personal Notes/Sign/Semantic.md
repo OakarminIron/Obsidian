@@ -1,0 +1,1 @@
+Semantics is the study of the meaning of signs – the association between signs and behaviour. Semantics can be considered as the study of the link between symbols and their referents or concepts, particularly the way in which signs relate to human behaviour embodied in norms.

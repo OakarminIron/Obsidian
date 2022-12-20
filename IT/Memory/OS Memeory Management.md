@@ -39,4 +39,4 @@ To perform a linking task a linker is used. A linker is a program that takes one
 
 [[SWAP]]
 
-[[Paging]]
+[[Paging Virtual Memory]]

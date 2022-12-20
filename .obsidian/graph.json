@@ -15,20 +15,6 @@
       }
     },
     {
-      "query": "path:\"Business/\"",
-      "color": {
-        "a": 1,
-        "rgb": 16755200
-      }
-    },
-    {
-      "query": "path:\"Business IT/\"",
-      "color": {
-        "a": 1,
-        "rgb": 65322
-      }
-    },
-    {
       "query": "path:\"IT/\"",
       "color": {
         "a": 1,
@@ -36,17 +22,31 @@
       }
     },
     {
-      "query": "path:\"System Engineering/\"",
-      "color": {
-        "a": 1,
-        "rgb": 11420231
-      }
-    },
-    {
       "query": "path:\"Social Science/\"",
       "color": {
         "a": 1,
         "rgb": 1573073
+      }
+    },
+    {
+      "query": "path:\"Math/\"",
+      "color": {
+        "a": 1,
+        "rgb": 16737894
+      }
+    },
+    {
+      "query": "path:\"Business IT/\"",
+      "color": {
+        "a": 1,
+        "rgb": 6789317
+      }
+    },
+    {
+      "query": "path:\"Business/\"",
+      "color": {
+        "a": 1,
+        "rgb": 16768517
       }
     }
   ],
@@ -56,10 +56,10 @@
   "nodeSizeMultiplier": 1.19739583333333,
   "lineSizeMultiplier": 2.24375,
   "collapse-forces": false,
-  "centerStrength": 0.182291666666667,
-  "repelStrength": 11.875,
-  "linkStrength": 1,
+  "centerStrength": 0.197916666666667,
+  "repelStrength": 14.7916666666667,
+  "linkStrength": 0.71875,
   "linkDistance": 74,
-  "scale": 0.05932617187500309,
+  "scale": 0.0702680722902275,
   "close": false
 }

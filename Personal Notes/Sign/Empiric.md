@@ -1,0 +1,1 @@
+Empirics is the study of the physical characteristics of the medium of communication. Empirics is devoted to the study of communication channels and their characteristics, e.g. sound, light, electronic transmission etc.

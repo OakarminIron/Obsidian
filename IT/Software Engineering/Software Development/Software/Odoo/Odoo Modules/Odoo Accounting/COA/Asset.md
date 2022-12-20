@@ -1,0 +1,6 @@
+[[Receiable]]
+[[Bank and Cash]]
+[[Current Assets]]
+[[Non Current Assets]]
+[[Prepayments]]
+[[Fixed Assets]]

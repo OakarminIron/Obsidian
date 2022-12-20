@@ -1,5 +1,3 @@
 [[Sociology]]
 
-[[Psychology]]
-
 [[Fallacies]]

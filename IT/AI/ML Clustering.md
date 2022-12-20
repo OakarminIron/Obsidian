@@ -1,0 +1,1 @@
+Group similarities. Demographic , Geographic

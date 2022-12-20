@@ -1,0 +1,3 @@
+[[Horizental Partitioning]]
+
+[[Vertical Partitioning]]

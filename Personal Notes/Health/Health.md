@@ -2,7 +2,7 @@
 
 [[Biological Health]]
 
-[[Mental Health]]
+[[Mental Health Care]]
 
 [[Social Health]]
 

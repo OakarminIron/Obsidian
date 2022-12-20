@@ -1,13 +1,13 @@
 [[Brainstorming]]
-[[Document analysis]]
-[[Focus group]]
+[[Document Analysis]]
+[[Focus Group]]
 Interface analysis
 Interviews/questionnaire
 Workshops
-[[Reverse engineering]]
+[[Reverse Engineering]]
 Surveys
 User task analysis
-[[Process mapping]]
+[[Process Mapping]]
 Observation/job shadowing
-[[Design thinking]]
+[[Design Thinking]]
 Prototyping

@@ -4,7 +4,7 @@
 [[IT Networking]]
 [[Database]]
 [[Cyber Security]]
-[[Data Engineering]]
+
 [[Code Editors]]
 [[Programming]]
 
@@ -13,3 +13,5 @@
 [[Memory RAM]]
 
 [[DSA]]
+
+[[AI]]

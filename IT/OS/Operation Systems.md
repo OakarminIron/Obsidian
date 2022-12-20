@@ -1,6 +1,1 @@
 [[OS Concepts]]
-
-[[Linux]]
-
-[[Windows]]
-
