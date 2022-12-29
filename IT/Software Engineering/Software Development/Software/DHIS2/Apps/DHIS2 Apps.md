@@ -5,8 +5,6 @@
 [[DHIS2 Data]]
 [[DHIS2 Event]]
 
-
-
 [[Tracker Capture App]]
 [[Reports App]]
 [[Line List App]]

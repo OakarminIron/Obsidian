@@ -1,0 +1,5 @@
+[[Bar Charts]]
+[[Pie Charts]]
+[[Line Charts]]
+[[Gantt Chart]]
+[[Radar Chart]]

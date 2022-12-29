@@ -1,9 +1,7 @@
-| Data  | Event |
-| ----------- | ----------- |
-[[Data Entry]]
-[[Capture App]] 
-[[Data Approval]]
-[[Data Quality]]
-[[Data Visualizer]] 
-[[Data Exchange]]
-[[Data Import]] 
+[[DHIS2 Data Entry]]
+[[DHIS2 Capture App]] 
+[[DHIS2 Data Approval]]
+[[DHIS2 Data Quality]]
+[[DHIS2 Data Visualization]] 
+[[DHIS2 Data Exchange]]
+[[DHIS2 Data Import]] 

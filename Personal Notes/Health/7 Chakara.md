@@ -7,3 +7,5 @@
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Manipura_Mandala.svg/80px-Manipura_Mandala.svg.png)  [[Manipura]]  Fire -Shame , get some confidence +Will Power
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Swadhisthana_Mandala.svg/80px-Swadhisthana_Mandala.svg.png)  [[Svadhisthana]]  Water ,  -Guilt , dont blame yourself, accept the reality +Pleasure
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Muladhara_Mandala.svg/80px-Muladhara_Mandala.svg.png)  [[Muladhara]]   Earth  , -Fear , Brace your balls thats it . +Survival
+
+Also related to some geographic location upon earth.
