@@ -2,7 +2,6 @@ In computer science, an object can be a variable, a data structure, a function, 
 
 An important concept for objects is the design pattern. A design pattern provides a reusable template to address a common problem. The following object descriptions are examples of some of the most common design patterns for objects.
 
-[[Software Design Patterns]]
 - Function object: an object with a single method (in C++, this method would be the function operator, "operator()") that acts much like a function (like a C/C++ pointer to a function).
 - Immutable object: an object set up with a fixed state at creation time and which does not change afterward.
 - First-class object: an object that can be used without restriction.
@@ -27,4 +26,4 @@ An important concept for objects is the design pattern. A design pattern provide
 
 
 [[OOP]]
-
+[[ORM]]

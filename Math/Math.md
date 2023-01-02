@@ -1,5 +1,7 @@
 [[Linear Algebra]]
+[[Calculus]]
 
+[[Probability & Statistic]] 
+[[Discrete Math]]
 
-[[Probability]] and [[Statistics]]
 

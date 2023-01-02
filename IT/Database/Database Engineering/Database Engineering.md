@@ -1,11 +1,10 @@
 [[Database Internals]]
 [[ACID DBE]]
 
+[[DB Scaling]]
 
 
-[[Database Partitioning]]
-[[Database Sharding]]
-[[Database Replication]]
+
 
 
 [[Database Structure]]

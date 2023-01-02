@@ -1,0 +1,2 @@
+[[Logic Gates]]
+[[Proposational Calculas]]

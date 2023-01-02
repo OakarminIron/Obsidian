@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 16768517
       }
+    },
+    {
+      "query": "path:\"Logic/\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
     }
   ],
   "collapse-display": true,
@@ -56,10 +63,10 @@
   "nodeSizeMultiplier": 1.19739583333333,
   "lineSizeMultiplier": 2.24375,
   "collapse-forces": false,
-  "centerStrength": 0.227183627363035,
-  "repelStrength": 14.1120967474002,
+  "centerStrength": 0.104166666666667,
+  "repelStrength": 9.6875,
   "linkStrength": 1,
   "linkDistance": 118,
-  "scale": 0.015462804934413278,
-  "close": true
+  "scale": 0.05932617187500016,
+  "close": false
 }

@@ -1,3 +1,4 @@
 [[DataStructure]]
 
-[[Algorithms]]
+[[Algorithm]]
+

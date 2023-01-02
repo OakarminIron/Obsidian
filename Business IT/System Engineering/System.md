@@ -13,3 +13,4 @@ INCOSE: "A system is a construct or collection of different elements that togeth
 ISO/IEC 15288:2008: "A combination of interacting elements organized to achieve one or more stated purposes."[39]
 
 NASA Systems Engineering Handbook: "(1) The combination of elements that function together to produce the capability to meet a need. The elements include all hardware, software, equipment, facilities, personnel, processes, and procedures needed for this purpose. (2) The end product (which performs operational functions) and enabling products (which provide life-cycle support services to the operational end products) that make up a system."
+

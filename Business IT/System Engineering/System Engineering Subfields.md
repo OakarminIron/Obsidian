@@ -1,7 +1,11 @@
 [[Software Engineering]]
 
-[[Electrical Engineering]]
 
-[[Civil Engineering]]
 
-[[Manufacturing Engineering]]
+
+[[Organizational Studies]]
+[[Project Management]]
+[[Process System Engineering]]
+
+[[Other SE Subfields]]
+

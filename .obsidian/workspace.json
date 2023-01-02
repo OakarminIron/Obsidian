@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "bfa6cee94396e5f2",
+        "id": "eb817cb48e5f06c5",
         "type": "tabs",
         "children": [
           {
-            "id": "af2740b661216cd9",
+            "id": "099e8a78fa551d0a",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "b500da9c4cad8458",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic Evolution.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Object Language",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,17 +152,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af2740b661216cd9",
+  "active": "099e8a78fa551d0a",
   "lastOpenFiles": [
-    "IT/Software Engineering/Software Development/Software/DHIS2/Apps/DHIS2 Apps.md",
-    "IT/Software Engineering/Software Development/Software/DHIS2/Apps/Tracker Capture App.md",
-    "IT/Software Engineering/Software Development/Software/DHIS2/DHIS2.md",
-    "IT/Software Engineering/Software Development/Software/Applications.md",
-    "IT/Software Engineering/Software Development/Software/DHIS2/Apps/Capture App.md",
-    "Business IT/Data Engineering/Data Analysis/Data Visualization/Charts.md",
-    "Business IT/Data Engineering/Data Analysis/Data Visualization/DV Techniques.md",
-    "Business IT/Data Engineering/Data Analysis/Data Visualization/Data Visualization.md",
-    "IT/Software Engineering/Software Development/Software/DHIS2/Apps/DHIS2 Data.md",
-    "DHIS2 Data Visualization.md"
+    "Logic Evolution.md",
+    "Logic/Logic.md",
+    "Logic/Meta Language.md",
+    "Logic/Language.md",
+    "Logic/Object Language.md",
+    "Logic/Truth Table.md",
+    "Logic/Truth.md",
+    "Logic/Proposational Calculas.md",
+    "PC Junctions.md",
+    "Logic/Logical Statement.md"
   ]
 }
