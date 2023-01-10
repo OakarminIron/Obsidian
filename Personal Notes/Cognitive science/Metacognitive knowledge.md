@@ -1,0 +1,3 @@
+-   [[Content knowledge]] (declarative knowledge) which is understanding one's own capabilities, such as a student evaluating their own knowledge of a subject in a class. 
+-   [[Task knowledge]] (procedural knowledge), which is how one perceives the difficulty of a task which is the content, length, and the type of assignment. 
+-   [[Strategic knowledge]] (conditional knowledge) which is one's own capability for using strategies to learn information. 

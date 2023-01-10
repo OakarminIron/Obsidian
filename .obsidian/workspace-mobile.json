@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dce1beafa1a40b14",
+        "id": "d09d91c1eff2b7c8",
         "type": "tabs",
         "children": [
           {
-            "id": "2a1bf71963ba8f15",
+            "id": "18963b13316093d0",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,10 +16,10 @@
             }
           },
           {
-            "id": "0a698705d1842482",
+            "id": "c2aa1c957a909466",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "3d_graph_view",
               "state": {}
             }
           }
@@ -48,7 +48,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Psychology",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -121,8 +121,17 @@
     ],
     "currentTab": 0
   },
-  "active": "2a1bf71963ba8f15",
+  "active": "18963b13316093d0",
   "lastOpenFiles": [
-    "xxx.md"
+    "Personal Notes/Congnitive Science/CS Faculties.md",
+    "Personal Notes/Congnitive Science/Reasoning.md",
+    "Personal Notes/Congnitive Science/Cognitive science.md",
+    "Personal Notes/Congnitive Science/CS Fields.md",
+    "Personal Notes/Congnitive Science/Congnitive Psychology.md",
+    "Personal Notes/Social Science/Psychology/Major School of Thoughts/Major School of Thought.md",
+    "Personal Notes/Social Science/Psychology/Psychology.md",
+    "Personal Notes/Congnitive Science/Linguistics.md",
+    "Untitled.md",
+    "Personal Notes/Social Science/Psychology/Major School of Thoughts/Psycho Analytic/Phycho Analytic.md"
   ]
 }

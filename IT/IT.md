@@ -1,18 +1,11 @@
+[[OSI]]
 
-[[System Analysis]]
-[[IT Hardware]]
-[[IT Networking]]
+
 [[Database]]
 [[Cyber Security]]
-
 [[Code Editors]]
 [[Programming]]
-
-[[Operation Systems]]
-
-[[Memory RAM]]
-
 [[DSA]]
-
 [[AI]]
-[[IT/Object/Object]]
+[[CS Object]]
+[[DevOps]]

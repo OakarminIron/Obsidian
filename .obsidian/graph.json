@@ -8,38 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"IT/Software Engineering/Software Development/Framework/Odoo/\"",
+      "query": "path:\"Odoo/\"",
       "color": {
         "a": 1,
         "rgb": 5966438
       }
     },
     {
-      "query": "path:\"IT/\"",
+      "query": "path:\"BIT/\"",
       "color": {
         "a": 1,
-        "rgb": 59898
-      }
-    },
-    {
-      "query": "path:\"Social Science/\"",
-      "color": {
-        "a": 1,
-        "rgb": 1573073
-      }
-    },
-    {
-      "query": "path:\"Math/\"",
-      "color": {
-        "a": 1,
-        "rgb": 16737894
-      }
-    },
-    {
-      "query": "path:\"Business IT\"",
-      "color": {
-        "a": 1,
-        "rgb": 65280
+        "rgb": 505351
       }
     },
     {
@@ -50,10 +29,10 @@
       }
     },
     {
-      "query": "path:\"Logic/\"",
+      "query": "path:\"IT/\"",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 1435105
       }
     }
   ],
@@ -63,10 +42,10 @@
   "nodeSizeMultiplier": 1.19739583333333,
   "lineSizeMultiplier": 2.24375,
   "collapse-forces": false,
-  "centerStrength": 0.104166666666667,
-  "repelStrength": 9.6875,
-  "linkStrength": 1,
-  "linkDistance": 118,
-  "scale": 0.05932617187500016,
-  "close": false
+  "centerStrength": 0,
+  "repelStrength": 20,
+  "linkStrength": 0.854166666666667,
+  "linkDistance": 30,
+  "scale": 0.06699983039941725,
+  "close": true
 }

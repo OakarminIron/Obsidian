@@ -1,0 +1,6 @@
+- Cognitive evaluation theory ([[CET]]): explains the relationship between internal motivation and external rewards. 
+- Organismic integration theory ([[OIT]]): suggests different types of extrinsic motivations and how they contribute to the socialization of the individual. This mini-theory suggests that people willingly participate in activities and behaviors that they do not find interesting or enjoyable because they are influenced by external motivators.
+- Causality orientations theory ([[COT]])**: explores individual differences in the way people motivate themselves in regards to their personality.
+- Basic needs theory ([[BNT]]): considers three psychological needs that are related to intrinsic motivation, effective functioning, high quality engagement, and psychological well-being. 
+- Goal contents theory ([[GCT]]): compares the benefits of intrinsic goals to the negative outcomes of external goals in terms of psychological well-being.
+- Relationship motivation theory ([[RMT]]): examines the importance of relationships. This theory posits that high quality relationships satisfy all three psychological needs described in BNT. Of the three needs, relatedness is impacted the most by high quality relationships but autonomy and competence are satisfied as well.

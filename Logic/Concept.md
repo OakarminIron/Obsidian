@@ -1,1 +1,0 @@
-A functionalized [[Logic/Object]]
