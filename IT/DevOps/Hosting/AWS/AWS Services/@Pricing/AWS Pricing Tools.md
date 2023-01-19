@@ -1,5 +1,7 @@
 [[AWS Compute Optimizer]]
 [[AWS Billing and Costing Tool]]
 [[AWS Budget]]
-[[Cloud Watch]]
+[[AWS Cloud Watch]]
 [[AWS Trust Advisor]]
+[[AWS X-Ray]]
+

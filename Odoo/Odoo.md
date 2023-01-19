@@ -1,4 +1,4 @@
-
+[[Odoo Install]]
 
 [[Odoo Frontend]]
 

@@ -4,3 +4,5 @@
 [[Human Development Index]]
 [[Living Standard]]
 [[QOL Standard Indicators]]
+
+

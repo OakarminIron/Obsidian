@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Name",
+            "type": "python",
+            "request": "launch",
+            "stopOnEntry": false,
+            "python": "C:/ProjectFolder/venv/Scripts/python.exe",
+            "program": "C:/Program Files (x86)/Odoo 12.0e/server/odoo-bin",
+            "env": {},
+            "envFile": "${workspaceRoot}/.env",
+            "cwd": "${workspaceRoot}",
+            "console": "integratedTerminal",
+            "redirectOutput": true,
+        }
+    ]
+}

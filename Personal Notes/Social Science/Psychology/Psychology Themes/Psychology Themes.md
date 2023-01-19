@@ -8,5 +8,3 @@
 
 [[Genes and Environment Psychology]]
 
-[[Personality]]
-

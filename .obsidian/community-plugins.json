@@ -1,5 +1,6 @@
 [
   "3d-graph",
   "dataview",
-  "obisidian-note-linker"
+  "obsidian-better-internal-link-inserter",
+  "obsidian-excel-to-markdown-table"
 ]

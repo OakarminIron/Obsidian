@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "C:\\Program Files (x86)\\Odoo 12.0e\\server"
+		},
+	],
+	"settings": {
+		"python.autoComplete.extraPaths": [
+            "C:/Program Files (x86)/Odoo 12.0e/server/addons",
+            "C:/Program Files (x86)/Odoo 12.0e/server/odoo/addons",
+            "${workspaceRoot}",
+        ],
+		"python.linting.enabled": true,
+		"python.linting.pylintArgs": [
+			"--load-plugins",
+			"pylint_odoo",
+			"--max-line-length",
+			"200",
+			"--aggressive"
+		],
+		"python.formatting.autopep8Args": ["--max-line-length=200"],
+        "files.autoSave": "afterDelay",
+        "files.autoSaveDelay": 500,
+        "files.exclude": {
+            "**/*.pyc": true
+                            },
+		"git.ignoreLimitWarning": true,
+		"odooScaffold.odooBinPath": "C:\\Program Files (x86)\\Odoo 12.0e\\server\\odoo-bin",
+		"python.pythonPath": "C:\\Project\\venv\\Scripts\\python.exe",
+		"python.analysis.extraPaths": [
+			"C:/Program Files (x86)/Odoo 12.0e/server/addons",
+			"C:/Program Files (x86)/Odoo 12.0e/server/odoo/addons",
+			"${workspaceRoot}"
+		],
+	},
+	
+}

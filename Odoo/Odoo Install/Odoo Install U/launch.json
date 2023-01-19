@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+
+        {
+            "name": "O12eU",
+            "type": "python",
+            "request": "launch",
+            "stopOnEntry": false,
+            "python": "${command:python.interpreterPath}",
+            "program": "odoo",
+            // "env": {},
+            // "envFile": "${workspaceRoot}/.env",
+            // "args": ["--config","/home/odoo/Documents/O12eP3.8/odoo.conf","--logfile", "/var/log/odoo/odoo-server.log"],
+            "args": ["--config","/home/odoo/Documents/O12eP3.8/odoo.conf"],
+            // "cwd": "${workspaceRoot}",
+            "console": "integratedTerminal",
+            "redirectOutput": true,
+        }
+    ]
+}

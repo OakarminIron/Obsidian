@@ -1,0 +1,45 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../o12p38venv/lib/python3.8/site-packages/odoo"
+		},
+		{
+			"path": "../GitHub/account/repo"
+		}
+
+	],
+	"settings": {
+		"python.autoComplete.extraPaths": [
+            ".",
+            "../o12p38venv/lib/python3.8/site-packages/odoo/addons",
+            "../GitHub/account/repo",
+        ],
+		"python.linting.enabled": true,
+		"python.linting.pylintArgs": [
+			"--load-plugins",
+			"pylint_odoo",
+			"--max-line-length",
+			"200",
+			"--aggressive"
+		],
+        "files.autoSave": "afterDelay",
+        "files.autoSaveDelay": 500,
+        "files.exclude": {
+            "**/*.pyc": true
+                            },
+		"git.ignoreLimitWarning": true,
+		"odooScaffold.odooBinPath": ".",
+			"python.analysis.extraPaths": [
+            ".",
+            "../o12p38venv/lib/python3.8/site-packages/odoo/addons",
+            "../GitHub/account/repo",
+		],
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	},
+}

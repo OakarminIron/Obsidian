@@ -1,0 +1,6 @@
+- High Performance
+- Dynamic
+- Data Engineering
+- Reproducible , repetative environment , prebuild binaries
+- [[Multiple Dispatch]]
+- [[LLVM]]

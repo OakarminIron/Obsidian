@@ -1,0 +1,9 @@
+-   `http` – delivery of JSON-encoded message via HTTP POST
+-   `https` – delivery of JSON-encoded message via HTTPS POST
+-   `email` – delivery of message via SMTP
+-   `email-json` – delivery of JSON-encoded message via SMTP
+-   `sms` – delivery of message via SMS
+-   `sqs` – delivery of JSON-encoded message to an Amazon SQS queue
+-   `application` – delivery of JSON-encoded message to an
+-   `lambda` – delivery of JSON-encoded message 
+-   `firehose` – delivery of JSON-encoded message

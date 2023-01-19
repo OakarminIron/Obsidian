@@ -3,3 +3,8 @@
 
 [[AWS Skill Builder]]
 [[AWS Pricing]]
+
+
+[[AWS Instance]]
+
+
