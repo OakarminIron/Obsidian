@@ -1,6 +1,6 @@
 [[Physical Health]]
 
-[[Biological Health]]
+[[Human Biology]]
 
 [[Mental Health Care]]
 

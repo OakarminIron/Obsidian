@@ -1,0 +1,2 @@
+[[Quantitative research]] is based on the measurement of quantity or amount. It is applicable to phenomena that can be expressed in terms of quantity.
+[[Qualitative research]], on the other hand, is concerned with qualitative phenomenon, i.e., phenomena relating to or involving quality or kind.

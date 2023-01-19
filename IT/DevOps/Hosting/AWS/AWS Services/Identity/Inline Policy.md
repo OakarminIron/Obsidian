@@ -1,0 +1,2 @@
+An inline policy is a policy that's embedded in an IAM identity (a user, group, or role). That is, the policy is an inherent part of the identity. You can create a policy and embed it in an identity, either when you create the identity or later.
+![alt text](https://docs.aws.amazon.com/images/IAM/latest/UserGuide/images/policies-inline-policies.diagram.png)

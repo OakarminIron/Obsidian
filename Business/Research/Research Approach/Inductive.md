@@ -1,0 +1,3 @@
+The inductive approach is the opposite approach to the deductive approach whereby research moves from a specific level of observations and findings to make broader generalizations. We could call this a ‘bottom-up' approach where analysis is undertaken to detect the pattern in data from which discoveries can be made.
+It may also lead to tentative hypotheses for exploration (if relevant). The purpose of inductive approach is to develop general conclusions or even new theories.
+It is fair to say that students may choose between these two options, but it is also valid to combine these approaches in order to address the research questions. Deductive approaches tend to be more quantitative in nature, but the inductive approach tends towards a more qualitative assessment.

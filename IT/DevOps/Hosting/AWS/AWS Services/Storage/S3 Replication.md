@@ -1,0 +1,5 @@
+- Source and Destination Versioning On ထားရမယ်
+- Bucket can be in different accounts
+- One-way replication
+- No Glacier , Glacier Deep Archive
+- Update file ကိုပဲကူးသွားတာ ထပ်လိုချင်ရင် Batch Job  Run ပေးရတယ်

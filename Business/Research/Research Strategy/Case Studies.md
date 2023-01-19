@@ -1,0 +1,1 @@
+The case study approach to research strategy can either be on a ‘ souls ’ independent case basis or on a comparative basis where two or more cases can be used for analysis to answer fundamental research questions.

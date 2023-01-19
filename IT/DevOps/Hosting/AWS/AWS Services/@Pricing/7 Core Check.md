@@ -1,0 +1,7 @@
+- S3 Bucket Permissions
+- Security Groups specif ports unrestricted
+- IAM Use
+- MFA
+- EBS public snapshots
+- RDS public snapshots
+- Service limits

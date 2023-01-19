@@ -1,8 +1,7 @@
 [[Business]]
 [[IT]]
-
-[[Business Analysis (BA)]]
-
 [[System]]
 
+
+[[Business Analysis (BA)]]
 [[Data Engineering]]

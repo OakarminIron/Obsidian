@@ -1,0 +1,7 @@
+- Storage Class
+- Object
+- Request
+- Transfer acceleration
+	- Network Transfer Cost
+- Life-cycle transitions
+- Similar Services: EFS 

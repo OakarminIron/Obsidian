@@ -4,7 +4,7 @@
 
 [[Period and Product Costs]]
 
-[[Cost Behaviour]]
+[[Cost Behavior]]
 
 [[Relevant and Irrelevant Costs]]
 
@@ -16,3 +16,4 @@
 [[Incremental and Marginal Costs]]
 
 
+[[Cost]]

@@ -1,0 +1,3 @@
+-Transparency
+-Extract from event logs
+-NLP  , ML such as

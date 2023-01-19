@@ -1,0 +1,1 @@
+Facts are typically (but not always) numeric values that can be aggregated, which can be called measures.

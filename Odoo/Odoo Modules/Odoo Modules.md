@@ -1,21 +1,7 @@
-
-[[Odoo Inventory]]
-
-[[Odoo Purchase]]
-
-[[Odoo Sales]]
-
+[[Main]]
+[[Support]]
+[[Odoo Accounting]]
 [[Odoo MRP]]
 
-[[Odoo Authenication]]
-
-[[Odoo Maintenance]]
-
-[[Odoo Fleet]]
-
-[[Odoo HR]]
-
-[[Odoo Document]]
-
-[[Odoo Accounting]]
+[[Technical]]
 

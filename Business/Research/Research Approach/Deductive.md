@@ -1,0 +1,2 @@
+This approach to research works from “ the general ” to “ the specific ” which could loosely be called a ‘top-down’ approach. This starts with a theory of interest as the platform and then achieves focus by the specification of hypothesis for testing. The approach to the research is then to define the research questions in such a way that data and observations are made to address the specific hypothesis.
+

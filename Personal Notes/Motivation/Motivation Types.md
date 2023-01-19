@@ -1,0 +1,4 @@
+[[Intrinsic]]
+[[Extrinsic]]
+[[Unconscious]]
+[[Conscious]]

@@ -1,7 +1,7 @@
 [[Asset]]
 [[Equity]]
 [[Expense]]
-[[Income]]
+[[Odoo/Odoo Modules/Odoo Accounting/COA/Income]]
 [[Liabiality]]
 [[Undefined]]
 

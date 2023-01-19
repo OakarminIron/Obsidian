@@ -1,0 +1,5 @@
+[[Specific]]
+[[Measurable]]
+[[Attainable]]
+[[Relevant]]
+[[Time-based]]

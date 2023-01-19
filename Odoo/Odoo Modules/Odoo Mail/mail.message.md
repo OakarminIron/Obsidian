@@ -1,0 +1,5 @@
+[[mail.channel.partner]]
+[[mail.mail]]
+[[mail.notification]]
+[[mail.tracking.value]]
+[[mail.compose.message(T)]]

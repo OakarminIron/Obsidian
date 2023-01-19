@@ -1,0 +1,1 @@
+Not changing the core architecture, but leverage some cloud optimizations

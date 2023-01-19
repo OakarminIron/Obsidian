@@ -1,6 +1,6 @@
-Artifact - visible
-Espoused Value -fading
-Basic Assumptions -invisible
+[[Artifact]] - visible
+[[Espoused Value]] -fading
+[[Basic Assumptions]] -invisible
 It's both top down and buttom up reflect
 
 Org or Group no different to apply this model

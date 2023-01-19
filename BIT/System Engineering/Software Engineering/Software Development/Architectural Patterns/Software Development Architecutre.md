@@ -1,3 +1,3 @@
 [[Architectural Patterns]]
-[[Architectural Patterns]]
+
 

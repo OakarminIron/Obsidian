@@ -4,18 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "0c9a155fa3ed4985",
+        "id": "f5e641a67dba2e7b",
         "type": "tabs",
         "children": [
           {
-            "id": "0e23d501a53159a5",
+            "id": "e131d1785dda6687",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "2992bac9f5d96f78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/DevOps/Hosting/AWS/AWS Services/Compute/AWS Beanstalk.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Motivation",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,12 +75,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 425.5
+    "width": 286.5
   },
   "right": {
     "id": "20cb4d4e78c58110",
@@ -82,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IT/DevOps/Hosting/AWS/AWS Services/Compute/AWS Beanstalk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IT/DevOps/Hosting/AWS/AWS Services/Compute/AWS Beanstalk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IT/DevOps/Hosting/AWS/AWS Services/Compute/AWS Beanstalk.md"
+              }
             }
           }
         ]
@@ -131,25 +148,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obisidian-note-linker:Note Linker": false,
       "graph:Open graph view": false,
       "3d-graph:3D Graph": false,
       "switcher:Open quick switcher": false,
       "templates:Insert template": true,
-      "command-palette:Open command palette": false,
-      "obisidian-note-linker:Note Linker": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "a095a423a895527b",
+  "active": "2992bac9f5d96f78",
   "lastOpenFiles": [
-    "Business/HR/HR.md",
-    "BIT/System Engineering/HCI/Human Factor/Human Factors.md",
-    "BIT/System Engineering/HCI/Human Factor/Human cognition.md",
-    "Business/Leadership/Dimensional Model Behavior.md",
-    "Business/Leadership/Dimensional Model Behavior1.png",
-    "Business/HR/Herzberg’s Motivation Two-Factor Theory.md",
-    "BIT/System Engineering/HCI/Human Factor/Human perception.md",
-    "BIT/System Engineering/HCI/Human Factor/Human motor system.md",
-    "Business/HR/Self-determination theory.md",
-    "Business/HR/Motivation Theories.md"
+    "IT/DevOps/Hosting/AWS/AWS Services/Compute/Blue or Green.md",
+    "IT/DevOps/Hosting/AWS/AWS Services/Compute/AWS Beanstalk.md",
+    "IT/DevOps/Hosting/AWS/AWS Services/Networking/AWS Route53.md",
+    "Personal Notes/Process Mining/Discovery.md",
+    "Personal Notes/Process Mining/Process Mining Stages.md",
+    "Personal Notes/Process Mining/Process Mining.md",
+    "Personal Notes/Process Mining/Optimization.md",
+    "Personal Notes/Process Mining/Monitoring.md",
+    "IT/DevOps/Hosting/AWS/AWS Services/Recovery/DR Strategy.md",
+    "IT/DevOps/Hosting/AWS/AWS Services/Recovery/ Multi-Site approach.md"
   ]
 }

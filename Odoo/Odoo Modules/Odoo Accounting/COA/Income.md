@@ -1,1 +1,1 @@
-[[Income]]
+[[Odoo/Odoo Modules/Odoo Accounting/COA/Income]]

@@ -1,0 +1,1 @@
+[[Applied research]] aims at finding a solution for an immediate problem facing a society or an industrial/business organisation, where as [[Fundamental research]] is mainly concerned with generalization and with the formulation of a theory.

@@ -1,4 +1,4 @@
-![[Pasted image 20230109091529.png]]
+![[Cognitive science.png]]
 
 
 

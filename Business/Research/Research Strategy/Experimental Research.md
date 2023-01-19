@@ -1,0 +1,1 @@
+The core element of the design in experimental research is to study relationships. These are usually causal relationships between two or more variables known as independent variables and dependent variables. The purpose of such a study is to observe or discover how changes in an independent variable would bring about predictive changes in a dependent variable.

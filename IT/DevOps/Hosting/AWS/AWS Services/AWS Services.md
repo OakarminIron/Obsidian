@@ -1,0 +1,10 @@
+[[AWS Compute]]
+[[AWS DB]]
+[[AWS Network]]
+[[AWS Identity]]
+[[AWS Storage]]
+[[AWS Transfer]]
+[[AWS DevOps]]
+[[AWS Recovery]]
+[[AWS Pricing]]
+

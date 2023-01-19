@@ -1,0 +1,4 @@
+In social science and business research we quite often use the term [[Ex post facto research]] for descriptive research studies.
+The main characteristic of this method is that the researcher has no control over the variables; he can only report what has happened or what is happening. 
+Most ex post facto research projects are used for descriptive studies in which the researcher seeks to measure such items as, for example, frequency of shopping, preferences of people, or similar data. Ex post facto studies also include attempts by researchers to discover causes even when they cannot control the variables. The methods of research utilized in descriptive research are survey methods of
+all kinds, including comparative and correlational methods.

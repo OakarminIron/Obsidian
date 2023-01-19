@@ -1,0 +1,6 @@
+[[Re-hosting]]
+[[Re-platforming]]
+[[Re-purchase]]
+[[Refactoring architecture]]
+[[Retire]]
+[[Retain]]

@@ -10,7 +10,7 @@ https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns
 
 -   [Multitier architecture](https://en.wikipedia.org/wiki/Multitier_architecture "Multitier architecture")
 -   [Model–view–controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller "Model–view–controller")
--   [Domain-driven design](https://en.wikipedia.org/wiki/Domain-driven_design "Domain-driven design")
+-   [[Domain Driven Design]]
 -   [Blackboard pattern](https://en.wikipedia.org/wiki/Blackboard_pattern "Blackboard pattern")
 -   Sensor–controller–actuator
 -   [Presentation–abstraction–control](https://en.wikipedia.org/wiki/Presentation%E2%80%93abstraction%E2%80%93control "Presentation–abstraction–control")
