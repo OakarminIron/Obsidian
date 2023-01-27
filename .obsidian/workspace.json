@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac2704a97f4d2b07",
+            "id": "0c7b6577f7d80033",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,11 +16,16 @@
             }
           },
           {
-            "id": "da12829e3c0fec69",
+            "id": "4cea413713a8614c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Business/Change Management/Org Change/Political Metaphor.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -52,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Organization",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,17 +150,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac2704a97f4d2b07",
+  "active": "0c7b6577f7d80033",
   "lastOpenFiles": [
-    "Personal Notes/Weird stuffs/Untitled.md",
-    "IT/Database/Neo4J.md",
-    "IT/Database/DBMS.md",
-    "IT/Database/Postgresql.md",
-    "IT/Database/Database Engineering/Database Engineering.md",
-    "IT/Database/Database.md",
-    "Odoo/Odoo Install/Odoo Install U/Odoo Install U.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/My Fav Applications.md",
-    "odoo.py.md",
-    "Odoo/Odoo Install/Odoo Install.md"
+    "Business/Change Management/Org Change/Political Metaphor.md",
+    "Business/Change Management/Org Change/Flux and TrS4rm Metaphor.md",
+    "Business/Change Management/Change Management.md",
+    "Business/Change Management/Org Change/Morgan 8 Org Metaphors.md",
+    "Business/Change Management/Org Change/Organisms Metaphor.md",
+    "Business/Change Management/Org Change/Machine Metaphor.md",
+    "Business/Change Management/Org Change/Instruments of Documentation.md",
+    "Business/Change Management/Org Change/Organizational Change.md",
+    "Business/Change Management/Org Change/Organization.md",
+    "Business/Business.md"
   ]
 }

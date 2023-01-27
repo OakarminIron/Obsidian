@@ -1,3 +1,3 @@
 [[Applications]]
 [[Runtime Environments]]
-[[Framework]]
+[[Development Framework]]

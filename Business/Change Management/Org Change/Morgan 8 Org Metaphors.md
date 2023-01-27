@@ -1,0 +1,8 @@
+[[Machine Metaphor]]
+[[Organisms Metaphor]]
+[[Brains]]
+[[Clulture]]
+[[Political Metaphor]]
+[[Psychic Prisons]]
+[[Flux and TrS4rm Metaphor]]
+[[Instruments of Documentation]]

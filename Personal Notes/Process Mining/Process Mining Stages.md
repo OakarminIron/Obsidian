@@ -1,3 +1,3 @@
 [[Discovery]]
 [[Monitoring]]
-[[Optimization]]
+[[Personal Notes/Process Mining/Optimization]]

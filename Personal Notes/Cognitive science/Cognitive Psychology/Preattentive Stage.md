@@ -1,0 +1,2 @@
+Preattentive Stage: The unconscious detection and separation of features of an item (color, shape, size). Treisman suggests that this happens early in cognitive  processing and that individuals are not aware of the occurrence due to the counter intuitiveness of separating a whole into its part. Evidence shows that preattentive focuses are accurate due to illusory conjunctions.
+[[Spolight]]

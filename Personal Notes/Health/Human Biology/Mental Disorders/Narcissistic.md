@@ -1,0 +1,9 @@
+-   A grandiose sense of self-importance
+-   Preoccupation with fantasies of unlimited success, power, brilliance, beauty, or ideal love
+-   Believing that they are "special" and unique and can only be understood by, or should associate with, other special or high-status people (or institutions)
+-   Requiring excessive admiration
+-   A sense of entitlement (unreasonable expectations of especially favorable treatment or automatic compliance with their expectations)
+-   Being interpersonally exploitative (taking advantage of others to achieve their own ends)
+-   Lacking  empathy (unwilling to recognize or identify with the feelings and needs of others)
+-   Often being envious of others or believing that others are envious of them
+-   Showing arrogant, haughty behaviors or attitudes

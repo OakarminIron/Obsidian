@@ -1,0 +1,7 @@
+[[Scale Up]]
+[[Scale Out]]
+[[Scale by Queing]]
+[[Read Replica]]
+[[Caching]]
+[[Multi-Tenant]]
+[[Hot Paths]]

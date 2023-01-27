@@ -4,3 +4,5 @@
 [[Personality Traits]]
 
 [[Personality Types]]
+
+[[Personality Disorder]]

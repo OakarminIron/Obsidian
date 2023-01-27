@@ -1,0 +1,2 @@
+Focused Attention Stage: The combining of all feature identifiers to perceive all parts as one whole. This is possible through prior knowledge and cognitive mapping. When an item is seen within a known location and has features that people have knowledge of, then prior knowledge will help bring features all together to make sense of what is perceived. The case of R.M's damage to his parietal lobe, also known as Balint's syndrome, shows the incorporation of focused attention and combination of features in the role of attention.
+[[Focus]]

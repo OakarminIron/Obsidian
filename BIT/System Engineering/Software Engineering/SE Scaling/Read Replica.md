@@ -1,0 +1,1 @@
+[[CQRS]]   [[Event Sourcing]]
