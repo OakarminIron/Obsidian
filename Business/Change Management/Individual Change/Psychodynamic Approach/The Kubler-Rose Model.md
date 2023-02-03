@@ -1,0 +1,5 @@
+[[Denial]]
+[[Anger]]
+[[Bargaining]]
+[[Depression]]
+[[Acceptance]]

@@ -1,0 +1,1 @@
+It is only as I understand the feelings and thoughts which seems so horible to you, or so weak, or so sentimental, or so bizarre - it is only as I see them as you see them, and accept them and you, that you feel really free to explore all the hidden roots and frightening crannies of your inner and often buried experience. 

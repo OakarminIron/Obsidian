@@ -4,24 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f5e641a67dba2e7b",
+        "id": "bd6b506eeee5fde4",
         "type": "tabs",
         "children": [
           {
-            "id": "0c7b6577f7d80033",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "4cea413713a8614c",
+            "id": "daa47eabd3440cf4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Change Management/Org Change/Political Metaphor.md",
+                "file": "Science/Social Science/Psychology/Psychology Themes/Motivation/Gestalt awareness.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Organization",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Science/Social Science/Psychology/Psychology Themes/Motivation/Gestalt awareness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Science/Social Science/Psychology/Psychology Themes/Motivation/Gestalt awareness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Science/Social Science/Psychology/Psychology Themes/Motivation/Gestalt awareness.md"
+              }
             }
           }
         ]
@@ -150,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c7b6577f7d80033",
+  "active": "bb9a4a184e2925b5",
   "lastOpenFiles": [
-    "Business/Change Management/Org Change/Political Metaphor.md",
-    "Business/Change Management/Org Change/Flux and TrS4rm Metaphor.md",
-    "Business/Change Management/Change Management.md",
-    "Business/Change Management/Org Change/Morgan 8 Org Metaphors.md",
-    "Business/Change Management/Org Change/Organisms Metaphor.md",
-    "Business/Change Management/Org Change/Machine Metaphor.md",
-    "Business/Change Management/Org Change/Instruments of Documentation.md",
-    "Business/Change Management/Org Change/Organizational Change.md",
-    "Business/Change Management/Org Change/Organization.md",
-    "Business/Business.md"
+    "Science/Social Science/Psychology/Psychology Themes/Motivation/Grestalt cycle.md",
+    "Science/Social Science/Psychology/Psychology Themes/Motivation/Gestalt awareness.md",
+    "Science/Social Science/Psychology/Psychology Themes/Motivation/Motivation Theories.md",
+    "Science/Social Science/Psychology/Psychology Themes/Motivation/Rogar's path to personal growth/Empathic understanding.md",
+    "Science/Social Science/Psychology/Psychology Themes/Motivation/Rogar's path to personal growth/Rogers path to personal growth.md",
+    "Science/Social Science/Psychology/Psychology Themes/Motivation/Rogar's path to personal growth/Unconditional positive regard.md",
+    "Science/Social Science/Psychology/Psychology Themes/Motivation/Rogar's path to personal growth/Genuineness and congruence.md",
+    "Business/Change Management/Individual Change/Individual change Approach.md",
+    "Business/Change Management/Individual Change/Behavioural Approach/Reinforcement.md",
+    "Business/Change Management/Individual Change/Behavioural Approach/Social Reinforcement.md"
   ]
 }

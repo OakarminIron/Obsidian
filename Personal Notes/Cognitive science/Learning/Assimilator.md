@@ -1,1 +1,0 @@
-_Abstract Conceptualization + Reflective Observation_: strong in inductive reasoning and creation of theories

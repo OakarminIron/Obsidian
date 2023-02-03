@@ -1,0 +1,1 @@
+Reframing is a technique for reducing feelings and thoughts that impact negatively on performance.

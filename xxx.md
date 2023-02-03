@@ -121,3 +121,11 @@ H~2~O
 
 X^2^
 
+==================================
+Dataview
+
+```dataview
+LIST
+FROM #poems
+WHERE author = "Edgar Allan Poe"
+```

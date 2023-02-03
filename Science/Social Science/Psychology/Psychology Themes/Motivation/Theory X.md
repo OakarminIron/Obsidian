@@ -1,0 +1,7 @@
+- People dislike work
+- They need controlling and direvtion
+- They require security
+- They are motivated by threats of punishment
+- They avoid taking responsibility
+- They lack abition
+- They do not use their imagination

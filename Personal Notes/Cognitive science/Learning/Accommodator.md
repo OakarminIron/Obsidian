@@ -1,1 +1,0 @@
-_Concrete Experience + Active Experiment_: strong in "hands-on" practical doing

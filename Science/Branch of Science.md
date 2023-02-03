@@ -1,0 +1,5 @@
+[[Formal Science]]
+[[Natural Science]]
+[[Social Science]]
+[[Applied Science]]
+[[Interdisciplinary science]]

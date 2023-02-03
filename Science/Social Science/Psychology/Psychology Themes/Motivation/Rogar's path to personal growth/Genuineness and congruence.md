@@ -1,0 +1,1 @@
+To be aware of your own feelings, to be real, to be authentic.Roger's research showed that the more genuine and congruent the change agents is in the relationship, the greater the probability of change in the personality of the client.

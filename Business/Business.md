@@ -1,24 +1,6 @@
+Business is a process of exchanging goods and services between people and entities, which involves money.
 
-[[Accounting]]
-
-[[Sales]]
-
-[[Purchase]]
-
-[[Inventory]]
-
-[[Marketing]]
-
-[[HR]]
-
-[[Innovation]]
-
-[[Leadership]]
-
-[[Project Management]]
-
-[[Research]]
-
+[[Business Topics]]
 
 [[Organizational Culture]]
 

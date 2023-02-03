@@ -1,1 +1,0 @@
- _Concrete Experience + Reflective Observation_: strong in imaginative ability and discussion

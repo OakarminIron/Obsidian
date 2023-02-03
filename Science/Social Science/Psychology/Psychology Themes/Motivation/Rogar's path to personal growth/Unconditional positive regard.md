@@ -1,0 +1,1 @@
+A genuine willingness to allow the client's process to continue, and an acceptance of whatever feelings are going on inside the client. Whatever feeling the client is experiencing, be it anger, fear, hatred, then that is all right. It is saying that underneath all this the person is all right.

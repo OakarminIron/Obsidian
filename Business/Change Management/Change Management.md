@@ -1,1 +1,2 @@
 [[Organizational Change]]
+[[Individual Change]]
