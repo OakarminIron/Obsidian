@@ -16,4 +16,4 @@
 [[Incremental and Marginal Costs]]
 
 
-[[Cost]]
+[[Cost Management]]

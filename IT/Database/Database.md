@@ -1,8 +1,7 @@
 [[Database Engineering]]
 [[Database Design]]
-
 [[Database Languages]]
-[[DBMS]]
+[[Database Type]]
 [[ORM]]
 
 

@@ -1,3 +1,0 @@
-[[PG Cluster]]
-
-[[pgSQL Quaries]]

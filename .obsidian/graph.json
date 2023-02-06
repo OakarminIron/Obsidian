@@ -5,34 +5,34 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:BIT",
+      "query": "path:BIT/",
       "color": {
         "a": 1,
         "rgb": 8453888
       }
     },
     {
-      "query": "path:Business",
+      "query": "path:Business/",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "path:IT",
+      "query": "path:IT/",
       "color": {
         "a": 1,
         "rgb": 65531
       }
     },
     {
-      "query": "path:Science",
+      "query": "path:Science/",
       "color": {
         "a": 1,
-        "rgb": 16182271
+        "rgb": 12811007
       }
     }
   ],
@@ -41,11 +41,11 @@
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.104166666666667,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.046875,
+  "repelStrength": 11.7708333333333,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.022878727565042393,
+  "scale": 0.0078125,
   "close": true
 }

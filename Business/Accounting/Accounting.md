@@ -2,10 +2,4 @@
 
 [[Management Accounting]]
 
-
-[[Accrual Accounting]]
-[[Cash Accounting]]
-
-[[Landed cost]]
-
-[[NRR NDR]]
+[[Tax Accountin]]

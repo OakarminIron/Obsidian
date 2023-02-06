@@ -1,1 +1,1 @@
-[[Cost]] and [[Budget]]
+[[Cost Management]] and [[Budget]]

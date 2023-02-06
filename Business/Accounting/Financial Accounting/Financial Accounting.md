@@ -6,3 +6,7 @@ Financial accounting utilizes a series of established accounting principles. The
 [[Cash Flow]]
 [[Balance Sheet]]
 [[Income Statement]]
+[[Cash Accounting]]
+[[Cost Accounting]]
+
+[[NRR NDR]]
