@@ -1,0 +1,1 @@
+Inflow - Outflow + Opening Balance = Closing Balance

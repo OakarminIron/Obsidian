@@ -1,19 +1,16 @@
-[[Cost Objects]]
 
+[[Fixed Costs]]
+[[Variable Costs]]
+[[Operating Costs]]
 [[Direct and Indirect Cost]]
-
+[[Landed cost]]
 [[Period and Product Costs]]
-
-[[Cost Behavior]]
 
 [[Relevant and Irrelevant Costs]]
 
 [[Revenues]]
 
-[[Sunk Costs]]
 [[Opportunity Costs]]
-
 [[Incremental and Marginal Costs]]
 
 
-[[Cost Management]]

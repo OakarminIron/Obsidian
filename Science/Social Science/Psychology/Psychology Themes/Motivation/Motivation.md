@@ -2,4 +2,4 @@
 [[Motivation Types]]
 [[Motivation Applications]]
 
-[[McGregor TheoryXY]]
+

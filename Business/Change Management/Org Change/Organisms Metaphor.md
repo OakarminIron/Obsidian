@@ -1,3 +1,4 @@
+
 - There is no best way to design
 - The flow fo information and it's environment is key to success
 - It is maximize the fit between

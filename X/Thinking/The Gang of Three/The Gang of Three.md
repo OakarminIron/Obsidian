@@ -1,3 +1,3 @@
-Socrates
-Plato
+[[Socrates]]
+[[Plato]]
 [[Aristotle]]

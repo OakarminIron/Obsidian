@@ -8,10 +8,10 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0dd24a9a43bd715a",
+            "id": "e3f293c7f9fec0c6",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Individual",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,17 +137,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb9a4a184e2925b5",
+  "active": "e3f293c7f9fec0c6",
   "lastOpenFiles": [
-    "Business/Change Management/Change Management.md",
-    "Business/Change Management/Team Change/Team Change.md",
-    "Business/Change Management/Team Change/Team Change Models/Team Change Models.md",
-    "Business/Change Management/Team Change/Team Change Models/Scott Peck.md",
-    "Business/Change Management/Team Change/Team Change Models/Bion.md",
-    "Business/Change Management/Team Change/Team Change Models/Hill and Gunner.md",
-    "Business/Change Management/Team Change/Team Change Models/Whittaker.md",
-    "Business/Change Management/Team Change/Team Change Models/Modlin and Faris.md",
-    "Business/Change Management/Team Change/Team Change Models/Schutz.md",
-    "Business/Change Management/Team Change/Team Change Models/Tuckman.md"
+    "xxx.md",
+    "Science/Social Science/Psychology/Psychology Themes/Motivation/ERG Theory.md",
+    "Science/Social Science/Psychology/Psychology Themes/Motivation/Motivation Theories.md",
+    "Science/Social Science/Psychology/Psychology Themes/Motivation/McClelland's Three Needs Theory.md",
+    "Science/Social Science/Psychology/Psychology Themes/Motivation/nPOW.md",
+    "X/Notes/Power.md",
+    "X/Poems/Power is Power.md",
+    "Purchasing power.md",
+    "Power and Control.md",
+    "Business/Change Management/Team Change/Team Change Models/Whittaker.md"
   ]
 }

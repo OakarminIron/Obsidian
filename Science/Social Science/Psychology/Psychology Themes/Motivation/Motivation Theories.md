@@ -4,3 +4,4 @@
 [[Self-determination theory]]
 [[Rogers path to personal growth]]
 [[Grestalt cycle]]
+[[McGregor TheoryXY]]

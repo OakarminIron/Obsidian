@@ -1,0 +1,1 @@
+If an individual’s predominant motive is power, they are motivated to influence others and take control. While the extreme example of Hitler in Nazi Germany may come to mind, this motive actually takes on a more mild form of coach or leader. They do not seek to implement a dictatorship but hope to motivate others, delegate responsibility and influence those around them.

@@ -1,1 +1,1 @@
-[[Product Pricing]] and [[Purchasing Power]]
+[[Product Pricing]] and [[Purchasing power]]
