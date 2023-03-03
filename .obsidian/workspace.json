@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cbd1d0840ede7898",
+        "id": "cf513b4b376537d6",
         "type": "tabs",
         "children": [
           {
-            "id": "e3f293c7f9fec0c6",
+            "id": "73b05d6789b39cad",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "economic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Science/Social Science/Economic/Fundamental Analysis/NWC (Working Capital).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Science/Social Science/Economic/Fundamental Analysis/NWC (Working Capital).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Science/Social Science/Economic/Fundamental Analysis/NWC (Working Capital).md"
+              }
             }
           }
         ]
@@ -131,23 +135,50 @@
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
-      "3d-graph:3D Graph": false,
       "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
       "templates:Insert template": true,
-      "command-palette:Open command palette": false
+      "3d-graph:3D Graph": false
     }
   },
-  "active": "e3f293c7f9fec0c6",
+  "active": "bb9a4a184e2925b5",
   "lastOpenFiles": [
-    "xxx.md",
-    "Science/Social Science/Psychology/Psychology Themes/Motivation/ERG Theory.md",
-    "Science/Social Science/Psychology/Psychology Themes/Motivation/Motivation Theories.md",
-    "Science/Social Science/Psychology/Psychology Themes/Motivation/McClelland's Three Needs Theory.md",
-    "Science/Social Science/Psychology/Psychology Themes/Motivation/nPOW.md",
-    "X/Notes/Power.md",
-    "X/Poems/Power is Power.md",
-    "Purchasing power.md",
-    "Power and Control.md",
-    "Business/Change Management/Team Change/Team Change Models/Whittaker.md"
+    "Science/Social Science/Economic/Fundamental Analysis/OCF Indirect Method.md",
+    "Science/Social Science/Economic/Fundamental Analysis/OCF Direct Method.md",
+    "Science/Social Science/Economic/Fundamental Analysis/NWC (Working Capital).md",
+    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Flow/Odoo Account Receivable.md",
+    "Science/Social Science/Economic/Fundamental Analysis/Operating Cash Flow.md",
+    "Business/Accounting/Financial Accounting/Cash flows statement.md",
+    "Science/Social Science/Economic/Fundamental Analysis/Quantitative Fundamentals.md",
+    "Science/Social Science/Economic/Fundamental Analysis/Fundamental Analysis.md",
+    "Business/Accounting/Accounting.md",
+    "Science/Social Science/Economic/Fundamental Analysis/Qualitative Fundamentals.md",
+    "Science/Social Science/Economic/Fundamental Analysis/Business Model.md",
+    "Science/Social Science/Economic/Fundamental Analysis/Industry.md",
+    "Science/Social Science/Economic/Fundamental Analysis/Corporate Governance.md",
+    "Science/Social Science/Economic/Fundamental Analysis/Management.md",
+    "Science/Social Science/Economic/Fundamental Analysis/Competitive Advantage.md",
+    "Science/Social Science/Economic/Economic.md",
+    "Science/Social Science/Economic/Economic Branches.md",
+    "Science/Social Science/Economic/Fundamental Analysis",
+    "Science/Social Science/Economic/Untitled",
+    "Science/Social Science/Economic/Micro Economic/Micro Economic.md",
+    "Science/Social Science/Sociology/Sociology Theory.md",
+    "Science/Social Science/Sociology/Conflict Theories/Conflict Theories.md",
+    "Science/Social Science/Sociology/Conflict Theories/Critical ဝေဖန်ရေးTheory.md",
+    "Science/Social Science/Sociology/Sociology.md",
+    "Science/Social Science/Sociology/Sociology Sub-fields/Sociology Sub-fields.md",
+    "Science/Social Science/Sociology/Sociology Sub-fields",
+    "Science/Social Science/Sociology/Conflict Theories",
+    "Science/Social Science/Sociology/Economic Sociology.md",
+    "Science/Social Science/Sociology/Computational sociology.md",
+    "Science/Social Science/Sociology/Power/Power.md",
+    "Science/Social Science/Sociology/Power/48LawsofPower.png",
+    "X/Notes/Power/Untitled",
+    "Science/Social Science/Sociology/Power",
+    "Odoo/Odoo Modules/Odoo Inventory/model",
+    "Odoo/Odoo Modules/Odoo Fleet/models",
+    "Odoo/Odoo Modules/Odoo Accounting/models",
+    "BIT/Data Engineering/Data X"
   ]
 }

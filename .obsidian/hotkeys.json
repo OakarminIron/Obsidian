@@ -1,3 +1,12 @@
 {
-  "3d-graph:open-3d-graph-global": []
+  "3d-graph:open-3d-graph-global": [],
+  "obsidian-living-graph:toggle": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ]
 }

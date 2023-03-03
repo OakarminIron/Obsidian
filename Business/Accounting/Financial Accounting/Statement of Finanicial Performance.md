@@ -3,4 +3,4 @@
 - [[Depreciation]] / [[Amortization]]
 - [[Earning Before Interest Taxes (EBIT)]]
 - [[Interest]] & [[Tax Expenses]]
-- [[Profit]] & [[Loss]]
+- [[Profit & Loss]]

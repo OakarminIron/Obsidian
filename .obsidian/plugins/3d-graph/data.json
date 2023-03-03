@@ -23,7 +23,7 @@
     ]
   },
   "display": {
-    "nodeSize": 4,
+    "nodeSize": 5,
     "linkThickness": 2,
     "particleSize": 5,
     "particleCount": 5

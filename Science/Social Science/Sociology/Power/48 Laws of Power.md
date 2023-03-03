@@ -1,0 +1,52 @@
+![[48LawsofPower.png]]
+
+
+
+- LAW 1: Never outshine the master.
+- LAW 2: Don't Over-trust your friends.Use your enemies
+- LAW 3: Mask your intentions.
+- LAW 4: Always say less than necessary.
+- Law 5: Protect your reputation at all costs, since your reputation shapes others’ expectations.  
+- Law 6: Be conspicuous & stand out. Bad publicity is still publicity.  
+- Law 7: Get others to do the work and take the credit. Save your time/energy while building your base.  
+- Law 8: Make people come to you, so you hold all the cards.  
+- Law 9: Win through actions, not argument. Prove your point without offending people.  
+- Law 10: Don’t get infected by misery and misfortune. Associate with positive, successful people.  
+- Law 11: Make yourself indispensable, so it’s harder to cut you off.  
+- Law 12: Disarm people with strategic honesty & generosity–use these as tools to win people over.  
+- Law 13: Get help by appealing to self-interest, not goodness.  
+- Law 14: Be a spy. Gather intelligence to know your opponents.  
+- Law 15: Crush your enemy totally. Don’t give them a chance to recover.  
+- Law 16: Raise your value through absence and scarcity. Don’t let people take you for granted.  
+- Law 17: Keep others in suspense by being unpredictable. Keep them second-guessing.  
+- Law 18: Don’t isolate yourself behind a fortress. Have eyes and ears everywhere.  
+- Law 19: Know your opponents and who you’re dealing with.  
+- Law 20: Stay neutral as long as possible to maintain your independence (vs committing to 1 side).  
+- Law 21: Make your victims feel smarter than you, so they drop their guard.  
+- Law 22: Use surrender as a tool. Bide your time for retaliation.  
+- Law 23: Concentrate your forces. Don’t spread them too thin.  
+- Law 24: Be a masterful courtier to balance the various players and power brokers.  
+- Law 25: Create your own identity and use it like a costume.  
+- Law 26: Don’t dirty your hands. Get others to do your dirty work.  
+- Law 27: Create a cult-like following. Play on what people want to see/hear.  
+- Law 28: Act boldly, so you seem confident.  
+- Law 29: Plan till the end, so you won’t be caught by surprise.  
+- Law 30: Make your achievements seem effortless. Don’t show your real success secrets.  
+- Law 31: Control the options but let people _think_ they’re in control.  
+- Law 32: Play to people’s fantasies so they keep following you.  
+- Law 33: Find your opponent’s fatal weakness to break their defences.  
+- Law 34: Act in the way you want to be treated. Be regal and authoritative.  
+- Law 35: Master the art of timing. Strike only at the right hour.  
+- Law 36: Feign disinterest and ignore what you can’t have.  
+- Law 37: Dazzle people with spectacles so they don’t see what you’re really doing.  
+- Law 38: Hide your unorthodox thinking. Pretend to blend in.  
+- Law 39: Stir up waters to catch the fish. Make your opponents reckless while you stay calm.  
+- Law 40: Beware the free lunch. There’re always strings attached.  
+- Law 41: Chart a new course rather than try a big man’s shoes.  
+- Law 42: Strike the shepherd to scatter the sheep. Isolate the leader.  
+- Law 43: Win both hearts and minds. Appeal to both feelings and logic.  
+- Law 44: Unbalance and confuse with the mirror effect (mask reality with illusion).  
+- Law 45: Introduce change gradually. Drastic reforms bring resistance.  
+- Law 46: Don’t seem too perfect or you’ll invite jealousy.  
+- Law 47: Don’t push too far in victory. Know when to stop.  
+- Law 48: Be formless and unpredictable.

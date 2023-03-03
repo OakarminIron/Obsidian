@@ -1,0 +1,3 @@
+- [[Critical ဝေဖန်ရေးTheory]]
+- [[Feminist Theory]]
+- [[Postmodern Theory]]

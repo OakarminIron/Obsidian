@@ -1,0 +1,3 @@
+Retailers and eCommerce usually invoice based on delivery orders, instead of sales order. This approach is suitable for businesses where the quantities you deliver may differs from the ordered quantities: foods (invoice based on actual Kg).
+
+This way, if you deliver a partial order, you only invoice for what you really delivered. If you do back orders (deliver partially and the rest later), the customer will receive two invoices, one for each delivery order.

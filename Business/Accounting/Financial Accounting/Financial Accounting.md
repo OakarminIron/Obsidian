@@ -3,8 +3,8 @@ Financial accounting utilizes a series of established accounting principles. The
 
 [[Finanicial statements]]
 
-[[Income Statement]]
 [[Cash Accounting]]
 
-
 [[NRR NDR]]
+
+[[Bookkeeping]]

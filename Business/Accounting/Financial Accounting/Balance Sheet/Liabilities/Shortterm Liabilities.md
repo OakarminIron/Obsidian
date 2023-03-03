@@ -1,0 +1,8 @@
+-   [[Trade accounts payable]]
+-  [[ Accrued expenses]]
+-   [[Taxes payable]]
+-  [[ Dividends payable]]
+-  [[ Customer deposits]]
+-  [[ Short-term debt]]
+-   [[Current portion of long-term debt]]
+-  [[ Other accounts payable]]

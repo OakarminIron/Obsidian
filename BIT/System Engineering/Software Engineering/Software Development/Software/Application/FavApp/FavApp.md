@@ -1,4 +1,4 @@
-[[BIT/System Engineering/Software Engineering/Software Development/Software/Application/FavApp/Odoo/Odoo]]
+[[Odoo/Odoo]]
 
 [[DHIS2]]
 [[Kyanmar]]

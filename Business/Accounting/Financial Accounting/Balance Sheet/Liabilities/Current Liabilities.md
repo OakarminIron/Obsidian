@@ -1,0 +1,6 @@
+- short-term debt
+- accounts payable
+- wages owed
+- income and sales taxes owed
+- pre-sold goods and services
+- payable

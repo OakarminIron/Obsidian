@@ -1,0 +1,4 @@
+- [[Functionalism]]
+- [[Conflict Theories]]
+- [[Symbolic interaction]]
+- [[Utilitarianism]]

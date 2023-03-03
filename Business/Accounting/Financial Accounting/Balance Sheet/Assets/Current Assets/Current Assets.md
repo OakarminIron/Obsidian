@@ -1,0 +1,5 @@
+- [[Bank and Cash]]
+- [[Receivable]]
+- [[Merchandise inventory]]
+- [[Investee companies]]
+- [[Prepaid expenses]]

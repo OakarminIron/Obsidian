@@ -1,1 +1,0 @@
-[[Current year Earning]]

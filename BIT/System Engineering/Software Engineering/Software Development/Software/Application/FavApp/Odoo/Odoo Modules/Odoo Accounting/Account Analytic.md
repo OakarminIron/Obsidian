@@ -1,3 +1,0 @@
-[[Analytic Account]]
-
-[[Analytic Tag]]

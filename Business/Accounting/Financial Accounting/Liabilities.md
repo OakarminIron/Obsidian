@@ -1,3 +1,0 @@
-- [[Current Liabilities]]
-- [[Longterm Liabilities]]
-
