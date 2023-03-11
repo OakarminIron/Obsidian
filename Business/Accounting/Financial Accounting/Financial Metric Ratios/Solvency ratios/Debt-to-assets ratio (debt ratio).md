@@ -1,0 +1,9 @@
+- The debt (or [[Liabilities]])-to-[[Assets]] ratio measures a company’s use of leverage: 
+- It tells you the percentage of debt used to finance assets, which can include both tangible (property, plant and equipment) and intangible (patents and trademarks) resources.
+- On the liability side, this ratio normally includes both short- and long-term debt. 
+- The formula is total liabilities divided by total assets. 
+- A lower debt ratio indicates that a company relies less on borrowing as compared to equity for financing its assets. 
+- Generally, the lower the debt-to-assets ratio the better, but acceptable levels will vary across industries and companies.
+- Larger, stable and more established companies can take on more debt without adding too much risk for investors. 
+- The more predictable and stable the cash flow, the easier and cheaper it is for firms to borrow. 
+- Companies in more volatile industries (like technology) may have a harder time adding debt if times get rocky.

@@ -32,7 +32,7 @@
       "query": "path:Science/",
       "color": {
         "a": 1,
-        "rgb": 14199039
+        "rgb": 677119
       }
     },
     {
@@ -55,11 +55,11 @@
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 0.982,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.47,
-  "repelStrength": 18.5068255184712,
-  "linkStrength": 0.636710609119606,
-  "linkDistance": 165,
-  "scale": 0.03915189480232331,
-  "close": false
+  "collapse-forces": false,
+  "centerStrength": 0.046875,
+  "repelStrength": 11.25,
+  "linkStrength": 0.854166666666667,
+  "linkDistance": 30,
+  "scale": 0.11465542845921473,
+  "close": true
 }

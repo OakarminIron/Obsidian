@@ -6,7 +6,7 @@ The calculation for OCF using the indirect method uses the following formula:
 
 Where NI represents the company's [[Net Income]], D&A represents [[Depreciation]] and [[Amortization]], and [[NWC (Working Capital)]] is the increase in net working capital.
 
-Net income must also be adjusted for changes in working capital accounts on the company's balance sheet. For example, an increase in AR indicates that revenue was earned and reported in net income on an accrual basis although cash has not been received. This increase in AR must be subtracted from net income to find the true cash impact of the transactions.
+Net Income must also be adjusted for changes in working capital accounts on the company's balance sheet. For example, an increase in AR indicates that revenue was earned and reported in Net Income on an accrual basis although cash has not been received. This increase in AR must be subtracted from net income to find the true cash impact of the transactions.
 
 Conversely, an increase in AP indicates that expenses were incurred and booked on an accrual basis that has not yet been paid. This increase in AP would need to be added back to net income to find the true cash impact.
 

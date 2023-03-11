@@ -1,0 +1,5 @@
+- A liquidity ratio for a firm that compares its cash, short-term marketable securities and accounts receivable to its current liabilities. 
+- The quick ratio is more stringent than the current ratio (current assets divided by current liabilities).
+- The thought behind the quick ratio is that certain line items, such as prepaid expenses, have already been paid out for future use and cannot be quickly and easily converted back to cash for liquidity purposes. 
+- A quick ratio of 0.45x indicates that the company can only cover 45% of current liabilities by using all cash-on-hand, liquidating short-term marketable securities and monetizing accounts receivable. 
+- The major line item excluded in the quick ratio is inventory, which can make up a large portion of current assets but may not easily be converted to cash.

@@ -1,0 +1,4 @@
+- A liquidity ratio for a firm calculated as simply cash and short-term marketable securities divided by current liabilities.
+- Cash and short-term marketable securities represent the most liquid assets of a firm.
+- A cash ratio of 0.27x suggests that the firm can only cover 27% of its current liabilities with its cash and short-term marketable securities. 
+- Although this ratio is generally considered the most conservative liquidity ratio and is very reliable, it is possible that even short-term marketable securities can experience a significant drop in prices during market crises.

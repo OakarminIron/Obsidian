@@ -2,6 +2,4 @@
 
 [[Management Accounting]]
 
-[[Tax Accountin]]
 
-[[Fundamental Analysis]]

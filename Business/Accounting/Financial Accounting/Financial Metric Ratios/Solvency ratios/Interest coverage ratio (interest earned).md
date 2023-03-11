@@ -1,0 +1,8 @@
+- The interest coverage ratio measures a company’s ability to pay interest on its outstanding debt. 
+- The formula is earnings before interest and taxes divided by interest expense for the same period. 
+- Because interest on debt must be paid, regardless of cash flow, a higher number indicates a healthy firm. 
+- A ratio below 1.0 indicates that the company is not generating enough earnings to pay its interest obligations. 
+- Creditors look at this ratio to gauge the likelihood of payment if the company runs into financial trouble. 
+- Bond investors use this ratio to judge how risky the debt might be. 
+- For shareholders, a low number can mean that a company may not be able to pay its interest and may default on a loan, which may force the firm to sell assets or businesses or to file for bankruptcy. 
+- Each of these issues will affect a company’s share price.

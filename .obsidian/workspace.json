@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cf513b4b376537d6",
+        "id": "c686fef5ea00f0fe",
         "type": "tabs",
         "children": [
           {
-            "id": "73b05d6789b39cad",
+            "id": "595477d8e78cf106",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "economic",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Social Science/Economic/Fundamental Analysis/NWC (Working Capital).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science/Social Science/Economic/Fundamental Analysis/NWC (Working Capital).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Science/Social Science/Economic/Fundamental Analysis/NWC (Working Capital).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -141,44 +137,45 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "bb9a4a184e2925b5",
+  "active": "595477d8e78cf106",
   "lastOpenFiles": [
-    "Science/Social Science/Economic/Fundamental Analysis/OCF Indirect Method.md",
-    "Science/Social Science/Economic/Fundamental Analysis/OCF Direct Method.md",
-    "Science/Social Science/Economic/Fundamental Analysis/NWC (Working Capital).md",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Flow/Odoo Account Receivable.md",
-    "Science/Social Science/Economic/Fundamental Analysis/Operating Cash Flow.md",
-    "Business/Accounting/Financial Accounting/Cash flows statement.md",
-    "Science/Social Science/Economic/Fundamental Analysis/Quantitative Fundamentals.md",
-    "Science/Social Science/Economic/Fundamental Analysis/Fundamental Analysis.md",
-    "Business/Accounting/Accounting.md",
-    "Science/Social Science/Economic/Fundamental Analysis/Qualitative Fundamentals.md",
-    "Science/Social Science/Economic/Fundamental Analysis/Business Model.md",
-    "Science/Social Science/Economic/Fundamental Analysis/Industry.md",
-    "Science/Social Science/Economic/Fundamental Analysis/Corporate Governance.md",
-    "Science/Social Science/Economic/Fundamental Analysis/Management.md",
-    "Science/Social Science/Economic/Fundamental Analysis/Competitive Advantage.md",
+    "Odoo/Odoo Modules/Odoo Accounting/models/account.payment.md",
+    "Odoo/Odoo Modules/Odoo Fleet/models/fleet.vehicle.cost.md",
+    "Business/Accounting/Financial Accounting/Financial Accounting.md",
     "Science/Social Science/Economic/Economic.md",
+    "Business/Accounting/Financial Accounting/Financial Metric Ratios/Financial Metric Ratios.md",
+    "Business/Accounting/Financial Accounting/Valuation metrics/Valuation metrics.md",
+    "Business/Accounting/Financial Accounting/NRR NDR.md",
+    "Business/Accounting/Accounting.md",
+    "Business/Business Topics.md",
+    "Business/Accounting/Financial Accounting/Financial statements.md",
+    "Business/Accounting/Financial Accounting/Statement of Financial Performance.md",
+    "Business/Accounting/Financial Accounting/Fundamental Analysis/Fundamental Analysis.md",
     "Science/Social Science/Economic/Economic Branches.md",
-    "Science/Social Science/Economic/Fundamental Analysis",
+    "Business/Accounting/Financial Accounting/Financial Metric Ratios/Profitability ratios/Net profit margin.md",
+    "Business/Accounting/Financial Accounting/Financial Metric Ratios/Profitability ratios/NetProfitMargin.png",
+    "Science/Social Science/Economic/Financial Metric Ratios/Activity Ratios/Activity Ratios.md",
+    "Business/Accounting/Financial Accounting/Cash flows statement.md",
+    "Business/Accounting/Financial Accounting/Financial Metric Ratios/Profitability ratios/Profitability ratios.md",
+    "Business/Accounting/Financial Accounting/Financial Metric Ratios/Solvency ratios/Debt-to-equity (DE ratio).md",
+    "Business/Accounting/Financial Accounting/Financial Metric Ratios/Earnings per Share (EPS).md",
+    "Business/Accounting/Financial Accounting/Financial Metric Ratios/PE ratio.md",
+    "Business/Accounting/Financial Accounting/Financial Metric Ratios/Liquidity ratios/Quick ratio (ACID Test).md",
+    "Business/Accounting/Financial Accounting/Fundamental Analysis/OCF Indirect Method.md",
+    "Business/Accounting/Financial Accounting/Fundamental Analysis/NWC (Working Capital).md",
+    "Business/Accounting/Financial Accounting/Financial Metric Ratios/Activity Ratios/Activity Ratios (Efficiency).md",
+    "Business/Accounting/Financial Accounting/Fundamental Analysis/Quantitative Fundamentals.md",
+    "Business/Accounting/Financial Accounting/Fundamental Analysis/Qualitative Fundamentals.md",
+    "Business/Accounting/Financial Accounting/Financial Metric Ratios/Coverage ratios",
+    "Business/Accounting/Financial Accounting/Valuation metrics",
+    "Business/Accounting/Financial Accounting/Financial Metric Ratios/Profitability ratios",
+    "Business/Accounting/Financial Accounting/Financial Metric Ratios/Solvency ratios",
+    "Business/Accounting/Financial Accounting/Financial Metric Ratios/Liquidity ratios",
+    "Business/Accounting/Financial Accounting/Financial Metric Ratios/Activity Ratios",
+    "Business/Accounting/Financial Accounting/Financial Metric Ratios",
+    "Business/Accounting/Financial Accounting/Fundamental Analysis",
     "Science/Social Science/Economic/Untitled",
-    "Science/Social Science/Economic/Micro Economic/Micro Economic.md",
-    "Science/Social Science/Sociology/Sociology Theory.md",
-    "Science/Social Science/Sociology/Conflict Theories/Conflict Theories.md",
-    "Science/Social Science/Sociology/Conflict Theories/Critical ဝေဖန်ရေးTheory.md",
-    "Science/Social Science/Sociology/Sociology.md",
-    "Science/Social Science/Sociology/Sociology Sub-fields/Sociology Sub-fields.md",
     "Science/Social Science/Sociology/Sociology Sub-fields",
-    "Science/Social Science/Sociology/Conflict Theories",
-    "Science/Social Science/Sociology/Economic Sociology.md",
-    "Science/Social Science/Sociology/Computational sociology.md",
-    "Science/Social Science/Sociology/Power/Power.md",
-    "Science/Social Science/Sociology/Power/48LawsofPower.png",
-    "X/Notes/Power/Untitled",
-    "Science/Social Science/Sociology/Power",
-    "Odoo/Odoo Modules/Odoo Inventory/model",
-    "Odoo/Odoo Modules/Odoo Fleet/models",
-    "Odoo/Odoo Modules/Odoo Accounting/models",
-    "BIT/Data Engineering/Data X"
+    "Science/Social Science/Sociology/Power/48LawsofPower.png"
   ]
 }
