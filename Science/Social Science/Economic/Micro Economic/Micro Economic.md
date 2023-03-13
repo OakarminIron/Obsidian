@@ -2,3 +2,5 @@ Microeconomics examines how entities, forming a market structure, interact withi
 
 
 [[Supply]] and [[Demand]]
+
+[[Scarcity]]

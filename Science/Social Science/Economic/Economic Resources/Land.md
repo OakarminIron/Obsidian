@@ -1,0 +1,1 @@
+Natural resources that are used in the production of goods and services. Some example of land are lumber, raw materials, fish, soil, minerals, and energy resources.

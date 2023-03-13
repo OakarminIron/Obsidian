@@ -1,0 +1,7 @@
+- [[Agency-based sales]]
+- [[Business to Business]]
+- [[Business to Customer]]
+- [[Direct Sale]]
+- [[Indirect Sale]]
+- [[Proforma Invoice]]
+- [[Request for Proposal(Enterprise Sale)]]

@@ -1,7 +1,7 @@
 [[Accounting]]
 
 - [[Sales]]
-- [[Purchase]]
+- [[Purchasing]]
 - [[Inventory]]
 - [[Marketing]]
 
