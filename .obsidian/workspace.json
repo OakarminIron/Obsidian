@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cbee8e932d09ab11",
+        "id": "e887f55c87f66b64",
         "type": "tabs",
         "children": [
           {
-            "id": "3f70efcf6d93d201",
+            "id": "ada7749a265e87ee",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Social Science/Economic/Economic Resources/Capital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science/Social Science/Economic/Economic Resources/Capital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Science/Social Science/Economic/Economic Resources/Capital.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -143,48 +139,50 @@
   },
   "active": "bb9a4a184e2925b5",
   "lastOpenFiles": [
-    "xxx.md",
-    "Science/Social Science/Social Science.md",
-    "Science/Branch of Science.md",
-    "Science/Social Science/Economic/Micro Economic/Scarcity.md",
-    "Science/Social Science/Economic/Economic Resources/Economic resources.md",
-    "Science/Social Science/Economic/Economic Resources/Capital.md",
-    "Business/Accounting/Financial Accounting/Financial Metric Ratios/Activity Ratios/Activity Ratios (Efficiency).md",
-    "Business/Accounting/Financial Accounting/Fundamental Analysis/NWC (Working Capital).md",
-    "Business/Accounting/Financial Accounting/Financial Metric Ratios/Liquidity ratios/Liquidity ratios.md",
-    "X/Weird stuffs/Conspiracy.md",
-    "X/Weird stuffs/Venture Capitalist.md",
-    "Science/Social Science/Economic/Economic Resources/Labor.md",
-    "Science/Social Science/Economic/Micro Economic/Micro Economic.md",
-    "Science/Social Science/Economic/Economic Resources/Land.md",
+    "IT/DevOps/Hosting/AWS/AWS Services/Identity/Service Control Policy.md",
+    "IT/DevOps/Hosting/AWS/AWS Services/Identity/SCP Hierarchy.png",
+    "IT/DevOps/Hosting/AWS/AWS Services/Identity/AWS Org Policies.md",
+    "IT/DevOps/Hosting/AWS/AWS Services/Identity/AWS Organization.md",
+    "IT/DevOps/Hosting/AWS/AWS Services/Identity/AWS OU Example.png",
+    "IT/DevOps/Hosting/AWS/AWS Services/Identity/AWS OU Example2.png",
+    "IT/DevOps/Hosting/AWS/AWS Services/Identity/AWS ORG Core Benefit.md",
+    "IT/DevOps/Hosting/AWS/AWS Services/Identity/Organization Unit.md",
+    "IT/DevOps/Hosting/AWS/AWS Services/DB/AWS ElastiCache.md",
+    "IT/DevOps/Hosting/AWS/AWS Services/DB/AWS DB.md",
+    "AWS/AWS Services/DB/Untitled.md",
+    "IT/DevOps/Hosting/AWS/AWS Services/DB/AWS Aurora.md",
+    "IT/DevOps/Hosting/AWS/AWS Services/AWS Services.md",
+    "IT/DevOps/Hosting/AWS/AWS.md",
+    "IT/DevOps/Hosting/AWS/AWS Services/Storage/AWS Storage.md",
+    "IT/DevOps/Hosting/AWS/AWS Services/Storage/AWS S3.md",
+    "IT/DevOps/Hosting/AWS/AWS Services/Storage/S3 Replication.md",
+    "IT/DevOps/Hosting/AWS/AWS Services/Storage/S3 Encryption.png",
+    "IT/DevOps/Hosting/AWS/AWS Services/Storage/AWS EFS.md",
+    "IT/DevOps/Hosting/AWS/AWS Services/Storage/EBS vs EFS.png",
+    "IT/DevOps/Hosting/AWS/AWS Services/Compute/AWS Compute.md",
+    "IT/DevOps/Hosting/AWS/AWS Services/Compute/AWS EC2.md",
+    "IT/DevOps/Hosting/AWS/AWS Services/Compute/ec2 types.png",
+    "IT/DevOps/Hosting/AWS/AWS Services/Networking/AWS Global Infra.md",
+    "IT/DevOps/Hosting/AWS/AWS Services/AWS Availability Zones.md",
+    "IT/DevOps/Hosting/AWS/AWS Services/Networking/AWS Network.md",
+    "IT/DevOps/Hosting/AWS/AWS Services/Identity/AWS IAM.md",
+    "IT/DevOps/Hosting/AWS/AWS Services/Identity/AWS Identity.md",
+    "IT/DevOps/Hosting/AWS/AWS Services/Identity/IAM Policies.md",
+    "IT/DevOps/Hosting/AWS/AWS Services/AWS shared responsibility model.png",
+    "IT/DevOps/Hosting/AWS/AWS Services/Networking/AWS ACL.md",
+    "IT/DevOps/Hosting/AWS/AWS Services/Networking/Security Gorup Vs ACL.png",
+    "IT/DevOps/Hosting/AWS/AWS Services/Networking/AWS Subnet.md",
+    "IT/OSI/3.OSI Network Layer/IT Networking/subnet.png",
+    "Science/Social Science/Economic/Micro Economic/circular flow diagram.png",
     "Science/Social Science/Economic/Economic Resources",
-    "Science/Social Science/Economic/Economic Branches.md",
-    "Business/Accounting/Financial Accounting/Financial Accounting.md",
-    "Business/Marketing/Marketing.md",
-    "Business/Accounting/Financial Accounting/Bookkeeping/Bookkeeping.md",
-    "Business/Accounting/Accounting.md",
-    "Business/Business Topics.md",
-    "Odoo/Odoo Modules/Odoo Inventory/Inventory Location Types.md",
-    "Odoo/Odoo Modules/Odoo Inventory/Inventory Location Types/Odoo Inventory Virtual Locations.md",
     "Odoo/Odoo Modules/Odoo Inventory/Inventory Location Types",
-    "IT/Computer Science/Programming/Programming Languages/Python.md",
-    "IT/Computer Science/Programming/Programming Languages/Python/Python.md",
-    "IT/Computer Science/Programming/Programming Languages/Python/Python Operators.md",
-    "IT/Computer Science/Programming/Programming Languages/Python/Python Operators/Arithmetic Operators.md",
     "IT/Computer Science/Programming/Programming Languages/Python/Python Operators",
-    "IT/Computer Science/Programming/Programming Languages/Python/Python Operators/Comparison operators.png",
-    "IT/Computer Science/Programming/Programming Languages/Python/Python Operators/Bitwise operators.png",
-    "IT/Computer Science/Programming/Programming Languages/Python/Python Operators/Assignment operators.png",
-    "Pasted image 20230315130828.png",
-    "Pasted image 20230315130813.png",
     "IT/Computer Science/Programming/Programming Languages/Python",
     "Business/Sales/Sales Agents",
     "Business/Sales/Sales Methods",
     "Business/Sales/Sales Techniques",
     "Business/Sales",
     "Business/Purchasing",
-    "Odoo/Odoo Modules/Odoo Purchase",
-    "Business/Accounting/Financial Accounting/Financial Metric Ratios/Profitability ratios/NetProfitMargin.png",
-    "Science/Social Science/Sociology/Power/48LawsofPower.png"
+    "Odoo/Odoo Modules/Odoo Purchase"
   ]
 }

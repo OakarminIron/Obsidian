@@ -8,7 +8,7 @@
 
 5. [[Ad Hominem]]
 
-6. Fallacy of Sunk Costs
+6. [[Fallacy of Sunk Costs]]
 
 7. [[Bandwagon Fallacy]]
 

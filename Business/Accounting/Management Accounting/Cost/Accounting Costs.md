@@ -9,7 +9,7 @@
 
 [[Revenues]]
 
-[[Opportunity Costs]]
+[[Opportunity Cost]]
 [[Incremental and Marginal Costs]]
 
 

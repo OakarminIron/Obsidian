@@ -2,3 +2,4 @@
 [[EFx Linux]]
 [[FSx Window]]
 [[AWS EBS]]
+[[AWS EFS]]
