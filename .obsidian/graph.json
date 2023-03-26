@@ -11,7 +11,7 @@
       "query": "path:BIT/",
       "color": {
         "a": 1,
-        "rgb": 12124016
+        "rgb": 130696
       }
     },
     {
@@ -25,21 +25,21 @@
       "query": "path:IT/",
       "color": {
         "a": 1,
-        "rgb": 65531
+        "rgb": 50421
       }
     },
     {
       "query": "path:Science/",
       "color": {
         "a": 1,
-        "rgb": 677119
+        "rgb": 15597823
       }
     },
     {
       "query": "path:Odoo/",
       "color": {
         "a": 1,
-        "rgb": 7405726
+        "rgb": 8210890
       }
     },
     {
@@ -51,15 +51,15 @@
     }
   ],
   "collapse-display": true,
-  "showArrow": true,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 0.982,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.0520833333333333,
-  "repelStrength": 10,
-  "linkStrength": 0.575,
-  "linkDistance": 165,
-  "scale": 0.027365633498901403,
-  "close": false
+  "collapse-forces": true,
+  "centerStrength": 0.321884147394344,
+  "repelStrength": 18.5,
+  "linkStrength": 0.92,
+  "linkDistance": 47,
+  "scale": 0.027830897489916514,
+  "close": true
 }

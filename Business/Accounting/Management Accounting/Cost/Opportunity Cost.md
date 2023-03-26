@@ -7,3 +7,4 @@
 Opportunity Cost=FO−CO
 FO=Return on best forgone option
 CO=Return on chosen option​
+![[Opportunity Cost.png]]

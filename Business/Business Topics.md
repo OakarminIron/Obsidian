@@ -1,4 +1,4 @@
-[[Accounting]]
+- [[Accounting]]
 
 - [[Sales]]
 - [[Purchasing]]
@@ -14,6 +14,4 @@
 - [[Change Management]]
 - [[Research]]
 
-
-
-
+- [[Operational intelligence]]

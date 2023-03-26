@@ -1,5 +1,5 @@
 - Resource-based economy
-- [[Capitalism]]
+- [[Capitalism အရင်းရှင်]]
 - [[Communism]]
 - [[Socialism]]
 - Feudalism
@@ -8,7 +8,7 @@
 - Hydraulic despotism
 - Inclusive democracy
 - [[Market economy]]
-- Mercantilism
+- [[Mercantilism ကုန်သွယ်ရေး၀ါဒ]]
 - Mutualism
 - [[Network economy]]
 - Non-property system

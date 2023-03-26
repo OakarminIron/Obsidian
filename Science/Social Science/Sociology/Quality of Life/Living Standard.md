@@ -1,3 +1,3 @@
-[[X/Quality of Life/Income]]
+[[Income]]
 [[Comforts]]
 [[Service Availability]]

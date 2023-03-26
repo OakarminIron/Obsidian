@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "fa7b9df59cd582e0",
+    "id": "c12110dd4aacd90c",
     "type": "split",
     "children": [
       {
-        "id": "e887f55c87f66b64",
+        "id": "912f05594dc7b492",
         "type": "tabs",
         "children": [
           {
-            "id": "ada7749a265e87ee",
+            "id": "51d020630532cc3c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2d56bed7c06b3d5c",
+    "id": "f42294dc6b3f24a4",
     "type": "split",
     "children": [
       {
-        "id": "a002823e29c51b4d",
+        "id": "a8af8ec0ba25746e",
         "type": "tabs",
         "children": [
           {
-            "id": "bb9a4a184e2925b5",
+            "id": "0b3082fbbf3daff6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "a095a423a895527b",
+            "id": "84f99556e2273341",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "6721fac72b8e2e2d",
+            "id": "7a8aeac82ce90a7e",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -65,18 +65,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 300
   },
   "right": {
-    "id": "20cb4d4e78c58110",
+    "id": "3006c11dd36dd12a",
     "type": "split",
     "children": [
       {
-        "id": "a315d990137dac82",
+        "id": "45421beb4f59270c",
         "type": "tabs",
         "children": [
           {
-            "id": "443d5d0a279cd544",
+            "id": "8fc7cf2622a90952",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "56339e67a970c95f",
+            "id": "cc67dd28a002ee70",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "051fd3e6bdb492a0",
+            "id": "456d47d0026173ae",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,7 +114,7 @@
             }
           },
           {
-            "id": "51e0c87aa400cb44",
+            "id": "6c91eab3b0bd5e8a",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -131,58 +131,51 @@
   "left-ribbon": {
     "hiddenItems": {
       "3d-graph:3D Graph": false,
-      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
-      "command-palette:Open command palette": false,
-      "templates:Insert template": true
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "bb9a4a184e2925b5",
+  "active": "51d020630532cc3c",
   "lastOpenFiles": [
-    "IT/DevOps/Hosting/AWS/AWS Services/Identity/Service Control Policy.md",
-    "IT/DevOps/Hosting/AWS/AWS Services/Identity/SCP Hierarchy.png",
-    "IT/DevOps/Hosting/AWS/AWS Services/Identity/AWS Org Policies.md",
-    "IT/DevOps/Hosting/AWS/AWS Services/Identity/AWS Organization.md",
-    "IT/DevOps/Hosting/AWS/AWS Services/Identity/AWS OU Example.png",
-    "IT/DevOps/Hosting/AWS/AWS Services/Identity/AWS OU Example2.png",
-    "IT/DevOps/Hosting/AWS/AWS Services/Identity/AWS ORG Core Benefit.md",
-    "IT/DevOps/Hosting/AWS/AWS Services/Identity/Organization Unit.md",
-    "IT/DevOps/Hosting/AWS/AWS Services/DB/AWS ElastiCache.md",
-    "IT/DevOps/Hosting/AWS/AWS Services/DB/AWS DB.md",
-    "AWS/AWS Services/DB/Untitled.md",
-    "IT/DevOps/Hosting/AWS/AWS Services/DB/AWS Aurora.md",
-    "IT/DevOps/Hosting/AWS/AWS Services/AWS Services.md",
-    "IT/DevOps/Hosting/AWS/AWS.md",
-    "IT/DevOps/Hosting/AWS/AWS Services/Storage/AWS Storage.md",
-    "IT/DevOps/Hosting/AWS/AWS Services/Storage/AWS S3.md",
-    "IT/DevOps/Hosting/AWS/AWS Services/Storage/S3 Replication.md",
-    "IT/DevOps/Hosting/AWS/AWS Services/Storage/S3 Encryption.png",
-    "IT/DevOps/Hosting/AWS/AWS Services/Storage/AWS EFS.md",
-    "IT/DevOps/Hosting/AWS/AWS Services/Storage/EBS vs EFS.png",
-    "IT/DevOps/Hosting/AWS/AWS Services/Compute/AWS Compute.md",
-    "IT/DevOps/Hosting/AWS/AWS Services/Compute/AWS EC2.md",
-    "IT/DevOps/Hosting/AWS/AWS Services/Compute/ec2 types.png",
-    "IT/DevOps/Hosting/AWS/AWS Services/Networking/AWS Global Infra.md",
-    "IT/DevOps/Hosting/AWS/AWS Services/AWS Availability Zones.md",
-    "IT/DevOps/Hosting/AWS/AWS Services/Networking/AWS Network.md",
-    "IT/DevOps/Hosting/AWS/AWS Services/Identity/AWS IAM.md",
-    "IT/DevOps/Hosting/AWS/AWS Services/Identity/AWS Identity.md",
-    "IT/DevOps/Hosting/AWS/AWS Services/Identity/IAM Policies.md",
-    "IT/DevOps/Hosting/AWS/AWS Services/AWS shared responsibility model.png",
-    "IT/DevOps/Hosting/AWS/AWS Services/Networking/AWS ACL.md",
-    "IT/DevOps/Hosting/AWS/AWS Services/Networking/Security Gorup Vs ACL.png",
-    "IT/DevOps/Hosting/AWS/AWS Services/Networking/AWS Subnet.md",
-    "IT/OSI/3.OSI Network Layer/IT Networking/subnet.png",
-    "Science/Social Science/Economic/Micro Economic/circular flow diagram.png",
-    "Science/Social Science/Economic/Economic Resources",
-    "Odoo/Odoo Modules/Odoo Inventory/Inventory Location Types",
-    "IT/Computer Science/Programming/Programming Languages/Python/Python Operators",
-    "IT/Computer Science/Programming/Programming Languages/Python",
-    "Business/Sales/Sales Agents",
-    "Business/Sales/Sales Methods",
-    "Business/Sales/Sales Techniques",
-    "Business/Sales",
-    "Business/Purchasing",
-    "Odoo/Odoo Modules/Odoo Purchase"
+    "xxx.md",
+    "Business/Operational intelligence/Complex event processing.md",
+    "Business/Operational intelligence/Business Activity Monitoring.md",
+    "Business/Operational intelligence/Operational intelligence.md",
+    "Business/Operational intelligence/Metadata Framework.md",
+    "Business/Business Topics.md",
+    "Business/Operational intelligence/Process Mining/Process Mining Techniques.md",
+    "Business/Operational intelligence/Business Process Management.md",
+    "Business/Operational intelligence/Business Process Management.png",
+    "Business/Operational intelligence/Process Mining/Conformance Checking.md",
+    "Business/Operational intelligence/Process Mining/Performance Analysis.md",
+    "Business/Operational intelligence/Process Mining/Process Discovery.md",
+    "Business/Operational intelligence/Process Mining/Process Mining.md",
+    "Business/Operational intelligence",
+    "Science/Cognitive science/Metacognitive regulation.md",
+    "Business/Accounting/Financial Accounting/Average Cost Method.md",
+    "Business/Accounting/Financial Accounting/Average Cost Method.png",
+    "Business/Accounting/Financial Accounting/Inventory Costing Method for COGS.md",
+    "Business/Accounting/Financial Accounting/Cost of Good Sold COGS.md",
+    "Business/Accounting/Financial Accounting/Expense.md",
+    "IT/OSI/3.OSI Network Layer/IT Networking/IT Networking.md",
+    "X/Notes/Skill Framework/My Skill Framework.md",
+    "X/Notes/Skill Framework/HSE Skillset.png",
+    "X/Notes/Skill Framework/Architect Skillset.png",
+    "X/Notes/Skill Framework/my_ambition_path.png",
+    "X/Notes/Skill Framework/CIO Skillset.png",
+    "X/Notes/Skill Framework/SE Skillset.png",
+    "X/Notes/Skill Framework/SEA Skillset.png",
+    "X/Notes/Notes.md",
+    "X/Notes/Power is Power.md",
+    "X/X.md",
+    "X/Notes/Skill Framework",
+    "X/Poems/The Raven.md",
+    "X/Poems/Poems.md",
+    "X/Notes/SMART.md",
+    "X/Notes/Shitty Future advice.md",
+    "IT/OSI/3.OSI Network Layer/IT Networking/types_of_vpn.jpg",
+    "IT/Database/Database Language/sql_mindmap.jpg"
   ]
 }
