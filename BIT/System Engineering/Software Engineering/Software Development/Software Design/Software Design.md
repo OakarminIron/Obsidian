@@ -7,3 +7,6 @@
 [[Software Design Patterns]]
 
 [[Software Design Principles]]
+
+[[Software Design Refactoring]]
+

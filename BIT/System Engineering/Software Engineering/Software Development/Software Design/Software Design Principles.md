@@ -1,4 +1,5 @@
-[[SDP DRY]]
-[[SDP KISS]]
-[[SDP SOLID]]
+[[SDP SOLID]] 
+[[SDP DRY]] Don't Repeat Yourself
+[[SDP KISS]] Keep It Simple Stupid
+
 

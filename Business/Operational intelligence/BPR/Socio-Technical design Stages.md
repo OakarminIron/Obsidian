@@ -1,0 +1,8 @@
+- Initial Scanning
+- Identification of unit operations
+- Identification of variances
+- Analysis of social system
+- How workers see their roles
+- The maintenance and supply systems
+- The corporate environment
+- Proposals for change
