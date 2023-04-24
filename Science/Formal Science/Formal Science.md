@@ -1,4 +1,4 @@
-- [[Logic]] 
+- [[🧩Logic]] 
 - [[Math]] 
 - [[Statistic]]
 

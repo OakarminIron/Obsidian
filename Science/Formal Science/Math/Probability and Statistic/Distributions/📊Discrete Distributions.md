@@ -1,0 +1,8 @@
+- A discrete probability distribution counts occurrences that have countable or finite outcomes.
+- Discrete distributions contrast with continuous distributions, where outcomes can fall anywhere on a continuum.
+- Common examples of discrete distribution include the binomial, Poisson, and Bernoulli distributions.
+- These distributions often involve statistical analyses of "counts" or "how many times" an event occurs.
+- In finance, discrete distributions are used in options pricing and forecasting market shocks or recessions.
+- The most common discrete distributions used by statisticians or analysts include the [[Binomial Distribution]], [[Poisson Distribution]], Bernoulli, and multinational distributions. Others include the negative binomial, geometric, and hyper-geometric distributions.
+- The probabilities of random variables must have discrete (as opposed to continuous) values as outcomes. For a cumulative distribution, the probability of each discrete observation must be between 0 and​ 1; and the sum of the probabilities must equal one (100%).
+- 

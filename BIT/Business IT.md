@@ -5,3 +5,4 @@
 
 [[Business Analysis (BA)]]
 [[Data Engineering]]
+[[Operational intelligence]]

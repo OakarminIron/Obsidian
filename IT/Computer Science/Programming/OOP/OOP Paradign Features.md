@@ -4,5 +4,5 @@
 
 [[Scope Visibility]]
 
-[[Interfaces]]
+[[OOP Interfaces]]
 

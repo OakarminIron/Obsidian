@@ -1,5 +1,19 @@
-**Polling** simply means checking for new data over a fixed interval of time by making API calls at regular intervals to the server. It is used to get real-time updates in applications. There are many applications that need real-time data and polling is a life savior for those applications.
+Polling simply means checking for new data over a fixed interval of time by making API calls at regular intervals to the server. It is used to get real-time updates in applications. There are many applications that need real-time data and polling is a life savior for those applications.
 
-[[Long Pooling]]
 
-[[Short Pooling]]
+[[Short Pooling]] In a short polling client requests data from the server and the server will return the response if it is available and if it is not available then it returns an empty response. This process will be repeated at regular intervals.
+
+[[Long Pooling]]  There was a problem that if the response is not available then the server returns an empty response. So, In long polling, this problem got solved. Here, in long polling, the client sends a request to the server and if the response is not available then the server will hold the request till the response gets available, & after the availability of the response, the server will send the response back. After getting a response, again the request will be made either immediately or after some period of time and this process will repeat again and again. In simple words, the client will always be in the live connection to the server.
+
+
+
+
+| Short Polling                                                                                                    | Long Polling                                                                                                |
+|------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| It is based on Timer. So, it is used for those applications that need to update data at a fixed interval of time | It is based on getting the response. So, It is used for those applications that don’t want empty responses. |
+| Here, an empty response can be sent if a response is not available.                                              | Here empty response can never be sent.                                                                      |
+| It is less preferred.                                                                                            | It is more preferred, in comparison to Short Polling.                                                       |
+| It creates lots of traffic.                                                                                      | It also creates traffic but less than short polling.                                                        |
+
+
+https://www.geeksforgeeks.org/what-is-long-polling-and-short-polling/

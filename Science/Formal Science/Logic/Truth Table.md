@@ -1,2 +1,2 @@
 [[Logic Gates]]
-[[Proposational Calculas]]
+[[🧩💍Propositional Calculus]]

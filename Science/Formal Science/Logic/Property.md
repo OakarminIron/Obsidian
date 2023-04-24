@@ -1,4 +1,4 @@
-= a characteristic of an [[Object]]
+= a characteristic of an [[🅾️Object]]
 
 [[Formal Prperty]]
 [[Informal Property]]

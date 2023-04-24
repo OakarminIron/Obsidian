@@ -7,11 +7,11 @@
 
 - [[HR]]
 - [[Leadership]]
-- [[Project Management]]
-
+- [[Project Management]] 
+- [[Product Management]]
 
 - [[Innovation]]
 - [[Change Management]]
 - [[Research]]
 
-- [[Operational intelligence]]
+

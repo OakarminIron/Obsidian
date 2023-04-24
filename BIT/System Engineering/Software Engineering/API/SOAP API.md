@@ -1,0 +1,6 @@
+Simple Object Access Protocol(SOAP) is a network protocol for exchanging structured data between nodes. It uses XML format to transfer messages. It works on top of application layer protocols like HTML and SMTP for notations and transmission. SOAP allows processes to communicate throughout platforms, languages and operating systems, since protocols like HTTP are already installed on all platforms.
+
+- Envelope-->It specifies that the XML message is a SOAP message. A SOAP message can be defined as an XML document containing header and body encapsulated in the envelope. The fault is within the body of the message.
+- Header-->This part is not mandatory. But when it is present it can provide crucial information about the applications.
+- Body-->It contains the actual message that is being transmitted. Fault is contained within the body tags.
+- Fault-->This section contains the status of the application and also contains errors in the application. This section is also optional. It should not appear more than once in a SOAP message

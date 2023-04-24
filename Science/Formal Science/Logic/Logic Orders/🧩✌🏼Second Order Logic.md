@@ -1,0 +1,1 @@
+In logic and mathematics, second-order logic is an extension of first-order logic, which itself is an extension of propositional logic. Second-order logic is in turn extended by higher-order logic and type theory.

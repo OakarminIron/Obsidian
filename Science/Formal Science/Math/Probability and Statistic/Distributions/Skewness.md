@@ -1,0 +1,6 @@
+- Skewness, in statistics, is the degree of asymmetry observed in a probability distribution.
+- Distributions can exhibit right (positive) skewness or left (negative) skewness to varying degrees. A normal distribution (bell curve) exhibits zero skewness.
+- Investors note right-skewness when judging a return distribution because it, like excess kurtosis, better represents the extremes of the data set rather than focusing solely on the average.
+- Skewness informs users of the direction of outliers, though it does not tell users the number of outliers.
+- Skewness is often found in stock market returns as well as the distribution of average individual income.
+- In addition, a distribution can have a zero skew. Zero skew occurs when a data graph is symmetrical. Regardless of how long or fat the distribution tails are, a zero skew indicates a normal distribution of data.

@@ -1,0 +1,1 @@
+Formulating a  constructional definition of an object on the basis of other objects

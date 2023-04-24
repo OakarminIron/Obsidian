@@ -1,1 +1,1 @@
-A functionalized [[Object]]
+A fictionalized [[🅾️Object]]

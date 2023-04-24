@@ -1,0 +1,1 @@
+a higher-order logic is a form of predicate logic that is distinguished from first-order logic by additional quantifiers and, sometimes, stronger semantics. Higher-order logic with their standard semantics are more expressive, but their model-theoretic properties are less well-behaved than those of first-order logic.

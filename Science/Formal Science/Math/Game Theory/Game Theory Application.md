@@ -1,3 +1,3 @@
 [[Social Science]]
-[[Logic]]
+[[🧩Logic]]
 [[System]]

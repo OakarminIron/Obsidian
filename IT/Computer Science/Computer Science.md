@@ -1,4 +1,4 @@
 [[Programming]]
 [[DSA]]
 [[AI]]
-[[CS Object]]
+[[👨‍💻🅾️CS Object]]

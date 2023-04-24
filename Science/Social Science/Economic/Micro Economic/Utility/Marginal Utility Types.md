@@ -1,0 +1,3 @@
+- [[Positive Marginal Utility]] occurs when having more of an item brings additional happiness. Suppose you like eating a slice of cake, but a second slice would bring you some extra joy. Then, your marginal utility from consuming cake is positive.
+- [[ Zero Marginal Utility]] is what happens when consuming more of an item brings no extra measure of satisfaction. For example, you might feel fairly full after two slices of cake and wouldn't really feel any better after having a third slice. In this case, your marginal utility from eating cake is zero.
+- [[Negative Marginal Utility]]  is where you have too much of an item, so consuming more is actually harmful. For instance, the fourth slice of cake might even make you sick after eating three pieces of cake.

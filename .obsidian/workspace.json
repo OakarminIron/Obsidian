@@ -8,10 +8,10 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e78d9b2439c139a",
+            "id": "7b79530208d5d2d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -137,8 +137,21 @@
       "3d-graph:3D Graph": true
     }
   },
-  "active": "3e78d9b2439c139a",
+  "active": "7b79530208d5d2d2",
   "lastOpenFiles": [
+    "Odoo/Odoo Modules/Odoo Inventory/Odoo Logistic.md",
+    "Odoo/Odoo Modules/Odoo Inventory/Delivery Lead Time.md",
+    "Science/Formal Science/Math/Probability and Statistic/Distributions/🎰🎲Distributions.md",
+    "Science/Formal Science/Math/Probability and Statistic/Distributions/〰️Kurtosis.md",
+    "Science/Formal Science/Math/Probability and Statistic/Distributions/Skewness.md",
+    "X/X.md",
+    "IT/Computer Science/Programming/OOP/👾🅾️ OOP Object.md",
+    "Science/Formal Science/Logic/🧩Logic.md",
+    "Science/Formal Science/Logic/🧩Orders of Logic.md",
+    "Science/Formal Science/Logic/Logic Orders/🧩☝️First-order Predicate Logic.md",
+    "Science/Formal Science/Logic/Formula.md",
+    "IT/Computer Science/Programming/OOP/👾OOP.md",
+    "IT/Computer Science/Object/👨‍💻🅾️CS Object.md",
     "Science/Social Science/Psychology/Psychology Themes/Motivation/Maslow's Hierarchy of Needs.md",
     "Science/Social Science/Psychology/Psychology Themes/Motivation/Motivation Theories.md",
     "Business/Operational intelligence/BPR/Progress Methodology.md",
@@ -153,19 +166,6 @@
     "Business/Business Topics.md",
     "X/Notes/Notes.md",
     "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/Composing Method.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/Dealing with Generalization.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/Code Refactoring.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/Simplifying Method Calls.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/Simplifying Conditional Expressions.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/Organizing Data.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/Moving Features between Objects.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/Software Design Refactoring.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/Code Smells.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/Couples.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/Bloaters.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/Dispensable.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/Change Prevents.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/Object-Orientation Abusers.md",
     "X/Notes/Skill Framework/CIO Skillset.png",
     "X/Notes/Skill Framework/Architect Skillset.png",
     "X/Notes/Skill Framework/my_ambition_path.png",

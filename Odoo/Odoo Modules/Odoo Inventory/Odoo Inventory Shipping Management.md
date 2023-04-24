@@ -1,3 +1,3 @@
-[[Odoo Shipping Delivery Method]]
+[[Odoo Shipping  Method]]
 
-[[Odoo Shiiping Cost Invoice]]]
+[[Odoo Shipping Cost Invoice]]]

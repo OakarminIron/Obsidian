@@ -7,7 +7,7 @@ Event Driven PP
 Declarative PP
 AutomataBased PP
 
-[[OOP]]
+[[👾OOP]]
 
 https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms
 ![[Programming Pardadigms.png]]

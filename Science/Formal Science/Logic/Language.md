@@ -1,2 +1,2 @@
 [[Meta Language]]
-[[Object Language]]
+[[🅾️Object Language]]

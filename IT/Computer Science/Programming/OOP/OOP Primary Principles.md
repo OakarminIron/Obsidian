@@ -1,4 +1,4 @@
-[[Inheritance]]
+[[OOP Inheritance]]
 
 [[Polymorphism]]
 

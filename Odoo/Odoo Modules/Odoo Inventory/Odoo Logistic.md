@@ -2,7 +2,9 @@
 [[Odoo Inventory Route Management]]
 [[stock.move and line]]
 
-[[Odoo Delivery Orders]]
+[[Delivery Lead Time]]
+
+
 [[Picking]]
 [[Packing]]
 
