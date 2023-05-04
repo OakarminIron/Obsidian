@@ -5,7 +5,7 @@
 [[Anthropology]]
 
 
-[[MBA]]
+[[Business Administration]]
 [[Legal Science]]
 [[Pedagogy]]
 

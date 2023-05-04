@@ -4,4 +4,4 @@
 [[Odoo MRP]]
 
 [[Technical]]
-
+[[Odoo Loyalty]]

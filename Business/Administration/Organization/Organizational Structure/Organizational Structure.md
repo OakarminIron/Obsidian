@@ -1,3 +1,10 @@
+
+
+
+
+
+Well-Defined Organizational Structure
+
 1. [[Reporting Line]]
 2. [[Roles and responsibilities]]
 3. [[Systems of Authority]]
