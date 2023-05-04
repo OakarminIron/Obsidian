@@ -2,5 +2,5 @@ Business is a process of exchanging goods and services between people and entiti
 
 [[Business Topics]]
 
-[[Organizational Culture]]
+
 

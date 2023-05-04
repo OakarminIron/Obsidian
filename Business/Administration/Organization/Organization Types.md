@@ -1,0 +1,13 @@
+There are a variety of legal types of organizations, including 
+- corporations
+- governments
+- non-governmental organizations
+- political organizations
+- international organizations
+- armed forces
+- charities
+- not-for-profit corporations
+- partnerships
+- cooperatives
+- educational institutions
+- etc...

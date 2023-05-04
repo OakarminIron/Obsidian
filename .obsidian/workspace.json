@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "414e149aea30ccd9",
+        "id": "774f3ada3420b919",
         "type": "tabs",
         "children": [
           {
-            "id": "7b79530208d5d2d2",
+            "id": "6c10b94eb9e68258",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "xxx.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Organization",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,6 +63,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "6029c0dbda8c9dbd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "xxx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "xxx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "xxx.md"
+              }
             }
           }
         ]
@@ -130,42 +147,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "3d-graph:3D Graph": false,
       "graph:Open graph view": false,
       "templates:Insert template": true,
       "command-palette:Open command palette": false,
-      "switcher:Open quick switcher": false,
-      "3d-graph:3D Graph": true
+      "switcher:Open quick switcher": false
     }
   },
-  "active": "7b79530208d5d2d2",
+  "active": "6c10b94eb9e68258",
   "lastOpenFiles": [
-    "Odoo/Odoo Modules/Odoo Inventory/Odoo Logistic.md",
-    "Odoo/Odoo Modules/Odoo Inventory/Delivery Lead Time.md",
-    "Science/Formal Science/Math/Probability and Statistic/Distributions/🎰🎲Distributions.md",
-    "Science/Formal Science/Math/Probability and Statistic/Distributions/〰️Kurtosis.md",
-    "Science/Formal Science/Math/Probability and Statistic/Distributions/Skewness.md",
-    "X/X.md",
-    "IT/Computer Science/Programming/OOP/👾🅾️ OOP Object.md",
-    "Science/Formal Science/Logic/🧩Logic.md",
-    "Science/Formal Science/Logic/🧩Orders of Logic.md",
-    "Science/Formal Science/Logic/Logic Orders/🧩☝️First-order Predicate Logic.md",
-    "Science/Formal Science/Logic/Formula.md",
-    "IT/Computer Science/Programming/OOP/👾OOP.md",
-    "IT/Computer Science/Object/👨‍💻🅾️CS Object.md",
-    "Science/Social Science/Psychology/Psychology Themes/Motivation/Maslow's Hierarchy of Needs.md",
-    "Science/Social Science/Psychology/Psychology Themes/Motivation/Motivation Theories.md",
-    "Business/Operational intelligence/BPR/Progress Methodology.md",
-    "Business/Operational intelligence/BPR/Socio-Technical design.md",
-    "Business/Operational intelligence/BPR/Socio-Technical design Stages.md",
-    "Business/Operational intelligence/BPR/Social-Technical Design Principles.md",
-    "Business/Operational intelligence/BPR/Business Process Re-engineering (BPR).md",
-    "Business/Operational intelligence/BPR/Team Composition.md",
-    "Business/Operational intelligence/Business Process Management.md",
-    "Business/Operational intelligence/BPR",
-    "Business/Operational intelligence/Operational intelligence.md",
+    "Business/Administration/Organization/Organizational Structure/Organizational Structure.md",
+    "Business/Administration/Organization/Organization.md",
+    "Business/Administration/Organization/Organization Types.md",
+    "Business/Change Management/Org Change/Organizational Change.md",
+    "Business/Administration/Business Administration.md",
+    "Business/Administration/Organization/Organizational Culture/Organizational Culture.md",
+    "Business/Business.md",
+    "Science/Social Science/Social Science.md",
     "Business/Business Topics.md",
-    "X/Notes/Notes.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/Composing Method.md",
+    "Business Administration.md",
+    "Science/Applied Science.md",
+    "Business/Administration",
+    "Business/Administration/Organization/Organizational Structure/Stakeholder/Stakeholder.md",
+    "Business/Organizational/Organizational Culture/Healthy Organizational Culture.md",
+    "IT/ITIL4/4 Dimensions/Organizations and People.md",
+    "Business/Administration/Organization/Organizational Structure/Power Distance.md",
+    "Business/Organizational/Stakeholder/Partner and Supplier.md",
+    "Business/Administration/Organization/Organizational Structure/Stakeholder",
+    "Business/Administration/Organization/Organizational Structure/Reporting Line.md",
+    "Business/Administration/Organization/Organizational Culture/Uncertainty avoidance.md",
+    "Business/Administration/Organization/Organizational Structure",
+    "Business/Administration/Organization/Organizational Culture",
+    "IT/ITIL4/4 Dimensions/4 Dimensions.md",
+    "Business/Organizational Culture/Untitled.md",
+    "Business/Accounting/Financial Accounting/Valuation metrics/Valuation metrics.md",
+    "Odoo/Odoo Modules/Odoo Loyalty/loyalty.program.md",
+    "Odoo/Odoo Modules/Odoo Sales/Models/sale.order.md",
+    "Odoo/Odoo Modules/Odoo Sales/Models/sale.order.coupon.points.md",
+    "Odoo/Odoo Modules/Odoo Loyalty/loyalty.card.md",
+    "Odoo/Odoo Modules/Odoo Sales/Models/sale.order.line.md",
+    "Odoo/Odoo Modules/Odoo Sales/Models",
+    "Odoo/Odoo Modules/Odoo Loyalty",
+    "Business/Operational intelligence/BPR",
     "X/Notes/Skill Framework/CIO Skillset.png",
     "X/Notes/Skill Framework/Architect Skillset.png",
     "X/Notes/Skill Framework/my_ambition_path.png",
