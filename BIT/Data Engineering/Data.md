@@ -1,4 +1,4 @@
 [[Data Engineering]]
 
-[[Data Sorage]]
+[[Data Storage]]
 [[Data Transport]]

@@ -1,8 +1,8 @@
 [[Define Requirement]]
 
 Joint Requirements Development (JRD) Sessions
-[[Requirements elicitation Technique]]
-[[RA Types of requirements]]
+[[Requirements Elicitation Technique]]
+[[RA Types of Requirements]]
 
 [[RA issues]]
 

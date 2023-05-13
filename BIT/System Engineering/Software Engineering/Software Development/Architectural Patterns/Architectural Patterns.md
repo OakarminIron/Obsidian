@@ -1,15 +1,15 @@
-An architectural pattern can be called an outline that allows you to express and define a structural schema for all kinds of software systems. It’s a reusable solution that provides a predefined set of subsystems, roles, and responsibilities, including the rules and roadmap for defining relationships among them. It helps you address various software engineering concerns such as performance limitations, high availability, minimizing business risk, etc.     
+An architectural pattern can be called an outline that allows you to express and define a structural schema for all kinds of software systems. It’s a reusable solution that provides a predefined set of subsystems, roles, and responsibilities, including the rules and road-map for defining relationships among them. It helps you address various software engineering concerns such as performance limitations, high availability, minimizing business risk, etc.     
 
 Even though an architectural pattern is a rough image or blueprint of your system, it’s not the actual architecture. Instead, it’s a concept that helps you to understand the elements of software architecture. There can be countless pieces of architecture that implement the same pattern. That’s why patterns are known as “strictly described and commonly utilized.” The success of the system depends on software architecture selection. 
 
-Famous examples of architectural patterns are microservices, message bus, service requester/ consumer, MVC pattern, MVVM, microkernel, n-tier, domain-driven design components, and presentation-abstraction-control.
+Famous examples of architectural patterns are micro-services, message bus, service requester/ consumer, MVC pattern, MVVM, Micro-kernel, n-tier, domain-driven design components, and presentation-abstraction-control.
 https://www.simform.com/blog/software-architecture-patterns/
 https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns
 
 
 
--   [Multitier architecture](https://en.wikipedia.org/wiki/Multitier_architecture "Multitier architecture")
--   [Model–view–controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller "Model–view–controller")
+-   [Multi-tier architecture](https://en.wikipedia.org/wiki/Multitier_architecture "Multitier architecture")
+-   [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller "Model–view–controller")
 -   [[Domain Driven Design]]
 -   [Blackboard pattern](https://en.wikipedia.org/wiki/Blackboard_pattern "Blackboard pattern")
 -   Sensor–controller–actuator
@@ -28,9 +28,9 @@ https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns
 -   [Publish-subscribe](https://en.wikipedia.org/wiki/Publish/subscribe "Publish/subscribe")
 -   [Asynchronous messaging](https://en.wikipedia.org/wiki/Asynchronous_messaging "Asynchronous messaging")
 
--   [Microkernel](https://en.wikipedia.org/wiki/Microkernel "Microkernel")
+-   [Micro-kernel](https://en.wikipedia.org/wiki/Microkernel "Microkernel")
 -   [Reflection](https://en.wikipedia.org/wiki/Reflection_(computer_programming) "Reflection (computer programming)")
--   [Client-server](https://en.wikipedia.org/wiki/Client%E2%80%93server_model "Client–server model") ([multitier architecture](https://en.wikipedia.org/wiki/Multitier_architecture "Multitier architecture") exhibits this style)
+-   [Client-server](https://en.wikipedia.org/wiki/Client%E2%80%93server_model "Client–server model") ([multi-tier architecture](https://en.wikipedia.org/wiki/Multitier_architecture "Multitier architecture") exhibits this style)
 -   [Shared nothing architecture](https://en.wikipedia.org/wiki/Shared_nothing_architecture "Shared nothing architecture")
 -   [Space-based architecture](https://en.wikipedia.org/wiki/Space-based_architecture "Space-based architecture")
 -   [Object request broker](https://en.wikipedia.org/wiki/Object_request_broker "Object request broker")

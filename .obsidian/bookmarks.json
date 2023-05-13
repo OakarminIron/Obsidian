@@ -1,0 +1,221 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1683345912036,
+      "items": [
+        {
+          "type": "graph",
+          "ctime": 1683346071568,
+          "title": "Odoo",
+          "options": {
+            "collapse-filter": false,
+            "search": "path:Odoo/",
+            "showTags": false,
+            "showAttachments": false,
+            "hideUnresolved": false,
+            "showOrphans": true,
+            "collapse-color-groups": true,
+            "colorGroups": [
+              {
+                "query": "path:BIT/",
+                "color": {
+                  "a": 1,
+                  "rgb": 130696
+                }
+              },
+              {
+                "query": "path:Business/",
+                "color": {
+                  "a": 1,
+                  "rgb": 14725458
+                }
+              },
+              {
+                "query": "path:IT/",
+                "color": {
+                  "a": 1,
+                  "rgb": 50421
+                }
+              },
+              {
+                "query": "path:Science/",
+                "color": {
+                  "a": 1,
+                  "rgb": 15597823
+                }
+              },
+              {
+                "query": "path:Odoo/",
+                "color": {
+                  "a": 1,
+                  "rgb": 8210890
+                }
+              },
+              {
+                "query": "path:X/",
+                "color": {
+                  "a": 1,
+                  "rgb": 16777215
+                }
+              }
+            ],
+            "collapse-display": true,
+            "showArrow": true,
+            "textFadeMultiplier": -3,
+            "nodeSizeMultiplier": 0.993229166666667,
+            "lineSizeMultiplier": 0.993229166666667,
+            "collapse-forces": true,
+            "centerStrength": 0.325,
+            "repelStrength": 18.5,
+            "linkStrength": 0.92,
+            "linkDistance": 47,
+            "scale": 0.03273249767353511,
+            "close": false
+          }
+        },
+        {
+          "type": "graph",
+          "ctime": 1683346003455,
+          "title": "BIT",
+          "options": {
+            "collapse-filter": false,
+            "search": "path:BIT/",
+            "showTags": false,
+            "showAttachments": false,
+            "hideUnresolved": false,
+            "showOrphans": true,
+            "collapse-color-groups": true,
+            "colorGroups": [
+              {
+                "query": "path:BIT/",
+                "color": {
+                  "a": 1,
+                  "rgb": 130696
+                }
+              },
+              {
+                "query": "path:Business/",
+                "color": {
+                  "a": 1,
+                  "rgb": 14725458
+                }
+              },
+              {
+                "query": "path:IT/",
+                "color": {
+                  "a": 1,
+                  "rgb": 50421
+                }
+              },
+              {
+                "query": "path:Science/",
+                "color": {
+                  "a": 1,
+                  "rgb": 15597823
+                }
+              },
+              {
+                "query": "path:Odoo/",
+                "color": {
+                  "a": 1,
+                  "rgb": 8210890
+                }
+              },
+              {
+                "query": "path:X/",
+                "color": {
+                  "a": 1,
+                  "rgb": 16777215
+                }
+              }
+            ],
+            "collapse-display": true,
+            "showArrow": true,
+            "textFadeMultiplier": -3,
+            "nodeSizeMultiplier": 0.993229166666667,
+            "lineSizeMultiplier": 0.993229166666667,
+            "collapse-forces": true,
+            "centerStrength": 0.325,
+            "repelStrength": 18.5,
+            "linkStrength": 0.92,
+            "linkDistance": 47,
+            "scale": 0.03273249767353511,
+            "close": false
+          }
+        },
+        {
+          "type": "graph",
+          "ctime": 1683345902865,
+          "title": "Graph",
+          "options": {
+            "collapse-filter": true,
+            "search": "",
+            "showTags": false,
+            "showAttachments": false,
+            "hideUnresolved": false,
+            "showOrphans": true,
+            "collapse-color-groups": true,
+            "colorGroups": [
+              {
+                "query": "path:BIT/",
+                "color": {
+                  "a": 1,
+                  "rgb": 130696
+                }
+              },
+              {
+                "query": "path:Business/",
+                "color": {
+                  "a": 1,
+                  "rgb": 14725458
+                }
+              },
+              {
+                "query": "path:IT/",
+                "color": {
+                  "a": 1,
+                  "rgb": 50421
+                }
+              },
+              {
+                "query": "path:Science/",
+                "color": {
+                  "a": 1,
+                  "rgb": 15597823
+                }
+              },
+              {
+                "query": "path:Odoo/",
+                "color": {
+                  "a": 1,
+                  "rgb": 8210890
+                }
+              },
+              {
+                "query": "path:X/",
+                "color": {
+                  "a": 1,
+                  "rgb": 16777215
+                }
+              }
+            ],
+            "collapse-display": true,
+            "showArrow": true,
+            "textFadeMultiplier": -3,
+            "nodeSizeMultiplier": 0.993229166666667,
+            "lineSizeMultiplier": 0.993229166666667,
+            "collapse-forces": true,
+            "centerStrength": 0.325,
+            "repelStrength": 18.5,
+            "linkStrength": 0.92,
+            "linkDistance": 47,
+            "scale": 0.2807131894625532,
+            "close": false
+          }
+        }
+      ],
+      "title": "Graph"
+    }
+  ]
+}

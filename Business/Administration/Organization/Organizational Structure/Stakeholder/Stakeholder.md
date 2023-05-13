@@ -1,8 +1,6 @@
-[[Partner]]
-[[Customer]]
-[[Employees]]
-[[Supplier]]
-[[Vendor]]
-[[Investors]]
-[[Communities]]
-[[Governments]]
+Who are [[Stakeholders]]
+[[Stakeholder Identification Techniques]]
+
+
+
+

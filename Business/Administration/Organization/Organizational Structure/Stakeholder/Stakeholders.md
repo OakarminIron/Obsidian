@@ -1,0 +1,8 @@
+[[Partner]]
+[[Customer]]
+[[Employees]]
+[[Supplier]]
+[[Vendor]]
+[[Investors]]
+[[Communities]]
+[[Governments]]

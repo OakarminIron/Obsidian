@@ -1,4 +1,6 @@
 [[Organization Types]]
-[[Organizational Culture]]
 [[Organizational Change]]
-[[Organizational Structure]]
+
+
+[[People in Organization]]
+

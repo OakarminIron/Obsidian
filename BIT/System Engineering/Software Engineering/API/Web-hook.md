@@ -1,0 +1,1 @@
+A server-side, event-driven mechanism. It sends HTTP callbacks (usually POST requests) when specific events occur, perfect for real-time data updates or third-party service integration

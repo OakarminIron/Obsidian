@@ -1,4 +1,6 @@
 [[OSI]]
+[[💻 Hardware]]
+[[💻 Software]]
 
 
 [[Database]]

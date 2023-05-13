@@ -2,8 +2,8 @@
 
 [[Software Development Process]]
 [[Software Development Patterns]]
-[[Software Development Architecutre]]
+[[Software Development Architecture]]
 
 
 
-[[Software]]
+[[💻 Software]]

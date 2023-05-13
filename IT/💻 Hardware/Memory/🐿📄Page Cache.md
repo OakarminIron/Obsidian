@@ -1,0 +1,1 @@
+Resize the main memory [[👻Memory RAM]]

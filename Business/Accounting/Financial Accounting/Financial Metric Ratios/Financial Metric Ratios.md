@@ -4,5 +4,5 @@ Financial metric ratios can be invaluable tools for investors and analysts alike
 - [[Activity Ratios (Efficiency)]]
 - [[Liquidity ratios]]
 - [[Solvency ratios]]
-- [[Profitability ratios]]
+- [[Profitability Ratios]]
 - [[Coverage ratios]]

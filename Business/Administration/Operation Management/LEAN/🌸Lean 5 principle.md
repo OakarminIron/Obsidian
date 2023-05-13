@@ -1,0 +1,5 @@
+-   [[🌸Value]]: Understand clearly what value the customer wants for the product or service.
+-   [[🌸Value Stream]]: The entire flow of a product's or service's life cycle. In other words, from raw materials, production of the product or service, customer delivery, customer use, and final disposal.
+-   [[🌸Flow]]: Keep the value stream moving. If it's not moving, it's creating waste and less value for the customer.
+-   [[🌸Pull]]: Do not make anything until the customer orders it.
+-  [[ 🌸Perfection]]: Systematically and continuously remove root causes of poor quality from production processes.

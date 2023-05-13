@@ -1,3 +1,0 @@
-[[Memory RAM]]
-
-[[Hardware Connectors]]

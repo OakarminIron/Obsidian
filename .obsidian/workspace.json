@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "774f3ada3420b919",
+        "id": "2d0abf3b6386b2d2",
         "type": "tabs",
         "children": [
           {
-            "id": "6c10b94eb9e68258",
+            "id": "73339f8f8fc9597f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "xxx.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Organization",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "xxx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "xxx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "xxx.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,53 +145,53 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "6c10b94eb9e68258",
+  "active": "73339f8f8fc9597f",
   "lastOpenFiles": [
-    "Business/Administration/Organization/Organizational Structure/Organizational Structure.md",
-    "Business/Administration/Organization/Organization.md",
-    "Business/Administration/Organization/Organization Types.md",
-    "Business/Change Management/Org Change/Organizational Change.md",
-    "Business/Administration/Business Administration.md",
-    "Business/Administration/Organization/Organizational Culture/Organizational Culture.md",
-    "Business/Business.md",
-    "Science/Social Science/Social Science.md",
-    "Business/Business Topics.md",
-    "Business Administration.md",
-    "Science/Applied Science.md",
-    "Business/Administration",
-    "Business/Administration/Organization/Organizational Structure/Stakeholder/Stakeholder.md",
-    "Business/Organizational/Organizational Culture/Healthy Organizational Culture.md",
-    "IT/ITIL4/4 Dimensions/Organizations and People.md",
-    "Business/Administration/Organization/Organizational Structure/Power Distance.md",
-    "Business/Organizational/Stakeholder/Partner and Supplier.md",
-    "Business/Administration/Organization/Organizational Structure/Stakeholder",
-    "Business/Administration/Organization/Organizational Structure/Reporting Line.md",
-    "Business/Administration/Organization/Organizational Culture/Uncertainty avoidance.md",
-    "Business/Administration/Organization/Organizational Structure",
-    "Business/Administration/Organization/Organizational Culture",
-    "IT/ITIL4/4 Dimensions/4 Dimensions.md",
-    "Business/Organizational Culture/Untitled.md",
-    "Business/Accounting/Financial Accounting/Valuation metrics/Valuation metrics.md",
-    "Odoo/Odoo Modules/Odoo Loyalty/loyalty.program.md",
-    "Odoo/Odoo Modules/Odoo Sales/Models/sale.order.md",
-    "Odoo/Odoo Modules/Odoo Sales/Models/sale.order.coupon.points.md",
-    "Odoo/Odoo Modules/Odoo Loyalty/loyalty.card.md",
-    "Odoo/Odoo Modules/Odoo Sales/Models/sale.order.line.md",
-    "Odoo/Odoo Modules/Odoo Sales/Models",
-    "Odoo/Odoo Modules/Odoo Loyalty",
-    "Business/Operational intelligence/BPR",
+    "xxx.md",
+    "X/xxx.md",
+    "IT/💻 Hardware/🔳CPU.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/Web Applications/WebApp Architecture/Representational State Transfer(REST).md",
+    "IT/OSI/7.OSI Application Layer/🐿CDN.md",
+    "IT/OSI/1.OSI Physical Layer/1.OSI Physicial Layer.md",
+    "IT/IT.md",
+    "IT/💻 Hardware/💻 Hardware.md",
+    "IT/💻 Hardware/Memory/💿Memory ROM.md",
+    "BIT/Data Engineering/Data X/Data Storage.md",
+    "BIT/Data Engineering/Data X/Data Storage Solid.md",
+    "BIT/Data Engineering/Data X/အရေးခံ.md",
+    "BIT/Data Engineering/Data X/ရေးတဲ့ဟာ.md",
+    "BIT/Data Engineering/Data X/Data Transport.md",
+    "BIT/Data Engineering/Data X/Transport By Wave.md",
+    "IT/💻 Hardware",
+    "Hard",
+    "BIT/System Engineering/Software Engineering/Software Development/Software/💻 Software.md",
+    "IT/💻 Hardware/Memory/👻Memory RAM.md",
+    "IT/💻 Hardware/Memory/OS Memeory Management.md",
+    "IT/💻 Hardware/Memory/Paging Virtual Memory SWAP.md",
+    "IT/💻 Hardware/Memory/👻📄Page.md",
+    "IT/OSI/3.OSI Network Layer/IT Networking/Networking Tools/Load Balancer.md",
+    "IT/OSI/3.OSI Network Layer/🐿⚖Load Balancer Cache.md",
+    "BIT/System Engineering/Software Engineering/SE Scaling/Scale Out.md",
+    "IT/💻 Hardware/Memory/🐿📄Page Cache.md",
+    "IT/💻 Hardware/🐿🔳CPU Cache.md",
+    "IT/OSI/1.OSI Physical Layer/Memory/👻Page Table.md",
+    "Business/Administration/Operation Management/Performance Measurement",
+    "Business/Administration/Operation Management/Performance Measurement/KPI",
+    "Business/Change Management/Team Change/Team Change Models/BIon_Model.pdf",
+    "Business/Change Management/Team Change/Team Change Models/Nalbone_Mind_Bion_Psychoanalysis.pdf",
+    "Business/Administration/Operation Management/LEAN",
+    "Business/Administration/Operation Management",
+    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Principles",
+    "Business/Product and Project Management/Agile",
     "X/Notes/Skill Framework/CIO Skillset.png",
     "X/Notes/Skill Framework/Architect Skillset.png",
     "X/Notes/Skill Framework/my_ambition_path.png",
-    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring",
     "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Patterns/Software Design Patterns.png",
     "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Patterns/Software Design Patterns.png",
     "Business/Operational intelligence/Business Process Management.png",
-    "Business/Operational intelligence",
     "Business/Accounting/Financial Accounting/Average Cost Method.png",
     "X/Notes/Skill Framework/HSE Skillset.png",
     "X/Notes/Skill Framework/SE Skillset.png",
-    "X/Notes/Skill Framework/SEA Skillset.png",
-    "X/Notes/Skill Framework"
+    "X/Notes/Skill Framework/SEA Skillset.png"
   ]
 }
