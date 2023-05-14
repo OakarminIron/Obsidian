@@ -25,5 +25,5 @@ An important concept for objects is the design pattern. A design pattern provide
 | Closed world: If there is not enough information to prove a statement true, then it is assumed to be false. | Open world: If there is not enough information to prove a statement true, then it may be true or false. |
 
 
-[[👾OOP]]
-[[ORM]]
+[[👾☧ OOP Object Oriented Programming]]
+[[ORM (Object-Relational Mapping)]]

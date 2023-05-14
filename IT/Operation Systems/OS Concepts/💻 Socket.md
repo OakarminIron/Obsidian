@@ -1,0 +1,1 @@
+Sockets are endpoints for communication between processes, and the kernel manages the creation, management, and destruction of sockets. The kernel also provides the underlying networking infrastructure that allows processes to communicate over networks.

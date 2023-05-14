@@ -1,0 +1,1 @@
+Designing the system architecture and components in such a way that they work together efficiently and effectively. This may include selecting appropriate hardware and software platforms, designing the network architecture, and optimizing the flow of data between components.

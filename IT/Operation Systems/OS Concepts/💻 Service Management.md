@@ -1,0 +1,1 @@
+Service management involves the management of system services such as network services, printing services, and file sharing services. The kernel provides the infrastructure for starting, stopping, and managing system services.

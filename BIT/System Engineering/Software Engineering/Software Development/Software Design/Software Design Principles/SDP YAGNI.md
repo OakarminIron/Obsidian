@@ -1,0 +1,4 @@
+- YAGNI stands for “You Ain’t Gonna Need It” and is a principle in software development that advises against adding unnecessary features or functionality to code.
+- The idea is to only implement what is required to meet the current requirements, rather than trying to anticipate future needs.
+- By adhering to the YAGNI principle, developers can avoid over-complicating code and reduce the risk of introducing bugs or inefficiencies.
+- This principle can also help to improve development time and reduce the overall cost of a project.

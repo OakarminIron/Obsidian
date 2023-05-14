@@ -1,0 +1,1 @@
+I/O (Input/Output) is the process of transferring data between the computer and its peripherals, such as keyboards, mice, printers, and disk drives. The kernel provides the necessary drivers and infrastructure for managing I/O operations and communicating with the peripherals.

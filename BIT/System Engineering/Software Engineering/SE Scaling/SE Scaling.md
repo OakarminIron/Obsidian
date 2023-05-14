@@ -2,6 +2,7 @@
 [[Scale Out]]
 [[Scale by Queing]]
 [[Read Replica]]
-[[BIT/System Engineering/Software Engineering/SE Scaling/Caching]]
+[[🐿Caching]]
 [[Multi-Tenant]]
 [[Hot Paths]]
+[[🖥📈SE Optimization]]

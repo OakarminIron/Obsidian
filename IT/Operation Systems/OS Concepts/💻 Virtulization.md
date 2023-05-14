@@ -1,0 +1,4 @@
+Virtualization is a technique that allows multiple virtual machines or operating systems to run on a single physical machine, and the kernel provides the necessary virtualization support such as memory management, CPU scheduling, and I/O virtualization.
+
+A [[Hypervisor]] (also known as a **virtual machine monitor**, VMM, or virtualizer) is a type of computer software, firmware or hardware that creates and runs virtual machines. A computer on which a hypervisor runs one or more virtual machines is called a _host machine_, and each virtual machine is called a _guest machine_. The hypervisor presents the guest operating systems with a platform and manages the execution of the guest operating systems. Unlike an emulator, the guest executes most instructions on the native hardware. Multiple instances of a variety of operating systems may share the virtualized hardware resources: for example,
+

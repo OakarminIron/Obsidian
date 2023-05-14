@@ -1,0 +1,4 @@
+- DRY stands for “Don’t Repeat Yourself” and is a principle in software development that advocates for reducing duplication in code.
+- The idea is to write code that is reusable, modular, and maintainable.
+- When code is duplicated, it can lead to maintenance issues, inconsistency, and bugs.
+- By adhering to the DRY principle, developers can improve the quality of their code, reduce development time, and make it easier to update and modify code in the future.

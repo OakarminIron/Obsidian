@@ -1,0 +1,15 @@
+[[🐍Python]]
+[[☕Java]]
+[[📜Java Script]]
+[[🛑Ruby]]
+[[🦀Rust]]
+[[🐘PHP]]
+[[🐤Kotlin]]
+[[🎯Dart]]
+[[🦫GO Lang]]
+[[👧Julia]]
+[[🧪Elixir]]
+[[C#]]
+[[C++]]
+
+

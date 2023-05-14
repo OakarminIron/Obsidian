@@ -1,0 +1,3 @@
+- KISS stands for “Keep It Simple, Stupid” and is a principle in software development that advocates for simplicity in design and implementation.
+- The idea is to write code that is easy to understand, modify, and maintain. Complex solutions can be difficult to maintain and understand, leading to bugs and inefficiencies.
+- By adhering to the KISS principle, developers can create software that is more efficient, easier to test, and less prone to errors.

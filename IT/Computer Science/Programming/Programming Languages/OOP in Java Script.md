@@ -1,1 +1,1 @@
-Prototype Based [[👾OOP]]. [[Prototype Pattern]]
+Prototype Based [[👾☧ OOP Object Oriented Programming]]. [[Prototype Pattern]]

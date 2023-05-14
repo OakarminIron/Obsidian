@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2d0abf3b6386b2d2",
+        "id": "98def086e9662810",
         "type": "tabs",
         "children": [
           {
-            "id": "73339f8f8fc9597f",
+            "id": "c91fdcba83d26126",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "IT/Computer Science/Programming/Programming Languages/☧Programming Languages.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Programming",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IT/Computer Science/Programming/Programming Languages/☧Programming Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IT/Computer Science/Programming/Programming Languages/☧Programming Languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IT/Computer Science/Programming/Programming Languages/☧Programming Languages.md"
+              }
             }
           }
         ]
@@ -138,51 +148,52 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "3d-graph:3D Graph": false,
       "graph:Open graph view": false,
       "templates:Insert template": true,
       "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false
     }
   },
-  "active": "73339f8f8fc9597f",
+  "active": "c91fdcba83d26126",
   "lastOpenFiles": [
-    "xxx.md",
-    "X/xxx.md",
-    "IT/💻 Hardware/🔳CPU.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/Web Applications/WebApp Architecture/Representational State Transfer(REST).md",
-    "IT/OSI/7.OSI Application Layer/🐿CDN.md",
-    "IT/OSI/1.OSI Physical Layer/1.OSI Physicial Layer.md",
-    "IT/IT.md",
-    "IT/💻 Hardware/💻 Hardware.md",
-    "IT/💻 Hardware/Memory/💿Memory ROM.md",
-    "BIT/Data Engineering/Data X/Data Storage.md",
-    "BIT/Data Engineering/Data X/Data Storage Solid.md",
-    "BIT/Data Engineering/Data X/အရေးခံ.md",
-    "BIT/Data Engineering/Data X/ရေးတဲ့ဟာ.md",
-    "BIT/Data Engineering/Data X/Data Transport.md",
-    "BIT/Data Engineering/Data X/Transport By Wave.md",
+    "IT/Computer Science/Programming/Programming Languages/👧Julia.md",
+    "IT/Computer Science/Programming/Programming Languages/☧Programming Languages.md",
+    "IT/Computer Science/Programming/Programming Languages/🎯Dart.md",
+    "IT/Computer Science/Programming/Programming Languages/🦫GO Lang.md",
+    "IT/Computer Science/Programming/Programming Languages/📜Java Script.md",
+    "IT/Computer Science/Programming/Programming Languages/Python/🐍Python.md",
+    "IT/Computer Science/Programming/☧Programming.md",
+    "IT/Computer Science/Computer Science.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Architectural Patterns/Architectural Patterns.md",
+    "IT/Computer Science/Programming/☧Programming Pardadigms.md",
+    "IT/Computer Science/Programming/OOP/👾☧ OOP Object Oriented Programming.md",
+    "IT/Database/Database Engineering/B Tree.md",
+    "IT/Database/Database Engineering/Database Engineering.md",
+    "BIT/System Engineering/Software Engineering/Optimization/System Design Level Optimization.md",
+    "BIT/System Engineering/Software Engineering/Optimization/Levels of 🖥Optimization.md",
+    "BIT/System Engineering/Software Engineering/Optimization/Runtime Level Optimization.md",
+    "BIT/System Engineering/Software Engineering/Optimization/🖥📈SE Optimization.md",
+    "BIT/System Engineering/Software Engineering/Optimization/Build Level Optimization.md",
+    "BIT/System Engineering/Software Engineering/Optimization/Big O Notation.png",
+    "BIT/System Engineering/Software Engineering/Optimization/Big O Notation.md",
+    "BIT/System Engineering/Software Engineering/Optimization/DSA Level Optimization.md",
+    "BIT/System Engineering/Software Engineering/System Design.md",
+    "IT/Computer Science/DSA/Data-Structure and Algorithm.md",
+    "IT/Computer Science/DSA/DataStructure/Data-Structure.md",
+    "BIT/System Engineering/Software Engineering/SE Scaling/SE Scaling.md",
+    "BIT/System Engineering/Software Engineering/Optimization",
+    "BIT/System Engineering/Software Engineering/Software Engineering.md",
+    "BIT/System Engineering/System Engineering Subfields.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software/Runtime Environmnets",
+    "Input Output(I",
+    "IT/Operation Systems/OS Concepts/Multithreading.png",
+    "IT/Operation Systems/Ubuntu Commands",
     "IT/💻 Hardware",
     "Hard",
-    "BIT/System Engineering/Software Engineering/Software Development/Software/💻 Software.md",
-    "IT/💻 Hardware/Memory/👻Memory RAM.md",
-    "IT/💻 Hardware/Memory/OS Memeory Management.md",
-    "IT/💻 Hardware/Memory/Paging Virtual Memory SWAP.md",
-    "IT/💻 Hardware/Memory/👻📄Page.md",
-    "IT/OSI/3.OSI Network Layer/IT Networking/Networking Tools/Load Balancer.md",
-    "IT/OSI/3.OSI Network Layer/🐿⚖Load Balancer Cache.md",
-    "BIT/System Engineering/Software Engineering/SE Scaling/Scale Out.md",
-    "IT/💻 Hardware/Memory/🐿📄Page Cache.md",
-    "IT/💻 Hardware/🐿🔳CPU Cache.md",
-    "IT/OSI/1.OSI Physical Layer/Memory/👻Page Table.md",
     "Business/Administration/Operation Management/Performance Measurement",
     "Business/Administration/Operation Management/Performance Measurement/KPI",
     "Business/Change Management/Team Change/Team Change Models/BIon_Model.pdf",
     "Business/Change Management/Team Change/Team Change Models/Nalbone_Mind_Bion_Psychoanalysis.pdf",
-    "Business/Administration/Operation Management/LEAN",
-    "Business/Administration/Operation Management",
-    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Principles",
-    "Business/Product and Project Management/Agile",
     "X/Notes/Skill Framework/CIO Skillset.png",
     "X/Notes/Skill Framework/Architect Skillset.png",
     "X/Notes/Skill Framework/my_ambition_path.png",
@@ -190,8 +201,6 @@
     "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Patterns/Software Design Patterns.png",
     "Business/Operational intelligence/Business Process Management.png",
     "Business/Accounting/Financial Accounting/Average Cost Method.png",
-    "X/Notes/Skill Framework/HSE Skillset.png",
-    "X/Notes/Skill Framework/SE Skillset.png",
-    "X/Notes/Skill Framework/SEA Skillset.png"
+    "X/Notes/Skill Framework/HSE Skillset.png"
   ]
 }

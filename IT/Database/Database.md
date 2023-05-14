@@ -2,7 +2,7 @@
 [[Database Design]]
 [[Database Languages]]
 [[Database Type]]
-[[ORM]]
+[[ORM (Object-Relational Mapping)]]
 
 
 

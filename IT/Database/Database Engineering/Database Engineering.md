@@ -9,4 +9,4 @@
 
 [[Database Structure]]
 
-[[B-Tree B+Tree]]
+[[B Tree]]

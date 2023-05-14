@@ -3,7 +3,7 @@
 [[Human Computer Interaction]]
 
 
-[[Organizational Studies]]
+[[Organization]]al Studies
 [[Project Management]]
 [[Process System Engineering]]
 
