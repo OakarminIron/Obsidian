@@ -3,5 +3,5 @@
 [[Odoo Accounting]]
 [[Odoo MRP]]
 
-[[Technical]]
+[[Odoo Technical]]
 [[Odoo Loyalty]]

@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "98def086e9662810",
+        "id": "938842c615706d6c",
         "type": "tabs",
         "children": [
           {
-            "id": "c91fdcba83d26126",
+            "id": "a6ebcab295a0942c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Computer Science/Programming/Programming Languages/☧Programming Languages.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Programming",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Computer Science/Programming/Programming Languages/☧Programming Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Computer Science/Programming/Programming Languages/☧Programming Languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "IT/Computer Science/Programming/Programming Languages/☧Programming Languages.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,36 +144,38 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "c91fdcba83d26126",
+  "active": "a6ebcab295a0942c",
   "lastOpenFiles": [
-    "IT/Computer Science/Programming/Programming Languages/👧Julia.md",
-    "IT/Computer Science/Programming/Programming Languages/☧Programming Languages.md",
-    "IT/Computer Science/Programming/Programming Languages/🎯Dart.md",
-    "IT/Computer Science/Programming/Programming Languages/🦫GO Lang.md",
-    "IT/Computer Science/Programming/Programming Languages/📜Java Script.md",
-    "IT/Computer Science/Programming/Programming Languages/Python/🐍Python.md",
-    "IT/Computer Science/Programming/☧Programming.md",
-    "IT/Computer Science/Computer Science.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Architectural Patterns/Architectural Patterns.md",
-    "IT/Computer Science/Programming/☧Programming Pardadigms.md",
-    "IT/Computer Science/Programming/OOP/👾☧ OOP Object Oriented Programming.md",
-    "IT/Database/Database Engineering/B Tree.md",
-    "IT/Database/Database Engineering/Database Engineering.md",
-    "BIT/System Engineering/Software Engineering/Optimization/System Design Level Optimization.md",
-    "BIT/System Engineering/Software Engineering/Optimization/Levels of 🖥Optimization.md",
-    "BIT/System Engineering/Software Engineering/Optimization/Runtime Level Optimization.md",
-    "BIT/System Engineering/Software Engineering/Optimization/🖥📈SE Optimization.md",
-    "BIT/System Engineering/Software Engineering/Optimization/Build Level Optimization.md",
+    "X/Spirituality/Religions/⚔️Norse Gods.md",
+    "X/Spirituality/Religions/Ancient Religions.md",
+    "X/Spirituality/Religions/🔱Greek Gods.md",
+    "X/Spirituality/Religions/🌔Mesopotamian Gods.md",
+    "X/Spirituality/Religions/🐈‍⬛Egypt Gods.md",
+    "X/Spirituality/Deity.md",
+    "X/Spirituality/Spirituality.md",
+    "X/Spirituality/Mythology.md",
+    "X/Spirituality/Kabbalah.md",
+    "X/Spirituality/Angels and Deamons.md",
+    "X/Spirituality/Religions/Abrahamic Religions.md",
+    "X/Spirituality/Religions/Religion.md",
+    "X/Spirituality/Religions/Indigenous Religions.md",
+    "X/Spirituality/Religions/Far Eastern Religions.md",
+    "X/Spirituality/Religions/Eastern Religions.md",
+    "X/Spirituality/Religions",
+    "Other Religions.md",
+    "Business/Administration/Organization/Organizational Culture/Uncertainty avoidance.md",
+    "Odoo/Odoo Modules/Odoo Hooks.md",
+    "Odoo/Odoo Modules/Odoo Technical.md",
+    "Odoo/Odoo Modules/Odoo Modules.md",
+    "Odoo/Odoo.md",
+    "Odoo/Odoo Backend/OdooBackend.md",
+    "Science/Natural Science/Biology/Hormones/🧬Hormones.md",
+    "Science/Natural Science/Biology/Hormones/Sleep Hormones.md",
+    "Science/Natural Science/Biology/Hormones/Epithalamin.md",
+    "Science/Natural Science/Biology/Hormones/Arginine Vasotocin.md",
+    "Proteins",
     "BIT/System Engineering/Software Engineering/Optimization/Big O Notation.png",
-    "BIT/System Engineering/Software Engineering/Optimization/Big O Notation.md",
-    "BIT/System Engineering/Software Engineering/Optimization/DSA Level Optimization.md",
-    "BIT/System Engineering/Software Engineering/System Design.md",
-    "IT/Computer Science/DSA/Data-Structure and Algorithm.md",
-    "IT/Computer Science/DSA/DataStructure/Data-Structure.md",
-    "BIT/System Engineering/Software Engineering/SE Scaling/SE Scaling.md",
     "BIT/System Engineering/Software Engineering/Optimization",
-    "BIT/System Engineering/Software Engineering/Software Engineering.md",
-    "BIT/System Engineering/System Engineering Subfields.md",
     "BIT/System Engineering/Software Engineering/Software Development/Software/Runtime Environmnets",
     "Input Output(I",
     "IT/Operation Systems/OS Concepts/Multithreading.png",
@@ -192,8 +184,6 @@
     "Hard",
     "Business/Administration/Operation Management/Performance Measurement",
     "Business/Administration/Operation Management/Performance Measurement/KPI",
-    "Business/Change Management/Team Change/Team Change Models/BIon_Model.pdf",
-    "Business/Change Management/Team Change/Team Change Models/Nalbone_Mind_Bion_Psychoanalysis.pdf",
     "X/Notes/Skill Framework/CIO Skillset.png",
     "X/Notes/Skill Framework/Architect Skillset.png",
     "X/Notes/Skill Framework/my_ambition_path.png",

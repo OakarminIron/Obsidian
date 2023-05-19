@@ -1,0 +1,4 @@
+[[🕉️Hinduism]]
+[[☸️Buddhism]]
+[[☬Sikhism]]
+[[🌿Jainism]]

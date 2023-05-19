@@ -1,0 +1,6 @@
+[[Ancient Religions]]
+[[Abrahamic Religions]]
+[[Eastern Religions]]
+[[Indigenous Religions]]
+[[Far Eastern Religions]]
+[[Other Religions]]

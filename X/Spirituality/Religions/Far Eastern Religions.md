@@ -1,0 +1,3 @@
+[[☯️Taoism]]
+[[☯📖Confucianism]]
+[[⛩️Shintoism]]
