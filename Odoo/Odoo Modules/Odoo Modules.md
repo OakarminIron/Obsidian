@@ -1,5 +1,5 @@
-[[Main]]
-[[Support]]
+[[Odoo Main Modules]]
+[[Odoo Support Modules]]
 [[Odoo Accounting]]
 [[Odoo MRP]]
 

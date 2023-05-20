@@ -1,6 +1,6 @@
 [[🐍Python]]
 [[☕Java]]
-[[📜Java Script]]
+[[📜JavaScript]]
 [[🛑Ruby]]
 [[🦀Rust]]
 [[🐘PHP]]

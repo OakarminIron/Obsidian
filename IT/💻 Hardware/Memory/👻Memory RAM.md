@@ -1,3 +1,3 @@
 Volatile
-[[Memory Management]]
+[[👻Memory Management]]
 [[RAM Level]]

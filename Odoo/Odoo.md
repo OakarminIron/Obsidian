@@ -1,8 +1,8 @@
 [[Odoo Install]]
 
-[[Odoo Frontend]]
+[[Odoo Front-end]]
 
-[[OdooBackend]]
+[[Odoo Back-end]]
 
 [[Odoo Modules]]
 

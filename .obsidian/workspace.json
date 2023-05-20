@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "938842c615706d6c",
+        "id": "23b72e3250355773",
         "type": "tabs",
         "children": [
           {
-            "id": "a6ebcab295a0942c",
+            "id": "1c45984512969a00",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -69,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -144,53 +145,53 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "a6ebcab295a0942c",
+  "active": "1c45984512969a00",
   "lastOpenFiles": [
-    "X/Spirituality/Religions/⚔️Norse Gods.md",
-    "X/Spirituality/Religions/Ancient Religions.md",
-    "X/Spirituality/Religions/🔱Greek Gods.md",
-    "X/Spirituality/Religions/🌔Mesopotamian Gods.md",
-    "X/Spirituality/Religions/🐈‍⬛Egypt Gods.md",
-    "X/Spirituality/Deity.md",
-    "X/Spirituality/Spirituality.md",
-    "X/Spirituality/Mythology.md",
-    "X/Spirituality/Kabbalah.md",
-    "X/Spirituality/Angels and Deamons.md",
-    "X/Spirituality/Religions/Abrahamic Religions.md",
-    "X/Spirituality/Religions/Religion.md",
-    "X/Spirituality/Religions/Indigenous Religions.md",
-    "X/Spirituality/Religions/Far Eastern Religions.md",
-    "X/Spirituality/Religions/Eastern Religions.md",
-    "X/Spirituality/Religions",
-    "Other Religions.md",
-    "Business/Administration/Organization/Organizational Culture/Uncertainty avoidance.md",
-    "Odoo/Odoo Modules/Odoo Hooks.md",
-    "Odoo/Odoo Modules/Odoo Technical.md",
-    "Odoo/Odoo Modules/Odoo Modules.md",
+    "Odoo/Odoo FrontEnd/Odoo Front-end.md",
+    "Odoo/Odoo FrontEnd/Context (Odoo JS).md",
     "Odoo/Odoo.md",
-    "Odoo/Odoo Backend/OdooBackend.md",
-    "Science/Natural Science/Biology/Hormones/🧬Hormones.md",
-    "Science/Natural Science/Biology/Hormones/Sleep Hormones.md",
-    "Science/Natural Science/Biology/Hormones/Epithalamin.md",
-    "Science/Natural Science/Biology/Hormones/Arginine Vasotocin.md",
-    "Proteins",
+    "Odoo/Odoo Backend/Odoo Back-end.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/🐍Frameworks/🐍Frameworks.md",
+    "IT/Computer Science/Programming/Programming Languages/Python/🐍Python.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/Software Development Frameworks.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/Flutter/Flutter.md",
+    "IT/Computer Science/Programming/Programming Languages/JavaScript/📜JavaScript.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/📜Frameworks/📜Frameworks.md",
+    "IT/Computer Science/Programming/Programming Languages/🎯Dart.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/📜Frameworks/🖖Vue.js.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/📜Frameworks/⚛️React.js.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/📜Frameworks",
+    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/🐍Frameworks",
+    "BIT/System Engineering/Software Engineering/Software Development/Software Development.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Architecture/Software Development Architecture.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software Development Process.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software Development Process Methodologies.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Frameworks",
+    "BIT/System Engineering/Software Engineering/Software Development/Software/💻 Software.md",
+    "IT/Computer Science/AI/AI Platforms/Chatbots.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/Bootstrap/Bootstrap.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/Runtime Environmnets/Runtime Environments.md",
+    "IT/Computer Science/AI/AI Platforms/AI Platforms.md",
+    "IT/Computer Science/AI/AI Sub-Fields.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/FavApp/DHIS2/DHIS2 Project Structure/dhis-services.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/FavApp/DHIS2/DHIS2 Project Structure/DHIS Project Struecutre.png",
+    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/FavApp/DHIS2/Apps/Tracker Capture App.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/FavApp/DHIS2/Apps/Secure Login.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/FavApp/DHIS2/DHIS2 Project Structure",
+    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/FavApp/DHIS2/Apps",
+    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/FavApp/DHIS2",
+    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/FavApp",
+    "IT/Computer Science/Programming/Programming Languages/☧",
+    "IT/Computer Science/Programming/Programming Languages/JavaScript",
+    "Science/Interdisciplinary Science",
     "BIT/System Engineering/Software Engineering/Optimization/Big O Notation.png",
-    "BIT/System Engineering/Software Engineering/Optimization",
-    "BIT/System Engineering/Software Engineering/Software Development/Software/Runtime Environmnets",
-    "Input Output(I",
     "IT/Operation Systems/OS Concepts/Multithreading.png",
-    "IT/Operation Systems/Ubuntu Commands",
-    "IT/💻 Hardware",
-    "Hard",
-    "Business/Administration/Operation Management/Performance Measurement",
-    "Business/Administration/Operation Management/Performance Measurement/KPI",
     "X/Notes/Skill Framework/CIO Skillset.png",
     "X/Notes/Skill Framework/Architect Skillset.png",
     "X/Notes/Skill Framework/my_ambition_path.png",
     "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Patterns/Software Design Patterns.png",
     "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Patterns/Software Design Patterns.png",
     "Business/Operational intelligence/Business Process Management.png",
-    "Business/Accounting/Financial Accounting/Average Cost Method.png",
-    "X/Notes/Skill Framework/HSE Skillset.png"
+    "Business/Accounting/Financial Accounting/Average Cost Method.png"
   ]
 }

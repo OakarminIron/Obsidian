@@ -1,4 +1,4 @@
-Capitalism is an economic system in which private individuals or businesses own capital goods. At the same time, business owners (capitalists) employ workers (labor) who only receive wages; labor does not own the means of production but only uses them on behalf of the owners of [[capital]].
+Capitalism is an economic system in which private individuals or businesses own capital goods. At the same time, business owners (capitalists) employ workers (labor) who only receive wages; labor does not own the means of production but only uses them on behalf of the owners of [[Capital]].
 
 The production of goods and services under capitalism is based on supply and demand in the general market—known as a [[Market economy]]
 

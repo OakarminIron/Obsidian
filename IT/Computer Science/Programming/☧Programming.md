@@ -1,5 +1,7 @@
 
 [[☧Programming Languages]]
+[[☧Operators]]
+
 
 [[☧Programming Pardadigms]]
 

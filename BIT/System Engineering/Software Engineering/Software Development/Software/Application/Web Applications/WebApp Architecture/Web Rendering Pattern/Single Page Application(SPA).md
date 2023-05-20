@@ -1,3 +1,3 @@
 [[Flask]]
 [[Singular.js]]
-[[React.js]]
+[[⚛️React.js]]

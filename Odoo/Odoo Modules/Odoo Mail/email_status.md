@@ -1,5 +1,0 @@
-[[ready]]
-[[sent]]
-[[bounce]]
-[[exception]]
-[[canceled]]

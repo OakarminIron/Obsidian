@@ -1,1 +1,1 @@
-[[email_status]]
+[[🟣email_status]]

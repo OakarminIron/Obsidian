@@ -1,4 +1,4 @@
-[[Odoo Product]]
+[[🟣Product]]
 [[Odoo Warehouse and Locations]]
 
 

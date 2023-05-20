@@ -1,7 +1,0 @@
-[[DHIS2 Data Entry]]
-[[DHIS2 Capture App]] 
-[[DHIS2 Data Approval]]
-[[DHIS2 Data Quality]]
-[[DHIS2 Data Visualization]] 
-[[DHIS2 Data Exchange]]
-[[DHIS2 Data Import]] 
