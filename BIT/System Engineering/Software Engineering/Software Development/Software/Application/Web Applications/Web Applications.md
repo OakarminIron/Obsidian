@@ -1,6 +1,8 @@
-[[WebApp Architecture]]
+[[Web-App  Architecture]]
 
-[[WA Component]]
+[[Web-App Component]]
 
 [[Web Rendering Pattern]]
+
+[[🧭Web Browser]]
 

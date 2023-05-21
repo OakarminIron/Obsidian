@@ -2,7 +2,7 @@ An architectural pattern can be called an outline that allows you to express and
 
 Even though an architectural pattern is a rough image or blueprint of your system, it’s not the actual architecture. Instead, it’s a concept that helps you to understand the elements of software architecture. There can be countless pieces of architecture that implement the same pattern. That’s why patterns are known as “strictly described and commonly utilized.” The success of the system depends on software architecture selection. 
 
-Famous examples of architectural patterns are micro-services, message bus, service requester/ consumer, MVC pattern, MVVM, Micro-kernel, n-tier, domain-driven design components, and presentation-abstraction-control.
+Famous examples of architectural patterns are Microservices, message bus, service requester/ consumer, MVC pattern, MVVM, Micro-kernel, n-tier, domain-driven design components, and presentation-abstraction-control.
 https://www.simform.com/blog/software-architecture-patterns/
 https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns
 

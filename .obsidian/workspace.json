@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "23b72e3250355773",
+        "id": "360d6a3f3c254b97",
         "type": "tabs",
         "children": [
           {
-            "id": "1c45984512969a00",
+            "id": "f04b63bc200c1371",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -145,8 +145,16 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "1c45984512969a00",
+  "active": "f04b63bc200c1371",
   "lastOpenFiles": [
+    "Odoo/Odoo FrontEnd/OWL/🦉OWL Framework.md",
+    "Odoo/Odoo FrontEnd/Odoo JavaScript/🟣📜Class.md",
+    "Odoo/Odoo FrontEnd/Odoo JavaScript/🟣📜Widget Lifecycle.md",
+    "Odoo/Odoo FrontEnd/Odoo JavaScript/🟣📜Widget.md",
+    "Odoo/Odoo FrontEnd/Odoo JavaScript/🟣📜Odoo JavaScript.md",
+    "Odoo/Odoo FrontEnd/Odoo JavaScript/🟣📜Assets.md",
+    "Odoo/Odoo FrontEnd/Odoo JavaScript/🟣📜Web Client.md",
+    "Odoo/Odoo FrontEnd/OWL/🦉OWL Hooks.md",
     "Odoo/Odoo FrontEnd/Odoo Front-end.md",
     "Odoo/Odoo FrontEnd/Context (Odoo JS).md",
     "Odoo/Odoo.md",
@@ -168,15 +176,7 @@
     "BIT/System Engineering/Software Engineering/Software Development/Software Development Process Methodologies.md",
     "BIT/System Engineering/Software Engineering/Software Development/Frameworks",
     "BIT/System Engineering/Software Engineering/Software Development/Software/💻 Software.md",
-    "IT/Computer Science/AI/AI Platforms/Chatbots.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/Bootstrap/Bootstrap.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/Runtime Environmnets/Runtime Environments.md",
-    "IT/Computer Science/AI/AI Platforms/AI Platforms.md",
-    "IT/Computer Science/AI/AI Sub-Fields.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/FavApp/DHIS2/DHIS2 Project Structure/dhis-services.md",
     "BIT/System Engineering/Software Engineering/Software Development/Software/Application/FavApp/DHIS2/DHIS2 Project Structure/DHIS Project Struecutre.png",
-    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/FavApp/DHIS2/Apps/Tracker Capture App.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/FavApp/DHIS2/Apps/Secure Login.md",
     "BIT/System Engineering/Software Engineering/Software Development/Software/Application/FavApp/DHIS2/DHIS2 Project Structure",
     "BIT/System Engineering/Software Engineering/Software Development/Software/Application/FavApp/DHIS2/Apps",
     "BIT/System Engineering/Software Engineering/Software Development/Software/Application/FavApp/DHIS2",

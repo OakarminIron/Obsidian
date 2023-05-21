@@ -5,4 +5,6 @@
 [[🟢Node.js]]
 [[Backbone.js]]
 [[Singular.js]]
-[[OWL Framework 🦉]]
+
+
+[[🟣📜Odoo JavaScript]]

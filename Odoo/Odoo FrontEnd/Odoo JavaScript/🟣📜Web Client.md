@@ -1,0 +1,8 @@
+-   _boot.js_: this is the file that defines the module system. It needs to be loaded first.    
+-   _core/_: this is a collection of lower level building blocks. Notably, it contains the class system, the widget system, concurrency utilities, and many other class/functions.    
+-   _chrome/_: in this folder, we have most large widgets which make up most of the user interface.    
+-   _chrome/abstract_web_client.js_ and _chrome/web_client.js_: together, these files define the Web Client widget, which is the root widget for the web client.    
+-   _chrome/action_manager.js_: this is the code that will convert an action into a widget (for example a Kanban or a form view)    
+-   _chrome/search_X.js_ all these files define the search view (it is not a view in the point of view of the web client, only from the server point of view)    
+-   _fields_: all main view field widgets are defined here    
+-   _views_: this is where the views are located

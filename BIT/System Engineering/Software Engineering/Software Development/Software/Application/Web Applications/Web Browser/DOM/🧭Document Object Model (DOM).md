@@ -5,3 +5,6 @@ The DOM represents a document with a logical tree. Each branch of the tree ends 
 Nodes can also have event handlers attached to them. Once an event is triggered, the event handlers get executed.
 
 [[Virtual DOM]]
+[[Shadow DOM]]
+[[DOM Tree Structure]]
+[[DOM and JavaScript]]

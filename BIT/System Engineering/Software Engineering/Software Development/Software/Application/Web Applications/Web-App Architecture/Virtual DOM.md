@@ -15,4 +15,4 @@ Different libraries may have their own implementations and optimizations for man
 
 [[⚛️React.js]]
 [[🖖Vue.js]]
-[[OWL Framework 🦉]]
+[[🦉OWL Framework]]

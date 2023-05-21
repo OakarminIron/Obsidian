@@ -1,0 +1,21 @@
+- class
+	- It provides a function returning a list of all file paths declared in a given list of addons (see _get_addon_paths)
+	- It allows to create ‘ir.asset’ records to add additional directives to certain bundles.
+- name : Name of the asset record (for identification purpose).
+- bundle: Bundle in which the asset will be applied.
+- directive
+	- append: path
+	- prepend: path
+	- before: target, path
+	- after: target, path
+	- include: path (interpreted as a bundle name)
+	- remove: path (interpreted as a target asset to remove)
+	- replace: target, path
+- path: A string defining one of the following:
+	- a relative path to an asset file in the addons file system;
+	- a glob pattern to a set of asset files in the addons file system;
+	- a URL to an attachment or external asset file;
+	- a bundle name, when using the include directive
+- target : Target file to specify a position in the bundle. Can only be used with the directives `replace`, `before` and `after`.
+- active : Whether the record is active
+- sequence: Loading order of the asset records (ascending).
