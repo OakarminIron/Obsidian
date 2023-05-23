@@ -1,5 +1,14 @@
 [[Odoo/Odoo Install/Odoo Install U/launch.json]]
 [[O12eP3.8.code-workspace]]
-[[odoo.py]]
 [[odoo.conf]]
+
+```
+#!/usr/bin/python3
+# set server timezone in UTC before time module imported
+__import__('os').environ['TZ'] = 'UTC'
+import odoo
+
+if __name__ == "__main__":
+    odoo.cli.main()
+```
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "360d6a3f3c254b97",
+        "id": "940cd9cacee8cfa2",
         "type": "tabs",
         "children": [
           {
-            "id": "f04b63bc200c1371",
+            "id": "eeaaf485250b3674",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -129,24 +129,38 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "baf977f421744c20",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "janitor:Janitor: scan vault": false,
       "graph:Open graph view": false,
       "templates:Insert template": true,
       "command-palette:Open command palette": false,
-      "switcher:Open quick switcher": false
+      "switcher:Open quick switcher": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f04b63bc200c1371",
+  "active": "84f99556e2273341",
   "lastOpenFiles": [
+    "xxx.md",
+    "Odoo/Odoo Install/Odoo Install U/Odoo Install U.md",
+    "Odoo/Odoo Install/Odoo Install U/odoo",
     "Odoo/Odoo FrontEnd/OWL/🦉OWL Framework.md",
     "Odoo/Odoo FrontEnd/Odoo JavaScript/🟣📜Class.md",
     "Odoo/Odoo FrontEnd/Odoo JavaScript/🟣📜Widget Lifecycle.md",
@@ -173,9 +187,7 @@
     "BIT/System Engineering/Software Engineering/Software Development/Software Development.md",
     "BIT/System Engineering/Software Engineering/Software Development/Architecture/Software Development Architecture.md",
     "BIT/System Engineering/Software Engineering/Software Development/Software Development Process.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software Development Process Methodologies.md",
     "BIT/System Engineering/Software Engineering/Software Development/Frameworks",
-    "BIT/System Engineering/Software Engineering/Software Development/Software/💻 Software.md",
     "BIT/System Engineering/Software Engineering/Software Development/Software/Application/FavApp/DHIS2/DHIS2 Project Structure/DHIS Project Struecutre.png",
     "BIT/System Engineering/Software Engineering/Software Development/Software/Application/FavApp/DHIS2/DHIS2 Project Structure",
     "BIT/System Engineering/Software Engineering/Software Development/Software/Application/FavApp/DHIS2/Apps",
@@ -183,7 +195,6 @@
     "BIT/System Engineering/Software Engineering/Software Development/Software/Application/FavApp",
     "IT/Computer Science/Programming/Programming Languages/☧",
     "IT/Computer Science/Programming/Programming Languages/JavaScript",
-    "Science/Interdisciplinary Science",
     "BIT/System Engineering/Software Engineering/Optimization/Big O Notation.png",
     "IT/Operation Systems/OS Concepts/Multithreading.png",
     "X/Notes/Skill Framework/CIO Skillset.png",
