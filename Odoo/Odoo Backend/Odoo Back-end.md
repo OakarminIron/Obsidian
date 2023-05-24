@@ -1,16 +1,9 @@
 
-[[Odoo ORM]]
-
-[[Odoo Web Controllers]]
-[[Odoo IR]]
-[[Odoo Views]]
-
-[[Odoo Actions]]
-
-[[Odoo Filter]]
+[[🟣Odoo ORM]]
+[[🟣IR]]
+[[🐍Python]]
 
 
 
-This filters apply to both ODOO Models and Odoo Menus
 
 

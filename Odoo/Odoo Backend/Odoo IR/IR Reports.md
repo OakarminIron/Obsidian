@@ -1,0 +1,2 @@
+IR Reports define the structure and layout of printable documents generated in Odoo, such as invoices, delivery orders, or sales reports. They combine data from the database with predefined templates to generate formatted PDF or HTML documents.
+[[ir.actions.report]]

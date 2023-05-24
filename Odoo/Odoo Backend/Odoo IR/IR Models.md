@@ -1,0 +1,1 @@
+IR Models define the structure and behavior of database tables in Odoo. They describe the fields, relationships, constraints, and other attributes of different objects (e.g., customers, products) managed by the system. IR Models are defined using Python classes and provide a structured way to define and manipulate data in Odoo.

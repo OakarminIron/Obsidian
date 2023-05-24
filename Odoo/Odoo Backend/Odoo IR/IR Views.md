@@ -1,0 +1,1 @@
+IR Views define the structure and presentation of data in Odoo's user interface. They determine how records are displayed in different views, such as form views, tree views, kanban views, and search views. IR Views are defined using XML and control the layout, fields, and widgets used to interact with data.

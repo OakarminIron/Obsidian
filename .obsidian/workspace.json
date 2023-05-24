@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "940cd9cacee8cfa2",
+        "id": "47ccbe3495c0eaa3",
         "type": "tabs",
         "children": [
           {
-            "id": "eeaaf485250b3674",
+            "id": "b9d56ce1c66632e8",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -45,7 +45,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -69,12 +69,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 387.5
+    "width": 443.5
   },
   "right": {
     "id": "3006c11dd36dd12a",
@@ -139,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -153,40 +152,47 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "canvas:Create new canvas": false
     }
   },
-  "active": "84f99556e2273341",
+  "active": "b9d56ce1c66632e8",
   "lastOpenFiles": [
-    "xxx.md",
-    "Odoo/Odoo Install/Odoo Install U/Odoo Install U.md",
-    "Odoo/Odoo Install/Odoo Install U/odoo",
-    "Odoo/Odoo FrontEnd/OWL/🦉OWL Framework.md",
-    "Odoo/Odoo FrontEnd/Odoo JavaScript/🟣📜Class.md",
-    "Odoo/Odoo FrontEnd/Odoo JavaScript/🟣📜Widget Lifecycle.md",
-    "Odoo/Odoo FrontEnd/Odoo JavaScript/🟣📜Widget.md",
-    "Odoo/Odoo FrontEnd/Odoo JavaScript/🟣📜Odoo JavaScript.md",
-    "Odoo/Odoo FrontEnd/Odoo JavaScript/🟣📜Assets.md",
-    "Odoo/Odoo FrontEnd/Odoo JavaScript/🟣📜Web Client.md",
-    "Odoo/Odoo FrontEnd/OWL/🦉OWL Hooks.md",
-    "Odoo/Odoo FrontEnd/Odoo Front-end.md",
-    "Odoo/Odoo FrontEnd/Context (Odoo JS).md",
-    "Odoo/Odoo.md",
+    "Odoo/Odoo Backend/Odoo IR/IR Models.md",
+    "Odoo/Odoo Backend/Odoo IR/IR Reports.md",
+    "Odoo/Odoo Backend/Odoo IR/🟣IR.md",
+    "Odoo/Odoo Backend/Odoo IR/IR Actions.md",
+    "Odoo/Odoo Backend/IR Filters.md",
+    "Odoo/Odoo Backend/Odoo IR/IR Rule.md",
+    "Odoo/Odoo Backend/Odoo IR/IR Views.md",
     "Odoo/Odoo Backend/Odoo Back-end.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/🐍Frameworks/🐍Frameworks.md",
+    "Odoo/Odoo Backend/Odoo ORM/🟣Odoo ORM.md",
+    "Odoo/Odoo Backend/Odoo ORM/🟣Data Structure.md",
+    "Odoo/Odoo Backend/Odoo ORM/🟣Method Decorators.md",
+    "Odoo/Odoo Backend/Odoo ORM/🟣Registry.md",
+    "Odoo/Odoo Backend/Odoo ORM/🟣Records-set.md",
+    "Odoo/Odoo Backend/Odoo ORM/🟣Record Cache.md",
+    "Odoo/Odoo Backend/Odoo ORM/🟣Methods.md",
+    "Odoo/Odoo Backend/Odoo ORM/🟣Fields to Trigger.md",
+    "Odoo/Odoo Backend/Odoo ORM/🟣Fields to Write.md",
+    "Odoo/Odoo Backend/Odoo ORM/🟣Fields to Compute.md",
+    "Odoo/Odoo FrontEnd/Odoo JavaScript/🟣📜Bundles.md",
+    "Odoo/Odoo Modules/Odoo Inventory/Odoo Logistic.md",
+    "Odoo/Odoo Modules/Odoo Inventory/Odoo Inventory.md",
+    "Odoo/Odoo Modules/Odoo Main Modules.md",
+    "Odoo/Odoo Modules/Odoo Modules.md",
+    "Odoo/Odoo.md",
     "IT/Computer Science/Programming/Programming Languages/Python/🐍Python.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/Software Development Frameworks.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/Flutter/Flutter.md",
-    "IT/Computer Science/Programming/Programming Languages/JavaScript/📜JavaScript.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/📜Frameworks/📜Frameworks.md",
-    "IT/Computer Science/Programming/Programming Languages/🎯Dart.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/📜Frameworks/🖖Vue.js.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/📜Frameworks/⚛️React.js.md",
+    "IT/Computer Science/Programming/Programming Languages/☧/☧Operators/☧Operators.md",
+    "IT/Computer Science/Programming/Programming Languages/☧/☧Operators/☧Comparison operators.png",
+    "IT/Computer Science/Programming/Programming Languages/☧/☧Operators/☧Bitwise operators.png",
+    "IT/Computer Science/Programming/Programming Languages/☧/☧Operators/☧Assignment operators.png",
+    "IT/Computer Science/Programming/Programming Languages/Python/🐍Data Structures",
+    "IT/Computer Science/Programming/Programming Languages/Python/🐍Data Structures/🐍Data Structure.png",
+    "🐍Data Structure.canvas",
+    "Odoo/Odoo Install/Odoo Install U/odoo",
     "BIT/System Engineering/Software Engineering/Software Development/Frameworks/📜Frameworks",
     "BIT/System Engineering/Software Engineering/Software Development/Frameworks/🐍Frameworks",
-    "BIT/System Engineering/Software Engineering/Software Development/Software Development.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Architecture/Software Development Architecture.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software Development Process.md",
     "BIT/System Engineering/Software Engineering/Software Development/Frameworks",
     "BIT/System Engineering/Software Engineering/Software Development/Software/Application/FavApp/DHIS2/DHIS2 Project Structure/DHIS Project Struecutre.png",
     "BIT/System Engineering/Software Engineering/Software Development/Software/Application/FavApp/DHIS2/DHIS2 Project Structure",
@@ -194,15 +200,10 @@
     "BIT/System Engineering/Software Engineering/Software Development/Software/Application/FavApp/DHIS2",
     "BIT/System Engineering/Software Engineering/Software Development/Software/Application/FavApp",
     "IT/Computer Science/Programming/Programming Languages/☧",
-    "IT/Computer Science/Programming/Programming Languages/JavaScript",
     "BIT/System Engineering/Software Engineering/Optimization/Big O Notation.png",
     "IT/Operation Systems/OS Concepts/Multithreading.png",
     "X/Notes/Skill Framework/CIO Skillset.png",
     "X/Notes/Skill Framework/Architect Skillset.png",
-    "X/Notes/Skill Framework/my_ambition_path.png",
-    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Patterns/Software Design Patterns.png",
-    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Patterns/Software Design Patterns.png",
-    "Business/Operational intelligence/Business Process Management.png",
-    "Business/Accounting/Financial Accounting/Average Cost Method.png"
+    "X/Notes/Skill Framework/my_ambition_path.png"
   ]
 }
