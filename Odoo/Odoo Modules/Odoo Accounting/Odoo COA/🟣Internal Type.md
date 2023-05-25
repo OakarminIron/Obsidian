@@ -2,4 +2,4 @@ Liquidity
 Regular
 Payable
 Receiable
-![[COA Account Types.png]]
+![[🟣COA Account Types.png]]

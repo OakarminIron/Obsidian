@@ -1,3 +1,2 @@
-[[Fleet Operations]]
-
-[[Fleet Costs]]
+[[🟣Fleet Operations]]
+[[🟣Fleet Costs]]

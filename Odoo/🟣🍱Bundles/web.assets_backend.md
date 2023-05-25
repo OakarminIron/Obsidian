@@ -1,0 +1,1 @@
+This bundle contains specific code for the web client (specifically his web client/action manager/view).

@@ -1,0 +1,1 @@
+This bundle contains specific code for the public website (specifically for eCommerce, portal, forum, blog, etc.).

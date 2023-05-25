@@ -1,3 +1,3 @@
 [[Odoo POS IOT]]
-[[Barcode]]
+[[🟣Bar-code]]
 [[Cash Rounding]]

@@ -1,4 +1,4 @@
-Statement of Finanicial Position
+Statement of Financial Position
 
 [[Assets]] = [[Liabilities]] + [[Equity]]
 

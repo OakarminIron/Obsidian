@@ -1,1 +1,0 @@
-The[[ir.actions.act_window]] and [[ir.actions.client]] support an optional context field. This field is a char that represents an object. Whenever the corresponding action is loaded in the web client, this context field will be evaluated as an object and given to the component that corresponds to the action.

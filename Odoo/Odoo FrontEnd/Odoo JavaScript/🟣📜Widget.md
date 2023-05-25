@@ -3,8 +3,8 @@ The _Widget_ class is really an important building block of the user interface
 In short, the features provided by the Widget class include:
 
 -   parent/child relationships between widgets (_PropertiesMixin_)    
--   extensive lifecycle management with safety features (e.g. automatically destroying children widgets during the destruction of a parent)    
--   automatic rendering with qweb    
+-   extensive life-cycle management with safety features (e.g. automatically destroying children widgets during the destruction of a parent)    
+-   automatic rendering with QWEB    
 -   various utility functions to help interacting with the outside environment.
 
 ```
@@ -26,5 +26,5 @@ var Counter = Widget.extend({
 });
 ```
 
-[[🟣📜Widget Lifecycle]]
+[[🟣📜Widget Life-cycle]]
 

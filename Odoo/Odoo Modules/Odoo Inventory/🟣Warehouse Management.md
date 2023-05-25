@@ -1,5 +1,5 @@
 [[🟣Product]]
-[[Odoo Warehouse and Locations]]
+[[🟣🏬Warehouse and Locations]]
 
 
 [[Odoo Inventory Adjustment]]

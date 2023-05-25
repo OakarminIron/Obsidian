@@ -1,0 +1,7 @@
+[[🟣Vendor Selection]]
+[[🟣Quotation]]
+[[🟣Lead Time]]
+[[🟣Requisition]]
+[[🟣Auto Purchase]]
+[[🟣Purchase Blanket Orders]]
+[[🟣Purchase Tenders]]

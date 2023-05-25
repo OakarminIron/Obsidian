@@ -4,6 +4,6 @@
 
 
 
-[[COA Category]]
-[[COA Internal Type]]
+[[🟣Category]]
+[[🟣Internal Type]]
 [[account.account]]

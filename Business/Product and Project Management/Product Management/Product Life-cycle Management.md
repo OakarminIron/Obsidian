@@ -5,4 +5,4 @@ In industry, product life-cycle management (PLM) is the process of managing the 
 
 
 
-[[Odoo PLM]]
+[[🟣 Product Life-cycle Management]]

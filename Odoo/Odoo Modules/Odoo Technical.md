@@ -1,3 +1,3 @@
-[[Odoo Authenication]]
+[[🟣Authentication]]
 [[Odoo Mail]]
 [[Odoo Hooks]]

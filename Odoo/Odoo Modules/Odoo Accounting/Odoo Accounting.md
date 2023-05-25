@@ -1,4 +1,4 @@
-[[Odoo COA]]
+[[🟣COA]]
 [[Odoo Accounting Others]]
 [[Odoo Account Flow]]
 
