@@ -39,3 +39,4 @@ EC2 Dedicated Hosts
 	• For companies that have strong regulatory or compliance needs
 ![[ec2 types.png]]
 
+[[EC2Root]]

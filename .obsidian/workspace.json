@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "df87346dc6adbcdb",
+        "id": "faac0b122e71e8f2",
         "type": "tabs",
         "children": [
           {
-            "id": "e3e54244f725e036",
+            "id": "7bbd609dc72e3f64",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -156,8 +156,12 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "e3e54244f725e036",
+  "active": "0b3082fbbf3daff6",
   "lastOpenFiles": [
+    "X/Notes/Notes.md",
+    "IT/DevOps/Hosting/AWS/AWS Services/Compute/AWS EC2.md",
+    "X/Notes/EC2Root.md",
+    "IT/DevOps/Hosting/AWS/AWS Services/Compute/AWS Compute.md",
     "Odoo/Odoo Modules/Odoo Inventory/🟣Logistic.md",
     "Odoo/Odoo Modules/Odoo Inventory/🟣Inventory.md",
     "Odoo/Odoo Modules/Odoo Inventory/🟣Warehouse Management.md",
@@ -180,10 +184,6 @@
     "Odoo/Odoo Modules/Odoo Fleet/Odoo Fleet.md",
     "Odoo/Odoo Modules/Odoo CRM/🟣CRM.md",
     "Odoo/Odoo Modules/Odoo CRM/🟣CRM Pipeline.md",
-    "Odoo/Odoo Modules/Odoo CRM/🟣After-sale(Customer Care).md",
-    "Odoo/Odoo Modules/Odoo Auth/🟣Authentication.md",
-    "Odoo/Odoo Modules/Odoo Technical.md",
-    "Odoo/Odoo Modules/Odoo Hooks.md",
     "Odoo/Odoo Modules/Odoo Accounting/Odoo COA/🟣COA Account Types.png",
     "Odoo/Odoo Backend/🟣Views",
     "Untitled 1.canvas",
