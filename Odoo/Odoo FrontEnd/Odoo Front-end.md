@@ -11,3 +11,4 @@
 
 [[web.assets_frontend]]
 [[Bootstrap]]
+

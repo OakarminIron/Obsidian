@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "faac0b122e71e8f2",
+        "id": "502332f62ee3f6f7",
         "type": "tabs",
         "children": [
           {
-            "id": "7bbd609dc72e3f64",
+            "id": "770221ad64b5efeb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "widgets",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "X/Spirituality/Demons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "X/Spirituality/Demons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "X/Spirituality/Demons.md"
+              }
             }
           },
           {
@@ -158,54 +162,54 @@
   },
   "active": "0b3082fbbf3daff6",
   "lastOpenFiles": [
-    "X/Notes/Notes.md",
-    "IT/DevOps/Hosting/AWS/AWS Services/Compute/AWS EC2.md",
-    "X/Notes/EC2Root.md",
-    "IT/DevOps/Hosting/AWS/AWS Services/Compute/AWS Compute.md",
-    "Odoo/Odoo Modules/Odoo Inventory/🟣Logistic.md",
-    "Odoo/Odoo Modules/Odoo Inventory/🟣Inventory.md",
-    "Odoo/Odoo Modules/Odoo Inventory/🟣Warehouse Management.md",
-    "Odoo/Odoo Modules/Odoo Inventory/🟣🏬Warehouse and Locations.md",
-    "Odoo/Odoo Modules/Odoo Inventory/🟣🏬Location Types.md",
-    "Odoo/Odoo Modules/Odoo Main Modules.md",
-    "Odoo/Odoo Modules/Odoo Purchase/🟣Purchase.md",
-    "Odoo/Odoo Modules/Odoo Sales/🟣Purchase.md",
-    "Odoo/Odoo Modules/Odoo Sales/🟣Sales.md",
-    "Odoo/Odoo Modules/Odoo Modules.md",
-    "Odoo/Odoo FrontEnd/Odoo JavaScript/OWL/🦉OWL Framework.md",
-    "Odoo/Odoo FrontEnd/Odoo JavaScript/🟣📜Odoo JavaScript.md",
-    "Odoo/Odoo FrontEnd/Odoo JavaScript/🟣📜Widget Life-cycle.md",
+    "72 Demons.png",
+    "Science/Social Science/Sociology/Power/Power.md",
+    "X/Spirituality/Demons.md",
+    "X/Spirituality/👼Angels and Demons👹.md",
+    "Odoo/Odoo Controllers/🟣🎛️API🚡.md",
+    "Odoo/Odoo Controllers/🟣🎛️HTTP route.md",
+    "Odoo/Odoo Controllers",
+    "Odoo/Odoo Controllers/🟣🎛️Controller Class.md",
+    "Odoo/Odoo Controllers/🟣Web Controllers🎛️.md",
+    "Odoo/Odoo FrontEnd/QWeb/🟣QWeb.md",
+    "Odoo/Odoo Controllers/🟣QWeb Template.md",
+    "Odoo/Odoo FrontEnd/Odoo Front-end.md",
+    "Odoo/Odoo Backend/Odoo Back-end.md",
+    "Odoo/Odoo FrontEnd/🟣🍱Odoo Assets.md",
+    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️Boolean Widgets.md",
+    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️.md",
+    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️",
+    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️Other Widgets.md",
+    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️List Activity.png",
+    "Pasted image 20230527163314.png",
+    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️statusbar.png",
+    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️statinfo.png",
+    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️Selection Widgets.md",
+    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️Relationship Widgets.md",
+    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️Selection Widgets.png",
+    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️Boolean Widgets.png",
+    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️Date Widgets.md",
+    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️Date Widgets.png",
+    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️Decimal Widgets.md",
+    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️Text Widgets.md",
+    "widget=\"remaining_days\".png",
+    "Pasted image 20230527155551.png",
+    "xxx.md",
+    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️Integer Widgets.md",
+    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️Integer Widgets.png",
     "Odoo/Odoo FrontEnd/Odoo JavaScript/🟣📜Widget.md",
-    "Odoo/Odoo Backend/🟣Views/🟣Widgets.md",
-    "Odoo/Odoo Modules/Odoo Sales/🟣Restaurant🍽️.md",
-    "Odoo Restaurant.md",
-    "Odoo/Odoo Modules/Odoo Sales/🟣POS.md",
-    "Odoo/Odoo Modules/Odoo Sales/Odoo Shop.md",
-    "Odoo/Odoo Modules/Odoo Fleet/Odoo Fleet.md",
-    "Odoo/Odoo Modules/Odoo CRM/🟣CRM.md",
-    "Odoo/Odoo Modules/Odoo CRM/🟣CRM Pipeline.md",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo COA/🟣COA Account Types.png",
+    "Odoo/Odoo FrontEnd/Odoo JavaScript/🟣📜Widget Life-cycle.md",
+    "X/Notes/Notes.md",
     "Odoo/Odoo Backend/🟣Views",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Odoo/🟣🍱Bundles",
     "Odoo/Odoo FrontEnd/QWeb",
-    "IT/Computer Science/Programming/Programming Languages/☧/☧Operators/☧Comparison operators.png",
-    "IT/Computer Science/Programming/Programming Languages/☧/☧Operators/☧Bitwise operators.png",
-    "IT/Computer Science/Programming/Programming Languages/☧/☧Operators/☧Assignment operators.png",
     "IT/Computer Science/Programming/Programming Languages/Python/🐍Data Structures",
-    "IT/Computer Science/Programming/Programming Languages/Python/🐍Data Structures/🐍Data Structure.png",
     "🐍Data Structure.canvas",
     "Odoo/Odoo Install/Odoo Install U/odoo",
     "BIT/System Engineering/Software Engineering/Software Development/Frameworks/📜Frameworks",
     "BIT/System Engineering/Software Engineering/Software Development/Frameworks/🐍Frameworks",
-    "BIT/System Engineering/Software Engineering/Software Development/Frameworks",
-    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/FavApp/DHIS2/DHIS2 Project Structure/DHIS Project Struecutre.png",
-    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/FavApp/DHIS2/DHIS2 Project Structure",
-    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/FavApp/DHIS2/Apps",
-    "BIT/System Engineering/Software Engineering/Optimization/Big O Notation.png",
-    "IT/Operation Systems/OS Concepts/Multithreading.png",
-    "X/Notes/Skill Framework/CIO Skillset.png",
-    "X/Notes/Skill Framework/Architect Skillset.png"
+    "BIT/System Engineering/Software Engineering/Software Development/Frameworks"
   ]
 }
