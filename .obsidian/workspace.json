@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "502332f62ee3f6f7",
+        "id": "9ca72ce7f7a181c1",
         "type": "tabs",
         "children": [
           {
-            "id": "770221ad64b5efeb",
+            "id": "32aa7ecfbc3dc18e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "widgets",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "X/Spirituality/Demons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "X/Spirituality/Demons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "X/Spirituality/Demons.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,56 +156,56 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "0b3082fbbf3daff6",
+  "active": "32aa7ecfbc3dc18e",
   "lastOpenFiles": [
-    "72 Demons.png",
-    "Science/Social Science/Sociology/Power/Power.md",
-    "X/Spirituality/Demons.md",
-    "X/Spirituality/👼Angels and Demons👹.md",
-    "Odoo/Odoo Controllers/🟣🎛️API🚡.md",
-    "Odoo/Odoo Controllers/🟣🎛️HTTP route.md",
-    "Odoo/Odoo Controllers",
-    "Odoo/Odoo Controllers/🟣🎛️Controller Class.md",
-    "Odoo/Odoo Controllers/🟣Web Controllers🎛️.md",
-    "Odoo/Odoo FrontEnd/QWeb/🟣QWeb.md",
-    "Odoo/Odoo Controllers/🟣QWeb Template.md",
-    "Odoo/Odoo FrontEnd/Odoo Front-end.md",
-    "Odoo/Odoo Backend/Odoo Back-end.md",
-    "Odoo/Odoo FrontEnd/🟣🍱Odoo Assets.md",
-    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️Boolean Widgets.md",
-    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️.md",
-    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️",
-    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️Other Widgets.md",
-    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️List Activity.png",
-    "Pasted image 20230527163314.png",
-    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️statusbar.png",
-    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️statinfo.png",
-    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️Selection Widgets.md",
-    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️Relationship Widgets.md",
-    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️Selection Widgets.png",
-    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️Boolean Widgets.png",
-    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️Date Widgets.md",
-    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️Date Widgets.png",
-    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️Decimal Widgets.md",
-    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️Text Widgets.md",
-    "widget=\"remaining_days\".png",
-    "Pasted image 20230527155551.png",
-    "xxx.md",
-    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️Integer Widgets.md",
-    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️Integer Widgets.png",
-    "Odoo/Odoo FrontEnd/Odoo JavaScript/🟣📜Widget.md",
-    "Odoo/Odoo FrontEnd/Odoo JavaScript/🟣📜Widget Life-cycle.md",
+    "X/Spirituality/Sacred Geometry.md",
+    "X/Spirituality/Sigillum Dei.md",
     "X/Notes/Notes.md",
+    "X/Notes/Dimensions.md",
+    "Science/Formal Science/Math/Geometry/🐚Dimension (Fractal).md",
+    "Science/Formal Science/Math/Geometry/🐚Fractal.md",
+    "xxx.md",
+    "Science/Formal Science/Math/Geometry/📐Symmetry.md",
+    "X/Spirituality/Kabbalah.md",
+    "X/Spirituality/Mythology.md",
+    "X/Spirituality/Mantra.md",
+    "Science/Cognitive science/Cognitive Science.md",
+    "Science/Social Science/Sociology/Sociology.md",
+    "Science/Social Science/Social Science.md",
+    "Science/Social Science/Sociology/🤼Dimension (Social).md",
+    "Science/Natural Science/Physic/🗺️Dimension (Physic).md",
+    "Science/Natural Science/Physic/Physic.md",
+    "Science/Natural Science/Physic/Waves/Sound/🎼Dimension (Musical).md",
+    "Science/Natural Science/Physic/Waves/Sound/Music.md",
+    "Science/Formal Science/Math/Linear Algebra.md",
+    "Science/Formal Science/Math/Geometry/🔢Dimension (Linear Algebra).md",
+    "Science/Cognitive science/🧠Dimension (Cognitive).md",
+    "Science/Cognitive science/🧠Meta-cognition.md",
+    "Science/Cognitive science/Cognitive Psychology/Congnitive Psychology.md",
+    "Science/Cognitive science/Meta-cognitive Experiences.md",
+    "Science/Cognitive science/Meta-cognitive Knowledge.md",
+    "Science/Cognitive science/Cognitive Science.png",
+    "Science/Formal Science/Math/Geometry/symmetry and asymmetry.png",
+    "X/Spirituality/Sigillum Dei.png",
+    "Science/Formal Science/Math/Geometry",
+    "X/Weird stuffs/Untitled",
+    "X/Spirituality/Chakara/Ajna.png",
+    "X/Spirituality/Chakara",
+    "X/Spirituality/Chakara/Muladhara.png",
+    "X/Spirituality/Chakara/Svadhisthana.png",
+    "X/Spirituality/Chakara/Manipura.png",
+    "X/Spirituality/Chakara/Anahata.png",
+    "X/Spirituality/Chakara/Vissuddha.png",
+    "X/Spirituality/Chakara/Sahasrara.png",
+    "Science/Social Science/Psychology/Psychology Themes/Feelings",
+    "Science/Social Science/Psychology/Psychology Themes/Emotions",
+    "Science/Natural Science/Biology/Vitamins",
+    "Odoo/Odoo Controllers",
+    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️",
     "Odoo/Odoo Backend/🟣Views",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Odoo/🟣🍱Bundles",
-    "Odoo/Odoo FrontEnd/QWeb",
-    "IT/Computer Science/Programming/Programming Languages/Python/🐍Data Structures",
-    "🐍Data Structure.canvas",
-    "Odoo/Odoo Install/Odoo Install U/odoo",
-    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/📜Frameworks",
-    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/🐍Frameworks",
-    "BIT/System Engineering/Software Engineering/Software Development/Frameworks"
+    "🐍Data Structure.canvas"
   ]
 }

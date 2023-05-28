@@ -32,7 +32,7 @@
       "query": "path:\"Odoo\"",
       "color": {
         "a": 1,
-        "rgb": 13244897
+        "rgb": 8940771
       }
     },
     {
@@ -69,11 +69,11 @@
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 0.993229166666667,
   "lineSizeMultiplier": 0.993229166666667,
-  "collapse-forces": false,
-  "centerStrength": 0.322810969621466,
+  "collapse-forces": true,
+  "centerStrength": 0.289314922229143,
   "repelStrength": 18.5,
   "linkStrength": 0.92,
   "linkDistance": 47,
-  "scale": 0.020010132088859937,
+  "scale": 0.017484150980703692,
   "close": true
 }

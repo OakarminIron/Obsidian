@@ -4,4 +4,4 @@ Can be in
 - Color
 - Movement
 - Symbols, [[Sign]] , and Spell
-- 
+- Feelings

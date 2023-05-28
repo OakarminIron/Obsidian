@@ -1,4 +1,4 @@
-![[Cognitive science.png]]
+![[Cognitive Science.png]]
 
 
 

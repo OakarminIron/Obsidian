@@ -1,4 +1,4 @@
-[[Metacognition]]
+[[🧠Meta-cognition]]
 [[Learning]]
 [[Perception]]
 [[Attention]]

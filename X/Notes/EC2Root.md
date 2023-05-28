@@ -14,11 +14,12 @@ Create a root Password
 $ passwd root <the password>
 ```
 
-Configure and Restart the ssh Service for root Access
-Edit the configuration file /etc/ssh/sshd_config. Change the following to parameter to the values shown below:
-
+Configure and Restart the `ssh` Service for root Access
+Edit the configuration file `/etc/ssh/sshd_config.` Change the following to parameter to the values shown below:
+```
 PermitRootLogin yes
 PasswordAuthentication yes
+```
 Restart the service with the command
 ```
 $ service sshd reload

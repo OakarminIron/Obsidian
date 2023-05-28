@@ -11,7 +11,7 @@ Steroid hormones are derived from cholesterol. Membranes to bind to intracellul
 |  [[Estradiol]]               | Reverse Male Female                                         |
 |  [[Estrone]]                 |                                                             |
 |  [[Estriol]]                 |                                                             |
-|  [[Cortisol]]                | primary stress hormone,                                     |
+|  [[Cortisol]]                | primary [[Stress Feeling]] hormone,                                     |
 |  [[Progesterone]]            |  Support pregnancy                                          |
 |  [[Calcitriol]]              |  Active form of vitamin D3                                  |
 |  [[Calcidiol]]               |  Inactive form of vitamin D3                                |

@@ -1,3 +1,3 @@
 [[Conspiracy]]
-[[People to follow]]
+[[Modern Freaks]]
 

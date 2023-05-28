@@ -1,9 +1,9 @@
 
 [[Biochemistry]]
 
-
-[[🧬Hormones]]   
-[[Virus]]
-[[Energy]]
+[[Vitamins]]
+[[🧬Hormones]]
+[[🧬Virus]]
+[[🧬Energy]]
 [[Psychology]] and [[Psychiatry]]
 [[Sleeping]]

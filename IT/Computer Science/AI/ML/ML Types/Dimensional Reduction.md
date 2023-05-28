@@ -1,1 +1,1 @@
-[[LA Dimensions]]
+[[🔢Dimension (Linear Algebra)]]

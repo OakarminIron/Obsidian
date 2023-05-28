@@ -7,5 +7,5 @@ To escape from [[Maya]]
 
 [[Left or Right]]
 
-[[7 Chakara]]
+[[7 Chakra]]
 

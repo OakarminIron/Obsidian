@@ -1,5 +1,5 @@
 [[Human perception]] အာရုံငါးပါး
 [[Human cognition]]
-[[Human emotions]]
+[[Emotions]]
 [[Human motor system]]
 

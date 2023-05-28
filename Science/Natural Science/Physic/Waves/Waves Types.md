@@ -7,3 +7,5 @@
 [[ Torsional waves]]: These are mechanical waves that oscillate around an axis. They are observed in solid, liquid and gaseous materials, and they are characterized by a rotation around a fixed point.
 
 [[  Quantum waves]]: These are associated with the behavior of subatomic particles such as electrons and protons. They are described by wave-particle duality and are described by wave functions.
+
+[[x Waves]]

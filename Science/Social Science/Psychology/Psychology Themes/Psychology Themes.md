@@ -1,10 +1,6 @@
-[[Personality]]
+[[Psychological Affects]]
+	[[Unconscious Mind]]
 
-[[Unconscious Mind]]
-
-[[Motivation]]
-
-[[Developemnt Psychology]]
-
+[[Development Psychology]]
 [[Genes and Environment Psychology]]
 

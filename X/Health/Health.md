@@ -1,10 +1,8 @@
 [[Physical Health]]
 
-[[Biology]]
+[[Biology🧬]]
 
 [[Mental Health Care]]
 
 [[Social Health]]
 
-
-[[7 Chakara]]

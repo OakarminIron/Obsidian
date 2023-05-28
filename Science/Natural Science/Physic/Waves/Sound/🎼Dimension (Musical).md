@@ -1,0 +1,1 @@
+In music theory, dimension can refer to various aspects of musical elements, such as melody, harmony, rhythm, and timbre. Each dimension represents a particular attribute or characteristic of the musical composition or performance. For example, the tonal dimension may describe the pitch structure, while the rhythmic dimension may describe the temporal patterns and duration.

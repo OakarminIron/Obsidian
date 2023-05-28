@@ -1,2 +1,3 @@
-Music is sound [[Pattern]]
+Music is sound [[Pattern]].
+[[🎼Dimension (Musical)]]
 

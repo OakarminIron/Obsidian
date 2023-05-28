@@ -1,4 +1,4 @@
-- [[Biology]]
+- [[Biology🧬]]
 - [[Physic]]
 - [[Chemistry]]
 

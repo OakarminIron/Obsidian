@@ -1,2 +1,2 @@
-[[Cognitive science]]
+[[Cognitive Science]]
 [[Bioinformatics]]

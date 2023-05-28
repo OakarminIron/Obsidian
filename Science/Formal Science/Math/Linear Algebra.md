@@ -4,4 +4,4 @@ LA is a branch of [[Math]]
 [[Vector]] is Zero Dimension Tensor
 [[Scalar]]
 [[LA Space]]
-[[LA Dimensions]]
+[[🔢Dimension (Linear Algebra)]]

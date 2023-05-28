@@ -1,1 +1,1 @@
-[[Cognitive science]]
+[[Cognitive Science]]

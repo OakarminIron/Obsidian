@@ -1,0 +1,1 @@
+Self-esteem is the subjective evaluation of our self-worth and self-image. It reflects how we perceive and value ourselves. High self-esteem is associated with positive feelings about oneself, while low self-esteem can lead to negative emotions and a diminished sense of self-worth.

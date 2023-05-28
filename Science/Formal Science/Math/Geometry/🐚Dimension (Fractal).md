@@ -1,0 +1,1 @@
+Fractal dimension is a measure of how a [[🐚Fractal]] pattern fills space or scales with increasing resolution. It quantifies the intricacy or complexity of a fractal object.
