@@ -1,1 +1,1 @@
-[[debit credit]]
+[[🟣debit credit]]

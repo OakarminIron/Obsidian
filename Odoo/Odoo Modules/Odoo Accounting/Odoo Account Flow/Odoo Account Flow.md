@@ -1,2 +1,2 @@
-[[Odoo Account Receivable]]
+[[🟣Account Receivable]]
 [[Odoo Account Payable]]

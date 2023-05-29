@@ -1,6 +1,6 @@
-[[Architecture analysis]]
+[[Architecture Analysis]]
 [[Business Process Analysis (BPA)]]
 
-[[OOAnalysis]]
-[[Structured analysis]]
-Data warehouse analysis, storage and [[Databases analysis]]
+[[Object Oriented Analysis]]
+[[Structured Analysis]]
+Data warehouse analysis, storage and [[Databases Analysis]]

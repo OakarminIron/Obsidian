@@ -1,3 +1,0 @@
-
-[[DV Design]]
-[[DV Techniques]]

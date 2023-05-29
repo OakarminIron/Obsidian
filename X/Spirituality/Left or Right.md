@@ -1,4 +1,0 @@
-[[Yoga]]
-[[LTantra]]
-
-

@@ -1,0 +1,6 @@
+Micro Environment: This comprises the immediate factors that directly impact a specific business and with which it interacts closely. The micro environment consists of:
+- Customers: The individuals or organizations that purchase or consume the products or services offered by a business. Understanding customer needs, preferences, and buying behavior is essential for business success.
+- Suppliers: The entities that provide inputs, raw materials, components, or services to a business. Effective supplier relationships and reliable supply chains are crucial for operational efficiency.
+- Competitors: Other businesses operating in the same industry or offering similar products or services. Analyzing competitors' strategies, strengths, weaknesses, and market position helps businesses identify their competitive advantage.
+- Intermediaries: These include distributors, wholesalers, retailers, and other intermediaries involved in the distribution and delivery of products or services to customers. Building strong partnerships with intermediaries can enhance market reach and customer access.
+- Stakeholders: Individuals or groups who have an interest or influence in the business, such as shareholders, employees, communities, and government entities. Maintaining positive relationships with stakeholders is essential for long-term sustainability.

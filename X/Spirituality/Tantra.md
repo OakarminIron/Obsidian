@@ -5,7 +5,7 @@ Technology of using the body and mind
 
 To escape from [[Maya]]
 
-[[Left or Right]]
+[[Left Tantra or Right Tantra]]
 
 [[7 Chakra]]
 

@@ -1,4 +1,4 @@
-Steroid hormones are derived from cholesterol. Membranes to bind to intracellular nuclear receptors.
+Steroid hormones are derived from cholesterol. Membranes to bind to intra-cellular nuclear receptors.
 
 
 | Name                         |  Effect                                                     |
@@ -11,7 +11,7 @@ Steroid hormones are derived from cholesterol. Membranes to bind to intracellul
 |  [[Estradiol]]               | Reverse Male Female                                         |
 |  [[Estrone]]                 |                                                             |
 |  [[Estriol]]                 |                                                             |
-|  [[Cortisol]]                | primary [[Stress Feeling]] hormone,                                     |
+|  [[Cortisol]]                | primary Stress hormone,                                     |
 |  [[Progesterone]]            |  Support pregnancy                                          |
 |  [[Calcitriol]]              |  Active form of vitamin D3                                  |
 |  [[Calcidiol]]               |  Inactive form of vitamin D3                                |

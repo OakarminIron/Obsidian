@@ -1,0 +1,2 @@
+[[📊Tree Map]]
+[[📊Heat Map]]

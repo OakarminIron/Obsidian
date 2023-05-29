@@ -1,1 +1,1 @@
-[[Splitted Histogram]]
+[[Split Histogram]]

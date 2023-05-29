@@ -1,4 +1,4 @@
-Using the indirect method, net income is adjusted to a cash basis using changes in non-cash accounts, such as [[Depreciation]], [[Odoo Account Receivable]], [[Odoo Account Payable]], and accounts payable (AP). Because most companies report the net income on an accrual basis, it includes various non-cash items, such as depreciation and amortization.
+Using the indirect method, net income is adjusted to a cash basis using changes in non-cash accounts, such as [[Depreciation]], [[🟣Account Receivable]], [[Odoo Account Payable]], and accounts payable (AP). Because most companies report the net income on an accrual basis, it includes various non-cash items, such as depreciation and amortization.
 
 The calculation for OCF using the indirect method uses the following formula:
 

@@ -1,3 +1,3 @@
 [[Cluster analysis]]
 
-[[Data Visualization]]
+[[Data Visualization📊]]

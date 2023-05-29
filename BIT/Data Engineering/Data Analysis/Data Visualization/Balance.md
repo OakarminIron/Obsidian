@@ -1,7 +1,0 @@
-[[Alignment]]
-[[Repetition]]
-[[Contrast]]
-[[Hierachy]]
-[[Symmetry]]
-[[Imbalance]]
-[[Empty Spaces]]

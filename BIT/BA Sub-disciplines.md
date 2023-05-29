@@ -1,7 +1,7 @@
-[[Enterprise analysis or company analysis]]
+[[Enterprise Analysis]]
 
 [[Requirements planning and management]]
 
-[[Requirement Analysis]] 
+[[Requirement Engineering]] 
 [[BA Documentation]]
 

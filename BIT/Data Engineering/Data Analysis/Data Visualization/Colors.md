@@ -1,2 +1,0 @@
-ColorPatterns
-Brand Colors

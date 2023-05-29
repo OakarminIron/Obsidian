@@ -2,7 +2,7 @@
 [[Vulnerability]]
 [[Burnout]]
 
-[[Threat Hunting]]
+[[Threat Hunting🚨]]
 
 [[SIEM]]
 [[XDR Standard Detection & Response]]

@@ -1,3 +1,3 @@
-Versioning [[🟣Engineering change order (ECO)]]
+Versioning [[🟣Engineering Change Order (ECO)]]
 
 [[🟣PLM Phases]]

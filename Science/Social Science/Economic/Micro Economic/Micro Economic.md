@@ -1,6 +1,6 @@
 Microeconomics examines how entities, forming a market structure, interact within a market to create a market system.
 [[Market economy]]
-
+[[Micro Environment]]
 Elasticity
 Consumer and Surplus
 Consumer Theory
@@ -21,7 +21,7 @@ Competition
 	Monopoly
 	Monopolistic competition
 	Price discrimination
-	Oligopoly and [[Game Theory]]
+	Oligopoly and [[Game Theory🎲]]
 
 Factor Markets
 	Changes in factor demand and supply

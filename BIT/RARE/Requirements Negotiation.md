@@ -1,0 +1,1 @@
+In complex projects with multiple stakeholders, conflicts and differences in requirements can arise. Requirements negotiation involves resolving conflicts, managing trade-offs, and reaching a consensus among stakeholders. The goal is to find a balance between different requirements and reach agreements that satisfy all parties involved.

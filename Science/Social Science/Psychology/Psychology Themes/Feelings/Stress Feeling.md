@@ -1,3 +1,3 @@
 Stress is how we react when we feel under pressure or threatened. It usually happens when we are in a situation that we don't feel we can manage or control.
-
+တစ်နည်းအားဖြင့် စိတ်ဖိစီးမှုဆိုတာ သင်ကြုံတွေ့နေရတဲ့ စိတ်ပင်ပန်းမှုတွေ၊ ဖိအားတွေ အပေါ်မှာ သင့်ခန္ဓာကိုယ် က တုန့်ပြန် တဲ့ အရာတစ်ခုပါ။ ဖိအားတစ်ခုနဲ့ ကြုံတွေ့လာရပြီဆိုရင် သင့် ရဲ့ ဦးနှောက်အဖွဲ့အစည်းက stress ဟော်မုန်းထွက်လာပါတယ် ။ stress ဟော်မုန်းမှာ [[Adrenaline]] နဲ့ [[Cortisol]] ဆိုတဲ့ ဟော်မုန်းနှစ်မျိုးပါပါတယ်။
 [[Stressors Causes ]]

@@ -1,8 +1,8 @@
-[[Autocratic Leadersip]]
+[[Autocratic Leadership]]
 [[Democratic Leadership]]
 [[Paternalist Leadership]]
 [[Laissez-faire Leadership]]
 
-[[Transactional Leadersip]]
+[[Transactional Leadership]]
 [[Transformational Leadership]]
 
