@@ -1,0 +1,2 @@
+- Heptalysis: Heptalysis is a tool used to analyze and evaluate the seven key elements of a business process, including inputs, outputs, controls, resources, mechanisms, structures, and objectives.
+- STEER (Socio-cultural, Technological, Economic, Ecological, and Regulatory): STEER analysis examines the external factors that can influence a business process, such as social, technological, economic, ecological, and regulatory aspects.

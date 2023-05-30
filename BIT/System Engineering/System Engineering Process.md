@@ -3,7 +3,7 @@ Systems engineering processes encompass all creative, manual and technical activ
 -   conceptual stage (cardinal definition),
 -   design stage (formative definition), and
 -   implementation stage (manufacturing definition).
-[[System Analysis]]
+[[System Analysing]]
 [[System Modeling]]
 
 [[Lifecycle Modeling Language (LML)]]

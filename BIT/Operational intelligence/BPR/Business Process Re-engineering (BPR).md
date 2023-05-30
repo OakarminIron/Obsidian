@@ -4,7 +4,7 @@ Re-engineering work , don't automate , obliterate (completely rewrite)
 
 Factors to be successful BPR
 - [[Team Composition]]
-- [[Business Needs Analysis]]. Or a Needs a branch of [[System Analysis]] (Business ဘက်ကလူဆိုပိုကောင်းတယ်ထင်တယ်)
+- [[Business Needs Analysis]]. Or a Needs a branch of [[System Analysing]] (Business ဘက်ကလူဆိုပိုကောင်းတယ်ထင်တယ်)
 - Good [[IT]] infrastructure
 - Effective [[Change Management]]
 - Ongoing continuous improvements

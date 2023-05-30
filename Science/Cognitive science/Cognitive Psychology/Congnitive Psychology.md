@@ -3,4 +3,4 @@
 [[Perception]]
 [[Attention]]
 [[Brain Memory]]
-[[Thinking]]
+[[Thinking🤔]]

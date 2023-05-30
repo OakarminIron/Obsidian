@@ -1,0 +1,2 @@
+Software [[Requirements Specification]] (SRS):
+- SCRS (Software Customer Requirements Specification): SCRS is a template or framework used to document and specify the customer requirements for a software system, capturing the functional and non-functional requirements, user stories, and other relevant details.

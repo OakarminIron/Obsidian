@@ -1,0 +1,1 @@
+SWOT (Strengths, Weaknesses, Opportunities, Threats): SWOT analysis is a framework used to assess the internal strengths and weaknesses of a business or project, as well as external opportunities and threats in the business environment.

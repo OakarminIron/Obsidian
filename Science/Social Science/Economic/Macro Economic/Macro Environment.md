@@ -1,7 +1,3 @@
-Macro Environment includes the broad external factors that have a significant impact on businesses but are beyond their direct control. The macro environment consists of:
-- [[Economic Factors]]: These involve the overall economic conditions, such as economic growth, inflation rates, exchange rates, interest rates, and the state of the global economy. Economic factors affect consumer spending power, market demand, and business profitability.
-- [[Socio-Cultural Factors]]: These encompass societal values, attitudes, beliefs, demographics, lifestyle trends, and cultural norms. Socio-cultural factors influence consumer behavior, market preferences, and the acceptance of products or services.
-- [[Technological Factors]]: This refers to advancements in technology and their impact on businesses. Technological factors include innovations, digital transformation, automation, the internet, mobile devices, and emerging technologies. Technological changes can create new opportunities or disrupt existing industries.
-- [[Legal and Regulatory Factors]]: These involve laws, regulations, and government policies that affect business operations. Legal factors include employment laws, consumer protection regulations, intellectual property rights, and industry-specific regulations. Compliance with legal requirements is essential for business sustainability.
-- [[Political Factors]]: These encompass political stability, government policies, trade regulations, taxation policies, and political ideologies. Political factors influence business operations, investment climate, international trade, and market access.
-- [[Environmental Factors]]: This includes environmental sustainability, climate change, natural resources, and ecological concerns. Organizations need to consider environmental factors and adopt sustainable practices to meet societal expectations and regulatory requirements.
+Macro Environment includes the broad external factors that have a significant impact on businesses but are beyond their direct control. 
+[[Macro Environment Factors]]
+[[Macro Environment Analysis Tools]]

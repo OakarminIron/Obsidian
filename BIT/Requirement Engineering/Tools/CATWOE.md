@@ -1,0 +1,1 @@
+(Customers, Actors, Transformation Process, Worldview, Owner, and Environmental Constraints): `CATWOE` is a tool used to analyze the various dimensions and stakeholders involved in a business process, helping to understand their perspectives and requirements.

@@ -1,0 +1,1 @@
+(Mission, Objectives, Strategies, Tactics): MOST analysis helps in identifying and aligning the mission, objectives, strategies, and tactics of an organization to understand how requirements fit into the overall business strategy.

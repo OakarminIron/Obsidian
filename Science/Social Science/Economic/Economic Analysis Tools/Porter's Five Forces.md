@@ -1,0 +1,1 @@
+Porter's Five Forces framework is used to assess the competitive dynamics and attractiveness of an industry. It analyzes the bargaining power of suppliers and buyers, the threat of new entrants, the threat of substitute products or services, and the intensity of competitive rivalry within the industry.

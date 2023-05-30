@@ -1,4 +1,0 @@
-[[Culture Type]]
-
-
-[[Organizational Culture]]

@@ -1,0 +1,1 @@
+(Must, Should, Could, Won't): `MoSCoW` is a prioritization technique used to categorize requirements based on their criticality and importance, distinguishing between must-have, should-have, could-have, and won't-have requirements.

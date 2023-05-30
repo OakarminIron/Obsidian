@@ -1,5 +1,5 @@
 
-- Consumer theory is the study of how people decide to spend their money based on their individual preferences and budget constraints.
+- [[Consumers]] theory is the study of how people decide to spend their money based on their individual preferences and budget constraints.
 - Building a better understanding of individuals’ tastes and incomes is important because these factors impact the shape of the overall economy.
 - Consumer theory is useful but not flawless, as it is based on a number of assumptions about human behavior.
 

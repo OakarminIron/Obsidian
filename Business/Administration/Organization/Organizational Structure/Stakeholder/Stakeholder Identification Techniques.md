@@ -9,7 +9,7 @@ Surveys
 User task analysis
 [[Process Mapping]]
 Observation/job shadowing
-[[Design Thinking]]
+[[🤔Design Thinking]]
 Prototyping
 
 [[Stakeholder Identification Techniques]]

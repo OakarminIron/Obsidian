@@ -1,0 +1,2 @@
+Customer refers to an individual or entity that purchases a product or service from a business or organization. Customers are actively engaged in transactions with the business, which involves exchanging money or other resources for the desired product or service. They can be individuals, businesses, or other organizations. Customer relationship management (CRM) focuses on managing and nurturing relationships with customers to enhance satisfaction, loyalty, and repeat business.
+

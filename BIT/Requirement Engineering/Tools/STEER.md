@@ -1,0 +1,1 @@
+STEER (Sociology-cultural, Technological, Economic, Ecological, and Regulatory): STEER analysis is used at the macroeconomic level to analyze and evaluate the broader social, technological, economic, ecological, and regulatory factors that influence industries, markets, and economies as a whole.
