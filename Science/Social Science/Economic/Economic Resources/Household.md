@@ -1,0 +1,1 @@
+Households are the individuals or groups of people who consume goods and services and provide resources in return. They play a central role in the economy as [[Consumers]]. Households receive income through various sources such as wages, salaries, rent, and profits from businesses they own. They use this income to purchase goods and services from businesses.

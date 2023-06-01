@@ -2,7 +2,8 @@ The terms "thought" and "thinking" refer to a wide variety of psychological acti
 
 
 [[🤔Parallel vs Adversarial]] 
-[[🌸LEAN Thinking]]
+[[🤔LEAN Thinking🌸]]
 [[🤔Design Thinking]]
-
+[[🤔Dualism🌗]]
+[[Non-dualism]]
  

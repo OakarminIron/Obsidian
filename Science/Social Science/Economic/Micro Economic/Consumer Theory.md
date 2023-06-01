@@ -6,3 +6,5 @@
 - [[Utility maximization]]—Individuals are said to make calculated decisions when shopping, purchasing products that bring them the greatest benefit, otherwise known in economic terms as maximum utility.
 - [[Non-satiation]]—People are seldom satisfied with one trip to the shops and always want to consume more.
 - Decreasing [[Marginal Utility]]—Consumers lose satisfaction in a product the more they consume it.
+
+[[Consumer Theory]]

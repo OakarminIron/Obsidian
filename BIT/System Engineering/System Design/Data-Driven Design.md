@@ -1,0 +1,1 @@
+Data-Driven Design involves using data and analytics to drive design decisions. It relies on collecting and analyzing user data, such as user behavior, preferences, and feedback, to inform the design process. By leveraging data insights, designers can make informed decisions and optimize their designs based on actual user usage patterns and needs.

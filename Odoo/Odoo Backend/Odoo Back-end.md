@@ -1,7 +1,7 @@
 
 [[🟣Odoo ORM]]
 [[🟣IR]]
-[[🐍Python]]
+[[Python🐍]]
 [[🟣Views]]
 [[web.assets_backend]]
 
