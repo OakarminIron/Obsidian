@@ -1,3 +1,6 @@
+[[Odoo Solutions Architect]]
+[[Odoo Functional Architect]]
+
 https://www.imda.gov.sg/cwp/assets/imtalent/skills-framework-for-ict/index.html
 
 ![[my_ambition_path.png]]

@@ -1,6 +1,6 @@
 
-[[🟣Warehouse Management]]
-[[🟣Logistic]]
+[[🟣📦Warehouse Management]]
+[[🟣📦Logistic]]
 
 
 [[Odoo Replenishment Strategies]]

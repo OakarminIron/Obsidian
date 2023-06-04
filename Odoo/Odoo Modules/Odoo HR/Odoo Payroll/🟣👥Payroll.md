@@ -1,0 +1,5 @@
+[[🟣👥Payslip]]
+[[🟣👥Salary Structure]]
+[[🟣👥Salary Advantages💵]]
+[[🟣👥Contract📜]]
+[[🟣👥Work Entry]]

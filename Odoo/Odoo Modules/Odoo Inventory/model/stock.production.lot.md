@@ -9,8 +9,6 @@ The following table summarizes the differences between the products types:
 
 For consumables, this means:
 
--   Follow push and pull rules;
-
--   No putaway/removal strategies;
-
+-   Follow push and pull rules
+-   No put-away/removal strategies
 -   No inventory valuation possible.

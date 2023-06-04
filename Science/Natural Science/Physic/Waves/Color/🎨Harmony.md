@@ -1,0 +1,1 @@
+Color harmony deals with the pleasing arrangement and combination of colors. It involves understanding how colors interact with each other and creating a visually balanced and aesthetically pleasing color scheme. Various color harmonies, such as complementary, analogous, or triadic, can be used to create different effects.

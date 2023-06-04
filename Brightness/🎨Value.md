@@ -1,0 +1,1 @@
+Brightness, also referred to as value or lightness, determines how light or dark a color appears. It is the perception of how much white or black is mixed with a color. A high-value color is light, while a low-value color is dark.

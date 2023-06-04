@@ -1,0 +1,3 @@
+While salary rules are primarily concerned with the calculation of different salary components, advantages focus on providing additional benefits to employees beyond their base pay. Advantages can be defined and assigned to employees based on their employment contracts, job positions, or specific criteria established by the organization.
+
+In summary, salary rules are used to calculate specific salary components, while advantages encompass additional benefits and perks provided to employees beyond their base pay in Odoo Payroll.

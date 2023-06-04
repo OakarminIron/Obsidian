@@ -1,0 +1,1 @@
+Hue, refers to the attribute of color that distinguishes it as red, blue, green, yellow, etc. It represents the dominant wavelength of light present in a particular color. In other words, color tone is what allows us to differentiate between different colors on the color spectrum.

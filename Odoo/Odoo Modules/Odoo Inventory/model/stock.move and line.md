@@ -1,3 +1,4 @@
+```
 SELECT 
 	sml_count.move_line_count,	
 	sm.company_id,
@@ -12,3 +13,4 @@ JOIN (SELECT move_id, COUNT(*) as move_line_count
 WHERE 
 	   sm.picking_id is not null 
 ORDER BY 1 DESC LIMIT 30
+```

@@ -1,0 +1,1 @@
+Harmony refers to the pleasing arrangement and interaction of elements within a composition. It involves the use of similar or complementary elements, such as colors, shapes, textures, or patterns, to create a sense of unity and coherence. Harmonious compositions often feel visually pleasing, balanced, and aesthetically satisfying.

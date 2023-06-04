@@ -1,0 +1,5 @@
+[[🟣👥Attendance]]
+[[🟣👥Time Off Leaves]]
+[[🟣👥Holidays]]
+[[🟣👥Credit Hours]]
+[[🟣👥Extra Hours]]

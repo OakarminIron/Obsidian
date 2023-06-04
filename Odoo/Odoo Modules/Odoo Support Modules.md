@@ -2,6 +2,6 @@
 
 [[Odoo Fleet]]
 
-[[Odoo HR]]
+[[🟣Odoo HR👥]]
 
 [[Odoo Document]]

@@ -1,6 +1,6 @@
 [[Odoo Manufacturing]]
 
-[[🟣 Product Life-cycle Management]]
+[[🟣Product Life-cycle Management]]
 
 
 [[Odoo QC]]

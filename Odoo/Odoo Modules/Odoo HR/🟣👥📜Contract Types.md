@@ -1,0 +1,4 @@
+[[🟣👥📜Permanent]]
+[[🟣👥📜Temporary]]
+[[🟣👥📜Trainee]]
+[[🟣👥📜Replacement]]
