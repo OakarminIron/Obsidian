@@ -1,0 +1,1 @@
+Harmonious compositions often exhibit a sense of proportion and scale that feels visually pleasing. The relationships between different elements, their sizes, and their placement in relation to each other contribute to the overall sense of harmony.

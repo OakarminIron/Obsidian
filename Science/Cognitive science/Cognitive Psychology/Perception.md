@@ -1,4 +1,4 @@
 [[Visual Perception]]
 [[Object Recognition]]
-[[Face recognition]]
-[[Pattern recognition]]
+[[Face Recognition]]
+[[Pattern Recognition]]

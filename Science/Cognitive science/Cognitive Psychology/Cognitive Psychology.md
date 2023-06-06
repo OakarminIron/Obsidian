@@ -2,5 +2,5 @@
 [[Learning]]
 [[Perception]]
 [[Attention]]
-[[Brain Memory]]
+[[Brain Memory🧠]]
 [[Thinking🤔]]

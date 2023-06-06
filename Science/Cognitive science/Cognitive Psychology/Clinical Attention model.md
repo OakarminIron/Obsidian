@@ -1,5 +1,0 @@
--   [[Focused attention]]: The ability to respond discretely to specific sensory stimuli.အာရုံခံ
--  [[ Sustained attention]]: The ability to maintain a Concentration.အာရုံစိုက်
--   [[Selective attention]]: The ability to maintain a behavioral or cognitive set in the face of distracting or competing stimuli. Therefore, it incorporates the notion of "freedom from distractibility."အာရုံနောက်
--   [[Alternating attention]]: The ability of mental flexibility that allows individuals to shift their focus of attention and move between tasks having different cognitive requirements.အာရုံပြောင်း
--   [[Divided attention]]: This refers to the ability to respond simultaneously to multiple tasks or multiple task demands.အာရုံများ

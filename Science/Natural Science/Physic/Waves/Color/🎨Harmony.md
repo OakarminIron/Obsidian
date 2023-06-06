@@ -1,1 +1,5 @@
-Color harmony deals with the pleasing arrangement and combination of colors. It involves understanding how colors interact with each other and creating a visually balanced and aesthetically pleasing color scheme. Various color harmonies, such as complementary, analogous, or triadic, can be used to create different effects.
+Color harmony deals with the pleasing arrangement and combination of colors. It involves understanding how colors interact with each other and creating a visually balanced and aesthetically pleasing color scheme. Various color harmonies, such as complementary, analogous, or monochromatic, can be used to create different effects.
+
+-   [[Complementary Harmony]]: Complementary colors are located opposite each other on the color wheel, such as red and green or blue and orange. Complementary color schemes create strong contrast and can be visually dynamic.
+-   [[Analogous Harmony]]: Analogous colors are adjacent to each other on the color wheel, such as blue, blue-green, and green. Analogous color schemes create a sense of harmony and can be soothing to the eye.
+-   [[Monochromatic Harmony]]: Monochromatic harmony involves using different shades, tints, and tones of a single color. It creates a unified and harmonious color scheme while exploring variations within one color family.

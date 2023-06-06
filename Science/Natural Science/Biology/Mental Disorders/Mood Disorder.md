@@ -1,4 +1,4 @@
 [[Major Depression]]
-[[PDD]] Dysthymia
+[[PDD]] `Dysthymia`
 [[Bipolar Disorder]]
 [[Minia]]

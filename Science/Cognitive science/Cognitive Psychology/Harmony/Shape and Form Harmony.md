@@ -1,0 +1,1 @@
+Harmony can be achieved through the consistent use of shapes and forms within a composition. Repeating or echoing similar shapes or forms can create a sense of unity and visual rhythm.

@@ -1,4 +1,4 @@
-[[Anxity Disorder]]
+[[Anxiety Disorder]]
 [[Mood Disorder]]
 [[Psychotic Disorder]]
 [[Personality Disorder]]

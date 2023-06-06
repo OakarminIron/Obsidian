@@ -1,0 +1,1 @@
+Alternating attention, also called task switching or cognitive flexibility, refers to the ability to shift attention between different tasks, stimuli, or mental sets. It involves disengaging from one task or stimulus and redirecting attention to another. Effective alternating attention is crucial for multitasking and adapting to changing environmental demands.

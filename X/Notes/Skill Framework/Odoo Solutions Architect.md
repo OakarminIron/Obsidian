@@ -1,5 +1,4 @@
-#### Job Summary
-
+Job Summary
 Odoo Solutions Architect 
 1. Responsibilities 
 	a. Responsible for planning and overseeing overall systems/application architecture, including `ERP` and e-commerce solutions, planning for the most secure, robust and scale-able architecture.

@@ -1,9 +1,9 @@
 Dirty Pages are stored in [[Hippocampus]] short term storage 
-When Sleep at [[NREM]]  data move to Cortex the central storage
+When Sleep at `NREM  data move to Cortex the central storage
 
-At [[REM]] do the filing system, Cleaning dirty pages. Our [[Innovation]] comes from
+At `REM` do the filing system, Cleaning dirty pages. Our [[Innovation]] comes from
 
-NRPM: RPM  (Defaults)
+`NRPM`: `RPM`  (Defaults)
 9-10.5   --> 80-20
 10.5-12 -->60-40
 10-1.5   --> 50-50

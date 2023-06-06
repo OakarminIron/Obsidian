@@ -1,6 +1,6 @@
 [[Biological Psychology]]
 [[Behavioral Psychology]]
-[[Congnitive Psychology]]
+[[Cognitive Psychology]]
 [[Phycho Analytic]]
 [[Social Psychology]]
 

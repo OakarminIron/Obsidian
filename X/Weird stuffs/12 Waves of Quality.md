@@ -1,8 +1,9 @@
 Can be in 
 - [[Shape]]
+- [[Symbols]] or [[Signs]]
+- [[Spell]]
 - [[Sound]]
 - [[Color🎨]]
 - [[Movement]]
-- [[Symbols]], [[Sign]] , and [[Spell]]
 - [[Feelings]]
 

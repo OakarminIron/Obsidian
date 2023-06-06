@@ -3,8 +3,8 @@
 
 
 [[Philosophy]]
-[[Congnitive Psychology]]
+[[Cognitive Psychology]]
 [[Linguistics]]
 [[AI]]
-[[NeuroScience]]
+[[Neuroscience]]
 [[Anthropology]]
