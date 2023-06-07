@@ -1,5 +1,5 @@
 
-[[GreekLogic about Fallacies]]
+[[Greek-Logic about Fallacies]]
 [[Formal Fallacy]]
 [[Informal Fallacy]]
 [[Falacy များ]]

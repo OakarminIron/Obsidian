@@ -1,9 +1,7 @@
-[[Blind-Spots]]
-[[Vulnerability]]
-[[Burnout]]
-
-[[Threat Hunting🚨]]
-
+[[Cyber Blind-Spots]]
+[[Cyber Vulnerability]]
+[[Cyber Burnout]]
+[[Cyber Threat Hunting]]
 [[SIEM]]
 [[XDR Standard Detection & Response]]
 [[UBA User Behavior Analytic]]
