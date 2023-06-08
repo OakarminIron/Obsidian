@@ -1,3 +1,2 @@
-[[Data-Structure]] and [[Algorithm]]
-
+[[Data-Structure🗂]] and [[Algorithm⚙️]]
 [[DSA Level Optimization]]

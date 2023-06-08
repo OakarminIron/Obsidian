@@ -1,5 +1,5 @@
 Algorithm and data structure optimization refers to the process of improving the efficiency and effectiveness of algorithms and data structures used in software development. This can involve reducing the time complexity or space complexity of an algorithm, improving its speed or reducing its memory requirements. It can also involve selecting or designing data structures that are well-suited to a particular problem, and optimizing their implementation to minimize memory usage or improve access times.
 
 Optimizing algorithms and data structures is an important part of software development, as it can greatly improve the performance and scalability of software applications. It involves careful analysis of the problem being solved, selecting the most appropriate algorithms and data structures, and implementing them in an efficient and effective way. This process requires a deep understanding of computer science fundamentals, including data structures, algorithms, and complexity theory.
+[[Notation]]
 
-[[Big O Notation]]
