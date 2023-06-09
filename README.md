@@ -31,7 +31,3 @@ To explore the knowledge in this repository, follow these steps:
 4. Navigate to the desired session folder to access the Markdown files containing the knowledge and notes.
 
 Feel free to explore, learn, and contribute to the knowledge graph. Enjoy!
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE).

@@ -10,7 +10,7 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ### Heading
 
-# H1
+# H1  
 ## H2
 ### H3
 
@@ -49,12 +49,6 @@ These are the elements outlined in John Gruber’s original design document. All
 
 [Markdown Guide](https://www.markdownguide.org)
 
-### Image
-
-![alt text](https://www.markdownguide.org/assets/images/tux.png)
-
-YouTube link. `![Video](https://www.youtube.com/watch?v=enAuYCNtJ6I)`
-
 ## Extended Syntax
 
 These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
@@ -76,23 +70,7 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 }
 ```
 
-### Footnote
-
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
-
-### Heading ID
-
-### My Great Heading {#custom-id}
-
-### Definition List
-
-term
-: definition
-
 ### Strikethrough
-
 ~~The world is flat.~~
 
 ### Task List
@@ -101,21 +79,24 @@ term
 - [ ] Update the website
 - [ ] Contact the media
 
-### Emoji
-
-That is so funny! :joy:
 
 (See also [Copying and Pasting Emoji](https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji))
 
-### Highlight
-
 I need to highlight these ==very important words==.
+This is an %%inline%% comment. 
+%% 
+This is a block comment. Block comments can span multiple lines.
+%%
 
-### Subscript
+This is a simple footnote[^1].
+[^1]: This is the referenced text. [^2]: Add 2 spaces at the start of each new line. This lets you write footnotes that span multiple lines. [^note]: Named footnotes still appears as numbers, but can make it easier to identify and link references.
 
-H~2~O
+### Image
 
-### Superscript
+![alt text](https://www.markdownguide.org/assets/images/tux.png)
 
-X^2^
+YouTube link.   ![](https://www.youtube.com/watch?v=NnTvZWp5Q7o)
+
+
+### Website   <iframe src="https://obsidian.md/"></iframe>
 

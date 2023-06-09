@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d706dd8fcdf7d2b",
+            "id": "50124482ecac94eb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/Code Refactoring⚒️.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Thread",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/Code Refactoring⚒️.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/Code Refactoring⚒️.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/Code Refactoring⚒️.md"
+              }
             }
           },
           {
@@ -153,38 +162,39 @@
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "janitor:Janitor: scan vault": false
+      "janitor:Janitor: scan vault": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5d706dd8fcdf7d2b",
+  "active": "50124482ecac94eb",
   "lastOpenFiles": [
-    "IT/Computer Science/DSA/Algorithm/⚙️Implementation Method.md",
-    "IT/Computer Science/DSA/Algorithm/⚙️Classification.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/⚒️Organizing Data.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/Code Refactoring⚒️.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/Software Design Refactoring.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design.md",
+    "BIT/System Engineering/Software Engineering/Optimization/Levels of 🖥Optimization.md",
+    "BIT/System Engineering/Software Engineering/Optimization/Runtime Level Optimization.md",
+    "BIT/System Engineering/Software Engineering/Optimization/🖥📈SE Optimization.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/⚒️Composing Method.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/⚒️Dealing with Generalization.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/⚒️Simplifying Method Calls.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/⚒️Simplifying Conditional Expressions.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/⚒️Moving Features between Objects.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/Dispensable.md",
     "IT/Computer Science/DSA/Algorithm/Algorithm⚙️.md",
-    "IT/Computer Science/DSA/Algorithm/⚙️Design Approaches.md",
+    "Optimization Problem.md",
+    "IT/Computer Science/DSA/Algorithm/⚙️Classification.md",
     "IT/Computer Science/DSA/Algorithm/⚙️Design Method.md",
+    "IT/Computer Science/DSA/Algorithm/⚙️Implementation Method.md",
+    "xxx.md",
+    "README.md",
+    "IT/Computer Science/DSA/Algorithm/⚙️Design Approaches.md",
     "IT/Computer Science/DSA/Algorithm/Greedy Algorithm.md",
     "🗂Dictionary Hash-Map.md",
     "IT/Computer Science/DSA/Data-Structure and Algorithm.md",
     "IT/Computer Science/DSA/DataStructure/Data-Structure🗂.md",
     "BIT/System Engineering/Software Engineering/Optimization/DSA Level Optimization.md",
-    "BIT/System Engineering/Software Engineering/Optimization/Notation.md",
-    "BIT/System Engineering/Software Engineering/Optimization/Levels of 🖥Optimization.md",
-    "IT/Computer Science/DSA/DataStructure/🗂Abstract.md",
-    "IT/Computer Science/DSA/🗂Tree.md",
-    "IT/Computer Science/DSA/DataStructure/🗂Stack.md",
-    "IT/Computer Science/DSA/DataStructure/🗂Stack Functions.md",
-    "IT/Computer Science/DSA/DataStructure/🗂Non Composite Data Type.md",
-    "IT/Computer Science/DSA/DataStructure/🗂Composite.md",
-    "IT/Computer Science/DSA/DataStructure/Dictionary Hash-Map.md",
-    "BIT/System Engineering/Software Engineering/Optimization/Big O Notation (O).md",
     "BIT/System Engineering/Software Engineering/Optimization/Big O Notation.png",
-    "BIT/System Engineering/Software Engineering/Optimization/Omega Notation (Ω).md",
-    "xxx.md",
-    "BIT/System Engineering/Software Engineering/Optimization/Time_or_Space_of_Algorithm.md",
-    "IT/Operation Systems/OS Concepts/Threads and Concurrency.md",
-    "BIT/System Engineering/Software Engineering/Optimization/Theta Notation (Θ).md",
-    "Time-And_Space.md",
     "Science/Cognitive science/Attention",
     "Science/Cognitive science/Cognitive Psychology/Attention",
     "Science/Cognitive science/Cognitive Psychology/Harmony",
