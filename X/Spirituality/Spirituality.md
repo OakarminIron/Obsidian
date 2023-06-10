@@ -4,4 +4,6 @@
 [[Occult]]
 [[Deity]]
 [[Light and Dark🌗]]
-[[Mythology]]
+[[Kabbalah]]
+[[Bio-Geometry🧘]]
+[[Human Design]]

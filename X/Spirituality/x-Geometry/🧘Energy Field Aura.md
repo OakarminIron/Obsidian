@@ -1,0 +1,1 @@
+According to spiritual beliefs, an aura or energy field is a colored emanation said to enclose a human body or any animal or object.

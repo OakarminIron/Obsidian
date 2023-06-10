@@ -1,0 +1,4 @@
+Bio-Geometry® is Nature’s Own Design Language of Shape, Color, Sound, Number, and Motion. It reveals the hidden ways in which nature creates and distributes energy for the benefit of all living beings. Powerful, practical methods to test, differentiate, and apply the key energy qualities which affect health and consciousness. Deals with the Energy of Shape; it uses shapes, colors, motion, orientation, and sound to produce a vibration quality that balances energy fields. Bio-geometrical shapes are two or three-dimensional shapes specially designed to interact with the earth’s energy fields to produce balancing effects on multiple levels on biological systems. They were developed and patented by `Dr. Ibrahim F. Karim, D.Sc. in Cairo, Egypt,` during research since 1968.
+
+[[12 Waves of Quality]]
+To understand the effects of Bio-geometrical shapes on the human [[🧘Energy System]].

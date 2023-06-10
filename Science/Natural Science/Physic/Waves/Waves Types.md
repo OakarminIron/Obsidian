@@ -8,4 +8,4 @@
 
 [[  Quantum waves]]: These are associated with the behavior of subatomic particles such as electrons and protons. They are described by wave-particle duality and are described by wave functions.
 
-[[x Waves]]
+[[x-Waves]]
