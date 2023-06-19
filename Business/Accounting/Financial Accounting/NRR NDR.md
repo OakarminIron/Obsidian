@@ -1,10 +1,9 @@
-[[Monthly Recurring Revenue MRR]]
+[[Monthly Recurring Revenue]] 
 
 
-Monthly Recurring Revenue (MRR) **=** Total Number of Active Accounts **x** Average Revenue Per Account (ARPA)
+Monthly Recurring Revenue (`MRR`) **=** Total Number of Active Accounts **x** Average Revenue Per Account (`ARPA`)
 
-
-Net Revenue Retension   or Net Dollar Retension is a crucial key performance indicator (KPI) for SaaS and subscription-based companies. 
+Net Revenue Re-tension   or Net Dollar Re-tension is a crucial key performance indicator (`KPI`) for [[SaaS]] and subscription-based companies. 
 
 it is not only a measure of customer retention but also a company’s ability to maintain high engagement and continuously improve its current offerings to meet (and surpass) the needs of its customers.
 

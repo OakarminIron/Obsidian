@@ -1,0 +1,7 @@
+[[Theoretical Physics]]
+[[Mathematical Chemistry]]
+[[Bio-mathematics]]
+[[Engineering]]
+[[Game Theory🎲]]
+[[Probability & Statistic]]
+[[Computer Science]]

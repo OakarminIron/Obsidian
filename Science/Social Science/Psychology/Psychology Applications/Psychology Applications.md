@@ -1,7 +1,7 @@
 [[Psycho Tests]]
 
 
-[[Mental Health Care]]
+[[Mental Health]]
 
 [[Psychology in Work]]
 [[Psychology in Education]]

@@ -1,4 +1,4 @@
-Notation, in the context of algorithms and complexity analysis, refers to the [[Math]] symbols and expressions used to represent the performance characteristics of an Algorithm or the growth rate of a function. It provides a concise and standardized way to describe how the running [Time or Space](Time_or_Space_of_Algorithm.md) requirements of an algorithm or function change as the input size increases.
+Notation, in the context of algorithms and complexity analysis, refers to the [[Math🔣]] symbols and expressions used to represent the performance characteristics of an Algorithm or the growth rate of a function. It provides a concise and standardized way to describe how the running [Time or Space](Time_or_Space_of_Algorithm.md) requirements of an algorithm or function change as the input size increases.
 
 In the field of algorithm analysis, three commonly used notations are 
 1. [[Big O Notation (O)]]    

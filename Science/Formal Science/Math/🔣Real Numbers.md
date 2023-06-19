@@ -1,0 +1,5 @@
+[[Integers]]
+[[Natural Numbers]]
+[[Rational Numbers]]
+[[Complex Numbers]]
+[[Cardinal Numbers]]

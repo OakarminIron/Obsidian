@@ -1,5 +1,5 @@
 - [[🧩Logic]] 
-- [[Math]] 
+- [[Math🔣]] 
 - [[Statistic]]
 
 
