@@ -1,1 +1,2 @@
+[[hr.employee.base]]
 [[🟣👥Payslip]]

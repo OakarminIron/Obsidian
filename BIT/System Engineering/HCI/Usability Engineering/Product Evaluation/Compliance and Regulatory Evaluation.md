@@ -1,0 +1,2 @@
+Depending on the industry and product type, compliance with industry standards, regulations, and safety requirements may be critical. Evaluating compliance ensures that the product meets the necessary legal and safety standards.
+[[PESTLE]]

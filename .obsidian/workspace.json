@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7e3e687b9442b3f6",
+        "id": "c19c8d95589a1798",
         "type": "tabs",
         "children": [
           {
-            "id": "47c264ef64af99c9",
+            "id": "c27e41301127f13e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,35 +140,37 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "dca49724fe4fc214",
+  "active": "c27e41301127f13e",
   "lastOpenFiles": [
-    "IT/Computer Science/DSA/DataStructure/Data-Structure🗂.md",
-    "BIT/BA Documentation.md",
-    "BIT/Data Engineering/Data.md",
-    "Business/Business Topics.md",
-    "Business/Business Environment.md",
-    "Business/Business.md",
-    "BIT/Enterprise Analysis.md",
-    "IT/IT.md",
-    "BIT/Business IT.md",
-    "BIT/Data Engineering/Data X/အရေးခံ.md",
-    "BIT/Data Engineering/Data X/Data Transport.md",
-    "BIT/Data Engineering/Data X/Data Storage Solid.md",
-    "BIT/Data Engineering/Data X/Transport By Wave.md",
-    "BIT/Data Engineering/Data X/Data Storage.md",
-    "BIT/Data Engineering/Data Engineering.md",
-    "BIT/Business Analysis (BA).md",
-    "BIT/MD.md",
-    "Science/Social Science/Psychology/Psychology Themes/Motivation/Maslow's Hierarchy of Needs.md",
+    "X/Notes/Environment.md",
     "xxx.md",
-    "Science/Social Science/Sociology/Quality of Life/QOL Standard Indicators.md",
-    "X/Spirituality/Chakara/7 Chakra.md",
-    "Science/Natural Science/Biology/Health/Sleeping 💤🧠 Brain Memory.md",
-    "Science/Natural Science/Biology/Health/Biology🧬.md",
+    "BIT/System Engineering/HCI/Usability Engineering/Usability.md",
+    "Business/Business Environment.md",
+    "RL Environment.md",
+    "BIT/System Engineering/HCI/Usability Engineering/Product Evaluation/Environmental Impact Assessment.md",
+    "Business/Business.md",
+    "IT/Computer Science/Programming/Programming Languages/JavaScript/📜Environment.md",
+    "BIT/System Engineering/HCI/Usability Engineering/Product Evaluation/Product Evaluation Methods.md",
+    "BIT/System Engineering/HCI/Usability Engineering/Product Evaluation/Compliance and Regulatory Evaluation.md",
+    "BIT/Requirement Engineering/Tools/PESTLE.md",
+    "BIT/Requirement Engineering/Tools/PESTLE Macroeconomic.md",
+    "BIT/Requirement Engineering/Tools/PESTLE Microeconomics.md",
+    "Business/Accounting/Management Accounting/Cost/Cost Analysis.md",
+    "BIT/System Engineering/HCI/Usability Engineering/Product Evaluation/Market Analysis.md",
+    "Science/Social Science/Economic/Economic Analysis Tools/Market Research.md",
+    "BIT/System Engineering/HCI/Usability Engineering/Product Evaluation/Quality Assessment.md",
+    "BIT/System Engineering/HCI/Usability Engineering/Product Evaluation/Performance Evaluation.md",
+    "BIT/System Engineering/HCI/Usability Engineering/Product Evaluation/Product Evaluation.md",
+    "BIT/System Engineering/HCI/Usability Engineering/Product Evaluation",
+    "BIT/System Engineering/HCI/Usability Engineering/Product Evaluation/Product Evaluation Steps.md",
+    "BIT/System Engineering/HCI/Usability Engineering/Product Evaluation/User Experience Evaluation.md",
+    "BIT/System Engineering/HCI/Usability Engineering/User Experience.md",
+    "Business/Product and Project Management/Product Management/Product Manager.md",
+    "BIT/System Engineering/HCI/Usability Engineering/Usability Measures.md",
+    "BIT/System Engineering/HCI/Usability Engineering/Usability Specification.md",
+    "BIT/System Engineering/HCI/Usability Engineering/Usability Matrices.md",
+    "Odoo/Odoo Modules/Odoo HR/models",
     "Science/Natural Science/Biology/Health",
-    "Science/Natural Science/Biology/Health/Physical Health.md",
-    "Science/Natural Science/Biology/Health/Health.md",
-    "Science/Natural Science/Biology/Health/Mental Health.md",
     "Odoo/Odoo.sh"
   ]
 }
