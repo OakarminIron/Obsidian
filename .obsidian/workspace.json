@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c19c8d95589a1798",
+        "id": "255683b55740cdf0",
         "type": "tabs",
         "children": [
           {
-            "id": "c27e41301127f13e",
+            "id": "5d902000d46e4dad",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -140,35 +141,36 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c27e41301127f13e",
+  "active": "dca49724fe4fc214",
   "lastOpenFiles": [
-    "X/Notes/Environment.md",
+    "Science/Cognitive science/Philosophy/Philosophy Branch.md",
+    "Logic.md",
+    "Metaphysics.md",
+    "Science/Cognitive science/Philosophy/Philosophy.md",
+    "Science/Cognitive science/Cognitive Science.md",
+    "Science/Cognitive science/Philosophy",
+    "Business/Research/Research Philosophy/Research Philosophy.md",
+    "Science/Cognitive science/Philosophy/Axiology.md",
+    "Science/Cognitive science/Philosophy/Ontology.md",
+    "Science/Cognitive science/Philosophy/Epistemology.md",
+    "Business/Research/Research Question/Research Question.md",
+    "Business/Research/Research Sampling/Research Sampling.md",
+    "Business/Administration/Organization/Organizational Structure/Stakeholder/Stakeholders.md",
+    "Business/Research/Research Approach/Research Approach.md",
+    "Business/Research/Research Approach/🔍Inductive.md",
+    "Business/Research/Research Approach/🔍Deductive.md",
+    "Business/Research/Research🔍.md",
+    "Business/Research/Research Process.md",
+    "Business/Research/Research Question/First Steps.md",
+    "Business/Research/Research Design/Research Design.md",
+    "Business/Research/Research Design/🔍Conclusive.md",
+    "BIT/Data Engineering/Data Analysis/Data Analysis.md",
     "xxx.md",
+    "X/Notes/Environment.md",
     "BIT/System Engineering/HCI/Usability Engineering/Usability.md",
     "Business/Business Environment.md",
     "RL Environment.md",
-    "BIT/System Engineering/HCI/Usability Engineering/Product Evaluation/Environmental Impact Assessment.md",
-    "Business/Business.md",
-    "IT/Computer Science/Programming/Programming Languages/JavaScript/📜Environment.md",
-    "BIT/System Engineering/HCI/Usability Engineering/Product Evaluation/Product Evaluation Methods.md",
-    "BIT/System Engineering/HCI/Usability Engineering/Product Evaluation/Compliance and Regulatory Evaluation.md",
-    "BIT/Requirement Engineering/Tools/PESTLE.md",
-    "BIT/Requirement Engineering/Tools/PESTLE Macroeconomic.md",
-    "BIT/Requirement Engineering/Tools/PESTLE Microeconomics.md",
-    "Business/Accounting/Management Accounting/Cost/Cost Analysis.md",
-    "BIT/System Engineering/HCI/Usability Engineering/Product Evaluation/Market Analysis.md",
-    "Science/Social Science/Economic/Economic Analysis Tools/Market Research.md",
-    "BIT/System Engineering/HCI/Usability Engineering/Product Evaluation/Quality Assessment.md",
-    "BIT/System Engineering/HCI/Usability Engineering/Product Evaluation/Performance Evaluation.md",
-    "BIT/System Engineering/HCI/Usability Engineering/Product Evaluation/Product Evaluation.md",
     "BIT/System Engineering/HCI/Usability Engineering/Product Evaluation",
-    "BIT/System Engineering/HCI/Usability Engineering/Product Evaluation/Product Evaluation Steps.md",
-    "BIT/System Engineering/HCI/Usability Engineering/Product Evaluation/User Experience Evaluation.md",
-    "BIT/System Engineering/HCI/Usability Engineering/User Experience.md",
-    "Business/Product and Project Management/Product Management/Product Manager.md",
-    "BIT/System Engineering/HCI/Usability Engineering/Usability Measures.md",
-    "BIT/System Engineering/HCI/Usability Engineering/Usability Specification.md",
-    "BIT/System Engineering/HCI/Usability Engineering/Usability Matrices.md",
     "Odoo/Odoo Modules/Odoo HR/models",
     "Science/Natural Science/Biology/Health",
     "Odoo/Odoo.sh"

@@ -1,11 +1,13 @@
-[[Deliberate Sampling]]
-[[Simple random sampling]]
-[[Systematic sampling]]
-[[Stratified sampling]]
-[[Quota sampling]]
-[[Cluster sampling ]]
-[[Area sampling]]
-[[Multi-stage sampling]]
-[[Sequential sampling]]
+Research sampling is a technique used in research studies to select a subset of individuals or items from a larger population. The selected subset, known as a sample, is used to make inferences or draw conclusions about the entire population. Sampling methods vary depending on the research goals, available resources, and the characteristics of the population being studied.
 
+These sampling methods offer different advantages and are chosen based on the research objectives, available resources, and practical considerations. Researchers need to carefully select an appropriate sampling method to ensure the sample represents the population accurately and enables valid inferences and generalizations.
 
+1. Deliberate Sampling: Also known as `purposive` or judgmental sampling, deliberate sampling involves selecting individuals or items based on specific criteria or characteristics that are relevant to the research objective. This method allows researchers to focus on particular groups or individuals who are likely to provide valuable information for the study.
+2. Simple Random Sampling: Simple random sampling is a basic sampling method where each individual or item in the population has an equal chance of being selected for the sample. This is achieved by assigning a number to each element in the population and then using a random process (e.g., random number generator) to select the desired sample size.
+3. Systematic Sampling: Systematic sampling involves selecting every nth individual or item from a population after a random starting point has been determined. For example, if the population size is 1,000 and a sample size of 100 is desired, every 10th individual could be selected by starting at a randomly chosen number between 1 and 10.
+4. Stratified Sampling: Stratified sampling involves dividing the population into distinct subgroups or strata based on specific characteristics and then randomly selecting individuals from each stratum in proportion to their representation in the population. This method ensures that each subgroup is adequately represented in the sample, making it useful when certain subgroups are of particular interest.
+5. Quota Sampling: Quota sampling is a non-probability sampling method where the researcher selects individuals based on predetermined quotas to ensure that the sample represents specific characteristics or traits. The quotas are typically based on demographic factors, such as age, gender, or ethnicity, and the researcher uses judgment to select individuals who meet the criteria until the quotas are filled.
+6. Cluster Sampling: Cluster sampling involves dividing the population into clusters or groups and randomly selecting entire clusters as the sampling units. This method is useful when it is impractical or costly to sample individuals directly, so the clusters serve as a more accessible sampling unit. For example, a researcher might randomly select several schools or neighborhoods and then sample all individuals within those selected clusters.
+7. Area Sampling: Area sampling is a variation of cluster sampling where the population is divided into geographical areas, and a subset of areas is selected as the sampling units. This method is commonly used when the population is spread over a large geographic region, and it is more feasible to sample areas rather than individuals.
+8. Multi-stage Sampling: Multi-stage sampling involves combining different sampling methods in multiple stages. It typically starts with selecting large clusters or areas as the primary sampling units, followed by the selection of smaller clusters or sub-areas within the chosen clusters, and so on until the desired sample size is reached. This method is useful for large-scale studies and can provide a representative sample of the population.
+9. Sequential Sampling: Sequential sampling involves selecting individuals or items for the sample in a sequential manner as data collection progresses. This method allows researchers to make adjustments during the research process based on preliminary findings. It is often used in studies where the sample size is not predetermined, and researchers aim to gather data until reaching a specific criterion or achieving data saturation.

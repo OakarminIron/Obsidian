@@ -1,2 +1,2 @@
-[[Deductive]]
-[[Inductive]]
+[[🔍Deductive]]
+[[🔍Inductive]]

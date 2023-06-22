@@ -1,4 +1,4 @@
-Who are [[Stakeholders]]
+Who are [[Stakeholders]] are they who holding stake?
 [[Stakeholder Identification Techniques]]
 
 [[Partners]]
