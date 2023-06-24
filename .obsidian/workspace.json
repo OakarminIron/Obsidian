@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "255683b55740cdf0",
+        "id": "0cc99fda3c31bd99",
         "type": "tabs",
         "children": [
           {
-            "id": "5d902000d46e4dad",
+            "id": "268d3f3a2ec1d0a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "IT/Operation Systems/Ubuntu Commands/Ubuntu Log Too Large.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IT/Operation Systems/Ubuntu Commands/Ubuntu Log Too Large.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IT/Operation Systems/Ubuntu Commands/Ubuntu Log Too Large.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IT/Operation Systems/Ubuntu Commands/Ubuntu Log Too Large.md"
+              }
             }
           }
         ]
@@ -141,8 +149,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "dca49724fe4fc214",
+  "active": "268d3f3a2ec1d0a3",
   "lastOpenFiles": [
+    "IT/Operation Systems/Ubuntu Commands/Ubuntu Commands.md",
+    "IT/Operation Systems/Ubuntu Commands/Ubuntu Log Too Large.md",
+    "IT/Operation Systems/Ubuntu Commands/Ubuntu Boot Header.md",
+    "IT/Operation Systems/Ubuntu Commands/Ubuntu SWAP increase.md",
+    "IT/Operation Systems/Ubuntu.md",
+    "IT/Operation Systems/Linux.md",
+    "Odoo/Odoo Modules/Odoo HR/Odoo Payroll/🟣👥Salary Advantages💵.md",
+    "Odoo/Odoo Modules/Odoo HR/Odoo Payroll/🟣👥Payroll.md",
+    "Odoo/Odoo Modules/Odoo HR/Odoo Payroll/🟣👥Payslip.md",
     "Science/Cognitive science/Philosophy/Philosophy Branch.md",
     "Logic.md",
     "Metaphysics.md",
@@ -161,15 +178,6 @@
     "Business/Research/Research Approach/🔍Deductive.md",
     "Business/Research/Research🔍.md",
     "Business/Research/Research Process.md",
-    "Business/Research/Research Question/First Steps.md",
-    "Business/Research/Research Design/Research Design.md",
-    "Business/Research/Research Design/🔍Conclusive.md",
-    "BIT/Data Engineering/Data Analysis/Data Analysis.md",
-    "xxx.md",
-    "X/Notes/Environment.md",
-    "BIT/System Engineering/HCI/Usability Engineering/Usability.md",
-    "Business/Business Environment.md",
-    "RL Environment.md",
     "BIT/System Engineering/HCI/Usability Engineering/Product Evaluation",
     "Odoo/Odoo Modules/Odoo HR/models",
     "Science/Natural Science/Biology/Health",

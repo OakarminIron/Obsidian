@@ -1,4 +1,4 @@
-
+``` shell
 sudo swapon --show
 free -h
 df -h
@@ -20,6 +20,6 @@ sudo sysctl vm.vfs_cache_pressure=60
 sudo nano /etc/sysctl.conf
 clear
 history
-
+```
 
 https://linuxhint.com/add-swap-space-ubuntu-22-04/
