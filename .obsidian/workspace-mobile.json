@@ -14,14 +14,6 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "c2aa1c957a909466",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {}
-            }
           }
         ]
       }
@@ -123,15 +115,6 @@
   },
   "active": "18963b13316093d0",
   "lastOpenFiles": [
-    "Personal Notes/Congnitive Science/CS Faculties.md",
-    "Personal Notes/Congnitive Science/Reasoning.md",
-    "Personal Notes/Congnitive Science/Cognitive science.md",
-    "Personal Notes/Congnitive Science/CS Fields.md",
-    "Personal Notes/Congnitive Science/Congnitive Psychology.md",
-    "Personal Notes/Social Science/Psychology/Major School of Thoughts/Major School of Thought.md",
-    "Personal Notes/Social Science/Psychology/Psychology.md",
-    "Personal Notes/Congnitive Science/Linguistics.md",
-    "Untitled.md",
-    "Personal Notes/Social Science/Psychology/Major School of Thoughts/Psycho Analytic/Phycho Analytic.md"
+
   ]
 }
