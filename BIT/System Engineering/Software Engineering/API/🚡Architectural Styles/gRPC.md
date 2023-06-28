@@ -1,0 +1,1 @@
+(Google Remote Procedure Call) is an open-source remote procedure call framework. It uses Protocol Buffers as the interface definition language and supports bi-directional streaming and multiple programming languages.

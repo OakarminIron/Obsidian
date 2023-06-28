@@ -1,0 +1,1 @@
+Regular expressions are a powerful pattern-matching language used to search, extract, and manipulate text based on specific patterns. They are commonly used in string processing and data validation scenarios.

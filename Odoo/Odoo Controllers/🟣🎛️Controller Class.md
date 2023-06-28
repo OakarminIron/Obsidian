@@ -12,5 +12,5 @@ class ResPartnerController(http.Controller):
     	return request.render("library_management.contact_details_template", values)
 ```
 - Decorating with route() is necessary to keep the method (and route) visible: if the method is redefined without decorating, it will be “unpublished”
-- The Controllers in Odoo are actually inherited from the “Controller” class, as you can see from the above code. The `@http.route()` defined in the controller specifies some details like the url of the page that need to be redirected, the type of the request (can be http or json), auth for specifying who can access the url, website parameter for specifying the controller is linked with a page (it will take either True or False values).
+- The Controllers in Odoo are actually inherited from the “Controller” class, as you can see from the above code. The `@http.route()` defined in the controller specifies some details like the `url` of the page that need to be redirected, the type of the request (can be `http` or `json`), `auth` for specifying who can access the `url`, website parameter for specifying the controller is linked with a page (it will take either True or False values).
 [[🟣🎛️HTTP route]]

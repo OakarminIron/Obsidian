@@ -1,0 +1,1 @@
+Protocol Buffers is a language-agnostic binary serialization format developed by Google. It allows efficient and compact serialization of structured data, making it suitable for high-performance systems and inter-service communication.

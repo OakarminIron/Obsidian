@@ -6,5 +6,5 @@
 6. [[ISR]]
 7. [[Partial Hydration]]
 8. [[Islands]]
-9. [[Streamming SSR]]
-10. [[Resumability]]
+9. [[Streaming SSR]]
+10. [[Resume-ability]]

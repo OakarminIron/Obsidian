@@ -1,0 +1,1 @@
+(`eXtensible` Markup Language) is a more verbose data exchange format that uses tags to define structured data. It provides flexibility in representing complex data structures and supports data validation through XML schema. XML has been widely used in enterprise systems and document interchange.

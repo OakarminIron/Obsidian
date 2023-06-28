@@ -1,0 +1,1 @@
+(You Ain't Markup Language): `YAML` is a human-readable data serialization format. It is often used for configuration files and data exchange in a more readable and maintainable manner than `XML` or `JSON`.

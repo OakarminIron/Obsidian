@@ -1,0 +1,8 @@
+A web socket is one endpoint of a two way communication link between two programs running on the network. The socket mechanism provides a means of `IPC` by establishing named contact points between which the communication take place.
+
+- [[🌐Data-gram Socket🔌]] : This is a type of network which has connection less point for sending and receiving packets. It is similar to mailbox. The letters (data) posted into the box are collected and delivered (transmitted) to a letterbox (receiving socket).
+- [[🌐Raw Sockets🔌]]: These provide users access to the underlying communication protocols, which support socket abstractions. These sockets are normally data-gram oriented, though their exact characteristics are dependent on the interface provided by the protocol. Raw sockets are not intended for the general user; they have been provided mainly for those interested in developing new communication protocols, or for gaining access to some of the more cryptic facilities of an existing protocol.
+- 🌐[[Stream Socket🔌]]: In Computer operating system, a stream socket which provides a connection-oriented, sequenced, and unique flow of data without record boundaries with well defined mechanisms for creating and destroying connections and for detecting errors. It is similar to phone. A connection is established between the phones (two ends) and a conversation (transfer of data) takes place.
+- [[🌐Sequenced Packet Sockets🔌]] − They are similar to a stream socket, with the exception that record boundaries are preserved. 
+
+Functions --> Create(), Bind(), Connect(),  Listen(),Accept(), Close(), Write(), Read()

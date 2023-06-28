@@ -1,6 +1,6 @@
 [[Database Engineering]]
 [[Database Design]]
-[[Database Languages]]
+[[Query Languages]]
 [[Database Type]]
 [[ORM (Object-Relational Mapping)]]
 

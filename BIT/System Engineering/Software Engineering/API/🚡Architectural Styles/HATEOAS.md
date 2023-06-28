@@ -1,0 +1,1 @@
+(Hypermedia as the Engine of Application State) is a constraint of the REST architectural style. It emphasizes including hypermedia links in API responses to enable clients to discover and navigate the API's resources dynamically.

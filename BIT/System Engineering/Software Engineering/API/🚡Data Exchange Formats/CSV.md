@@ -1,0 +1,1 @@
+(Comma-Separated Values) is a simple data exchange format that represents tabular data as plain text. In `CSV`, each line represents a row, and values within each row are separated by commas. `CSV` is commonly used for exchanging data between spreadsheet applications and databases.

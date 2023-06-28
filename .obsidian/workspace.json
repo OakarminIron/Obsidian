@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0cc99fda3c31bd99",
+        "id": "772099dfd63ab3b0",
         "type": "tabs",
         "children": [
           {
-            "id": "268d3f3a2ec1d0a3",
+            "id": "ab99ecb2ef141da6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Operation Systems/Ubuntu Commands/Ubuntu Log Too Large.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -70,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 434.5
   },
   "right": {
     "id": "e3f23135e009c46a",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Operation Systems/Ubuntu Commands/Ubuntu Log Too Large.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Operation Systems/Ubuntu Commands/Ubuntu Log Too Large.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "IT/Operation Systems/Ubuntu Commands/Ubuntu Log Too Large.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,38 +140,43 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "268d3f3a2ec1d0a3",
+  "active": "ab99ecb2ef141da6",
   "lastOpenFiles": [
-    "IT/Operation Systems/Ubuntu Commands/Ubuntu Commands.md",
-    "IT/Operation Systems/Ubuntu Commands/Ubuntu Log Too Large.md",
-    "IT/Operation Systems/Ubuntu Commands/Ubuntu Boot Header.md",
-    "IT/Operation Systems/Ubuntu Commands/Ubuntu SWAP increase.md",
-    "IT/Operation Systems/Ubuntu.md",
-    "IT/Operation Systems/Linux.md",
-    "Odoo/Odoo Modules/Odoo HR/Odoo Payroll/🟣👥Salary Advantages💵.md",
-    "Odoo/Odoo Modules/Odoo HR/Odoo Payroll/🟣👥Payroll.md",
-    "Odoo/Odoo Modules/Odoo HR/Odoo Payroll/🟣👥Payslip.md",
-    "Science/Cognitive science/Philosophy/Philosophy Branch.md",
-    "Logic.md",
-    "Metaphysics.md",
-    "Science/Cognitive science/Philosophy/Philosophy.md",
-    "Science/Cognitive science/Cognitive Science.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/Web Applications/Web-App Architecture/Representational State Transfer(REST).md",
+    "IT/Computer Science/Programming/Programming Languages/PHP🐘.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/🐘Frameworks.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/🐍Frameworks/🐍Frameworks.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/Software Development Frameworks.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/WordPress.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/🐍Frameworks/Django.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/🐍Frameworks/Flask.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/Web Applications/Web-App Architecture/Web Rendering Pattern/Web Rendering Pattern.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/Web Applications/Web-App Architecture/Web Rendering Pattern/Resumability.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/Web Applications/Web-App Architecture/Web Rendering Pattern/Islands.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/Web Applications/Web-App Architecture/Web Rendering Pattern/Partial Hydration.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/Web Applications/Web-App Architecture/Web Rendering Pattern/ISR.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/Web Applications/Web-App Architecture/Web Rendering Pattern/SSGH.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/Web Applications/Web-App Architecture/Web Rendering Pattern/Single Page Application(SPA).md",
+    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/📜Frameworks/⚛️React.js.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/Web Applications/Web-App Architecture/Web Rendering Pattern/Multi Page Application.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/Web Applications/Web-App Architecture/Web Rendering Pattern/Static Website.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/Web Applications/Web-App Architecture/Web Rendering Pattern/SSRH.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/📜Frameworks/⚪Next.js.md",
+    "Odoo/Odoo Controllers/🟣🎛️API🚡.md",
+    "BIT/System Engineering/Software Engineering/API/🚡Communication Mechanisms.md",
+    "BIT/System Engineering/Software Engineering/API/🚡Communication/🚡Communication Mechanisms.md",
+    "BIT/System Engineering/Software Engineering/API/🚡Communication/🚡Communication Protocols.md",
+    "BIT/System Engineering/Software Engineering/API/🚡Data Exchange Formats/🚡Data Exchange Formats.md",
+    "BIT/System Engineering/Software Engineering/API/🚡Architectural Styles/🚡Architectural Styles.md",
+    "BIT/System Engineering/Software Engineering/API/🚡Architectural Styles/REST.pdf",
+    "BIT/System Engineering/Software Engineering/API/🚡Architectural Styles",
+    "IT/Computer Science/Programming/Programming Languages/Query Languages",
+    "BIT/System Engineering/Software Engineering/API/🚡Communication",
+    "BIT/System Engineering/Software Engineering/API/🚡Data Exchange Formats",
+    "BIT/System Engineering/System",
+    "BIT/System Engineering/Enterprise Modeling",
     "Science/Cognitive science/Philosophy",
-    "Business/Research/Research Philosophy/Research Philosophy.md",
-    "Science/Cognitive science/Philosophy/Axiology.md",
-    "Science/Cognitive science/Philosophy/Ontology.md",
-    "Science/Cognitive science/Philosophy/Epistemology.md",
-    "Business/Research/Research Question/Research Question.md",
-    "Business/Research/Research Sampling/Research Sampling.md",
-    "Business/Administration/Organization/Organizational Structure/Stakeholder/Stakeholders.md",
-    "Business/Research/Research Approach/Research Approach.md",
-    "Business/Research/Research Approach/🔍Inductive.md",
-    "Business/Research/Research Approach/🔍Deductive.md",
-    "Business/Research/Research🔍.md",
-    "Business/Research/Research Process.md",
     "BIT/System Engineering/HCI/Usability Engineering/Product Evaluation",
-    "Odoo/Odoo Modules/Odoo HR/models",
-    "Science/Natural Science/Biology/Health",
-    "Odoo/Odoo.sh"
+    "Odoo/Odoo Modules/Odoo HR/models"
   ]
 }

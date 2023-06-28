@@ -1,0 +1,1 @@
+`JSONPath` is a query language that enables querying and extracting data from [[JSON]] documents. It provides a simple syntax for navigating and filtering JSON structures based on specific patterns.

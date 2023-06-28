@@ -1,0 +1,6 @@
+- The client calls the client stub. The call is a local procedure call, with parameters pushed on to the stack in the normal way.
+- The client stub packs the parameters into a message and makes a system call to send the message. Packing the parameters is called marshaling.
+- The client's local operating system sends the message from the client machine to the server machine.
+- The local operating system on the server machine passes the incoming packets to the server stub.
+- The server stub unpacks the parameters from the message. Unpacking the parameters is called UN-marshaling.
+- Finally, the server stub calls the server procedure. The reply traces the same steps in the reverse direction.

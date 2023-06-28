@@ -1,2 +1,2 @@
-[[Solid Line  Direct Reporting]]  -- [[Flat Organization]]
-[[Dotted-line indirect Reporting]] -- [[Matrix Organization Structure]]
+[[Solid Line  Direct Reporting]]  -- [[🔼Flat]]
+[[Dotted-line indirect Reporting]] -- [[🔼Matrix]]

@@ -1,0 +1,1 @@
+(JavaScript Object Notation) is a lightweight and widely-used data exchange format. It uses a human-readable syntax to represent data in key-value pairs. `JSON` is easy to parse and generate in many programming languages, making it a popular choice for web APIs.

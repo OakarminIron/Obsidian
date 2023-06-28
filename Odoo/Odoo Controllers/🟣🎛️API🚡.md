@@ -1,6 +1,2 @@
 
-[[🟣🚡Routing]]
-[[🟣🚡Request]]
-[[🟣🚡Response]]
-[[🟣🚡Routing]]
-[[🟣🚡External API]]
+[[XML-RPC]]
