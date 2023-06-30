@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "772099dfd63ab3b0",
+        "id": "0a795892e63de17e",
         "type": "tabs",
         "children": [
           {
-            "id": "ab99ecb2ef141da6",
+            "id": "ffa4af8aad1483bf",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "BUddhism",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna.md"
+              }
             }
           }
         ]
@@ -140,43 +144,44 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ab99ecb2ef141da6",
+  "active": "24686938cb04c3c5",
   "lastOpenFiles": [
-    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/Web Applications/Web-App Architecture/Representational State Transfer(REST).md",
-    "IT/Computer Science/Programming/Programming Languages/PHP🐘.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/🐘Frameworks.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/🐍Frameworks/🐍Frameworks.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/Software Development Frameworks.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/WordPress.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/🐍Frameworks/Django.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/🐍Frameworks/Flask.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/Web Applications/Web-App Architecture/Web Rendering Pattern/Web Rendering Pattern.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/Web Applications/Web-App Architecture/Web Rendering Pattern/Resumability.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/Web Applications/Web-App Architecture/Web Rendering Pattern/Islands.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/Web Applications/Web-App Architecture/Web Rendering Pattern/Partial Hydration.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/Web Applications/Web-App Architecture/Web Rendering Pattern/ISR.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/Web Applications/Web-App Architecture/Web Rendering Pattern/SSGH.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/Web Applications/Web-App Architecture/Web Rendering Pattern/Single Page Application(SPA).md",
-    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/📜Frameworks/⚛️React.js.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/Web Applications/Web-App Architecture/Web Rendering Pattern/Multi Page Application.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/Web Applications/Web-App Architecture/Web Rendering Pattern/Static Website.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/Web Applications/Web-App Architecture/Web Rendering Pattern/SSRH.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/📜Frameworks/⚪Next.js.md",
-    "Odoo/Odoo Controllers/🟣🎛️API🚡.md",
-    "BIT/System Engineering/Software Engineering/API/🚡Communication Mechanisms.md",
-    "BIT/System Engineering/Software Engineering/API/🚡Communication/🚡Communication Mechanisms.md",
-    "BIT/System Engineering/Software Engineering/API/🚡Communication/🚡Communication Protocols.md",
-    "BIT/System Engineering/Software Engineering/API/🚡Data Exchange Formats/🚡Data Exchange Formats.md",
-    "BIT/System Engineering/Software Engineering/API/🚡Architectural Styles/🚡Architectural Styles.md",
+    "X/Notes/Patterns.md",
+    "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna.md",
+    "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/ပဋ္ဌာန်း.md",
+    "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/ပစ္ဆာဇာတ(pacchājāta)Post-nascence.md",
+    "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/အနန္တရ(anantara)Proximity.md",
+    "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/အာသေ၀န(āsevana)Frequency.md",
+    "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/အဓိပတိ(adhipati)Predominance.md",
+    "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/ပုရေဇာတ(purejāta)Pre-nascence.md",
+    "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/အာရမ္မဏ(ārammana)Object.md",
+    "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/အာရုံငါးပါး.md",
+    "Science/Cognitive science/Cognitive Psychology/Attention/Focused Attention.md",
+    "Science/Cognitive science/Cognitive Psychology/Attention/Clinical Attention Model.md",
+    "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/ဟေတု(hetu)Root.md",
+    "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna",
+    "X/Spirituality/Religions/Buddhism/Pure Relations.md",
+    "X/Spirituality/Religions/Buddhism/☸️Relationship.md",
+    "X/Spirituality/Religions/Buddhism/ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna.md",
+    "ဈာန(jhāna).md",
+    "X/Spirituality/Religions/Buddhism/☸️Buddhism.md",
+    "X/Spirituality/Religions/Buddhism/Relations of Absence.md",
+    "X/Spirituality/Religions/Buddhism/Relations of Presence.md",
+    "X/Spirituality/Religions/Buddhism/Relations of Support.md",
+    "X/Spirituality/Religions/Buddhism/Relations of Dependence.md",
+    "X/Spirituality/Religions/Buddhism/အဘိဓမ္မာ ပိဋကတ် Abhidhamma Piṭaka.md",
+    "Predominance condition (Adhipateyyapaccaya)အဓိပတိ.md",
+    "Root condition (Hetupaccaya)ဟေတု.md",
+    "Object condition (Arannapaccaya)အာရမ္မဏ.md",
+    "X/Spirituality/Religions/Buddhism",
+    "BIT/System Engineering/Software Engineering/API/🚡Communication/Server Side Events.png",
+    "BIT/System Engineering/Software Engineering/API/🚡Communication",
     "BIT/System Engineering/Software Engineering/API/🚡Architectural Styles/REST.pdf",
     "BIT/System Engineering/Software Engineering/API/🚡Architectural Styles",
     "IT/Computer Science/Programming/Programming Languages/Query Languages",
-    "BIT/System Engineering/Software Engineering/API/🚡Communication",
     "BIT/System Engineering/Software Engineering/API/🚡Data Exchange Formats",
     "BIT/System Engineering/System",
     "BIT/System Engineering/Enterprise Modeling",
-    "Science/Cognitive science/Philosophy",
-    "BIT/System Engineering/HCI/Usability Engineering/Product Evaluation",
-    "Odoo/Odoo Modules/Odoo HR/models"
+    "Science/Cognitive science/Philosophy"
   ]
 }
