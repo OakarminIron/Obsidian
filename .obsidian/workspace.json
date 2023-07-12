@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0a795892e63de17e",
+        "id": "5ec5bf9e21928e3e",
         "type": "tabs",
         "children": [
           {
-            "id": "ffa4af8aad1483bf",
+            "id": "372422827c9ec39f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "BUddhism",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 434.5
+    "width": 221.5
   },
   "right": {
     "id": "e3f23135e009c46a",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna.md",
+                "file": "IT/OSI/7.OSI Application Layer/7.OSI Application Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna.md",
+                "file": "IT/OSI/7.OSI Application Layer/7.OSI Application Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna.md"
+                "file": "IT/OSI/7.OSI Application Layer/7.OSI Application Layer.md"
               }
             }
           }
@@ -146,6 +146,12 @@
   },
   "active": "24686938cb04c3c5",
   "lastOpenFiles": [
+    "IT/OSI/7.OSI Application Layer/SSH.md",
+    "IT/DevOps/Github.md",
+    "IT/DevOps/DevOps Tools.md",
+    "IT/OSI/7.OSI Application Layer/7.OSI Application Layer.md",
+    "Odoo/Odoo Install/Odoo install AWS.md",
+    "Odoo/Odoo Install/Odoo Install.md",
     "X/Notes/Patterns.md",
     "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna.md",
     "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/ပဋ္ဌာန်း.md",
@@ -167,12 +173,6 @@
     "X/Spirituality/Religions/Buddhism/☸️Buddhism.md",
     "X/Spirituality/Religions/Buddhism/Relations of Absence.md",
     "X/Spirituality/Religions/Buddhism/Relations of Presence.md",
-    "X/Spirituality/Religions/Buddhism/Relations of Support.md",
-    "X/Spirituality/Religions/Buddhism/Relations of Dependence.md",
-    "X/Spirituality/Religions/Buddhism/အဘိဓမ္မာ ပိဋကတ် Abhidhamma Piṭaka.md",
-    "Predominance condition (Adhipateyyapaccaya)အဓိပတိ.md",
-    "Root condition (Hetupaccaya)ဟေတု.md",
-    "Object condition (Arannapaccaya)အာရမ္မဏ.md",
     "X/Spirituality/Religions/Buddhism",
     "BIT/System Engineering/Software Engineering/API/🚡Communication/Server Side Events.png",
     "BIT/System Engineering/Software Engineering/API/🚡Communication",
