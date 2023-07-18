@@ -1,4 +1,5 @@
 [[AWS EC2]]
+see also [[Git]]
 AS Ubuntu
 ```ubuntu
     sudo apt-get update
@@ -28,15 +29,17 @@ exit
 ```
 
 alter security group rule open port
-`sudo apt install build-essential wget git python3-pip python3-dev python3-venv python3-wheel libfreetype6-dev libxml2-dev libzip-dev libsasl2-dev python3-setuptools libjpeg-dev zlib1g-dev libpq-dev libxslt1-dev libldap2-dev libtiff5-dev libopenjp2-7-dev`
+```odoo
+sudo apt install build-essential wget git python3-pip python3-dev python3-venv python3-wheel libfreetype6-dev libxml2-dev libzip-dev libsasl2-dev python3-setuptools libjpeg-dev zlib1g-dev libpq-dev libxslt1-dev libldap2-dev libtiff5-dev libopenjp2-7-dev
+```
 
 ```odoo
 sudo apt install -y npm
-sudo apt install -y node-less
-sudo npm install -g less less-plugin-clean-css
-mkdir /home/odoo/Documents
-mkdir /home/odoo/Downloads
-cd /home/odoo/Downloads
+	sudo apt install -y node-less
+	sudo npm install -g less less-plugin-clean-css
+	mkdir /home/odoo/Documents
+	mkdir /home/odoo/Downloads
+	cd /home/odoo/Downloads
 sudo wget https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.5/wkhtmltox_0.12.5-1.bionic_amd64.deb
 sudo apt install ./wkhtmltox_0.12.5-1.bionic_amd64.deb -y
 mkdir /home/odoo/Documents/Github

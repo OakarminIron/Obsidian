@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5ec5bf9e21928e3e",
+        "id": "8543c0349aa020be",
         "type": "tabs",
         "children": [
           {
-            "id": "372422827c9ec39f",
+            "id": "a2f747cffe98ab22",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -61,11 +61,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 453.5
   },
   "right": {
     "id": "e3f23135e009c46a",
@@ -81,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/OSI/7.OSI Application Layer/7.OSI Application Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/OSI/7.OSI Application Layer/7.OSI Application Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "IT/OSI/7.OSI Application Layer/7.OSI Application Layer.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -144,14 +141,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "24686938cb04c3c5",
+  "active": "a2f747cffe98ab22",
   "lastOpenFiles": [
-    "IT/OSI/7.OSI Application Layer/SSH.md",
-    "IT/DevOps/Github.md",
-    "IT/DevOps/DevOps Tools.md",
-    "IT/OSI/7.OSI Application Layer/7.OSI Application Layer.md",
     "Odoo/Odoo Install/Odoo install AWS.md",
     "Odoo/Odoo Install/Odoo Install.md",
+    "IT/DevOps/Git.md",
+    "IT/DevOps/DevOps Tools.md",
+    "X/Spirituality/x-Geometry/🧘Energy System.md",
+    "IT/DevOps/Github.md",
+    "Odoo/Odoo.md",
+    "X/Notes/EC2Root.md",
+    "IT/OSI/7.OSI Application Layer/SSH.md",
+    "IT/OSI/7.OSI Application Layer/7.OSI Application Layer.md",
+    "IT/DevOps/Hosting/AWS/AWS Services/DB/AWS Aurora.md",
+    "Odoo/Odoo Backend/🟣Views/🟣Buttons.md",
     "X/Notes/Patterns.md",
     "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna.md",
     "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/ပဋ္ဌာန်း.md",
@@ -167,12 +170,6 @@
     "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/ဟေတု(hetu)Root.md",
     "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna",
     "X/Spirituality/Religions/Buddhism/Pure Relations.md",
-    "X/Spirituality/Religions/Buddhism/☸️Relationship.md",
-    "X/Spirituality/Religions/Buddhism/ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna.md",
-    "ဈာန(jhāna).md",
-    "X/Spirituality/Religions/Buddhism/☸️Buddhism.md",
-    "X/Spirituality/Religions/Buddhism/Relations of Absence.md",
-    "X/Spirituality/Religions/Buddhism/Relations of Presence.md",
     "X/Spirituality/Religions/Buddhism",
     "BIT/System Engineering/Software Engineering/API/🚡Communication/Server Side Events.png",
     "BIT/System Engineering/Software Engineering/API/🚡Communication",

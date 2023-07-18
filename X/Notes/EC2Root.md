@@ -1,8 +1,8 @@
 Enable root Access for Linux Instances
-AWS doesn't grant root access by default to EC2 instances. This is an important security best practise. Users are supposed to open a ssh connection using the secure key/pair to login as ec2-user. Users are supposed to use the sudo command as ec2-user to obtain elevated privileges.
+AWS doesn't grant root access by default to `EC2` instances. This is an important security best practice. Users are supposed to open a ssh connection using the secure key/pair to login as `ec2`-user. Users are supposed to use the `sudo` command as `ec2`-user to obtain elevated privileges.
 
 Problems arise with a number of software packages which require remote root access for installation and operation. The following cheat sheet explains how to enable root access. It hasn't been tested with all Linux distributions.
-Disclaimer: Enabling direct root access to EC2 systems is a bad security practice which AWS doesn't recommend. It creates vulnerabilities especially for systems which are facing the Internet (see AWS documentation).
+Disclaimer: Enabling direct root access to `EC2` systems is a bad security practice which AWS doesn't recommend. It creates vulnerabilities especially for systems which are facing the Internet (see AWS documentation).
 Use these commands on your own risk. Understand the function of the commands and the related risks before you apply them.
 All commands require root privileges which can be obtained through the `sudo` command.
 

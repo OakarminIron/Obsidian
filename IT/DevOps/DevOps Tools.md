@@ -1,4 +1,4 @@
-[[Github]]
+[[Git]]
 [[Jenkins]]
 [[Grafana]]
 [[Docker]]
