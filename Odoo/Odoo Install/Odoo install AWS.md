@@ -1,5 +1,6 @@
 [[AWS EC2]]
 see also [[Git]]
+see also [[SSH]]
 AS Ubuntu
 ```ubuntu
     sudo apt-get update

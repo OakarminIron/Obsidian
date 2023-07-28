@@ -22,3 +22,17 @@
 | 9  | Fuchsia     |
 | 12 | Green       |
 | 11 | Purple      |
+
+`Odoo16 /odoo/addons/web/static/src/legacy/xml/base.xml line 1121`
+data-color="1" title="Red"
+data-color="2" title="Orange"
+data-color="3" title="Yellow"
+data-color="4" title="Light blue"
+data-color="5" title="Dark purple"
+data-color="6" title="Salmon pink"
+data-color="7" title="Medium blue"
+data-color="8" title="Dark blue"
+data-color="9" title="Fushia"
+data-color="10" title="Green"
+data-color="11" title="Purple"
+

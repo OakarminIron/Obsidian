@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8543c0349aa020be",
+        "id": "1a9c5561c35e76af",
         "type": "tabs",
         "children": [
           {
-            "id": "a2f747cffe98ab22",
+            "id": "b1a8e9daa4928b9c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Odoo/Odoo Modules/Odoo HR/Odoo Payroll/🟣👥Salary Rules💵.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -66,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 349.5
   },
   "right": {
     "id": "e3f23135e009c46a",
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Odoo/Odoo Modules/Odoo HR/Odoo Payroll/🟣👥Salary Rules💵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Odoo/Odoo Modules/Odoo HR/Odoo Payroll/🟣👥Salary Rules💵.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Odoo/Odoo Modules/Odoo HR/Odoo Payroll/🟣👥Salary Rules💵.md"
+              }
             }
           }
         ]
@@ -141,35 +150,35 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a2f747cffe98ab22",
+  "active": "b1a8e9daa4928b9c",
   "lastOpenFiles": [
+    "Odoo/Odoo Modules/Odoo HR/Odoo Payroll/🟣👥Salary Structure.md",
+    "Odoo/Odoo Modules/Odoo HR/Odoo Payroll/🟣👥Payroll.md",
+    "Odoo/Odoo Modules/Odoo HR/Odoo Payroll/🟣👥Payslip.md",
+    "Odoo/Odoo Modules/Odoo HR/Odoo Payroll/🟣👥Salary Advantages💵.md",
+    "Odoo/Odoo Modules/Odoo HR/Salary Rules vs Advantage.md",
     "Odoo/Odoo Install/Odoo install AWS.md",
     "Odoo/Odoo Install/Odoo Install.md",
+    "IT/OSI/7.OSI Application Layer/7.OSI Application Layer.md",
+    "IT/OSI/7.OSI Application Layer/SSH.md",
     "IT/DevOps/Git.md",
+    "Odoo/Odoo FrontEnd/Odoo JavaScript/OWL/🦉ColorList.md",
+    "Odoo/Odoo FrontEnd/Odoo JavaScript/OWL/🦉🧰OWL Components.md",
+    "Odoo/Odoo Backend/🟣Views/🟣Buttons.md",
+    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️Boolean Widgets.md",
+    "Odoo/Odoo FrontEnd/Odoo JavaScript/🟣📜Class.md",
+    "Odoo/Odoo Backend/🟣Views/🟣Views.md",
+    "Odoo/Odoo Backend/🟣Views/🟣List Views.md",
+    "Odoo/Odoo Backend/🟣Views/🟣Forms Views.md",
+    "IT/Operation Systems/Ubuntu Commands/Ubuntu Commands.md",
+    "IT/Operation Systems/Ubuntu.md",
+    "IT/Operation Systems/Linux.md",
     "IT/DevOps/DevOps Tools.md",
     "X/Spirituality/x-Geometry/🧘Energy System.md",
     "IT/DevOps/Github.md",
     "Odoo/Odoo.md",
     "X/Notes/EC2Root.md",
-    "IT/OSI/7.OSI Application Layer/SSH.md",
-    "IT/OSI/7.OSI Application Layer/7.OSI Application Layer.md",
-    "IT/DevOps/Hosting/AWS/AWS Services/DB/AWS Aurora.md",
-    "Odoo/Odoo Backend/🟣Views/🟣Buttons.md",
-    "X/Notes/Patterns.md",
-    "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna.md",
-    "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/ပဋ္ဌာန်း.md",
-    "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/ပစ္ဆာဇာတ(pacchājāta)Post-nascence.md",
-    "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/အနန္တရ(anantara)Proximity.md",
-    "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/အာသေ၀န(āsevana)Frequency.md",
-    "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/အဓိပတိ(adhipati)Predominance.md",
-    "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/ပုရေဇာတ(purejāta)Pre-nascence.md",
-    "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/အာရမ္မဏ(ārammana)Object.md",
-    "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/အာရုံငါးပါး.md",
-    "Science/Cognitive science/Cognitive Psychology/Attention/Focused Attention.md",
-    "Science/Cognitive science/Cognitive Psychology/Attention/Clinical Attention Model.md",
-    "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/ဟေတု(hetu)Root.md",
     "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna",
-    "X/Spirituality/Religions/Buddhism/Pure Relations.md",
     "X/Spirituality/Religions/Buddhism",
     "BIT/System Engineering/Software Engineering/API/🚡Communication/Server Side Events.png",
     "BIT/System Engineering/Software Engineering/API/🚡Communication",
