@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1a9c5561c35e76af",
+        "id": "a09e400595ac4473",
         "type": "tabs",
         "children": [
           {
-            "id": "b1a8e9daa4928b9c",
+            "id": "ea5ad8fecdcb906a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Odoo/Odoo Modules/Odoo HR/Odoo Payroll/🟣👥Salary Rules💵.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Odoo/Odoo Modules/Odoo HR/Odoo Payroll/🟣👥Salary Rules💵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Odoo/Odoo Modules/Odoo HR/Odoo Payroll/🟣👥Salary Rules💵.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Odoo/Odoo Modules/Odoo HR/Odoo Payroll/🟣👥Salary Rules💵.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,17 +141,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b1a8e9daa4928b9c",
+  "active": "ea5ad8fecdcb906a",
   "lastOpenFiles": [
+    "Odoo/Odoo Install/Odoo install Cloud.md",
+    "Odoo/Odoo Install/Odoo Install.md",
+    "Odoo/Odoo Install/Odoo Install Win/Odoo Install Win.md",
+    "Odoo/Odoo Install/Odoo Install U/Odoo Install U.md",
+    "Odoo/Odoo.md",
+    "Docker.md",
+    "IT/DevOps/DevOps Tools.md",
+    "IT/OSI/7.OSI Application Layer/SSH.md",
+    "Odoo/Odoo Modules/Odoo HR/Odoo Payroll/🟣👥Salary Rules💵.md",
     "Odoo/Odoo Modules/Odoo HR/Odoo Payroll/🟣👥Salary Structure.md",
     "Odoo/Odoo Modules/Odoo HR/Odoo Payroll/🟣👥Payroll.md",
     "Odoo/Odoo Modules/Odoo HR/Odoo Payroll/🟣👥Payslip.md",
     "Odoo/Odoo Modules/Odoo HR/Odoo Payroll/🟣👥Salary Advantages💵.md",
     "Odoo/Odoo Modules/Odoo HR/Salary Rules vs Advantage.md",
-    "Odoo/Odoo Install/Odoo install AWS.md",
-    "Odoo/Odoo Install/Odoo Install.md",
     "IT/OSI/7.OSI Application Layer/7.OSI Application Layer.md",
-    "IT/OSI/7.OSI Application Layer/SSH.md",
     "IT/DevOps/Git.md",
     "Odoo/Odoo FrontEnd/Odoo JavaScript/OWL/🦉ColorList.md",
     "Odoo/Odoo FrontEnd/Odoo JavaScript/OWL/🦉🧰OWL Components.md",
@@ -172,12 +169,6 @@
     "Odoo/Odoo Backend/🟣Views/🟣Forms Views.md",
     "IT/Operation Systems/Ubuntu Commands/Ubuntu Commands.md",
     "IT/Operation Systems/Ubuntu.md",
-    "IT/Operation Systems/Linux.md",
-    "IT/DevOps/DevOps Tools.md",
-    "X/Spirituality/x-Geometry/🧘Energy System.md",
-    "IT/DevOps/Github.md",
-    "Odoo/Odoo.md",
-    "X/Notes/EC2Root.md",
     "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna",
     "X/Spirituality/Religions/Buddhism",
     "BIT/System Engineering/Software Engineering/API/🚡Communication/Server Side Events.png",
