@@ -7,7 +7,7 @@
             "request": "launch",
             "stopOnEntry": false,
             "python": "C:/ProjectFolder/venv/Scripts/python.exe",
-            "program": "C:/Program Files (x86)/Odoo 12.0e/server/odoo-bin",
+            "program": "C:/Program Files (x86)/Odoo 16/server/odoo-bin",
             "env": {},
             "envFile": "${workspaceRoot}/.env",
             "cwd": "${workspaceRoot}",

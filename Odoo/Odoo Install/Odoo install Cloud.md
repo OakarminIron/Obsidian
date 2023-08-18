@@ -49,6 +49,11 @@ sudo chown odoo:root /var/log/odoo
 sudo apt install python3-pip
 ```
 
+```postgresql
+pg_dump  -p 5432 -d mydb -F c -f /home/odoo/mydb.dump
+createdb -p 5434 -U odoo mydb
+pg_restore -p 5434 -d mydb mydb.dump
+```
 
 ```github
 mkdir /home/odoo/Documents/Github/odoo

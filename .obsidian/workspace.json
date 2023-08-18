@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "a09e400595ac4473",
+        "id": "b8fd1ede8fcf35d9",
         "type": "tabs",
         "children": [
           {
-            "id": "ea5ad8fecdcb906a",
+            "id": "e7aaa0e719f8a2be",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,34 +140,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ea5ad8fecdcb906a",
+  "active": "24686938cb04c3c5",
   "lastOpenFiles": [
+    "Odoo/Odoo Modules/Odoo Inventory/🟣📦Costing.md",
+    "Standard Costing.md",
+    "Odoo/Odoo Modules/Odoo Inventory/Odoo Replenishment Strategies.md",
+    "Odoo/Odoo Modules/Odoo Inventory/🟣Inventory📦.md",
+    "Odoo/Odoo Modules/Odoo Inventory/🟣Product.md",
+    "Odoo/Odoo Modules/Odoo Inventory/🟣📦Warehouse Management.md",
+    "Odoo/Odoo Modules/Odoo Inventory/Odoo Inventory Removal Strategies.md",
+    "Business/Accounting/Financial Accounting/Inventory Costing Method for COGS.md",
+    "Standard Price.md",
+    "Business/Accounting/Financial Accounting/Average Cost Method.md",
+    "Odoo/Odoo Modules/Odoo Inventory/🟣📦Shipping Management.md",
+    "Business/Accounting/Financial Accounting/Cost of Good Sold COGS.md",
     "Odoo/Odoo Install/Odoo install Cloud.md",
-    "Odoo/Odoo Install/Odoo Install.md",
+    "IT/Database/PostgreSQL/pgSQL Quaries.md",
+    "IT/Database/PostgreSQL/PostgreSQL Notes.md",
+    "IT/Database/Database Type/PostgreSQL.md",
+    "IT/Database/Database.md",
+    "IT/DevOps/Hosting/AWS/AWS Services/DB/AWS DB.md",
+    "Odoo/Odoo Backend/🟣Views/🟣Buttons.md",
     "Odoo/Odoo Install/Odoo Install Win/Odoo Install Win.md",
+    "Odoo/Odoo Install/Odoo Install.md",
     "Odoo/Odoo Install/Odoo Install U/Odoo Install U.md",
     "Odoo/Odoo.md",
+    "IT/Computer Science/DSA/🗂Tree.md",
     "Docker.md",
     "IT/DevOps/DevOps Tools.md",
-    "IT/OSI/7.OSI Application Layer/SSH.md",
-    "Odoo/Odoo Modules/Odoo HR/Odoo Payroll/🟣👥Salary Rules💵.md",
-    "Odoo/Odoo Modules/Odoo HR/Odoo Payroll/🟣👥Salary Structure.md",
-    "Odoo/Odoo Modules/Odoo HR/Odoo Payroll/🟣👥Payroll.md",
-    "Odoo/Odoo Modules/Odoo HR/Odoo Payroll/🟣👥Payslip.md",
-    "Odoo/Odoo Modules/Odoo HR/Odoo Payroll/🟣👥Salary Advantages💵.md",
-    "Odoo/Odoo Modules/Odoo HR/Salary Rules vs Advantage.md",
-    "IT/OSI/7.OSI Application Layer/7.OSI Application Layer.md",
-    "IT/DevOps/Git.md",
-    "Odoo/Odoo FrontEnd/Odoo JavaScript/OWL/🦉ColorList.md",
-    "Odoo/Odoo FrontEnd/Odoo JavaScript/OWL/🦉🧰OWL Components.md",
-    "Odoo/Odoo Backend/🟣Views/🟣Buttons.md",
-    "Odoo/Odoo Backend/🟣Views/🟣Widgets☑️/🟣☑️Boolean Widgets.md",
-    "Odoo/Odoo FrontEnd/Odoo JavaScript/🟣📜Class.md",
-    "Odoo/Odoo Backend/🟣Views/🟣Views.md",
-    "Odoo/Odoo Backend/🟣Views/🟣List Views.md",
-    "Odoo/Odoo Backend/🟣Views/🟣Forms Views.md",
-    "IT/Operation Systems/Ubuntu Commands/Ubuntu Commands.md",
-    "IT/Operation Systems/Ubuntu.md",
     "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna",
     "X/Spirituality/Religions/Buddhism",
     "BIT/System Engineering/Software Engineering/API/🚡Communication/Server Side Events.png",

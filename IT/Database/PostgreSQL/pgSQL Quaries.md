@@ -21,7 +21,10 @@ xtable.table_name = 'account_asset_asset';
 ```
 ------------------------------------------------------------------------------
 
-
+find database size
+```sql
+SELECT pg_size_pretty(pg_database_size('mydatabase'));
+```
 ---------------- find useless columns
 
 ```sql
