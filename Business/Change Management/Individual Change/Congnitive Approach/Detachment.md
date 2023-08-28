@@ -1,1 +1,0 @@
-Imagine a time when you did not like who you ware. Perhaps you ware in the grip of a strong negative emotion. See yourself in that state, then imagine yourself stepping outside or away from yoru body, leaving all that negativity behind and becoming quite calm and detached and more rational.

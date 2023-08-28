@@ -1,0 +1,4 @@
+- Procurement concerns how a company obtains raw materials.
+- Technological development is used at a firm's research and development (R&D) stage—like designing and developing manufacturing techniques and automating processes.
+- Human resources (HR) management involves hiring and retaining employees who will fulfill the firm's business strategy and help design, market, and sell the product.
+- Infrastructure includes company systems and the composition of its management team—such as planning, accounting, finance, and quality control.

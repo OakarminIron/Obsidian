@@ -1,1 +1,0 @@
-[[Value chain]] analysis examines the activities and processes that create value for a company and its customers. It helps identify areas of competitive advantage and cost optimization within the microeconomics environment by evaluating the various stages of production, distribution, and customer support.

@@ -8,4 +8,4 @@
 [[Behavior-Driven Development]]
 [[Goal-Directed Design]]
 [[Responsibility Driven Design]]
-[[Value Driven Design]]
+[[🪙Value Driven Design]]

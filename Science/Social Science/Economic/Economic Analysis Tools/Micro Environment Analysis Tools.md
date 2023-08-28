@@ -4,6 +4,6 @@
 [[Five Whys]]
 [[Market Research]]
 [[Customer Segmentation]]
-[[Value Chain Analysis]]
+[[⛓️Value Chain Analysis]]
 [[Consumer Behavior Analysis]]
 

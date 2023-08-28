@@ -1,1 +1,16 @@
-One of the core concepts in [[Agile]] is that the scope of a project is fluid, while resources stay the same. As such, in agile product management the team spends less time defining the product before hand, and is open to changes along the way. The product comes together one iteration at a time, allowing for customer data and team retrospectives to drive the next stage. As such, agile product management is more about guiding the development team through cycles, while maintaining the product vision and integrating customer insight along the way.
+Agile is a specific approach to management and  development that emphasizes flexibility, collaboration, and iterative progress.
+The Agile methodology was developed as a response to traditional, rigid project management methods that struggled to keep up with the rapidly changing nature of  development. 
+
+The Agile methodology is based on the Agile Manifesto, which outlines a set of guiding values and principles, including:
+- Individuals and interactions over processes and tools.
+- Working software over comprehensive documentation.
+- Customer collaboration over contract negotiation.
+- Responding to change over following a plan.
+
+
+
+[[Agile Project Management]]
+[[Agile Product Management]]
+[[Agile Software Development]]
+[[Agile ITSM]]
+	[[Agile Service Management]]

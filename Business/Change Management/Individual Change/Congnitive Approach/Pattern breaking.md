@@ -1,1 +1,0 @@
-Pattern breaking is a technique of physically or symbolically taking attention away from a negative state and focusing it on positive.

@@ -1,13 +1,10 @@
 [[OSI 7 Layers]]
 [[💻 Hardware]]
 [[💻 Software]]
-
+[[ITSM]]
 
 [[Database]]
 [[Cyber Security]]
-[[Code Editors]]
-
-
-[[DevOps]]
+[[Hosting Providers]]
 
 [[Computer Science]]

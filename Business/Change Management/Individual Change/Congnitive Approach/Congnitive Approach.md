@@ -1,4 +1,3 @@
 [[Cognitive Psychology]] 
 
-
-[[Individual change Techniques]]
+[[Individual Change Techniques]]

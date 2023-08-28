@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "b8fd1ede8fcf35d9",
+        "id": "5c90408616f3d759",
         "type": "tabs",
         "children": [
           {
-            "id": "e7aaa0e719f8a2be",
+            "id": "ac591d9d2c2341f2",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "52600803ace90e13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Skill Framework/My Skill Framework.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -140,44 +153,49 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "24686938cb04c3c5",
+  "active": "ac591d9d2c2341f2",
   "lastOpenFiles": [
-    "Odoo/Odoo Modules/Odoo Inventory/🟣📦Costing.md",
-    "Standard Costing.md",
-    "Odoo/Odoo Modules/Odoo Inventory/Odoo Replenishment Strategies.md",
-    "Odoo/Odoo Modules/Odoo Inventory/🟣Inventory📦.md",
-    "Odoo/Odoo Modules/Odoo Inventory/🟣Product.md",
-    "Odoo/Odoo Modules/Odoo Inventory/🟣📦Warehouse Management.md",
-    "Odoo/Odoo Modules/Odoo Inventory/Odoo Inventory Removal Strategies.md",
-    "Business/Accounting/Financial Accounting/Inventory Costing Method for COGS.md",
-    "Standard Price.md",
-    "Business/Accounting/Financial Accounting/Average Cost Method.md",
-    "Odoo/Odoo Modules/Odoo Inventory/🟣📦Shipping Management.md",
-    "Business/Accounting/Financial Accounting/Cost of Good Sold COGS.md",
-    "Odoo/Odoo Install/Odoo install Cloud.md",
-    "IT/Database/PostgreSQL/pgSQL Quaries.md",
-    "IT/Database/PostgreSQL/PostgreSQL Notes.md",
-    "IT/Database/Database Type/PostgreSQL.md",
-    "IT/Database/Database.md",
-    "IT/DevOps/Hosting/AWS/AWS Services/DB/AWS DB.md",
-    "Odoo/Odoo Backend/🟣Views/🟣Buttons.md",
-    "Odoo/Odoo Install/Odoo Install Win/Odoo Install Win.md",
-    "Odoo/Odoo Install/Odoo Install.md",
-    "Odoo/Odoo Install/Odoo Install U/Odoo Install U.md",
-    "Odoo/Odoo.md",
-    "IT/Computer Science/DSA/🗂Tree.md",
-    "Docker.md",
-    "IT/DevOps/DevOps Tools.md",
-    "X/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna",
-    "X/Spirituality/Religions/Buddhism",
-    "BIT/System Engineering/Software Engineering/API/🚡Communication/Server Side Events.png",
-    "BIT/System Engineering/Software Engineering/API/🚡Communication",
-    "BIT/System Engineering/Software Engineering/API/🚡Architectural Styles/REST.pdf",
-    "BIT/System Engineering/Software Engineering/API/🚡Architectural Styles",
-    "IT/Computer Science/Programming/Programming Languages/Query Languages",
-    "BIT/System Engineering/Software Engineering/API/🚡Data Exchange Formats",
-    "BIT/System Engineering/System",
-    "BIT/System Engineering/Enterprise Modeling",
-    "Science/Cognitive science/Philosophy"
+    "Notes/Skill Framework/My Skill Framework.md",
+    "Notes/Skill Framework/Odoo Solutions Architect.md",
+    "IT/ITSM/ITIL4/7 Guiding Principles/7 Guiding Principles.md",
+    "IT/System Monitoring/System Monitoring.md",
+    "IT/System Monitoring/Grafana/Grafana.md",
+    "IT/System Monitoring/Grafana/Grafana Loki.md",
+    "IT/System Monitoring/Grafana/Grafana Grafana.md",
+    "IT/ITSM/ITIL4/7 Guiding Principles/Collaborate and Promote Visibility.md",
+    "IT/ITSM/ITIL4/ITIL4.md",
+    "IT/ITSM/ITIL4/Service Value System (SVS).md",
+    "IT/ITSM/ITIL4/7 Guiding Principles/Keep it Simple and Practical.md",
+    "Business/Administration/Organization/Organizational Structure/Stakeholder/Stakeholders.md",
+    "IT/ITSM/ITIL4/7 Guiding Principles/Start where you are.md",
+    "IT/ITSM/ITIL4/7 Guiding Principles/Progress Iteratively with feedback.md",
+    "IT/ITSM/ITIL4/7 Guiding Principles/Focus on Value.md",
+    "IT/ITSM/ITIL4/4 Dimensions/4 Dimensions.md",
+    "IT/ITSM/DevOps/DevOps LifeCycle.md",
+    "IT/ITSM/DevOps/DevOps.md",
+    "IT/ITSM/DevOps/DevOps Tools.md",
+    "IT/Hosting/Hosting Providers.md",
+    "IT/IT.md",
+    "IT/System Monitoring/Service Mesh/Service Mesh.md",
+    "Science/Social Science/Psychology/Psychology Themes/Motivation/Self-determination theory.md",
+    "Business/Change Management/Individual Change/Congnitive Approach/Individual Change Techniques.md",
+    "Business/Change Management/Individual Change/Congnitive Approach/Rational Analysis.md",
+    "Business/Change Management/Individual Change/Congnitive Approach/Anchoring and Resource States.md",
+    "Notes/System",
+    "IT/ITSM/ITIL4/Service Value Chain.png",
+    "IT/ITSM/ITIL4/Service Value System.png",
+    "Science/Social Science/Economic/Economic Notes",
+    "Business/Product and Project Management/⛓️Value Chain/⛓️Value Chain.png",
+    "Business/Product and Project Management/⛓️Value Chain",
+    "Notes/Uncategorized",
+    "EC2",
+    "Notes/ISO",
+    "IT/ITSM",
+    "IT/System Monitoring",
+    "Notes/Skill Framework/SEA Skillset.png",
+    "Notes/Skill Framework/Architect Skillset.png",
+    "Notes/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna",
+    "Notes/Spirituality/Religions/Buddhism",
+    "BIT/System Engineering/Software Engineering/API/🚡Communication/Server Side Events.png"
   ]
 }

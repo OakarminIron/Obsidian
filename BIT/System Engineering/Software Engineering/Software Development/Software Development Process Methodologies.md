@@ -1,9 +1,5 @@
-[[Agile]]
-
-[[Rapid Application Development]]
-
-[[CICD]]
-
 [[Waterfall Development]]
-
+[[Agile Software Development]]
+[[Rapid Application Development]]
+[[CICD]]
 [[Shape Up]]

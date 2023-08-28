@@ -1,2 +1,0 @@
-[[Grafana Grafana]]
-[[Grafana Loki]]

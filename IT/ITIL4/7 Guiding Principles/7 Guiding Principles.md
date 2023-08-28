@@ -1,7 +1,0 @@
-1. [[Focus on Value]]
-2. [[Start where you are]]
-3. [[Progress iteratively with feedback]]
-4. [[Collaborate and promote visibility]]
-5. [[Think and Work Holistically]]
-6. [[Keep it Simple and Practical]]
-7. [[Optimize and Automate]]

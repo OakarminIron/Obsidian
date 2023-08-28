@@ -1,0 +1,1 @@
+A framework developed by `ISACA` (Information Systems Audit and Control Association) that focuses on governance and management of enterprise IT. It provides guidelines and principles for aligning IT with business objectives, ensuring effective risk management, and optimizing resource usage.

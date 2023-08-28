@@ -1,0 +1,1 @@
+A lightweight framework designed for small and medium-sized organizations. It offers a practical set of guidelines and templates to implement essential service management processes.

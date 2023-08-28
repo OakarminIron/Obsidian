@@ -1,0 +1,1 @@
+A framework for managing multiple service providers and integrating their services to deliver end-to-end services to customers. It focuses on governance, coordination, and collaboration among different service providers to ensure seamless service delivery.

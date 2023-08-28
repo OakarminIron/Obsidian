@@ -1,0 +1,1 @@
+ A data-driven methodology focused on process improvement and reducing defects. While often associated with manufacturing, it can be applied to ITSM to enhance the quality and efficiency of service delivery.

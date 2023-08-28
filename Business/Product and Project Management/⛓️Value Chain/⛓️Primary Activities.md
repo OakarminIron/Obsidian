@@ -1,0 +1,5 @@
+- Inbound logistics include functions like receiving, warehousing, and managing inventory.
+- Operations include procedures for converting raw materials into a finished product.
+- Outbound logistics include activities to distribute a final product to a consumer.
+- Marketing and sales include strategies to enhance visibility and target appropriate customers—such as advertising, promotion, and pricing.
+- Service includes programs to maintain products and enhance the consumer experience—like customer service, maintenance, repair, refund, and exchange.

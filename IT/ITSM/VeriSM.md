@@ -1,0 +1,1 @@
+A service management approach that takes a holistic view of IT service delivery by considering various management practices, including [[Agile]], [[DevOps]], and [[🤔LEAN Thinking🌸]]. It provides a flexible framework for tailoring service management practices to the organization's specific context.
