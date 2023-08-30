@@ -2,4 +2,4 @@
 [[Economic Sociology]]
 [[Social Network]]
 [[Social Psychology]]
-[[Computational sociology]]
+[[Computational Sociology]]

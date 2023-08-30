@@ -5,3 +5,4 @@
 [[SIEM]]
 [[XDR Standard Detection & Response]]
 [[UBA User Behavior Analytic]]
+[[Authentication and Authorization]]

@@ -1,0 +1,3 @@
+`SAML` is an XML-based standard for exchanging authentication and authorization data between parties, particularly between an Identity Provider (IdP) and a service provider (SP).
+It's widely used for Single Sign-On (SSO) scenarios, allowing users to log in once to an identity provider and then access multiple service providers without re-entering credentials. 
+`SAML` assertions contain information about a user's identity and permissions.

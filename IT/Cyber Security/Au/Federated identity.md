@@ -1,0 +1,2 @@
+Refers to the concept of linking a user's digital identity and attributes across multiple identity management systems.
+It enables users to access resources across different domains without the need for separate accounts on each domain. SAML and OpenID Connect are often used in federated identity scenarios.

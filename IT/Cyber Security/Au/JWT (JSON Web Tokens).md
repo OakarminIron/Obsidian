@@ -1,0 +1,1 @@
+`JWT` is a compact, self-contained way to represent information between parties in a secure manner as a [[JSON]] object. It's often used for token-based authentication and authorization, where a user's claims are digitally signed and can be verified. `JWTs` can be used in various scenarios, including `OAuth`, `OIDC`, and more.
