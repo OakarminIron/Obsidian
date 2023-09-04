@@ -37,7 +37,7 @@
 -   [Training](https://en.wikipedia.org/wiki/Industrial_and_organizational_psychology#Training)
     -   [Competencies](https://en.wikipedia.org/wiki/Industrial_and_organizational_psychology#Competencies)
     -   [Job outlook](https://en.wikipedia.org/wiki/Industrial_and_organizational_psychology#Job_outlook)
--   [Ethics](https://en.wikipedia.org/wiki/Industrial_and_organizational_psychology#Ethics)
+- [[Ethics]]
 
 
 [[HR]]

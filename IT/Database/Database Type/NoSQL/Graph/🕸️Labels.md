@@ -1,0 +1,1 @@
+ Labels are used to categorize nodes into different groups or types. A node can have one or more labels, which help in organizing and querying the data. Labels are typically used to represent the types of entities in the graph. In a product catalog graph, labels might include "Product," "Category," and "Brand."

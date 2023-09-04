@@ -1,6 +1,6 @@
 - [[Deductive Reasoning]]  
 - [[Inductive Reasoning]] Probability
-- [[Abductive reasoning]]
+- [[Abductive Reasoning]]
 - Analogical reasoning
 
 

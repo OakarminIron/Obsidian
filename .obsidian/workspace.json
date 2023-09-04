@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "5c90408616f3d759",
+        "id": "e84b55b934f1a316",
         "type": "tabs",
         "children": [
           {
-            "id": "79260ec3a39e8d92",
+            "id": "46975bab6105d466",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,49 +140,48 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "dca49724fe4fc214",
+  "active": "46975bab6105d466",
   "lastOpenFiles": [
-    "Notes/X/Grafana Odoo.md",
-    "Odoo/Odoo.md",
-    "IT/ITSM/DevOps/Grafana.md",
-    "IT/ITSM/DevOps/DevOps Tools.md",
-    "Odoo/Odoo Install/Odoo Install Win/Odoo Install Win.md",
-    "IT/Hosting/Odoo.sh.md",
-    "Science/Social Science/Sociology/Computational Sociology.md",
-    "IT/Database/Database Type/Neo4J.md",
-    "IT/Database/Database Type/Graph Database.md",
-    "IT/Database/Database Type/Non Relational Database.md",
-    "BIT/Requirement Engineering/Topics/RA/Architecture Analysis.md",
-    "IT/Cyber Security/Au/Authentication and Authorization.md",
-    "IT/Cyber Security/Au/Single Sign-On (SSO).md",
-    "IT/Cyber Security/Au/Identity Provider (IdP).md",
-    "IT/Cyber Security/Au/SAML (Security Assertion Markup Language).md",
-    "IT/Cyber Security/SIEM.md",
+    "Science/Cognitive Science/Philosophy/Axiology/Social Values.md",
+    "Science/Cognitive Science/Philosophy/Axiology/Ethical Values.md",
+    "Science/Cognitive Science/Philosophy/Axiology/Scientific Values.md",
+    "Science/Cognitive science",
+    "Science/Cognitive Science/Philosophy/Axiology/🌏Value.md",
+    "Science/Cognitive Science/Philosophy/Axiology/✅Epistemic Values.md",
+    "Science/Cognitive Science/Philosophy/Axiology/Cultural Values.md",
+    "Science/Cognitive Science/Philosophy/Axiology/Moral Values.md",
+    "Notes/X/Value.md",
+    "Science/Cognitive Science/Philosophy/Axiology/Axiology.md",
+    "Science/Cognitive Science/Philosophy/Axiology",
+    "Business/Administration/Organization/Organizational Culture/Hofstede Cultural Dimensions.md",
+    "Business/Administration/Organization/Organizational Culture/Individualism vs Collectivism.md",
+    "Business/Administration/Organization/Organizational Culture/Masculinity vs Femininity.md",
+    "Science/Cognitive Science/Philosophy/Axiology/Value",
+    "Science/Cognitive Science/Philosophy/Axiology/Ethics.md",
+    "Science/Cognitive Science/Philosophy/Philosophy Branch.md",
+    "Science/Formal Science/Logic/🧩Logic.md",
+    "Science/Cognitive Science/Philosophy/Axiology/Ethical Issues.md",
+    "Science/Social Science/Psychology/Industrial and organizational psychology.md",
+    "Business/Research/Research Strategy/Research Strategy Decisions.md",
+    "BIT/System Engineering/System Design/🪙Value Driven Design.md",
+    "BIT/Requirement Engineering/Topics/Requirements Elicitation.md",
+    "BIT/Requirement Engineering/Topics/Requirements Traceability.md",
+    "BIT/Requirement Engineering/Topics/Requirements Elicitation Techniques.md",
+    "Business/Administration/Organization/Organizational Structure/Stakeholder/Stakeholder Identification Techniques.md",
+    "BIT/Requirement Engineering/Topics/RA/RA issues.md",
+    "IT/Database/Database Type/Hierarchical Databases.md",
+    "IT/Database/Database Type/Relational Database",
+    "IT/Database/Database Type/NoSQL",
+    "IT/Database/Database Type/NoSQL/Graph",
     "IT/Cyber Security/Au",
-    "IT/Cyber Security/Au/MFA (Multi-Factor Authentication).md",
-    "IT/Cyber Security/Au/Federated identity.md",
-    "IT/Cyber Security/Au/OpenID Connect (OIDC).md",
-    "IT/Cyber Security/Au/OpenID Foundation.md",
-    "IT/Cyber Security/Au/JWT (JSON Web Tokens).md",
-    "IT/Cyber Security/Au/OAuth (Open Authorization).md",
-    "IT/Cyber Security/Au/LDAP (Lightweight Directory Access Protocol).md",
-    "IT/Cyber Security/Cyber Security.md",
-    "IT/Cyber Security/Au/Authentication.md",
-    "IT/Cyber Security/Au/Authorization.md",
     "Notes/System",
     "IT/ITSM/ITIL4/Service Value Chain.png",
     "IT/ITSM/ITIL4/Service Value System.png",
     "Science/Social Science/Economic/Economic Notes",
     "Business/Product and Project Management/⛓️Value Chain/⛓️Value Chain.png",
     "Business/Product and Project Management/⛓️Value Chain",
-    "Notes/Uncategorized",
-    "EC2",
-    "Notes/ISO",
-    "IT/ITSM",
-    "IT/System Monitoring",
     "Notes/Skill Framework/SEA Skillset.png",
     "Notes/Skill Framework/Architect Skillset.png",
-    "Notes/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna",
     "BIT/System Engineering/Software Engineering/API/🚡Communication/Server Side Events.png"
   ]
 }

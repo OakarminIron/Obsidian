@@ -1,0 +1,2 @@
+Cultural values are the shared beliefs, customs, norms, and principles that characterize a particular culture or group of people. These values play a fundamental role in shaping the behaviors, interactions, and identities of individuals within that culture. Cultural values are often deeply ingrained and passed down from generation to generation, influencing various aspects of life, including social interactions, family structures, religious practices, and societal norms.
+[[Hofstede Cultural Dimensions]]

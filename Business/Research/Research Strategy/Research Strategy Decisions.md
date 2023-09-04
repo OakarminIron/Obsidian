@@ -6,5 +6,5 @@ From the options outlined, decisions have to be taken about what is desirable �
 • [[Cost and Budget]]
 • [[Sourcing]]
 • [[The Use of Third Parties]]
-• [[Ethical issues]]
+• [[Ethical Issues]]
 • [[Legal constraints]] (Data protection)

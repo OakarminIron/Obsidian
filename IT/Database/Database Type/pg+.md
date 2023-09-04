@@ -1,3 +1,0 @@
-[[Yugabye]]
-[[Neon]]
-[[AWS Aurora]]

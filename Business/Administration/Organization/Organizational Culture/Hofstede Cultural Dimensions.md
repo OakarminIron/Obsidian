@@ -2,9 +2,9 @@
 
 [[Uncertainty avoidance]]
 
-[[Individulism vs collectivism]]
+[[Individualism vs Collectivism]]
 
-[[Masculinity vs femininity]]
+[[Masculinity vs Femininity]]
 
 [[Long Term Short Term]]
 

@@ -1,7 +1,7 @@
 [[Document]]
 [[Column]]
 [[Key-Value Cache]]
-[[Graph Database]]
+[[🕸️Graph]]
 
 
 [[Azure Cosmos]]

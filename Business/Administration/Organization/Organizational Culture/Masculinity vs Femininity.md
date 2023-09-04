@@ -1,0 +1,4 @@
+- Masculinity is extremely low in Nordic countries: Norway scores 8 and Sweden only 5. 
+- In contrast, Masculinity is very high in Japan (95), and in European countries like Hungary, Austria and Switzerland influenced by [German culture](https://en.wikipedia.org/wiki/German_culture "German culture"). 
+- In the Anglo world, masculinity scores are relatively high with 66 for the United Kingdom for example. 
+- Latin American countries present contrasting scores: for example Venezuela has a 73-point score whereas Chile's is only 28.

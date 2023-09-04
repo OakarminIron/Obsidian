@@ -1,3 +1,3 @@
-IBM Information Management System ([[IMS]])
-[[Windows Registery]]
+IBM Information Management System 
+[[Windows Registry]]
 [[XML]]

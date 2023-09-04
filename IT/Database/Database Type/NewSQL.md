@@ -1,5 +1,0 @@
-[[CockroachDB]]
-[[ClustriX]]
-[[NuoDB]]
-[[Foundation DB]]
-[[TiDB]]

@@ -1,3 +1,0 @@
-[[pg+]]
-
-[[PostgreSQL Notes]]

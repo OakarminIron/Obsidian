@@ -1,0 +1,2 @@
+Traversal refers to the process of navigating the graph to retrieve and analyze data. 
+Graph databases typically support querying using traversal, allowing you to start from one or more nodes and traverse relationships to find related nodes and information. This makes it efficient for querying complex, interconnected data.

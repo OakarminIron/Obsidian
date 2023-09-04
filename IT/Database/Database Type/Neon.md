@@ -1,2 +1,0 @@
-Severless
-Written in Rust

@@ -1,3 +1,0 @@
-- Compatble to postgres
-- to scale horizental in cloud
-- 
