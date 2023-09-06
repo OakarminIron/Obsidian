@@ -1,0 +1,3 @@
+[[🟣📜Extend Method]] (extend): The extend method is used to create a new class that inherits from an existing class and adds or overrides its methods. It allows you to extend the functionality of an existing class without modifying the original class directly.
+
+[[🟣📜Include Method]](include): The include method is used to add additional behavior or properties to an existing class without overriding any existing methods. It is primarily used for `mixins` or to add generic behavior to multiple classes.
