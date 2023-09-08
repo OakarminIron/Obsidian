@@ -1,5 +1,5 @@
 [[Database Internals]]
-[[ACID DBE]]
+[[ACID]]
 
 [[DB Scaling]]
 

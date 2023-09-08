@@ -11,14 +11,8 @@ write() collects update until
 flush() make actual database updates
 	at most 1 update per record
 
-flush () is automatically called by method like search(), read() and others
+flush() is automatically called by method like search(), read() and others
 its important when use custom queries not forget to flush to database
-
-
-
-
-
-
 
 
 Here to note that database itself does not update to actual heap it still store in [[DB WAL]] file to reduce the IO transaction.

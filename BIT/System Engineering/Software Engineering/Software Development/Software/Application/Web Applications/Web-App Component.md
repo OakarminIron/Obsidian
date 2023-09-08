@@ -1,4 +1,4 @@
-[[BIT/System Engineering/Software Engineering/API/🚡Communication Mechanisms]]
+[[API🚡]]
 [[Web Controllers]]
 
 [[Database]]

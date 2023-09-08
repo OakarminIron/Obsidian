@@ -1,4 +1,7 @@
-[[🟣🍱Odoo Assets]] are grouped by bundles, where each bundle can be a list of different file paths for specific asset types such as XML, Java-script, CSS, and SCSS. Bundles are listed in the Odoo module's manifest file. These files use a global syntax, so one line declares the various files containing the assets.
+
+[[🟣🍱Odoo Assets]] are grouped by bundles, where each bundle can be a list of different file paths for specific asset types such as XML, Java-script, CSS, and `SCSS`.
+Bundles are listed in the Odoo module's manifest file.
+These files use a global syntax, so one line declares the various files containing the assets.
 
 1. [[web.assets_common]]
 2. [[web.assets_backend]]

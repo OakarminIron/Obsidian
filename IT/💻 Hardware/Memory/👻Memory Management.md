@@ -1,4 +1,4 @@
 [[Programming Memory Management]]
 
-[[OS Memeory Management]]
+[[OS Memory Management👻]]
 

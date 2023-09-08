@@ -1,11 +1,18 @@
-Consistency guarantees that changes made within a transaction are consistent with database constraints. This includes all rules, constraints, and triggers. If the data gets into an illegal state, the whole transaction fails.
+In database systems, consistency (or correctness) refers to the requirement that any given database transaction must change affected data only in allowed ways. 
 
-[[Consisity in Data]]
-	Defined by user
-	Foreigh Keys
-	Atomicity
+Any data written to the database must be **valid** according to all 
+	- defined rules
+	- including constraints
+	- cascades
+	- triggers, and 
+	- any combination thereof.
+
+[[Consistency in Data]]
+	Defined by User
+	Foreign Keys
+	`Atomicity`
 	Isolation
-[[Consisity in Reads]]
+[[Consistency in Reads]]
 	It's OK when you have one Big Expensive Server
 
 
