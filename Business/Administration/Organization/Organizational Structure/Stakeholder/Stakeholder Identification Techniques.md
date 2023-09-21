@@ -1,7 +1,7 @@
 [[Brainstorming]]
 [[Document Analysis]]
 [[Focus Group]]
-Interface analysis
+Interface Analysis
 Interviews/questionnaire
 Workshops
 [[Reverse Engineering]]
@@ -12,4 +12,4 @@ Observation/job shadowing
 [[🤔Design Thinking]]
 Prototyping
 
-[[Stakeholder Identification Techniques]]
+[[Research🔍]]

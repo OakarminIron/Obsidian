@@ -1,5 +1,5 @@
-1.Formulate the [[Research Problem]]
-2.Extensive literature survey
+1.Formulate the [[Research Question]]
+2.Extensive [[Literature Review]]
 3.Development of working [[Hypothesis]]
 4.Prepare the [[Research Design]]
 5.Determine the [[Research Sampling]]
@@ -7,5 +7,5 @@
 7.[[Project Management]]
 8.[[Data Analysis]]
 9.[[Hypothesis Testing]] 
-10.Research Generalization
+10.[[Research Generalization]]
 11.Report

@@ -1,0 +1,1 @@
+Reviewing existing research and literature related to the research problem to understand what is already known and identify gaps in knowledge.

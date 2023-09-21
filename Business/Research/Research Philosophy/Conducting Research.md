@@ -1,0 +1,1 @@
+Conducting research is the process of systematically investigating a subject, problem, or question to gather information, analyze data, and draw conclusions. It involves using various methods and techniques to explore and understand a specific topic.

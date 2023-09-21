@@ -1,2 +1,0 @@
-[[Research Problem Types]]
-

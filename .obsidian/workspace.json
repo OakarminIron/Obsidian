@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "80b21db51c9372d8",
+        "id": "63e6fbaae2a3a7e6",
         "type": "tabs",
         "children": [
           {
-            "id": "802c36735e6b527e",
+            "id": "ffad2abd57efb6d1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "owl fr",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Business/Research/Research Approach/Research Generalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Business/Research/Research Approach/Research Generalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Business/Research/Research Approach/Research Generalization.md"
+              }
+            }
+          },
+          {
+            "id": "32de35e3b6bde0cf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ]
@@ -140,9 +154,25 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "802c36735e6b527e",
+  "active": "24686938cb04c3c5",
   "lastOpenFiles": [
-    "Grafana.md",
+    "Business/Research/Research Philosophy/Literature Review.md",
+    "Business/Research/Research Philosophy/Research Philosophy.md",
+    "Business/Research/Research Philosophy/Conducting Research.md",
+    "IT/ITSM/DevOps/DevOps Tools.md",
+    "IT/ITSM/DevOps/Grafana.md",
+    "Business/Research/Research Process.md",
+    "BIT/Enterprise Analysis.md",
+    "Business/Research/Research🔍.md",
+    "Business/Administration/Organization/Organizational Structure/Stakeholder/Stakeholder Identification Techniques.md",
+    "Business/Administration/Organization/Organizational Structure/Stakeholder/Stakeholders.md",
+    "Business/Research/Research Question/Research Question.md",
+    "Business/Research/Research Problem.md",
+    "Business/Research/Research Problem Types.md",
+    "Business/Research/Research Approach/Research Generalization.md",
+    "Business/Research/Research Type/Research Type.md",
+    "Business/Research/Research Sampling/Research Sampling.md",
+    "Business/Research/Research Design/Research Design.md",
     "Loki.md",
     "Notes/X/Grafana Odoo.md",
     "IT/Hosting/AWS/AWS Services/Networking/AWS Subnet.md",
@@ -152,22 +182,6 @@
     "BIT/System Engineering/Software Engineering/Software Development/Software/Application/Web Applications/Web-App Component.md",
     "BIT/System Engineering/Software Engineering/API/API🚡.md",
     "BIT/System Engineering/Software Engineering/API/🚡Types.md",
-    "Web APIs.md",
-    "BIT/System Engineering/Software Engineering/API/🚡Communication/🚡Communication Protocols.md",
-    "BIT/System Engineering/Software Engineering/API/🚡Data Exchange Formats/🚡Data Exchange Formats.md",
-    "BIT/System Engineering/Software Engineering/API/🚡Architectural Styles/🚡Architectural Styles.md",
-    "BIT/System Engineering/Software Engineering/API/🚡API.md",
-    "BIT/System Engineering/Software Engineering/API/🚡Architectural Styles/RESTvsSOAP.md",
-    "BIT/System Engineering/Software Engineering/API/🚡Architectural Styles/REST API.md",
-    "IT/Cyber Security/Au/OAuth (Open Authorization).md",
-    "IT/Computer Science/Programming/Programming Languages/Query Languages/GraphQL.md",
-    "Odoo/🟣🍱Bundles/🟣🍱Bundles.md",
-    "Odoo/Odoo FrontEnd/🟣🍱Odoo Assets.md",
-    "Odoo/Odoo FrontEnd/Odoo Frontend.md",
-    "Odoo/Odoo FrontEnd/Odoo JavaScript/OWL/🦉OWL Framework.md",
-    "IT/Database/Database Engineering/ACID/Durability ACID.md",
-    "IT/Database/Database Engineering/DB Scaling/DB Replication.md",
-    "IT/Database/Database Engineering/ACID/Isolation ACID.md",
     "IT/Database/Database Engineering/ACID/phantom_read.png",
     "Science/Cognitive science",
     "Science/Cognitive Science/Philosophy/Axiology",
