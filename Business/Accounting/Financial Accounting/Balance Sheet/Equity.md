@@ -1,3 +1,0 @@
-- [[Equity]]
-- [[Current Year Earnings]]
-

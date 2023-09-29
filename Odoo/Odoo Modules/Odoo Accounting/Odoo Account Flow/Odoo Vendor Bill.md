@@ -1,1 +1,1 @@
-[[Odoo Depreciation Methods]]
+[[Depreciation Methods]]

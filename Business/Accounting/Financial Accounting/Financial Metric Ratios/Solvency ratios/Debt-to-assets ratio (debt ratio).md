@@ -1,4 +1,4 @@
-- The debt (or [[Liabilities]])-to-[[Assets]] ratio measures a company’s use of leverage: 
+- The debt (or [[Liabilities💸 ပေးရန်ရှိ]])-to-[[Assets ပိုင်ဆိုင်မှု💰]] ratio measures a company’s use of leverage: 
 - It tells you the percentage of debt used to finance assets, which can include both tangible (property, plant and equipment) and intangible (patents and trademarks) resources.
 - On the liability side, this ratio normally includes both short- and long-term debt. 
 - The formula is total liabilities divided by total assets. 

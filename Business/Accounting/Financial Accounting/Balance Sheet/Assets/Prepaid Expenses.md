@@ -1,0 +1,1 @@
+Payments made in advance for goods or services that will be consumed over time, such as prepaid insurance premiums or prepaid rent.

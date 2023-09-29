@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "63e6fbaae2a3a7e6",
+        "id": "a92a34ad426602bf",
         "type": "tabs",
         "children": [
           {
-            "id": "ffad2abd57efb6d1",
+            "id": "9dfc5051201c10ae",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business/Research/Research Approach/Research Generalization.md",
+                "file": "Business/Accounting/Financial Accounting/Bookkeeping/Reconciliation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business/Research/Research Approach/Research Generalization.md",
+                "file": "Business/Accounting/Financial Accounting/Bookkeeping/Reconciliation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business/Research/Research Approach/Research Generalization.md"
+                "file": "Business/Accounting/Financial Accounting/Bookkeeping/Reconciliation.md"
               }
             }
           },
@@ -154,48 +154,48 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "24686938cb04c3c5",
+  "active": "9dfc5051201c10ae",
   "lastOpenFiles": [
-    "Business/Research/Research Philosophy/Literature Review.md",
-    "Business/Research/Research Philosophy/Research Philosophy.md",
-    "Business/Research/Research Philosophy/Conducting Research.md",
-    "IT/ITSM/DevOps/DevOps Tools.md",
-    "IT/ITSM/DevOps/Grafana.md",
-    "Business/Research/Research Process.md",
-    "BIT/Enterprise Analysis.md",
-    "Business/Research/Research🔍.md",
-    "Business/Administration/Organization/Organizational Structure/Stakeholder/Stakeholder Identification Techniques.md",
-    "Business/Administration/Organization/Organizational Structure/Stakeholder/Stakeholders.md",
-    "Business/Research/Research Question/Research Question.md",
-    "Business/Research/Research Problem.md",
-    "Business/Research/Research Problem Types.md",
-    "Business/Research/Research Approach/Research Generalization.md",
-    "Business/Research/Research Type/Research Type.md",
-    "Business/Research/Research Sampling/Research Sampling.md",
-    "Business/Research/Research Design/Research Design.md",
-    "Loki.md",
-    "Notes/X/Grafana Odoo.md",
-    "IT/Hosting/AWS/AWS Services/Networking/AWS Subnet.md",
-    "LogQL.md",
-    "IT/Computer Science/Programming/Programming Languages/Query Languages/Query Languages.md",
-    "IT/OSI/3.OSI Network Layer/IT Networking/Subnet.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/Web Applications/Web-App Component.md",
-    "BIT/System Engineering/Software Engineering/API/API🚡.md",
-    "BIT/System Engineering/Software Engineering/API/🚡Types.md",
+    "Business/Accounting/Financial Accounting/Bookkeeping/Account Journal.md",
+    "Business/Accounting/Financial Accounting/Bookkeeping/BookKeeping Notes.md",
+    "Business/Accounting/Financial Accounting/Bookkeeping/General Ledger.md",
+    "Business/Accounting/Financial Accounting/Bookkeeping/Daybook.md",
+    "Journal Entries.md",
+    "Odoo/Odoo Modules/Odoo Accounting/Odoo Accounting.md",
+    "journal.entries.md",
+    "Business/Accounting/Financial Accounting/Bookkeeping/Cashbook.md",
+    "Business/Accounting/Financial Accounting/Bookkeeping/Account Ledger.md",
+    "Business/Accounting/Financial Accounting/Bookkeeping/Reconciliation.md",
+    "Business/Accounting/Financial Accounting/Bookkeeping/Double Entry Book Keeping.md",
+    "Business/Accounting/Financial Accounting/Balance Sheet/Liabilities/Shortterm Liabilities.md",
+    "Business/Accounting/Financial Accounting/Balance Sheet/Liabilities/Liabilities💸 ပေးရန်ရှိ.md",
+    "Business/Accounting/Financial Accounting/Balance Sheet/Liabilities/Longterm Liabilities.md",
+    "Business/Accounting/Financial Accounting/Balance Sheet/Liabilities/Long-term Debt.md",
+    "Business/Accounting/Financial Accounting/Balance Sheet/Liabilities/Current Liabilities.md",
+    "Business/Accounting/Financial Accounting/Balance Sheet/Balance Sheet Accounts.md",
+    "Business/Accounting/Financial Accounting/Balance Sheet/Equity/Equity🍕.md",
+    "Business/Accounting/Financial Accounting/Balance Sheet/Assets/Assets ပိုင်ဆိုင်မှု💰.md",
+    "Business/Accounting/Financial Accounting/Balance Sheet/COA Format.md",
+    "Business/Accounting/Financial Accounting/Balance Sheet/Investment.md",
+    "Business/Accounting/Financial Accounting/Balance Sheet/Chart of Accounts (COA).md",
+    "Business/Accounting/Financial Accounting/Profit & Loss.md",
+    "Business/Accounting/Financial Accounting/Expense.md",
+    "Business/Accounting/Financial Accounting/Statements/Income Statement Accounts.md",
+    "Business/Accounting/Financial Accounting/Statements",
+    "Business/Accounting/Financial Accounting/Balance Sheet/Equity",
+    "Business/Accounting/Management Accounting/Cost/Fixed Costs.md",
+    "Business/Accounting/Depreciation",
+    "Business/Untitled",
+    "Business/Accounting/Chart of Accounts (COA)",
     "IT/Database/Database Engineering/ACID/phantom_read.png",
     "Science/Cognitive science",
     "Science/Cognitive Science/Philosophy/Axiology",
     "Science/Cognitive Science/Philosophy/Axiology/Value",
     "IT/Database/Database Type/Relational Database",
     "IT/Database/Database Type/NoSQL",
-    "IT/Database/Database Type/NoSQL/Graph",
-    "IT/Cyber Security/Au",
-    "Notes/System",
     "IT/ITSM/ITIL4/Service Value Chain.png",
     "IT/ITSM/ITIL4/Service Value System.png",
-    "Science/Social Science/Economic/Economic Notes",
     "Business/Product and Project Management/⛓️Value Chain/⛓️Value Chain.png",
-    "Business/Product and Project Management/⛓️Value Chain",
     "Notes/Skill Framework/SEA Skillset.png",
     "Notes/Skill Framework/Architect Skillset.png",
     "BIT/System Engineering/Software Engineering/API/🚡Communication/Server Side Events.png"

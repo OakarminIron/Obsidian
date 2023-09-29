@@ -1,4 +1,6 @@
-[[Daybook]]
-[[Cashbook]]
-[[Account Journal]]
-[[Account Ledger]]
+- [[Daybook]] :These are a specific type of record used for various types of transactions on a daily basis. They can be considered a subset of journals, with a focus on specific transaction types.
+- [[Cashbook]] :  This is a specialized record for cash transactions. It's a type of journal but exclusively for cash-related entries.
+- [[Account Journal]] : These are where initial transactions are recorded. They provide a chronological record of transactions and include details about each transaction, like the date, description, and amounts. Journals serve as the primary source for recording financial data.
+- [[Account Ledger]] : This is where transactions from journals and `daybooks` are eventually posted to individual accounts, allowing for a detailed history and balance of each account to be maintained.
+- [[General Ledger]]
+- 

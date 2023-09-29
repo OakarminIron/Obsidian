@@ -1,8 +1,16 @@
--   [[Trade accounts payable]]
--  [[ Accrued expenses]]
--   [[Taxes payable]]
--  [[ Dividends payable]]
--  [[ Customer deposits]]
--  [[ Short-term debt]]
--   [[Current portion of long-term debt]]
--  [[ Other accounts payable]]
+Current or short-term liabilities are those that the company intends to settle in the near future, often by using current assets like cash, accounts receivable, or inventory. 
+
+- Debts
+	- [[Short-term debts]]
+	- [[Current portion of long-term debts]]
+- Payable
+	- [[Trade Accounts Payable]]
+	- [[Taxes Payable]]
+	- [[Dividends Payable]]
+	- [[Other Accounts Payable]]
+- Owes
+	- Wages Owed
+	- Income and sales taxes owed
+-  [[Accrued expenses]]
+-  [[Customer deposits]]
+-  `Presold` goods and services
