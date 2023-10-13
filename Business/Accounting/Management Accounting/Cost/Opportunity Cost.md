@@ -4,7 +4,9 @@
 -   Opportunity cost is a strictly internal cost used for strategic contemplation; it is not included in accounting profit and is excluded from external financial reporting.
 -   Examples of opportunity cost include investing in a new manufacturing plant in Los Angeles as opposed to Mexico City, deciding not to upgrade company equipment, or opting for the most expensive product packaging option over cheaper options.
 
+```
 Opportunity Cost=FO−CO
 FO=Return on best forgone option
 CO=Return on chosen option​
+```
 ![[Opportunity Cost.png]]

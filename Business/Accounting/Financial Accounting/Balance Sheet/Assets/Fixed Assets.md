@@ -1,4 +1,5 @@
 [[PPE Assets]]
 [[Prepaid Expenses]]
 
-[[Depreciation]]
+
+[[Amortization vs Depreciation]]

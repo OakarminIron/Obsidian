@@ -1,7 +1,7 @@
 - This ratio measures financial risk by identifying the relationship of debt to ownership interest in the firm’s financial structure.
 - It measures a firm’s leverage by comparing long-term debt directly to shareholder’s equity.
 - The formula is total long-term debt divided by total shareholder’s equity. 
-- The debt[[Liabilities💸 ပေးရန်ရှိ]]-to-[[Equity🍕]] ratio is similar to the debt ratio, but it normally eliminates the use of short-term (operational) liabilities that companies use to fund day-to-day operations. 
+- The debt Liabilities💸-to-Equity🍕 ratio is similar to the debt ratio, but it normally eliminates the use of short-term (operational) liabilities that companies use to fund day-to-day operations. 
 - Some believe this is a more accurate reading of a company’s financial position, as it does not count items such as accounts payable in the calculation of debt. 
 - A smaller number means a company is less reliant on debt as compared to equity and also generally translates to less risk.
 - On the other hand, shareholder’s equity carries no guarantee of income to investors. Acceptable numbers will vary across industries and companies.

@@ -1,4 +1,5 @@
-A value chain is a series of consecutive steps that go into the creation of a finished product, from its initial design to its arrival at a customer's door. The chain identifies each step in the process at which value is added, including the sourcing, manufacturing, and marketing stages of its production.
+A value chain is a series of consecutive steps that go into the creation of a finished product, from its initial design to its arrival at a customer's door.
+The chain identifies each step in the process at which value is added, including the sourcing, manufacturing, and marketing stages of its production.
 
 - A value chain is a step-by-step business model for transforming a product or service from idea to reality.
 - Value chains help increase a business's efficiency so the business can deliver the most value for the least possible cost.

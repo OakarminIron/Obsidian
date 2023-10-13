@@ -1,3 +1,3 @@
 - [[Balance Sheet Accounts]]
-- [[Income Statement Accounts]]
-- [[Cash flows statement]]
+- [[Income Statement P&L Accounts]]
+- [[Cash Flows Statement]]

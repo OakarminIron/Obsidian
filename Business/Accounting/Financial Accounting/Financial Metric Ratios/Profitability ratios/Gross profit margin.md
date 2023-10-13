@@ -1,6 +1,0 @@
-- A measure of the profit a company makes from its [[Cost of Good Sold COGS]]. 
-- Cost of sales represents expense related to labor, raw materials and manufacturing overhead used in the production process. 
-- The gross profit margin ratio measures how efficiently management uses labor and raw materials in the production process, and it is calculated as sales less cost of goods sold divided by sales. 
-- A company uses its gross income to fund such company activities as research and development and marketing, which are important for generating future sales. 
-- A prolonged decline in the gross profit margin is a red flag for possible impending negative pressure on sales and, ultimately, earnings.
-- Note that not all firms disclose their cost of goods sold on their income statements, notably financial and other service-related companies; in these cases, it is not possible to calculate the company’s gross profit margin.

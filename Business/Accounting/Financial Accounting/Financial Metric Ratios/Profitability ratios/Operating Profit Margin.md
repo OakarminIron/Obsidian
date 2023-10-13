@@ -1,5 +1,5 @@
 - A profitability ratio that compares a company’s operating income to sales.
-- Operating income is earnings before interest and taxes [[Earning Before Interest Taxes (EBIT)]].
+- Operating income is earnings before interest and taxes [[EBIT]].
 - Operating margin indicates how successful management has been in generating income from operating the business.
 - The calculation is sales less cost of goods sold and selling, general & administrative (SG&A) costs divided by sales.
 - Trends in operating margin—positive or negative—are, for the most part, directly tied to management decisions. 

@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "a92a34ad426602bf",
+        "id": "3716598c1d31608e",
         "type": "tabs",
         "children": [
           {
-            "id": "9dfc5051201c10ae",
+            "id": "8b2084f888b86050",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business/Accounting/Financial Accounting/Bookkeeping/Reconciliation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business/Accounting/Financial Accounting/Bookkeeping/Reconciliation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Business/Accounting/Financial Accounting/Bookkeeping/Reconciliation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -135,64 +132,64 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "janitor:Janitor: scan vault": false,
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "janitor:Janitor: scan vault": false
     }
   },
-  "active": "9dfc5051201c10ae",
+  "active": "8b2084f888b86050",
   "lastOpenFiles": [
-    "Business/Accounting/Financial Accounting/Bookkeeping/Account Journal.md",
-    "Business/Accounting/Financial Accounting/Bookkeeping/BookKeeping Notes.md",
-    "Business/Accounting/Financial Accounting/Bookkeeping/General Ledger.md",
-    "Business/Accounting/Financial Accounting/Bookkeeping/Daybook.md",
-    "Journal Entries.md",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo Accounting.md",
-    "journal.entries.md",
-    "Business/Accounting/Financial Accounting/Bookkeeping/Cashbook.md",
-    "Business/Accounting/Financial Accounting/Bookkeeping/Account Ledger.md",
-    "Business/Accounting/Financial Accounting/Bookkeeping/Reconciliation.md",
-    "Business/Accounting/Financial Accounting/Bookkeeping/Double Entry Book Keeping.md",
-    "Business/Accounting/Financial Accounting/Balance Sheet/Liabilities/Shortterm Liabilities.md",
-    "Business/Accounting/Financial Accounting/Balance Sheet/Liabilities/Liabilities💸 ပေးရန်ရှိ.md",
-    "Business/Accounting/Financial Accounting/Balance Sheet/Liabilities/Longterm Liabilities.md",
-    "Business/Accounting/Financial Accounting/Balance Sheet/Liabilities/Long-term Debt.md",
-    "Business/Accounting/Financial Accounting/Balance Sheet/Liabilities/Current Liabilities.md",
-    "Business/Accounting/Financial Accounting/Balance Sheet/Balance Sheet Accounts.md",
-    "Business/Accounting/Financial Accounting/Balance Sheet/Equity/Equity🍕.md",
-    "Business/Accounting/Financial Accounting/Balance Sheet/Assets/Assets ပိုင်ဆိုင်မှု💰.md",
+    "Business/Accounting/Financial Accounting/Statements/Income Statement P&L Accounts.md",
+    "Business/Accounting/Financial Accounting/Fundamental Analysis/Quantitative Fundamentals.md",
     "Business/Accounting/Financial Accounting/Balance Sheet/COA Format.md",
-    "Business/Accounting/Financial Accounting/Balance Sheet/Investment.md",
-    "Business/Accounting/Financial Accounting/Balance Sheet/Chart of Accounts (COA).md",
-    "Business/Accounting/Financial Accounting/Profit & Loss.md",
-    "Business/Accounting/Financial Accounting/Expense.md",
-    "Business/Accounting/Financial Accounting/Statements/Income Statement Accounts.md",
+    "Business/Accounting/Financial Accounting/Financial Metric Ratios/Profitability ratios/Net Profit Margin.md",
+    "Business/Accounting/Financial Accounting/Financial Metric Ratios/Profitability ratios/Profitability Ratios.md",
+    "Business/Accounting/Financial Accounting/Financial Metric Ratios/Profitability ratios/Gross Profit Margin.md",
+    "Business/Accounting/Financial Accounting/Statement of Financial Performance.md",
+    "Business/Accounting/Financial Accounting/Cost of Good Sold COGS.md",
+    "Business/Accounting/Financial Accounting/Inventory Costing Method for COGS.md",
+    "Odoo/Odoo Modules/Odoo Inventory/🟣📦Costing.md",
+    "Business/Accounting/Financial Accounting/Average Cost Method.md",
+    "Business/Research/Research Process.md",
+    "Business/Research/Hypothesis.md",
+    "BIT/Operational intelligence/Business Process Management.md",
+    "Business/Product and Project Management/Product Management/Product Management.md",
+    "Business/Product and Project Management/⛓️Value Chain/🪙Value Chain⛓️.md",
+    "Business/Administration/Operation Management/LEAN/🤔LEAN Thinking🌸.md",
+    "Business/Administration/Operation Management/LEAN/🌸Lean 5 principle.md",
+    "IT/ITSM/ITIL4/4 Dimensions/Organizational People.md",
+    "Business/Administration/Organization/Organizational Structure/Organizational Structure🔼.md",
+    "Business/Administration/Organization/Organizational Structure/Well-Defined Organizational Structure.md",
+    "Business/Administration/Organization/Organization.md",
+    "Business/Change Management/Org Change/Organizational Change.md",
+    "Business/Administration/Organization/Organization Types.md",
+    "Business/Administration/Business Administration.md",
+    "Business/Administration/Organization/Organizational Structure/Reporting Line.md",
+    "Business/Accounting/Financial Accounting/Expense",
+    "Business/Accounting/Depreciation",
     "Business/Accounting/Financial Accounting/Statements",
     "Business/Accounting/Financial Accounting/Balance Sheet/Equity",
-    "Business/Accounting/Management Accounting/Cost/Fixed Costs.md",
-    "Business/Accounting/Depreciation",
+    "Business/Accounting/ValueChanging",
     "Business/Untitled",
     "Business/Accounting/Chart of Accounts (COA)",
     "IT/Database/Database Engineering/ACID/phantom_read.png",
     "Science/Cognitive science",
     "Science/Cognitive Science/Philosophy/Axiology",
     "Science/Cognitive Science/Philosophy/Axiology/Value",
-    "IT/Database/Database Type/Relational Database",
-    "IT/Database/Database Type/NoSQL",
     "IT/ITSM/ITIL4/Service Value Chain.png",
     "IT/ITSM/ITIL4/Service Value System.png",
     "Business/Product and Project Management/⛓️Value Chain/⛓️Value Chain.png",

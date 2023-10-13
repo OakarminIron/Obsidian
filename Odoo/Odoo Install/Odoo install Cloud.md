@@ -21,7 +21,7 @@ sudo apt install -y postgresql
 sudo pg_lsclusters
 sudo su root
 su postgres
-psql -p 5433 -U postgres -d postgres 
+psql -p 5432 -U postgres -d postgres 
 CREATE USER odoo PASSWORD 'xxx';"
 ALTER USER odoo WITH SUPERUSER;"
 \q  or Ctrl+d

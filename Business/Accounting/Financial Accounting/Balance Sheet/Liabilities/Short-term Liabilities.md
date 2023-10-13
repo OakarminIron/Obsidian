@@ -2,7 +2,7 @@ Current or short-term liabilities are those that the company intends to settle i
 
 - Debts
 	- [[Short-term debts]]
-	- [[Current portion of long-term debts]]
+	- [[Current portion of long-term debt]]
 - Payable
 	- [[Trade Accounts Payable]]
 	- [[Taxes Payable]]

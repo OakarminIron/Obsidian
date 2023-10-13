@@ -15,3 +15,5 @@ Product Planning
 Product Differentiation
 [[Product Life-cycle Management]] (**PLM**)
 Product Marketing
+
+[[🪙Value Chain⛓️]]

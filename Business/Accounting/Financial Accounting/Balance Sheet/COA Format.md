@@ -1,7 +1,7 @@
 
 - Two Tier Dual
 	- [[Balance Sheet Accounts]]
-	- [[Income Statement Accounts]]
+	- [[Income Statement P&L Accounts]]
 
 - Three-Tier Format
 	In the three-tier `COA` structure, accounts are categorized into three main sections

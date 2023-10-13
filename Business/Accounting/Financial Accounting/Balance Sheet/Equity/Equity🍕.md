@@ -9,6 +9,4 @@
 	- Treasury Stock: The amount of the company's own stock that it has repurchased from shareholders.
 - Changes: Equity can go up when the company makes a profit, or down if it loses money. If you get paid dividends or sell your shares, your equity changes too.
 
-
-- [[Current Year Earnings]]
-
+[[Earnings per Share (EPS)]]

@@ -2,7 +2,7 @@ Financial metric ratios can be invaluable tools for investors and analysts alike
 
 
 - [[Activity Ratios (Efficiency)]]
-- [[Liquidity ratios]]
-- [[Solvency ratios]]
+- [[Liquidity Ratios]]
+- [[Solvency Ratios]]
 - [[Profitability Ratios]]
-- [[Coverage ratios]]
+- [[Coverage Ratios]]

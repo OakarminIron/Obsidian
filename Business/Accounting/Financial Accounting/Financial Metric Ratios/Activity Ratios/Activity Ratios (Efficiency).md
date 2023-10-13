@@ -2,7 +2,7 @@ Activity ratios measure how a company utilizes its resources to generate revenue
 
 - [[Inventory Turnover]]
 - [[Receivables turnover]]
-- [[Payable turnover]]
-- [[Asset turnover]]
+- [[Payable Turnover]]
+- [[Asset Turnover]]
 
 

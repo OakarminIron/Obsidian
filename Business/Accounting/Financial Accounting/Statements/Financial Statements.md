@@ -1,3 +1,3 @@
-[[Cash flows statement]]
+[[Cash Flows Statement]]
 [[Statement of Financial Performance]]
 [[Balance Sheet Accounts]]

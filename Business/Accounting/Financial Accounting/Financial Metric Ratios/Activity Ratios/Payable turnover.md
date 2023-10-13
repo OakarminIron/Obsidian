@@ -1,6 +1,0 @@
--  The payable turnover ratio is calculated by dividing purchases (on credit) by average payable
--  The payable turnover increases as more purchases are made or as a company decreases its accounts payable.
--  A high number compared to the industry average indicates that the firm is paying off creditors quickly, and vice versa.
--  An unusually high ratio may suggest that a firm is not utilizing the credit extended to them, or it could be the result of the company taking advantage of early payment discounts. 
-- A low payable turnover ratio could indicate that a company is having trouble paying off its bills or that it is taking advantage of lenient supplier credit policies.
-- Note that a change in the payable turnover ratio in a single period can be caused by timing issues, such as the firm acquiring additional inventory for a large purchase or to gear up for a high sales season. Industry norms can vary dramatically.

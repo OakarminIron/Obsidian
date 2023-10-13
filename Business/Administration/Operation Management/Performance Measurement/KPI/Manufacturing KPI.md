@@ -2,7 +2,7 @@
 [[Cycle Time]]
 [[Take Time]] 
 [[Inventory Turnover]]
-[[Return On Assets (ROA)]]
+[[Return On Assets]]
 [[First Past Yield %]]
 [[Yield Factor]]
 [[Overall Equipment Effectiveness]]

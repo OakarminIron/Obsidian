@@ -9,5 +9,7 @@ Within each of these categories, accounts are typically organized in order of li
 The balance sheet accounts in the `COA` provide a snapshot of the company's financial health at a given moment and are used to create the balance sheet financial statement.
 
 Statement of Financial Position
-[[Assets ပိုင်ဆိုင်မှု💰]] = [[Liabilities💸 ပေးရန်ရှိ]] + [[Equity🍕]]
+[[Assets💰]] = [[Liabilities💸]] + [[Equity🍕]]
 
+
+[[Balance Sheet Reports]]
