@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3716598c1d31608e",
+        "id": "7f7dc5bcc39ef26d",
         "type": "tabs",
         "children": [
           {
-            "id": "8b2084f888b86050",
+            "id": "0b0ce23e585ecd22",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -142,16 +142,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "janitor:Janitor: scan vault": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "janitor:Janitor: scan vault": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8b2084f888b86050",
+  "active": "0b0ce23e585ecd22",
   "lastOpenFiles": [
     "Business/Accounting/Financial Accounting/Statements/Income Statement P&L Accounts.md",
     "Business/Accounting/Financial Accounting/Fundamental Analysis/Quantitative Fundamentals.md",
