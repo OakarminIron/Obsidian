@@ -8,3 +8,4 @@ sudo apt purge gnome-2048 aisleriot atomix gnome-chess five-or-more hitori iagno
 [[Ubuntu SWAP increase]]
 [[Ubuntu Boot Header]]
 [[Ubuntu Log Too Large]]
+[[Ubuntu Service Odoo]]

@@ -1,6 +1,6 @@
 [[Odoo Install Win]]
 [[Odoo Install U]]
-[[Odoo install Cloud]]
+[[Odoo Install Cloud]]
 
 
 

@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "",
+  "search": "path:Business/Accounting  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -70,10 +70,10 @@
   "nodeSizeMultiplier": 0.993229166666667,
   "lineSizeMultiplier": 0.508333333333333,
   "collapse-forces": true,
-  "centerStrength": 0.351900853408732,
+  "centerStrength": 0.308405483376443,
   "repelStrength": 18.5,
   "linkStrength": 0.92,
   "linkDistance": 47,
-  "scale": 0.15280090627832876,
-  "close": false
+  "scale": 0.200225830078125,
+  "close": true
 }

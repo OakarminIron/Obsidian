@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7f7dc5bcc39ef26d",
+        "id": "44586a0f1a75a4c7",
         "type": "tabs",
         "children": [
           {
-            "id": "0b0ce23e585ecd22",
+            "id": "927a14749d13f2cc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Odoo/Odoo Install/Odoo Install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Odoo/Odoo Install/Odoo Install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Odoo/Odoo Install/Odoo Install.md"
+              }
             }
           },
           {
@@ -151,8 +154,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0b0ce23e585ecd22",
+  "active": "24686938cb04c3c5",
   "lastOpenFiles": [
+    "Notes/🐍Virtual Environment.md",
+    "IT/Computer Science/Programming/Programming Languages/Python/Python🐍.md",
+    "IT/Computer Science/Programming/Programming Languages/☧/☧Programming Languages.md",
+    "Odoo/Odoo Install/Odoo Install Cloud.md",
+    "IT/Operation Systems/Ubuntu Commands/Ubuntu Service Odoo.md",
+    "IT/Operation Systems/Ubuntu Commands/Ubuntu Commands.md",
+    "Odoo/Odoo Install/Odoo Install.md",
+    "Odoo/Odoo Install/Odoo Install U/Odoo Install U.md",
     "Business/Accounting/Financial Accounting/Statements/Income Statement P&L Accounts.md",
     "Business/Accounting/Financial Accounting/Fundamental Analysis/Quantitative Fundamentals.md",
     "Business/Accounting/Financial Accounting/Balance Sheet/COA Format.md",
@@ -171,14 +182,6 @@
     "Business/Product and Project Management/⛓️Value Chain/🪙Value Chain⛓️.md",
     "Business/Administration/Operation Management/LEAN/🤔LEAN Thinking🌸.md",
     "Business/Administration/Operation Management/LEAN/🌸Lean 5 principle.md",
-    "IT/ITSM/ITIL4/4 Dimensions/Organizational People.md",
-    "Business/Administration/Organization/Organizational Structure/Organizational Structure🔼.md",
-    "Business/Administration/Organization/Organizational Structure/Well-Defined Organizational Structure.md",
-    "Business/Administration/Organization/Organization.md",
-    "Business/Change Management/Org Change/Organizational Change.md",
-    "Business/Administration/Organization/Organization Types.md",
-    "Business/Administration/Business Administration.md",
-    "Business/Administration/Organization/Organizational Structure/Reporting Line.md",
     "Business/Accounting/Financial Accounting/Expense",
     "Business/Accounting/Depreciation",
     "Business/Accounting/Financial Accounting/Statements",
