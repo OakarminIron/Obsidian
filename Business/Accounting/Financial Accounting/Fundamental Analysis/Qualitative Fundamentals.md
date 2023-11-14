@@ -1,4 +1,4 @@
-- [[Business Model]]
+- [[Business Model🤑]]
 - [[Competitive Advantage]]
 - [[Management]]
 - [[Corporate Governance]]
