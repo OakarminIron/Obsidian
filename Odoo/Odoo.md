@@ -1,4 +1,6 @@
 [[Odoo Install]]
+
+
 [[🟣🍱Bundles]]
 
 [[Odoo Frontend]]

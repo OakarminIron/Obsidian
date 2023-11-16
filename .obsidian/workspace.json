@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "44586a0f1a75a4c7",
+        "id": "02bf423b997eb7d4",
         "type": "tabs",
         "children": [
           {
-            "id": "3cc1ecc870e5da9f",
+            "id": "1b7733c804549ba5",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -150,14 +150,18 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3cc1ecc870e5da9f",
+  "active": "1b7733c804549ba5",
   "lastOpenFiles": [
+    "Odoo/Odoo Install/Odooship.md",
+    "Odoo/Odoo Install/Odoo Install.md",
+    "Odoo/Odoo.md",
+    "IT/Computer Science/Programming/Programming Languages/Python/🐍Virtual Environment.md",
+    "Odoo/Odoo Install/Odoo Install Cloud.md",
     "BIT/System Engineering/Software Engineering/Software Development/Software Development Process Methodologies.md",
     "Business/x/🤑Affiliate Business Model.md",
     "Business/x/Business Model🤑.md",
     "Business/x",
     "Business/Accounting/Financial Accounting/Fundamental Analysis/Qualitative Fundamentals.md",
-    "IT/Computer Science/Programming/Programming Languages/Python/🐍Virtual Environment.md",
     "IT/Computer Science/Programming/Programming Languages/Python/Python🐍.md",
     "Odoo/Odoo Modules/Odoo Fleet/Odoo Fleet.md",
     "Odoo/Odoo Modules/Odoo Maintenance/Odoo Maintenance.md",
@@ -175,10 +179,6 @@
     "Odoo/Odoo Modules/Odoo Accounting/models/🟣debit credit.md",
     "BIT/Data Engineering/Data X/Transport By Wave.md",
     "Business/Accounting/Financial Accounting/Bookkeeping/Debit Note.md",
-    "Business/Accounting/Financial Accounting/Bookkeeping/Credit Note.md",
-    "Business/Accounting/Financial Accounting/Bookkeeping/Cashbook.md",
-    "Business/Accounting/Financial Accounting/Bookkeeping/Account Journal.md",
-    "Business/Accounting/Financial Accounting/Bookkeeping/Account Ledger.md",
     "Business/Accounting/Financial Accounting/Expense",
     "Business/Accounting/Depreciation",
     "Business/Accounting/Financial Accounting/Statements",
