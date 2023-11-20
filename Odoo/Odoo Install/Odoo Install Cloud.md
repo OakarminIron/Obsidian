@@ -71,6 +71,8 @@ wget -q -O - https://nightly.odoo.com/odoo.key | sudo gpg --dearmor -o /usr/shar
 sudo apt-get update && sudo apt-get install odoo
 ```
 
+[[Odoo Service]]
+
 ```odoo
 sudo service odoo stop
 edit config file

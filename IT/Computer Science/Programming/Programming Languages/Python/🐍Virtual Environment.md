@@ -5,3 +5,4 @@ sudo apt update sudo apt install python3.10
 ```
 
 [[Odoo Install]]
+[[🐍pipwheel]]

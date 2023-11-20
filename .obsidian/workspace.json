@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "02bf423b997eb7d4",
+        "id": "c4082a64b47e361d",
         "type": "tabs",
         "children": [
           {
-            "id": "1b7733c804549ba5",
+            "id": "7c2384f2a080d044",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "postgresql",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,19 +150,28 @@
       "graph:Open graph view": false
     }
   },
-  "active": "1b7733c804549ba5",
+  "active": "24686938cb04c3c5",
   "lastOpenFiles": [
-    "Odoo/Odoo Install/Odooship.md",
-    "Odoo/Odoo Install/Odoo Install.md",
-    "Odoo/Odoo.md",
-    "IT/Computer Science/Programming/Programming Languages/Python/🐍Virtual Environment.md",
+    "IT/Database/PostgreSQL/PG Windows.md",
+    "IT/Database/PostgreSQL/PostgreSQL Notes.md",
+    "IT/Database/PostgreSQL/PG Cluster.md",
     "Odoo/Odoo Install/Odoo Install Cloud.md",
+    "IT/Computer Science/Programming/Programming Languages/Python/🐍pipwheel.md",
+    "IT/Computer Science/Programming/Programming Languages/Python/Python🐍.md",
+    "IT/Computer Science/Programming/Programming Languages/Python/🐍Virtual Environment.md",
+    "IT/Computer Science/Programming/Programming Languages/☧/☧Programming Languages.md",
+    "IT/Operation Systems/Ubuntu Commands/Ubuntu Service Odoo.md",
+    "IT/Operation Systems/Ubuntu Commands/Ubuntu Commands.md",
+    "Odoo/Odoo Install/Odoo Service.md",
+    "Odoo/Odoo Install/Odoo Install.md",
+    "Odoo/Odoo Install/Odoo Install U/Odoo Install U.md",
+    "Odoo/Odoo Install/Odooship.md",
+    "Odoo/Odoo.md",
     "BIT/System Engineering/Software Engineering/Software Development/Software Development Process Methodologies.md",
     "Business/x/🤑Affiliate Business Model.md",
     "Business/x/Business Model🤑.md",
     "Business/x",
     "Business/Accounting/Financial Accounting/Fundamental Analysis/Qualitative Fundamentals.md",
-    "IT/Computer Science/Programming/Programming Languages/Python/Python🐍.md",
     "Odoo/Odoo Modules/Odoo Fleet/Odoo Fleet.md",
     "Odoo/Odoo Modules/Odoo Maintenance/Odoo Maintenance.md",
     "Odoo/Odoo Modules/Odoo Support Modules.md",
@@ -170,15 +179,6 @@
     "Business/Purchasing/Purchasing Topics.md",
     "Business/Product and Project Management/⛓️Value Chain/⛓️Support Activities.md",
     "Business/Product and Project Management/⛓️Value Chain/⛓️Primary Activities.md",
-    "Business/Leadership/Dimensional Model Behavior.md",
-    "Business/Administration/Organization/Organizational Structure/Well-Defined Organizational Structure.md",
-    "Business/Administration/Organization/Organizational Structure/Organizational Structure🔼.md",
-    "Business/Administration/Organization/Organizational Structure/Systems of Authority.md",
-    "Science/Social Science/Sociology/Power/Power.md",
-    "Business/Change Management/Individual Change/Psychodynamic Approach/Virginia Satir Model.md",
-    "Odoo/Odoo Modules/Odoo Accounting/models/🟣debit credit.md",
-    "BIT/Data Engineering/Data X/Transport By Wave.md",
-    "Business/Accounting/Financial Accounting/Bookkeeping/Debit Note.md",
     "Business/Accounting/Financial Accounting/Expense",
     "Business/Accounting/Depreciation",
     "Business/Accounting/Financial Accounting/Statements",
