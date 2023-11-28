@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c4082a64b47e361d",
+        "id": "ac4c65169ea1ab65",
         "type": "tabs",
         "children": [
           {
-            "id": "7c2384f2a080d044",
+            "id": "fdb6138e1850c7ac",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "postgresql",
+                "query": "pip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,35 +151,36 @@
       "graph:Open graph view": false
     }
   },
-  "active": "24686938cb04c3c5",
+  "active": "fdb6138e1850c7ac",
   "lastOpenFiles": [
-    "IT/Database/PostgreSQL/PG Windows.md",
-    "IT/Database/PostgreSQL/PostgreSQL Notes.md",
-    "IT/Database/PostgreSQL/PG Cluster.md",
     "Odoo/Odoo Install/Odoo Install Cloud.md",
     "IT/Computer Science/Programming/Programming Languages/Python/🐍pipwheel.md",
-    "IT/Computer Science/Programming/Programming Languages/Python/Python🐍.md",
-    "IT/Computer Science/Programming/Programming Languages/Python/🐍Virtual Environment.md",
-    "IT/Computer Science/Programming/Programming Languages/☧/☧Programming Languages.md",
     "IT/Operation Systems/Ubuntu Commands/Ubuntu Service Odoo.md",
-    "IT/Operation Systems/Ubuntu Commands/Ubuntu Commands.md",
-    "Odoo/Odoo Install/Odoo Service.md",
     "Odoo/Odoo Install/Odoo Install.md",
     "Odoo/Odoo Install/Odoo Install U/Odoo Install U.md",
     "Odoo/Odoo Install/Odooship.md",
     "Odoo/Odoo.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software Development Process Methodologies.md",
-    "Business/x/🤑Affiliate Business Model.md",
-    "Business/x/Business Model🤑.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/🐍Frameworks/🐍Frameworks.md",
+    "IT/Computer Science/AI/ML/Generative Models.md",
+    "Science/Formal Science/Math/LA Space.md",
+    "IT/Computer Science/AI/ML/ML Types/Unsupervised Learning.md",
+    "IT/Computer Science/AI/ML/ML Clustering.md",
+    "IT/Computer Science/AI/ML/ML Types/ML Types.md",
+    "IT/Computer Science/AI/ML/ML Types/Supervised Learning.md",
+    "IT/Computer Science/AI/ML/Machine Learning.md",
+    "IT/Computer Science/AI/AI Sub-Fields.md",
+    "IT/Computer Science/AI/NLP/NLP.md",
+    "IT/Computer Science/AI/AI.md",
+    "IT/Computer Science/AI/AI Platforms/AI Platforms.md",
+    "IT/Computer Science/AI/ML/Deep Learning.md",
+    "IT/Computer Science/AI/AI Level.md",
+    "IT/Computer Science/AI/AI_Onion.png",
+    "IT/Computer Science/AI/AI Models.md",
+    "IT/Computer Science/DSA/Algorithm/⚙️Classification.md",
+    "IT/Computer Science/DSA/Algorithm/⚙️Implementation Method.md",
+    "IT/Computer Science/DSA/Algorithm/Algorithm⚙️.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/Web Applications/Web-App Architecture/Web-App  Architecture.md",
     "Business/x",
-    "Business/Accounting/Financial Accounting/Fundamental Analysis/Qualitative Fundamentals.md",
-    "Odoo/Odoo Modules/Odoo Fleet/Odoo Fleet.md",
-    "Odoo/Odoo Modules/Odoo Maintenance/Odoo Maintenance.md",
-    "Odoo/Odoo Modules/Odoo Support Modules.md",
-    "Machinery.md",
-    "Business/Purchasing/Purchasing Topics.md",
-    "Business/Product and Project Management/⛓️Value Chain/⛓️Support Activities.md",
-    "Business/Product and Project Management/⛓️Value Chain/⛓️Primary Activities.md",
     "Business/Accounting/Financial Accounting/Expense",
     "Business/Accounting/Depreciation",
     "Business/Accounting/Financial Accounting/Statements",

@@ -1,7 +1,18 @@
 [[Odoo Install Cloud]]
 
-`sudo cat /etc/systemd/system/odoo16e.service`
 
+```
+
+sudo cat /etc/systemd/system/odoo16e.service
+
+sudo systemctl daemon-reload
+
+sudo systemctl start odoo16e
+
+sudo systemctl enable odoo17e
+
+
+````
 
 ```
 [Unit]
@@ -22,6 +33,3 @@ StandardOutput=journal+console
 WantedBy=multi-user.target
 ```
 
-`sudo systemctl daemon-reload
-`sudo systemctl start odoo16e`
-`sudo systemctl enable odoo17e`

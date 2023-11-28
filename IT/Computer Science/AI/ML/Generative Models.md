@@ -1,0 +1,1 @@
+Generative algorithms, which usually entail unsupervised learning, model the distribution of data points, aiming to predict the joint probability P(x,y) of a given data point appearing in a particular [[🔣Spaces]].

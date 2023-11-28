@@ -1,0 +1,1 @@
+An AI model is a program that has been trained on a set of data to recognize certain patterns or make certain decisions without further human intervention. 

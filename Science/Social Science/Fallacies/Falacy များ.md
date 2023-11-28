@@ -15,7 +15,8 @@
 15. [[Causal Fallacy]]
 
 -Topics by Aristotle
--Logically Fallacious: The Ultimate Collection of Over 300 Logical Fallacies (Academic Edition) by Bo Bennett
--Examples of Yourdictionary
--Images from World of weird things webpage
--Read the Book, Lemmings! by Ame Dyckman
+-Logically Fallacious: The Ultimate Collection of Over 300 Logical Fallacies (Academic Edition) by `Bo Bennett`
+-Examples of `Yourdictionary`
+-Images from World of weird things web page
+-Read the Book, Lemmings! by `Ame Dyckman`
+
