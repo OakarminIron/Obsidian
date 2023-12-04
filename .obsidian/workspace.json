@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "ac4c65169ea1ab65",
+        "id": "fc5f435b53ec5108",
         "type": "tabs",
         "children": [
           {
-            "id": "fdb6138e1850c7ac",
+            "id": "9d4a3d8f353353ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pip",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,12 +61,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 285.5
   },
   "right": {
     "id": "e3f23135e009c46a",
@@ -151,35 +150,36 @@
       "graph:Open graph view": false
     }
   },
-  "active": "fdb6138e1850c7ac",
+  "active": "9d4a3d8f353353ec",
   "lastOpenFiles": [
+    "Science/Formal Science/Logic/Property📏.md",
+    "Notes/X/Security.md",
+    "Science/Formal Science/Logic/📏Property/📏Psychological.md",
+    "Science/Formal Science/Logic/📏Property/📏Social Impact.md",
+    "Science/Formal Science/Logic/📏Property/📏Technological.md",
+    "Science/Formal Science/Logic/📏Property/📏Environmental and Ethical.md",
+    "Science/Formal Science/Logic/📏Property/📏Legal and Regulatory.md",
+    "Science/Formal Science/Logic/📏Property/📏Reputation and Perception.md",
+    "Science/Formal Science/Logic/📏Property/📏Functional Properties.md",
+    "Science/Formal Science/Logic/📏Property/📏Physical Properties.md",
+    "Science/Formal Science/Logic/📏Property/📏Financial Properties.md",
+    "Notes/Property/Properties.md",
+    "BIT/System Engineering/HCI/Usability Engineering/Usability Attributes.md",
+    "Science/Formal Science/Logic/📏Property",
+    "BIT/System Engineering/HCI/Usability Engineering/Usability.md",
+    "BIT/System Engineering/System/System Value.md",
+    "Notes/X/Value.md",
+    "Science/Cognitive Science/Philosophy/Axiology/🌏Value.md",
+    "Business/Accounting/Financial Accounting/Balance Sheet/Assets/Assets💰.md",
+    "Science/Social Science/Economic/Micro Economic/Scarcity.md",
+    "IT/Cyber Security/SIEM.md",
+    "IT/Database/PostgreSQL/Collation Version Mismatch.md",
+    "Odoo/Odoo Install/Odoo Service.md",
     "Odoo/Odoo Install/Odoo Install Cloud.md",
-    "IT/Computer Science/Programming/Programming Languages/Python/🐍pipwheel.md",
-    "IT/Operation Systems/Ubuntu Commands/Ubuntu Service Odoo.md",
     "Odoo/Odoo Install/Odoo Install.md",
     "Odoo/Odoo Install/Odoo Install U/Odoo Install U.md",
-    "Odoo/Odoo Install/Odooship.md",
-    "Odoo/Odoo.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/🐍Frameworks/🐍Frameworks.md",
-    "IT/Computer Science/AI/ML/Generative Models.md",
-    "Science/Formal Science/Math/LA Space.md",
-    "IT/Computer Science/AI/ML/ML Types/Unsupervised Learning.md",
-    "IT/Computer Science/AI/ML/ML Clustering.md",
-    "IT/Computer Science/AI/ML/ML Types/ML Types.md",
-    "IT/Computer Science/AI/ML/ML Types/Supervised Learning.md",
-    "IT/Computer Science/AI/ML/Machine Learning.md",
-    "IT/Computer Science/AI/AI Sub-Fields.md",
-    "IT/Computer Science/AI/NLP/NLP.md",
-    "IT/Computer Science/AI/AI.md",
-    "IT/Computer Science/AI/AI Platforms/AI Platforms.md",
-    "IT/Computer Science/AI/ML/Deep Learning.md",
-    "IT/Computer Science/AI/AI Level.md",
+    "IT/Computer Science/Programming/Programming Languages/Python/🐍Virtual Environment.md",
     "IT/Computer Science/AI/AI_Onion.png",
-    "IT/Computer Science/AI/AI Models.md",
-    "IT/Computer Science/DSA/Algorithm/⚙️Classification.md",
-    "IT/Computer Science/DSA/Algorithm/⚙️Implementation Method.md",
-    "IT/Computer Science/DSA/Algorithm/Algorithm⚙️.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software/Application/Web Applications/Web-App Architecture/Web-App  Architecture.md",
     "Business/x",
     "Business/Accounting/Financial Accounting/Expense",
     "Business/Accounting/Depreciation",
@@ -190,7 +190,6 @@
     "IT/Database/Database Engineering/ACID/phantom_read.png",
     "Science/Cognitive science",
     "Science/Cognitive Science/Philosophy/Axiology",
-    "Science/Cognitive Science/Philosophy/Axiology/Value",
     "IT/ITSM/ITIL4/Service Value Chain.png",
     "IT/ITSM/ITIL4/Service Value System.png",
     "Business/Product and Project Management/⛓️Value Chain/⛓️Value Chain.png",

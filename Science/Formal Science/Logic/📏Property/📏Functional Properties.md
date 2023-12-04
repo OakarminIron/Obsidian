@@ -1,0 +1,1 @@
+[[Usability]]: The practical usefulness or functionality of an asset.
