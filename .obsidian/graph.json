@@ -69,11 +69,21 @@
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 0.993229166666667,
   "lineSizeMultiplier": 0.508333333333333,
-  "collapse-forces": true,
-  "centerStrength": 0.5,
+<<<<<<< HEAD
+  "collapse-forces": false,
+  "centerStrength": 0.296875,
   "repelStrength": 20,
-  "linkStrength": 1,
-  "linkDistance": 201,
-  "scale": 0.0889892578125,
+  "linkStrength": 0.92,
+  "linkDistance": 47,
+  "scale": 0.017578125,
   "close": false
+=======
+  "collapse-forces": true,
+  "centerStrength": 0.346174092752314,
+  "repelStrength": 18.5,
+  "linkStrength": 0.92,
+  "linkDistance": 47,
+  "scale": 0.0263671875,
+  "close": true
+>>>>>>> eff1ea3b795a071d72a629d6dd189c05b53cee47
 }

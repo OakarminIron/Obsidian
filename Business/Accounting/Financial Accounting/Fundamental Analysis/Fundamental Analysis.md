@@ -7,11 +7,10 @@
 Fundamental analysis is usually done from a macro to micro perspective to identify securities that are not correctly priced by the market.
 
 ----------------------------------------------------------------------------
--   **Quantitative**: information that can be shown using numbers, figures, ratios, or formulas
--   **Qualitative**: rather than a quantity of something, it is its quality, standard, or nature
 
-In this context, quantitative fundamentals are hard numbers. They are the measurable characteristics of a business. That's why the biggest source of quantitative data is financial statements. Revenue, profit, assets, and more can be accurately measured.
-The qualitative fundamentals are less tangible. They might include the quality of a company's key executives, brand-name recognition, patents(ပါမစ်), and proprietary technology.Neither qualitative nor quantitative analysis is inherently better. Many analysts consider them together
+- [[Quantitative Fundamentals]]: information that can be shown using numbers, figures, ratios, or formulas , hard numbers. They are the measurable characteristics of a business. That's why the biggest source of quantitative data is financial statements. Revenue, profit, assets, and more can be accurately measured.
+- [[Qualitative Fundamentals]]   are less tangible. They might include the quality of a company's key executives, brand-name recognition, patents(ပါမစ်), and proprietary technology.
+- Neither qualitative nor quantitative analysis is inherently better. Many analysts consider them together
 
-[[Qualitative Fundamentals]]  
-[[Quantitative Fundamentals]]
+
+
