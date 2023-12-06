@@ -8,72 +8,51 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"BIT\"",
+      "query": "path:BIT  ",
       "color": {
         "a": 1,
-        "rgb": 65280
+        "rgb": 60656
       }
     },
     {
-      "query": "path:\"Business\"",
+      "query": "path:Business  ",
       "color": {
         "a": 1,
-        "rgb": 16776960
+        "rgb": 15311638
       }
     },
     {
-      "query": "path:\"IT\"",
+      "query": "path:IT  ",
       "color": {
         "a": 1,
-        "rgb": 65535
+        "rgb": 37355
       }
     },
     {
-      "query": "path:\"Odoo\"",
+      "query": "path:Odoo  ",
       "color": {
         "a": 1,
-        "rgb": 8940771
+        "rgb": 8391137
       }
     },
     {
-      "query": "path:\"Science/Formal Science\"",
+      "query": "path:Science  ",
       "color": {
         "a": 1,
-        "rgb": 255
-      }
-    },
-    {
-      "query": "path:\"Science/Natural Science\"",
-      "color": {
-        "a": 1,
-        "rgb": 11075496
-      }
-    },
-    {
-      "query": "path:\"Science/Social Science\"",
-      "color": {
-        "a": 1,
-        "rgb": 16776365
-      }
-    },
-    {
-      "query": "path:\"Science/Cognitive Science\"",
-      "color": {
-        "a": 1,
-        "rgb": 16741749
+        "rgb": 1013269
       }
     }
   ],
-  "collapse-display": true,
-  "showArrow": true,
+  "collapse-display": false,
+  "showArrow": false,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 0.993229166666667,
-  "lineSizeMultiplier": 0.508333333333333,
-  "collapse-forces": true,
-  "centerStrength": 0.5,
-  "repelStrength": 20,
-  "linkStrength": 1,
-  "linkDistance": 201,
-  "scale": 0.0889892578125,
+  "nodeSizeMultiplier": 1.50364583333333,
+  "lineSizeMultiplier": 0.304166666666667,
+  "collapse-forces": false,
+  "centerStrength": 0.289314922229143,
+  "repelStrength": 18.5,
+  "linkStrength": 0.92,
+  "linkDistance": 47,
+  "scale": 0.3003387451171875,
   "close": false
 }

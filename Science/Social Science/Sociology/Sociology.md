@@ -1,6 +1,6 @@
 
 
-[[Population and Demography]]
+[[Demography]]
 [[Power]]
 [[🤼Dimension (Social)]]
 [[Sociology Sub-fields]]

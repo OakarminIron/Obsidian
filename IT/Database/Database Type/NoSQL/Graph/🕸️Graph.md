@@ -5,7 +5,6 @@ It can be visualized as a network of nodes connected by edges.
 [[Hop]]
 [[Graph Databases]]
 
-
 Lets say Tom Hank
 The node labels are:
 - `Person`

@@ -1,10 +1,8 @@
 [[🅰️Angular.js]]
 [[⚛️React.js]]
 [[🖖Vue.js]]
-[[Mithril.js]]
 [[🟢Node.js]]
-[[Backbone.js]]
-[[Singular.js]]
 
+New JavaScript framework release frequently.
 
 [[🟣📜Odoo JavaScript]]

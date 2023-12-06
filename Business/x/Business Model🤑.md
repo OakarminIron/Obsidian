@@ -9,3 +9,4 @@ The term business model refers to a company's plan for making a profit.
 [[🤑Marketplace]]
 [[🤑Affiliate Business Model]]
 [[🤑Razor Blade]]
+

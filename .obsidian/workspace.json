@@ -1,18 +1,31 @@
 {
   "main": {
-    "id": "109d12735e242f27",
+    "id": "0254087f10ecc478",
     "type": "split",
     "children": [
       {
-        "id": "fc5f435b53ec5108",
+        "id": "11f5185ff532d395",
         "type": "tabs",
         "children": [
           {
-            "id": "9d4a3d8f353353ec",
+            "id": "37159f30f2bb7ac4",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "fcd5f5de7893f804",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Computer Science/DSA/Algorithm/Algorithm⚙️.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +34,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2bf07651652bb73a",
+    "id": "27e81b448720070c",
     "type": "split",
     "children": [
       {
-        "id": "bd85220a21b73998",
+        "id": "918b5a5522313237",
         "type": "tabs",
         "children": [
           {
-            "id": "24686938cb04c3c5",
+            "id": "fd44166b0763d382",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +52,7 @@
             }
           },
           {
-            "id": "dca49724fe4fc214",
+            "id": "cc2ac9646174365e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +67,7 @@
             }
           },
           {
-            "id": "d0db76369fd93a31",
+            "id": "03c541849715ff99",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,18 +78,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 300
   },
   "right": {
-    "id": "e3f23135e009c46a",
+    "id": "05a87f576f113e9e",
     "type": "split",
     "children": [
       {
-        "id": "953ad5a8528d3ac4",
+        "id": "24950f0f9a411747",
         "type": "tabs",
         "children": [
           {
-            "id": "adea5699c15cb101",
+            "id": "6348ed60d1ffd8b1",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +105,7 @@
             }
           },
           {
-            "id": "3b0509579a9e2b66",
+            "id": "a0a739b54985ed40",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +116,7 @@
             }
           },
           {
-            "id": "200ae69f29cf216c",
+            "id": "315dba2bda6b2de6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,15 +127,7 @@
             }
           },
           {
-            "id": "c831d228ea9736ad",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "32de35e3b6bde0cf",
+            "id": "4192c51ebb3f6688",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -130,71 +135,35 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "a2a5cd08f44f5084",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "janitor:Janitor: scan vault": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "graph:Open graph view": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9d4a3d8f353353ec",
+  "active": "37159f30f2bb7ac4",
   "lastOpenFiles": [
-    "Science/Formal Science/Logic/Property📏.md",
-    "Notes/X/Security.md",
-    "Science/Formal Science/Logic/📏Property/📏Psychological.md",
-    "Science/Formal Science/Logic/📏Property/📏Social Impact.md",
-    "Science/Formal Science/Logic/📏Property/📏Technological.md",
-    "Science/Formal Science/Logic/📏Property/📏Environmental and Ethical.md",
-    "Science/Formal Science/Logic/📏Property/📏Legal and Regulatory.md",
-    "Science/Formal Science/Logic/📏Property/📏Reputation and Perception.md",
-    "Science/Formal Science/Logic/📏Property/📏Functional Properties.md",
-    "Science/Formal Science/Logic/📏Property/📏Physical Properties.md",
-    "Science/Formal Science/Logic/📏Property/📏Financial Properties.md",
-    "Notes/Property/Properties.md",
-    "BIT/System Engineering/HCI/Usability Engineering/Usability Attributes.md",
-    "Science/Formal Science/Logic/📏Property",
-    "BIT/System Engineering/HCI/Usability Engineering/Usability.md",
-    "BIT/System Engineering/System/System Value.md",
-    "Notes/X/Value.md",
-    "Science/Cognitive Science/Philosophy/Axiology/🌏Value.md",
-    "Business/Accounting/Financial Accounting/Balance Sheet/Assets/Assets💰.md",
-    "Science/Social Science/Economic/Micro Economic/Scarcity.md",
-    "IT/Cyber Security/SIEM.md",
-    "IT/Database/PostgreSQL/Collation Version Mismatch.md",
-    "Odoo/Odoo Install/Odoo Service.md",
-    "Odoo/Odoo Install/Odoo Install Cloud.md",
-    "Odoo/Odoo Install/Odoo Install.md",
-    "Odoo/Odoo Install/Odoo Install U/Odoo Install U.md",
-    "IT/Computer Science/Programming/Programming Languages/Python/🐍Virtual Environment.md",
-    "IT/Computer Science/AI/AI_Onion.png",
-    "Business/x",
-    "Business/Accounting/Financial Accounting/Expense",
-    "Business/Accounting/Depreciation",
-    "Business/Accounting/Financial Accounting/Statements",
-    "Business/Accounting/Financial Accounting/Balance Sheet/Equity",
-    "Business/Accounting/ValueChanging",
-    "Business/Accounting/Chart of Accounts (COA)",
-    "IT/Database/Database Engineering/ACID/phantom_read.png",
-    "Science/Cognitive science",
-    "Science/Cognitive Science/Philosophy/Axiology",
-    "IT/ITSM/ITIL4/Service Value Chain.png",
-    "IT/ITSM/ITIL4/Service Value System.png",
-    "Business/Product and Project Management/⛓️Value Chain/⛓️Value Chain.png",
-    "Notes/Skill Framework/SEA Skillset.png",
-    "Notes/Skill Framework/Architect Skillset.png",
-    "BIT/System Engineering/Software Engineering/API/🚡Communication/Server Side Events.png"
+    "IT/Computer Science/DSA/Algorithm/Algorithm⚙️.md"
   ]
 }
