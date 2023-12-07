@@ -1,2 +1,4 @@
-[[Income]]
-[[Expense]]
+[[Profit]]
+[[Loss]]
+
+

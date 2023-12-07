@@ -1,6 +1,6 @@
 [[Cost Management]]
 
-[[Pricing Decisions and Profitability Analysis]]
+[[Pricing]]
 
 [[Decision Making in MA]]
 

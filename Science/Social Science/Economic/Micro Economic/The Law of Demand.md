@@ -4,4 +4,4 @@
 -   Changes in price can be reflected in movement along a demand curve, but by themselves, they do not increase or decrease demand.
 -   The shape and magnitude of demand shifts in response to changes in consumer preferences, incomes, or related economic goods, NOT to changes in price.
 
-[[Product Pricing]] and [[Purchasing power]]
+[[Pricing]] and [[Purchasing power]]
