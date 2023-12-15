@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dc8e4919e75ae075",
+        "id": "ac8b37252df308dc",
         "type": "tabs",
         "children": [
           {
-            "id": "d0ed0755753ee4da",
+            "id": "12dccfeb1dc371a7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Odoo/Odoo Install/Odoo Install Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Odoo/Odoo Install/Odoo Install Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Odoo/Odoo Install/Odoo Install Cloud.md"
+              }
             }
           }
         ]
@@ -140,17 +145,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "janitor:Janitor: scan vault": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "janitor:Janitor: scan vault": false
     }
   },
-  "active": "d0ed0755753ee4da",
+  "active": "cc2ac9646174365e",
   "lastOpenFiles": [
+    "Odoo/Odoo Install/Odoo Install Cloud.md",
+    "IT/Database/PostgreSQL/Collation Version Mismatch.md",
+    "Business/Change Management/Team Change/Type of Teams/Type of Teams.md",
+    "Docker.md",
+    "IT/ITSM/DevOps/DevOps Tools.md",
+    "IT/Hosting/AWS/AWS Services/DevOps/AWS Cloud Formation.md",
+    "Odoo/Odoo Install/Odoo Service.md",
+    "IT/Computer Science/Programming/Programming Languages/Python/🐍pipwheel.md",
+    "Odoo/Odoo Install/Odoo Install.md",
+    "Odoo/Odoo Install/Odoo Install U/Odoo Install U.md",
+    "IT/Computer Science/Programming/Programming Languages/Python/🐍Virtual Environment.md",
+    "IT/Operation Systems/Ubuntu Commands/Ubuntu Service Odoo.md",
+    "IT/Operation Systems/Ubuntu Commands/Ubuntu Commands.md",
+    "IT/Operation Systems/Ubuntu.md",
     "Business/Marketing/Pricing/Nine laws.md",
     "Business/Marketing/Pricing/Pricing.md",
     "Business/Marketing/Pricing/Pricing Models.md",
@@ -163,13 +182,6 @@
     "Business/Accounting/Management Accounting/Cost/Profit.md",
     "Business/Marketing/Pricing",
     "Business/Marketing/Pricing/Pricing Policies.md",
-    "Business/Marketing/Pricing/Pricing Policies Types.md",
-    "Business/Marketing/Pricing/Pricing Policies Objectives.md",
-    "Business/Marketing/Pricing/Pricing Policies Considerations.md",
-    "Business/Accounting/Financial Accounting/Financial Metric Ratios/Profitability ratios/Gross Profit Margin.md",
-    "Business/Accounting/Financial Accounting/Profit & Loss.md",
-    "Science/Social Science/Economic/Micro Economic/The Law of Demand.md",
-    "Business/Accounting/Management Accounting/Management Accounting.md",
-    "IT/Computer Science/DSA/Algorithm/Algorithm⚙️.md"
+    "Business/Marketing/Pricing/Pricing Policies Types.md"
   ]
 }

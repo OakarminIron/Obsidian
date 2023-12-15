@@ -41,8 +41,8 @@ sudo npm install -g less less-plugin-clean-css
 mkdir /home/odoo/Documents
 mkdir /home/odoo/Downloads
 cd /home/odoo/Downloads
-sudo wget https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.5/wkhtmltox_0.12.5-1.bionic_amd64.deb
-sudo apt install ./wkhtmltox_0.12.5-1.bionic_amd64.deb -y
+sudo wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6.1-2/wkhtmltox_0.12.6.1-2.jammy_amd64.deb
+sudo apt install ./wkhtmltox_0.12.6.1-2.jammy_amd64.deb -y
 mkdir /home/odoo/Documents/Github
 sudo mkdir /var/log/odoo
 sudo chown odoo:root /var/log/odoo
