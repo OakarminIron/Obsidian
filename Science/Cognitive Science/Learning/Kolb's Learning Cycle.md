@@ -1,4 +1,6 @@
 [[Activist]] Concrete Experience
-[[Reflective]] Observation Relector
-[[Theorist]] Theorectical concepts
+[[Reflective]] Observation Reflector
+[[Theorist]] Theoretical concepts
 [[Practical]]Experimentation Pragmatist
+
+[[PTAM model]]

@@ -1,0 +1,3 @@
+- Obsessive-Compulsive Disorder (`OCD`) is a mental health condition characterised by persistent, intrusive thoughts (obsessions) and repetitive behaviours or mental acts (compulsions) performed in response to the obsessions. 
+- While the stereotype often associates `OCD` with a desire for order and cleanliness, it's essential to understand that the condition is more complex and varied.
+- The behaviour are driven by the need to reduce anxiety or prevent a feared event, while individuals without `OCD` may have a more general preference for orderliness.

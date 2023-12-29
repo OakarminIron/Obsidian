@@ -1,6 +1,6 @@
 [[MOST]]
 [[CATWOE]]
-[[The Six Hats]]
+[[🤔The Six Hats]]
 [[Five Whys]]
 [[Market Research]]
 [[Customer Segmentation]]

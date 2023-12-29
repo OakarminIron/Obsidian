@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "12dccfeb1dc371a7",
+            "id": "a36f5ffd227b9530",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -82,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Odoo/Odoo Install/Odoo Install Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Odoo/Odoo Install/Odoo Install Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +120,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -131,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Odoo/Odoo Install/Odoo Install Cloud.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,34 +152,34 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "cc2ac9646174365e",
+  "active": "a36f5ffd227b9530",
   "lastOpenFiles": [
-    "Odoo/Odoo Install/Odoo Install Cloud.md",
-    "IT/Database/PostgreSQL/Collation Version Mismatch.md",
-    "Business/Change Management/Team Change/Type of Teams/Type of Teams.md",
-    "Docker.md",
-    "IT/ITSM/DevOps/DevOps Tools.md",
-    "IT/Hosting/AWS/AWS Services/DevOps/AWS Cloud Formation.md",
-    "Odoo/Odoo Install/Odoo Service.md",
-    "IT/Computer Science/Programming/Programming Languages/Python/🐍pipwheel.md",
-    "Odoo/Odoo Install/Odoo Install.md",
-    "Odoo/Odoo Install/Odoo Install U/Odoo Install U.md",
-    "IT/Computer Science/Programming/Programming Languages/Python/🐍Virtual Environment.md",
-    "IT/Operation Systems/Ubuntu Commands/Ubuntu Service Odoo.md",
-    "IT/Operation Systems/Ubuntu Commands/Ubuntu Commands.md",
-    "IT/Operation Systems/Ubuntu.md",
-    "Business/Marketing/Pricing/Nine laws.md",
-    "Business/Marketing/Pricing/Pricing.md",
-    "Business/Marketing/Pricing/Pricing Models.md",
-    "Business/Marketing/Marketing Mix.md",
-    "🤑Freemium.md",
-    "Business/x/Business Model🤑.md",
-    "Business/Marketing/Marketing.md",
-    "Business/Marketing/4P.md",
-    "Business/Accounting/Management Accounting/Cost/Loss.md",
-    "Business/Accounting/Management Accounting/Cost/Profit.md",
-    "Business/Marketing/Pricing",
-    "Business/Marketing/Pricing/Pricing Policies.md",
-    "Business/Marketing/Pricing/Pricing Policies Types.md"
+    "Science/Social Science/Fallacies/Falacy များ.md",
+    "Science/Social Science/Fallacies/🗣️Fallacies.md",
+    "Science/Cognitive Science/Learning/Learning Theories.md",
+    "Science/Cognitive Science/Cognitive Psychology/Thinking/The Gang of Three/The Gang of Three.md",
+    "Science/Social Science/Economic/Economic Analysis Tools/6 Hat/🤔The Six Hats.md",
+    "Science/Social Science/Economic/Economic Analysis Tools/6 Hat/🤔Blue Hat.md",
+    "Science/Social Science/Economic/Economic Analysis Tools/6 Hat/🤔Yellow Hat.md",
+    "Science/Social Science/Economic/Economic Analysis Tools/6 Hat/🤔Black Hat.md",
+    "Science/Social Science/Economic/Economic Analysis Tools/6 Hat/🤔Green Hat.md",
+    "Science/Social Science/Economic/Economic Analysis Tools/6 Hat/🤔Red Hat.md",
+    "Science/Social Science/Economic/Economic Analysis Tools/6 Hat/🤔White Hat.md",
+    "Science/Cognitive Science/Cognitive Psychology/Thinking/🤔Parallel vs Adversarial.md",
+    "Science/Cognitive Science/Learning/Kolb's model.md",
+    "Science/Cognitive Science/Learning/Kolb's Learning Cycle.md",
+    "Science/Cognitive Science/Learning/PTAM model.md",
+    "Science/Cognitive Science/Learning/Learner Style.md",
+    "Science/Cognitive Science/Learning/VARK Learner Model.md",
+    "Accommodator.md",
+    "Science/Cognitive Science/Learning/Assimilator.md",
+    "Science/Cognitive Science/Learning/Diverger.md",
+    "Science/Cognitive Science/Learning/Converger.md",
+    "Science/Cognitive Science/Learning/Accommodator.md",
+    "Science/Cognitive Science/Learning/Learning.md",
+    "Science/Cognitive Science/Cognitive Psychology/Cognitive Psychology.md",
+    "Natural Science/Biology/Mental Disorders/Mood Disorder.md",
+    "Natural Science/Biology/Mental Disorders/Mental Disorder.md",
+    "Business/Marketing/Pricing"
   ]
 }

@@ -1,1 +1,1 @@
-[[Odoo Activity]]
+[[mail.activity]]

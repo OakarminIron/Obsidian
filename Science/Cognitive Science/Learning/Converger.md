@@ -1,1 +1,0 @@
-Abstract Conceptualization + Active Experiment: strong in practical "hands-on" application of theories

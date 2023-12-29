@@ -1,4 +1,4 @@
-[[Debit Note]]
-[[Credit Note]]
+[[Credit Note Debit Note]]
+
 
 [[Reconciliation]]

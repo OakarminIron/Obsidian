@@ -2,3 +2,6 @@ An actual activity to perform. Activities are linked to documents using res_id a
 
 [[mail.activity.mixin(abstract)]]
 [[mail.template]]
+
+
+[[mail.activity]]
