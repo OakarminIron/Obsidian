@@ -1,2 +1,1 @@
-[[Odoo Shop]]
 [[🟣Restaurant🍽️]]

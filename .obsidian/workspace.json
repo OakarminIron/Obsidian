@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "ac8b37252df308dc",
+        "id": "cde53b68583109a2",
         "type": "tabs",
         "children": [
           {
-            "id": "a36f5ffd227b9530",
+            "id": "76aac9bb97fe1639",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "python",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -152,34 +151,34 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "a36f5ffd227b9530",
+  "active": "76aac9bb97fe1639",
   "lastOpenFiles": [
-    "Science/Social Science/Fallacies/Falacy များ.md",
-    "Science/Social Science/Fallacies/🗣️Fallacies.md",
-    "Science/Cognitive Science/Learning/Learning Theories.md",
-    "Science/Cognitive Science/Cognitive Psychology/Thinking/The Gang of Three/The Gang of Three.md",
-    "Science/Social Science/Economic/Economic Analysis Tools/6 Hat/🤔The Six Hats.md",
-    "Science/Social Science/Economic/Economic Analysis Tools/6 Hat/🤔Blue Hat.md",
-    "Science/Social Science/Economic/Economic Analysis Tools/6 Hat/🤔Yellow Hat.md",
-    "Science/Social Science/Economic/Economic Analysis Tools/6 Hat/🤔Black Hat.md",
-    "Science/Social Science/Economic/Economic Analysis Tools/6 Hat/🤔Green Hat.md",
-    "Science/Social Science/Economic/Economic Analysis Tools/6 Hat/🤔Red Hat.md",
-    "Science/Social Science/Economic/Economic Analysis Tools/6 Hat/🤔White Hat.md",
-    "Science/Cognitive Science/Cognitive Psychology/Thinking/🤔Parallel vs Adversarial.md",
-    "Science/Cognitive Science/Learning/Kolb's model.md",
-    "Science/Cognitive Science/Learning/Kolb's Learning Cycle.md",
-    "Science/Cognitive Science/Learning/PTAM model.md",
-    "Science/Cognitive Science/Learning/Learner Style.md",
-    "Science/Cognitive Science/Learning/VARK Learner Model.md",
-    "Accommodator.md",
-    "Science/Cognitive Science/Learning/Assimilator.md",
-    "Science/Cognitive Science/Learning/Diverger.md",
-    "Science/Cognitive Science/Learning/Converger.md",
-    "Science/Cognitive Science/Learning/Accommodator.md",
-    "Science/Cognitive Science/Learning/Learning.md",
-    "Science/Cognitive Science/Cognitive Psychology/Cognitive Psychology.md",
-    "Natural Science/Biology/Mental Disorders/Mood Disorder.md",
-    "Natural Science/Biology/Mental Disorders/Mental Disorder.md",
+    "Odoo/Odoo Modules/Odoo Accounting/Odoo COA/🟣COA.md",
+    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Flow/Odoo Vendor Bill.md",
+    "Business/Accounting/ValueChanging/Depreciation Methods.md",
+    "Odoo/Odoo Modules/Odoo Sales/Odoo Shop.md",
+    "Odoo/Odoo Modules/Odoo Accounting/Odoo COA/🟣Internal Type.md",
+    "Business/Accounting/Financial Accounting/Balance Sheet/Chart of Accounts (COA).md",
+    "Odoo/Odoo Modules/Odoo Accounting/Odoo COA/🟣Category.md",
+    "Odoo/Odoo Modules/Odoo Accounting/🟣Accounting.md",
+    "Odoo/Odoo Modules/Odoo Accounting/🟣Account Asset.md",
+    "Odoo/Odoo Modules/Odoo Accounting/AAS Category.md",
+    "Odoo/Odoo Modules/Odoo Accounting/Odoo Invoice/🟣Invoicing and Billing.md",
+    "Odoo/Odoo Modules/Odoo Accounting/🟣Accounting Others.md",
+    "Journal Entries.md",
+    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Flow/Odoo Account Flow.md",
+    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Flow/Odoo Account Payable.md",
+    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Flow/🟣Account Receivable.md",
+    "Odoo/Odoo Modules/Odoo Sales/🟣Sales.md",
+    "Odoo/Odoo Modules/Odoo Main Modules.md",
+    "Odoo/Odoo Modules/Odoo Modules.md",
+    "Odoo/Odoo Modules/Odoo Inventory/🟣Inventory📦.md",
+    "Odoo/Odoo Modules/Odoo Sales/🟣Loyalty/🟣Loyalty.md",
+    "Odoo/Odoo Modules/Odoo MRP/🟣MRP.md",
+    "🟣Subcontract.md",
+    "🟣QC.md",
+    "Odoo/Odoo Modules/Odoo MRP/Odoo Manufacturing/🟣Manufacturing.md",
+    "Odoo/Odoo Modules/Odoo CRM/🟣After-sale(Customer Care).md",
     "Business/Marketing/Pricing"
   ]
 }

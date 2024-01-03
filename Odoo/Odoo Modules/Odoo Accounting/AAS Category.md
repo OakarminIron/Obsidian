@@ -1,2 +1,0 @@
-[[AAS MainCat]]
-[[AAS SubCat]]

@@ -1,5 +1,7 @@
 [[🟣Inventory📦]]
 [[🟣Sales]]
 [[Odoo/Odoo Modules/Odoo Purchase/🟣Purchase|🟣Purchase]]
-
-
+[[🟣CRM]]
+[[🟣Web]]
+[[🟣Accounting]]
+[[🟣MRP]]

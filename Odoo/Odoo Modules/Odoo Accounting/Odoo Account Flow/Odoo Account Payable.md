@@ -1,1 +1,0 @@
-[[Odoo Vendor Bill]]

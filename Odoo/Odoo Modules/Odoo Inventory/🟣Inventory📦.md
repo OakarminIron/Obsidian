@@ -1,3 +1,5 @@
+[[🟣Product Category]]
+[[🟣Product Type]]
 
 [[🟣📦Warehouse Management]]
 [[🟣📦Logistic]]
@@ -9,3 +11,4 @@
 
 
 [[🟣📦Costing]]
+[[🟣📦Valuation]]
