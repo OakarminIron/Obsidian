@@ -1,1 +1,0 @@
-For subscriptions, an invoice is triggered periodically, automatically. The frequency of the invoicing and the services/products invoiced are defined on the contract.

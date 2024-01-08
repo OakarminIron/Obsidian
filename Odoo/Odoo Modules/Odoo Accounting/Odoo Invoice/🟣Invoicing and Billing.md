@@ -1,8 +1,8 @@
 [[🟣Purchase]] Bill
 [[🟣Sales]] Invoice
+[[🟣Invoice Bill Policy]]
 
-
-[[🟣EPC QR code]]
 [[🟣Invoicing Ways]]
+[[🟣EPC QR code]]
 [[🟣Payment Terms]]
-[[🟣Credit Notes and Refunds]]
+[[Credit Note Debit Note]]

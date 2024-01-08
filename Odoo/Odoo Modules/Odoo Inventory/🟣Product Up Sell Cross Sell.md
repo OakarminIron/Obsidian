@@ -1,0 +1,3 @@
+- Optional Products  - Recommend when adding to cart or quotation
+- Accessory Products - Cross sell
+- Alternative Products  - Up sell

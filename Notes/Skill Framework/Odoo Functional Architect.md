@@ -1,17 +1,17 @@
-- Work on projects as Senior Business Analyst for complex projects, maintain in this way a high level of Odoo and our services/products, challenge customer processes (model flows in order to integrate them into Odoo) autonomously.
+- Work on projects as Senior Business Analyst for complex projects, maintain in this way a high level of `Odoo` and our services/products, challenge customer processes (model flows in order to integrate them into `Odoo`) autonomously.
 - Translate customer needs into development or configuration tasks and ensure that the tasks performed are well documented
 - Carry out functional testing
 - Collaborate with Business Analysts during critical phases of their projects, with the aim of increasing their skills and avoiding errors
-- Establish the functional architecture of key projects of the Odoo team
-- Ensure the quality of the analyzes, carry out "quality audits" at the level of the functional solutions offered to customers in order to continuously train the Business Analyst and redirect their projects if necessary
-- Take pre-sales demos in charge
+- Establish the functional architecture of key projects of the `Odoo` team
+- Ensure the quality of the analyses, carry out "quality audits" at the level of the functional solutions offered to customers in order to continuously train the Business Analyst and redirect their projects if necessary
+- Take `pre-sales` demos in charge
 - Share knowledge
-- Create bridges between Odoo teams in order to standardize the functional solutions offered to customers and in order to provide maximum expertise to all our customers
+- Create bridges between `Odoo` teams in order to standardise the functional solutions offered to customers and in order to provide maximum expertise to all our customers
 - Bachelor/Master in a field related to the position (Business Management, Computer Sciences, Engineering, ...)
-- At least 7 years of experience with Odoo
-- Odoo certification
+- At least 7 years of experience with `Odoo`
+- `Odoo` certification
 - Comfortable with IT tools and environment
-- Business modeling: understanding and translating customer needs
+- Business modelling: understanding and translating customer needs
 - Self-development
 - Capacity to test and challenge an existing solution
 - Fluent in English

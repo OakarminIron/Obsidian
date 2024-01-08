@@ -9,5 +9,5 @@ A warehouse is a location where goods are kept. It serves as the company’s war
 [[Odoo Miscellaneous Operations]]
 
 [[Odoo Inventory Planning]]
-[[Odoo Inventory Valuation]]
+[[🟣Inventory Valuation]]
 [[stock.quant]]

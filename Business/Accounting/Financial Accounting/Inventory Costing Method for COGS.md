@@ -20,3 +20,13 @@ The average price of all the goods in stock, regardless of purchase date, is use
 
 [[Special Identification Method]]
 The special identification method uses the specific cost of each unit of merchandise (also called inventory or goods) to calculate the ending inventory and COGS for each period. In this method, a business knows precisely which item was sold and the exact cost. Further, this method is typically used in industries that sell unique items like cars, real estate, and rare and precious jewels.
+
+
+
+
+FIFO strategy states that if a product is stocked first, it will go out first in the delivery order if a sales order is confirmed.
+LIFO strategy is the inverse of FIFO, stating that if a product was stocked last, it would go out first in a delivery order if a sales order is confirmed.
+
+The First Expired, First Out ([[FEFO]]) removal approach is distinct from the other two. The expiration date is more relevant than the day the product joined the stock.Need loot numbers.
+
+

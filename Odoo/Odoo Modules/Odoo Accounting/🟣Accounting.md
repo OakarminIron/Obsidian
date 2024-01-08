@@ -4,6 +4,6 @@
 [[🟣Analytic]]
 [[🟣Multi Currency]]
 [[🟣Budget]]
-[[🟣📦Valuation]]
+[[Inventory Costing Method for COGS]]
 [[🟣EDI]]
 [[🟣Snail-mail]]

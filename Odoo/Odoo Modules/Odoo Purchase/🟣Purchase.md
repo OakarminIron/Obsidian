@@ -1,10 +1,8 @@
 [[🟣Quotation]]
 [[🟣Lead Time]]
-[[🟣Auto Purchase]]
-[[🟣Purchase Blanket Orders]]
-[[🟣Purchase Tenders Selection]]
-[[🟣Purchase Price-list]]
-[[🟣Inventory📦]]
 
+[[🟣Purchase Agreements]]
+[[🟣Purchase Price-list]]
 
 [[🟣Invoicing and Billing]]
+[[🟣Replenishment Strategies]]

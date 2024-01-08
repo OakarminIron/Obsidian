@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "cde53b68583109a2",
+        "id": "01fa609e4c97ba26",
         "type": "tabs",
         "children": [
           {
-            "id": "76aac9bb97fe1639",
+            "id": "2dad34e0e3f308e5",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "python",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,34 +151,34 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "76aac9bb97fe1639",
+  "active": "2dad34e0e3f308e5",
   "lastOpenFiles": [
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo COA/🟣COA.md",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Flow/Odoo Vendor Bill.md",
-    "Business/Accounting/ValueChanging/Depreciation Methods.md",
-    "Odoo/Odoo Modules/Odoo Sales/Odoo Shop.md",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo COA/🟣Internal Type.md",
-    "Business/Accounting/Financial Accounting/Balance Sheet/Chart of Accounts (COA).md",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo COA/🟣Category.md",
-    "Odoo/Odoo Modules/Odoo Accounting/🟣Accounting.md",
-    "Odoo/Odoo Modules/Odoo Accounting/🟣Account Asset.md",
-    "Odoo/Odoo Modules/Odoo Accounting/AAS Category.md",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo Invoice/🟣Invoicing and Billing.md",
-    "Odoo/Odoo Modules/Odoo Accounting/🟣Accounting Others.md",
-    "Journal Entries.md",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Flow/Odoo Account Flow.md",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Flow/Odoo Account Payable.md",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Flow/🟣Account Receivable.md",
-    "Odoo/Odoo Modules/Odoo Sales/🟣Sales.md",
-    "Odoo/Odoo Modules/Odoo Main Modules.md",
-    "Odoo/Odoo Modules/Odoo Modules.md",
+    "Odoo/Odoo Modules/Odoo Inventory/🟣ProductCan.md",
+    "Odoo/Odoo Modules/Odoo Inventory/🟣Product Can?.md",
+    "Odoo/Odoo Modules/Odoo Inventory/🟣📦Operations Picking.md",
+    "Odoo/Odoo Modules/Odoo Inventory/🟣Inventory Valuation.md",
+    "Odoo/Odoo Modules/Odoo Accounting/models/account.journal.md",
+    "Odoo/Odoo Modules/Odoo Accounting/models/account.invoice.md",
+    "Odoo/Odoo Modules/Odoo Accounting/models/account.group.md",
+    "Odoo/Odoo Modules/Odoo Accounting/models/accoun.invoice.line.md",
+    "Business/Accounting/Financial Accounting/Bookkeeping/Credit Note Debit Note.md",
+    "Is Landed Cost.md",
+    "Odoo/Odoo Modules/Odoo Inventory/🟣📦Warehouse Management.md",
     "Odoo/Odoo Modules/Odoo Inventory/🟣Inventory📦.md",
-    "Odoo/Odoo Modules/Odoo Sales/🟣Loyalty/🟣Loyalty.md",
-    "Odoo/Odoo Modules/Odoo MRP/🟣MRP.md",
-    "🟣Subcontract.md",
-    "🟣QC.md",
-    "Odoo/Odoo Modules/Odoo MRP/Odoo Manufacturing/🟣Manufacturing.md",
-    "Odoo/Odoo Modules/Odoo CRM/🟣After-sale(Customer Care).md",
+    "Odoo/Odoo Modules/Odoo Accounting/models/account.move.md",
+    "Business/Accounting/Financial Accounting/Bookkeeping/Account Ledger.md",
+    "Odoo/Odoo Modules/Odoo Sales/🟣Sales.md",
+    "Odoo/Odoo Modules/Odoo Accounting/models/account.move.line.md",
+    "Odoo/Odoo Modules/Odoo Main Modules.md",
+    "Odoo/Odoo Modules/Odoo Purchase/🟣Purchase Agreements.md",
+    "Odoo/Odoo Modules/Odoo Accounting/Odoo Invoice/🟣Invoicing and Billing.md",
+    "Odoo/Odoo Modules/Odoo Purchase/🟣Purchase.md",
+    "Odoo/Odoo Modules/Odoo Inventory/🟣Product Type.md",
+    "Odoo/Odoo Modules/Odoo Accounting/Odoo COA/🟣Internal Type.md",
+    "Odoo/Odoo Modules/Odoo Sales/🟣Loyalty/loyalty.program.md",
+    "Odoo/Odoo Modules/Odoo Sales/🟣Loyalty/loyalty.card (coupon).md",
+    "Odoo/Odoo Modules/Odoo Sales/Models/sale.order.coupon.points.md",
+    "Odoo/Odoo Modules/Odoo Sales/Models/sale.order.line.md",
     "Business/Marketing/Pricing"
   ]
 }

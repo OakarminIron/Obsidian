@@ -1,14 +1,11 @@
 [[🟣Product Category]]
 [[🟣Product Type]]
 
-[[🟣📦Warehouse Management]]
+
 [[🟣📦Logistic]]
+[[🟣📦Warehouse Management]]
+[[🟣📦Operations Picking]]
+[[🟣Replenishment Strategies]]
 
-
-[[Odoo Replenishment Strategies]]
-[[Odoo Inventory Removal Strategies]]
-
-
-
+[[🟣Inventory Removal Strategies]]
 [[🟣📦Costing]]
-[[🟣📦Valuation]]

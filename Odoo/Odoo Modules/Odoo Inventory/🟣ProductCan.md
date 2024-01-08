@@ -1,0 +1,6 @@
+[[Can Sold?]]
+[[Can Purchase?]]
+[[Can Expenses?]]
+[[Can Rent?]]
+[[Can POS?]]
+[[Is Landed Cost]]
