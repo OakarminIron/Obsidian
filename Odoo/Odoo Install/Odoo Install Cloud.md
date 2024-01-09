@@ -58,7 +58,7 @@ pg_restore -p 5434 -d mydb mydb.dump
 ```github
 mkdir /home/odoo/Documents/Github/odoo
 cd /home/odoo/Documents/Github/odoo/
-git clone https://www.github.com/odoo/odoo --depth 1 --branch 16.0
+git clone https://www.github.com/odoo/odoo.git -b 17.0 --single-branch --depth 1 /home/odoo/Document/Github/odoo/odoo17c
 cd /home/odoo/Documents/Github/odoo/odoo
 pip3 install -r requirements.txt
 ```

@@ -1,1 +1,0 @@
-Used for navigating XML documents. It allows you to traverse an XML structure and select nodes based on various conditions, such as element names, attributes, or hierarchical relationships.

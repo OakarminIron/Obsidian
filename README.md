@@ -1,6 +1,6 @@
 # Knowledge Graph Repository
 
-Welcome to my Knowledge Graph Repository! This repository contains categorized knowledge and notes on various topics. To view and explore the contents, you will need to download and install Obsidian, a personal knowledge base and note-taking software that operates on Markdown files.
+Welcome to my Knowledge Graph Repository! This repository contains categorised knowledge and notes on various topics. To view and explore the contents, you will need to download and install Obsidian, a personal knowledge base and note-taking software that operates on Markdown files.
 
 ## Installation
 
@@ -10,7 +10,7 @@ To install Obsidian, please follow the instructions provided on the official Obs
 
 ## Sessions
 
-The knowledge in this repository is categorized into the following sessions:
+The knowledge in this repository is categorised into the following sessions:
 
 1. Business IT
 2. Business

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "01fa609e4c97ba26",
+        "id": "9be0c4bdbf58616a",
         "type": "tabs",
         "children": [
           {
-            "id": "2dad34e0e3f308e5",
+            "id": "1cb1ebac51b8990a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IT/ITSM/DevOps/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IT/ITSM/DevOps/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IT/ITSM/DevOps/Git.md"
+              }
             }
           }
         ]
@@ -151,34 +156,36 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "2dad34e0e3f308e5",
+  "active": "cc2ac9646174365e",
   "lastOpenFiles": [
-    "Odoo/Odoo Modules/Odoo Inventory/🟣ProductCan.md",
-    "Odoo/Odoo Modules/Odoo Inventory/🟣Product Can?.md",
-    "Odoo/Odoo Modules/Odoo Inventory/🟣📦Operations Picking.md",
-    "Odoo/Odoo Modules/Odoo Inventory/🟣Inventory Valuation.md",
-    "Odoo/Odoo Modules/Odoo Accounting/models/account.journal.md",
-    "Odoo/Odoo Modules/Odoo Accounting/models/account.invoice.md",
-    "Odoo/Odoo Modules/Odoo Accounting/models/account.group.md",
-    "Odoo/Odoo Modules/Odoo Accounting/models/accoun.invoice.line.md",
-    "Business/Accounting/Financial Accounting/Bookkeeping/Credit Note Debit Note.md",
-    "Is Landed Cost.md",
+    "IT/ITSM/DevOps/DevOps Tools.md",
+    "IT/ITSM/DevOps/Git.md",
+    "Odoo/Odoo Install/Odoo Install.md",
+    "Odoo/Odoo Install/Odoo Install Cloud.md",
     "Odoo/Odoo Modules/Odoo Inventory/🟣📦Warehouse Management.md",
+    "Odoo/Odoo Modules/Odoo Inventory/Product/🟣Product.md",
+    "Odoo/Odoo Modules/Odoo Inventory/🟣Inventory Valuation.md",
+    "Odoo/Odoo Modules/Odoo Inventory/🟣📦Operations Picking.md",
     "Odoo/Odoo Modules/Odoo Inventory/🟣Inventory📦.md",
-    "Odoo/Odoo Modules/Odoo Accounting/models/account.move.md",
-    "Business/Accounting/Financial Accounting/Bookkeeping/Account Ledger.md",
-    "Odoo/Odoo Modules/Odoo Sales/🟣Sales.md",
-    "Odoo/Odoo Modules/Odoo Accounting/models/account.move.line.md",
-    "Odoo/Odoo Modules/Odoo Main Modules.md",
+    "Odoo/Odoo Modules/Odoo Inventory/Product/🟣Product Category.md",
+    "Odoo/Odoo Modules/Odoo Inventory/🟣Inventory Removal Strategies.md",
+    "Odoo/Odoo Modules/Odoo Inventory/🟣📦Route Management.md",
+    "Business/Accounting/Financial Accounting/Inventory Costing Method for COGS.md",
+    "README.md",
     "Odoo/Odoo Modules/Odoo Purchase/🟣Purchase Agreements.md",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo Invoice/🟣Invoicing and Billing.md",
     "Odoo/Odoo Modules/Odoo Purchase/🟣Purchase.md",
-    "Odoo/Odoo Modules/Odoo Inventory/🟣Product Type.md",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo COA/🟣Internal Type.md",
-    "Odoo/Odoo Modules/Odoo Sales/🟣Loyalty/loyalty.program.md",
-    "Odoo/Odoo Modules/Odoo Sales/🟣Loyalty/loyalty.card (coupon).md",
-    "Odoo/Odoo Modules/Odoo Sales/Models/sale.order.coupon.points.md",
-    "Odoo/Odoo Modules/Odoo Sales/Models/sale.order.line.md",
+    "Odoo/Odoo Modules/Odoo Sales/🟣Quotation.md",
+    "Odoo/Odoo Modules/Odoo Purchase/🟣Requisition.md",
+    "Odoo/Odoo Modules/Odoo Sales/🟣Sales.md",
+    "Business/Sales/Sales Methods/Proforma Invoice.md",
+    "Business/Sales/Sales Methods/Sales Methods.md",
+    "Odoo/Odoo Modules/Odoo Inventory/🟣Lead Time.md",
+    "Odoo/Odoo Modules/Odoo Main Modules.md",
+    "Odoo/Odoo Modules/Odoo Accounting/Odoo Invoice/🟣Invoicing and Billing.md",
+    "Business/Administration/Operation Management/Time Mangement/⌛Manufacturing.md",
+    "Odoo/Odoo Modules/Odoo Inventory/🟣📦Scraping.md",
+    "Business/Administration/Operation Management/Time Mangement",
+    "Odoo/Odoo Modules/Odoo Inventory/Product",
     "Business/Marketing/Pricing"
   ]
 }

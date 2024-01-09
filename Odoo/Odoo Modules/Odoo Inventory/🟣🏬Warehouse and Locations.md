@@ -1,1 +1,2 @@
 [[🟣🏬Location Types]]
+[[🟣🏬Parent Child]]

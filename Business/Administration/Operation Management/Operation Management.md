@@ -2,6 +2,7 @@ Operations management is an area of management concerned with designing and cont
 
 
 
-[[Operational intelligence]]
+[[Operational Intelligence]]
 [[🤔LEAN Thinking🌸]]
 [[Performance Measurement]]
+[[Time Management⌛]]

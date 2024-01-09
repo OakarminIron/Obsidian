@@ -1,5 +1,5 @@
 
-[[🟣Odoo ORM]]
+[[🟣Odoo ORM🐍🅾️]]
 [[🟣IR]]
 [[Python🐍]]
 [[🟣Views]]
