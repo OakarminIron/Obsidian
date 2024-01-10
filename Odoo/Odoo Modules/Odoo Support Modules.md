@@ -1,7 +1,7 @@
-[[Odoo Maintenance]]
-
-[[Odoo Fleet]]
-
-[[🟣Odoo HR👥]]
-
-[[Odoo Document]]
+[[🟣Maintenance🔨]]
+[[🟣Repairs🔧]]
+[[🟣Fleet]]
+[[🟣HR👥]]
+[[🟣Document]]
+[[🟣Contact👤]]
+[[🟣Sign]]

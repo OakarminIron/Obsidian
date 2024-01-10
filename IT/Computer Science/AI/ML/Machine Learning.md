@@ -4,4 +4,4 @@ Or in simple words, ML or machine learning is a part of AI. So while all ML mode
 [[ML Types]]
 [[Deep Learning]]
 [[ML Platforms]]
-
+[[ML Models]]

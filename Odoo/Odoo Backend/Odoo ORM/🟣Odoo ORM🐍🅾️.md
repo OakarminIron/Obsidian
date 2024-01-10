@@ -1,10 +1,7 @@
+[[🟣🅾️Models]]
+[[🟣🅾️Fields]]
+[[🟣🅾️Records-set]]
 [[🟣Methods]]
 [[🟣Method Decorators]]
-[[🟣Records-set]]
-[[🟣Data Structure]]
-[[🟣🅾️Inheritance👨‍👦]]
-
-
-
-
+[[🟣🅾️Environment]]
 

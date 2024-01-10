@@ -1,2 +1,0 @@
-[[Sign Template]]
-[[Sign Request]]

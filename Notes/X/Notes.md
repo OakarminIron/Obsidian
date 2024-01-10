@@ -5,4 +5,4 @@
 [[EC2Root]]
 [[Firefox Dev]]
 [[Dimensions]]
-[[X]]
+[[rename.py]]

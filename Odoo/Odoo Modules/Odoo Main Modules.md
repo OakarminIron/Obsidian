@@ -1,7 +1,6 @@
 [[🟣Inventory📦]]
 [[🟣Sales]]
 [[🟣Purchase]]
-[[🟣CRM]]
 [[🟣Web]]
 [[🟣Accounting]]
 [[🟣MRP]]

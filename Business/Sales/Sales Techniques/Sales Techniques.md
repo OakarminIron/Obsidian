@@ -5,6 +5,7 @@
 -   Compass Selling
 -   Conceptual selling
 -   Consultative selling
+-   [Upselling](https://en.wikipedia.org/wiki/Upselling "Upselling")
 -   [Cross-selling](https://en.wikipedia.org/wiki/Cross-selling "Cross-selling")
 -   Guaranteed sale
 -   Hard selling
@@ -28,8 +29,7 @@
 -   [Take-out](https://en.wikipedia.org/wiki/Take-out "Take-out") or take away
 -   Target account selling
 -   Transactional selling
--   [Upselling](https://en.wikipedia.org/wiki/Upselling "Upselling")
--   Traveling salesman
+-   Travelling salesman
     -   [Door-to-door](https://en.wikipedia.org/wiki/Door-to-door "Door-to-door") methods
     -   [Hawking](https://en.wikipedia.org/wiki/Hawker_(trade) "Hawker (trade)")
     -   E Selling (Selling on E Commerce portals)

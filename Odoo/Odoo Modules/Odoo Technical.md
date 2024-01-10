@@ -1,3 +1,4 @@
 [[🟣Authentication]]
-[[Odoo Mail]]
-[[Odoo Hooks]]
+[[🟣Studio]]
+[[🟣Mail]]
+[[🟣Hooks]]
