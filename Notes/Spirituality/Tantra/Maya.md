@@ -1,0 +1,1 @@
+Maya suggest that the physical world we navigate is an illusion, a veil covering the true unchanging spiritual reality.

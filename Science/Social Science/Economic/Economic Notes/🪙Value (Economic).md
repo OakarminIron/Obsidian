@@ -7,7 +7,5 @@ Among the competing schools of economic theory there are differing theories of v
 [[🪙Service Value]]
 [[🪙Product Value]]
 
-
-
 [[🪙Value Chain⛓️]]
 [[🪙Value Driven Design]]

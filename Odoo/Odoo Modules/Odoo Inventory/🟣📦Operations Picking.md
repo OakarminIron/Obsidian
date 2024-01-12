@@ -2,5 +2,6 @@
 [[🟣📦Delivery Orders]]
 [[🟣📦POS Orders]]
 [[🟣📦Scraping]]
+[[🟣📦Internal Transfer]]
 [[🟣📦Adjustment]]
 [[🟣📦Miscellaneous Operations]]

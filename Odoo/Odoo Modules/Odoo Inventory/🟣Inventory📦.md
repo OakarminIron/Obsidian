@@ -1,8 +1,6 @@
-[[🟣Product]]
-
-
-[[🟣📦Product Packaging]]
 [[🟣Lead Time]]
+[[🟣Product]]
+[[🟣📦Product Packaging]]
 
 [[🟣📦Logistic]]
 [[🟣📦Warehouse Management]]
@@ -10,5 +8,8 @@
 [[🟣Replenishment Strategies]]
 
 
-[[🟣Inventory Removal Strategies]]
+[[🟣📦Removal Strategies]]
 [[🟣📦Costing]]
+
+
+[[stock.move and line]]

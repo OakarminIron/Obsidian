@@ -1,5 +1,6 @@
 [[Feelings]]
 
+![[7 Chakra.png]]
 ![[Sahasrara.png]][[Sahasrara]]  Avatar, Unlock by let go ego , become god
 
  ![[Ajna.png]][[Ajna]]  Time , -illusion -,  +insight 

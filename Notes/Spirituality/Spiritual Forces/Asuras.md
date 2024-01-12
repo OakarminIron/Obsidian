@@ -1,0 +1,1 @@
+`Asura` means those without light, those without spiritual knowledge or spiritual inclination. [[Dark]]
