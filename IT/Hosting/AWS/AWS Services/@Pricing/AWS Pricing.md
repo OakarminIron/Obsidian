@@ -2,5 +2,5 @@
 
 [[Pricing For Instances]]
 
-[[AWS Pricing Tools]]
+[[🟡Pricing Tools]]
 

@@ -1,0 +1,5 @@
+[[🟡S3]]
+[[🟡EFx Linux]]
+[[🟡FSx Window]]
+[[🟡EBS]]
+[[🟡EFS]]

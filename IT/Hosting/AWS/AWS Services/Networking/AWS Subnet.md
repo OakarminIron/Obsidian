@@ -12,4 +12,4 @@ IP setting
 - Auto assign
 - Resource-based name(RBN) settings
 
-For security view [[AWS ACL]]
+For security view [[🟡ACL]]

@@ -1,4 +1,0 @@
-
-[[EB Pattern]]
-[[EB Rule]]
-

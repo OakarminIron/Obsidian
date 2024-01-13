@@ -1,0 +1,6 @@
+[[🟡Cart]]
+[[🟡ECS]]
+[[🟡SNS]]
+[[🟡EventBridge]]
+[[🟡PHD]]
+[[🟡Amplify]]

@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "b82fd6220a7879c1",
+        "id": "2b1c39dab9ac608c",
         "type": "tabs",
         "children": [
           {
-            "id": "6cf9f244a14746e6",
+            "id": "f5622c8c043d1082",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Support Plan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -151,34 +152,34 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "6cf9f244a14746e6",
+  "active": "f5622c8c043d1082",
   "lastOpenFiles": [
-    "Notes/Spirituality/Spiritual Forces/Deva and Devils.md",
-    "Notes/Spirituality/Spiritual Forces/Demons.md",
-    "Notes/Spirituality/Spiritual Forces/Asuras.md",
-    "Notes/Spirituality/Religions/🕉️Hinduism.md",
-    "Notes/Spirituality/Spiritual Forces/Deva.md",
-    "Notes/Spirituality/Spiritual Forces/👼Angels and Demons👹.md",
-    "Notes/Spirituality/Spiritual Forces/Deity.md",
-    "Notes/Spirituality/Spiritual Forces/Devils.md",
-    "Notes/Spirituality/Spiritual Forces/Lucifer.md",
-    "Notes/Spirituality/Spiritual Forces/Lucid.md",
-    "Science/Cognitive Science/Cognitive Psychology/Thinking/🤔Dualism🌗.md",
-    "Notes/Spirituality/Religions/Eastern Religions.md",
-    "Notes/Spirituality/Religions/Religion.md",
-    "Notes/Spirituality/Religions/Ancient Religions.md",
-    "Notes/Spirituality/Religions/🪽Zoroastrianism.md",
-    "Odoo/Odoo Modules/Odoo Sales/🟣Sales Team.md",
-    "Odoo/Odoo Modules/Odoo Sales/🟣Sales.md",
-    "Odoo/Odoo Modules/Odoo Sales/🟣Sales Order.md",
-    "Odoo/Odoo Modules/Odoo Sales/🟣POS🏪/🟣POS🏪.md",
-    "Odoo/Odoo Modules/Odoo Sales/🟣POS🏪/🟣🏪Shop.md",
-    "Odoo/Odoo Modules/Odoo Sales/🟣POS🏪/🟣🏪Order.md",
-    "Odoo/Odoo Modules/Odoo Sales/🟣POS🏪/🟣🏪Session.md",
-    "Notes/Spirituality/Tantra/Tantra.md",
-    "Notes/Spirituality/Tantra/Maya.md",
-    "Notes/Spirituality/Chakara/Ajna.md",
-    "Notes/Spirituality/Chakara/7 Chakra.md",
+    "IT/Hosting/AWS/AWS Services/@Pricing/🟡Support Plan.md",
+    "IT/Hosting/AWS/AWS Services/@Pricing/🟡SP Enterprise on-ramp.md",
+    "IT/Hosting/AWS/AWS Services/@Pricing/Technical Account Manager.md",
+    "IT/Hosting/AWS/AWS Services/Recovery/🟡Recovery.md",
+    "IT/Hosting/AWS/AWS Services/Recovery/🟡DR Solutions.md",
+    "IT/Hosting/AWS/AWS Services/Recovery/🟡DR KPI.md",
+    "IT/Hosting/AWS/AWS Services/Recovery/🟡DR Types.md",
+    "IT/Hosting/AWS/AWS Services/Recovery/🟡DR.md",
+    "IT/Hosting/AWS/AWS Services/AWS Services.md",
+    "IT/Hosting/AWS/AWS Services/Identity/🟡ORG Core Benefit.md",
+    "IT/Hosting/AWS/AWS Services/Identity/Service Control Policy.md",
+    "IT/Hosting/AWS/AWS Services/Storage/🟡S3.md",
+    "IT/Hosting/AWS/AWS Services/Storage/S3 Sync.md",
+    "🟡S3 Sync.md",
+    "IT/Hosting/AWS/AWS Services/@Pricing/🟡Trust Advisor.md",
+    "IT/Hosting/AWS/AWS Services/@Pricing/Free 7 Core Check.md",
+    "IT/Hosting/AWS/AWS Services/@Pricing/🟡Trust Adviser Benefits.md",
+    "IT/Hosting/AWS/AWS Services/@Pricing/Trust Advisor Premium.md",
+    "IT/Hosting/AWS/AWS Services/@Pricing/🟡Budget.md",
+    "🟡Budget Type.md",
+    "IT/Hosting/AWS/AWS Services/@Pricing/🟡Budget Type.md",
+    "IT/Hosting/AWS/AWS Services/@Pricing/🟡Pricing Tools.md",
+    "IT/Hosting/AWS/AWS Services/@Pricing/🟡Billing and Costing Tool.md",
+    "🟡Bill Monitoring.md",
+    "IT/Hosting/AWS/AWS Services/@Pricing/🟡Cost Estimate Tools.md",
+    "IT/Hosting/AWS/AWS Services/@Pricing/🟡Compute Optimiser.md",
     "Notes/Spirituality/Chakara/7 Chakra.png",
     "Odoo/Odoo Modules/Odoo Sales/🟣POS🏪/🟣🏪Bill Splitting.png",
     "Odoo/Odoo Modules/Odoo Sales/🟣POS🏪",

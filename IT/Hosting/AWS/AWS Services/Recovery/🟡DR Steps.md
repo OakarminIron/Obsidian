@@ -1,0 +1,2 @@
+[[FailOver]] is the process of automatically or manually switching from a primary system or component to a backup or secondary system when the primary one encounters a failure or becomes unavailable.
+[[FailBack]]  on the other hand, is the process of reverting to the original or primary system after a failover event. It's essentially the return to normal operations once the primary system has been restored or stabilised.

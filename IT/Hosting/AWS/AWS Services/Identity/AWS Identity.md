@@ -1,6 +1,6 @@
-[[AWS Control Tower]]
-[[AWS IAM]]
-[[AWS KMS]]
-[[AWS Landing Zone]]
-[[AWS Organization]]
-[[AWS Service Catalog]]
+[[🟡Control Tower]]
+[[🟡IAM]]
+[[🟡KMS]] Key management service... It's not free
+[[🟡Landing Zone]]
+[[🟡Org]]
+[[🟡Service Catalog]]

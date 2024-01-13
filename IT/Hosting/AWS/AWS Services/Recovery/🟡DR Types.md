@@ -1,0 +1,3 @@
+[[🟡On Premise]]
+[[🟡Hybrid]]
+[[🟡Regions]]

@@ -11,4 +11,4 @@ Can be later converted into sales opportunities.
 
 [[🟣Predictive Lead Scoring]]  -> [[Rule-Based Assignment]]
 [[Recurring Revenues]] ခနခန Subscription
-
+[[🟣Quotation]]

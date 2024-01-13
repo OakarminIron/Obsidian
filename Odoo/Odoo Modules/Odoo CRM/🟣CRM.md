@@ -17,7 +17,7 @@ Based on the customer's responses, these leads can be later converted into oppor
 [[🟣Activity]]
 [[🟣Calendar]]
 [[🟣Appointment]]
-[[🟣Quotation]]
+
 [[🟣👤Levels]]
 
 

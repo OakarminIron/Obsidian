@@ -1,6 +1,0 @@
-[[AWS Cart]]
-[[AWS ECS]]
-[[AWS SNS]]
-[[AWS EventBridge]]
-[[AWS PHD]]
-[[AWS Amplify]]

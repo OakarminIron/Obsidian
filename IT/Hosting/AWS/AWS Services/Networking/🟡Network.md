@@ -1,0 +1,5 @@
+[[🟡Global Infra]]
+[[🟡Route53]]
+[[🟡VPC]]
+[[🟡VPN]]
+[[🟡Cloud Front]]

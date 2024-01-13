@@ -1,2 +1,2 @@
-[[AWS EventBridge]]
-[[AWS SNS]]
+[[🟡EventBridge]]
+[[🟡SNS]]
