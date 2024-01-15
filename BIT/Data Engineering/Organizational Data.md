@@ -1,4 +1,4 @@
-[[Organization]] [[Data]] is crucial for the functioning and success of an organization.
+[[Organisation]] [[Data]] is crucial for the functioning and success of an organization.
 It serves as the foundation for 
 	- decision-making
 	- strategic planning

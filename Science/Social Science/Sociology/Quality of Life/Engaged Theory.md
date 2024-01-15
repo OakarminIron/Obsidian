@@ -1,4 +1,4 @@
--   Beliefs and ideas
+-   [[Beliefs]] and ideas
 -   Creativity and recreation
 -   Inquiry and learning
 -   Gender and generations

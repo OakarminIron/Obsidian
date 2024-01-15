@@ -46,7 +46,13 @@ sudo apt install ./wkhtmltox_0.12.6.1-2.jammy_amd64.deb -y
 mkdir /home/odoo/Documents/Github
 sudo mkdir /var/log/odoo
 sudo chown odoo:root /var/log/odoo
-sudo apt install python3-pip
+touch /var/log/odoo/odoo17c.log
+chown odoo /var/log/odoo/odoo17e.log 
+```
+
+
+```in_odoo_config
+ logfile = /var/log/odoo/odoo17c.log
 ```
 
 ```postgresql

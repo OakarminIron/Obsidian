@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "2b1c39dab9ac608c",
+        "id": "1168906b99430fc8",
         "type": "tabs",
         "children": [
           {
-            "id": "f5622c8c043d1082",
+            "id": "476a2561fe1d0453",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Support Plan",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,37 +148,39 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "janitor:Janitor: scan vault": false
+      "janitor:Janitor: scan vault": false,
+      "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "f5622c8c043d1082",
+  "active": "476a2561fe1d0453",
   "lastOpenFiles": [
-    "IT/Hosting/AWS/AWS Services/@Pricing/🟡Support Plan.md",
-    "IT/Hosting/AWS/AWS Services/@Pricing/🟡SP Enterprise on-ramp.md",
-    "IT/Hosting/AWS/AWS Services/@Pricing/Technical Account Manager.md",
-    "IT/Hosting/AWS/AWS Services/Recovery/🟡Recovery.md",
-    "IT/Hosting/AWS/AWS Services/Recovery/🟡DR Solutions.md",
-    "IT/Hosting/AWS/AWS Services/Recovery/🟡DR KPI.md",
-    "IT/Hosting/AWS/AWS Services/Recovery/🟡DR Types.md",
-    "IT/Hosting/AWS/AWS Services/Recovery/🟡DR.md",
-    "IT/Hosting/AWS/AWS Services/AWS Services.md",
-    "IT/Hosting/AWS/AWS Services/Identity/🟡ORG Core Benefit.md",
-    "IT/Hosting/AWS/AWS Services/Identity/Service Control Policy.md",
-    "IT/Hosting/AWS/AWS Services/Storage/🟡S3.md",
-    "IT/Hosting/AWS/AWS Services/Storage/S3 Sync.md",
-    "🟡S3 Sync.md",
-    "IT/Hosting/AWS/AWS Services/@Pricing/🟡Trust Advisor.md",
-    "IT/Hosting/AWS/AWS Services/@Pricing/Free 7 Core Check.md",
-    "IT/Hosting/AWS/AWS Services/@Pricing/🟡Trust Adviser Benefits.md",
-    "IT/Hosting/AWS/AWS Services/@Pricing/Trust Advisor Premium.md",
-    "IT/Hosting/AWS/AWS Services/@Pricing/🟡Budget.md",
-    "🟡Budget Type.md",
-    "IT/Hosting/AWS/AWS Services/@Pricing/🟡Budget Type.md",
-    "IT/Hosting/AWS/AWS Services/@Pricing/🟡Pricing Tools.md",
-    "IT/Hosting/AWS/AWS Services/@Pricing/🟡Billing and Costing Tool.md",
-    "🟡Bill Monitoring.md",
-    "IT/Hosting/AWS/AWS Services/@Pricing/🟡Cost Estimate Tools.md",
-    "IT/Hosting/AWS/AWS Services/@Pricing/🟡Compute Optimiser.md",
+    "Business/HR/HR.md",
+    "HR Activities.md",
+    "Business/HR/HR KPI.md",
+    "Business/Administration/Operation Management/Performance Measurement/KPI/KPI.md",
+    "Business/Accounting/Financial Accounting/Financial Accounting.md",
+    "Business/Accounting/Financial Accounting/Statements/Financial Statements.md",
+    "Business/Accounting/Financial Accounting/Fundamental Analysis/Fundamental Analysis.md",
+    "Business/Accounting/Financial Accounting/Valuation metrics/Valuation Metrics.md",
+    "Business/Accounting/Financial Accounting/Financial Metric Ratios/Financial Metric Ratios.md",
+    "BIT/Operational intelligence/Business Activity Monitoring.md",
+    "Science/Formal Science/Math/Game Theory/Game Types/🎲Metric.md",
+    "Business/Administration/Organization/Organizational Culture/Organisational Culture.md",
+    "Business/Administration/Organization/Organizational Culture/OC Strong and Weak.md",
+    "Business/Administration/Organization/Organizational Culture/OC Models.md",
+    "IT/ITSM/ITIL4/4 Dimensions/Organisational People.md",
+    "Business/Administration/Organization/Organizational Structure/Organisational Structure🔼.md",
+    "Business/Administration/Organization/Organizational Structure/Well-Defined Organisational Structure.md",
+    "Business/Administration/Organization/Organisation.md",
+    "Business/Change Management/Org Change/Organisational Change.md",
+    "Business/Administration/Organization/Organisation Types.md",
+    "IT/ITSM/ITIL4/4 Dimensions/4 Dimensions.md",
+    "Organisational Objectives.md",
+    "Organisational skills and Competencies.md",
+    "IT/ITSM/ITIL4/ITIL4.md",
+    "Business/Product and Project Management/Product Management/Product Manager.md",
+    "Business/Product and Project Management/Product Management/Product Management.md",
+    "Business/Accounting/Tax",
     "Notes/Spirituality/Chakara/7 Chakra.png",
     "Odoo/Odoo Modules/Odoo Sales/🟣POS🏪/🟣🏪Bill Splitting.png",
     "Odoo/Odoo Modules/Odoo Sales/🟣POS🏪",

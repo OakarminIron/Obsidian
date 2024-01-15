@@ -1,8 +1,8 @@
-Business process re-engineering (BPR) is a comprehensive approach to redesigning and optimizing organizational processes to improve efficiency, effectiveness, and adaptability.
+Business process re-engineering (`BPR`) is a comprehensive approach to redesigning and optimising organisational processes to improve efficiency, effectiveness, and adaptability.
 Re-engineering work , don't automate , obliterate (completely rewrite)
 
 
-Factors to be successful BPR
+Factors to be successful `BPR`
 - [[Team Composition]]
 - [[Business Needs Analysis]]. Or a Needs a branch of [[System Analysing]] (Business ဘက်ကလူဆိုပိုကောင်းတယ်ထင်တယ်)
 - Good [[IT]] infrastructure
@@ -10,4 +10,4 @@ Factors to be successful BPR
 - Ongoing continuous improvements
 - Business Environment Analysis
 
-BPR ကိုအပျော့သွားချင်တယ်ဆို [[Socio-Technical design]] နဲ့သွားလို့ရမယ်
+`BPR` ကိုအပျော့သွားချင်တယ်ဆို [[Socio-Technical design]] နဲ့သွားလို့ရမယ်

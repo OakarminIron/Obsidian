@@ -1,6 +1,6 @@
 - **Price-Earnings (P/E) Ratio:** A [[PE ratio]] is used to gauge market expectation and sentiment of future performance by relating a stock’s current share price to its earnings per share.
 - **Price-Earnings-to-Growth (PEG) Ratio:** A [[PEG ratio]] is a valuation metric that is used to evaluate a company’s price-earnings ratio relative to its overall growth rate in earnings.
-- **[[Price-to-Book Ratio]]:** Measures and compares a firm’s market capitalization to its book value.
+- **[[Price-to-Book Ratio]]:** Measures and compares a firm’s market capitalisation to its book value.
 - **[[Price-to-Sales Ratio]]:** Compares a company’s stock price to its total overall revenue. The price-to-sales ratio is an indicator of the value that is placed on each dollar of a company’s annual revenue.
 - **[[Price-to-Cash-Flow Ratio]]** Used to measure the value of a stock’s current price relative to its operating cash flow (`OCF`) per share. Specifically used for companies that report a positive cash flow but are not considered profitable.
 - **[[Price-to-Free-Cash-Flow Ratio]]** Is more precise than the price-to-cash-flow ratio and is used to compare a company’s market price per share to its amount of free cash flow per share.

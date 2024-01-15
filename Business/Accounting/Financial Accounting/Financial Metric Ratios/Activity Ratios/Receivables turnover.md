@@ -1,8 +1,0 @@
-- A measure of how quickly and efficiently a company collects on its outstanding bills. 
-- `net revenue / average receivables`
-- It indicates how many times per period the company collects and turns into cash its customers’ accounts receivable. 
-- A high turnover compared to that of peers means 
-	- that cash is collected more quickly for use in the company, 
-	- but it’s important to analyze the turnover ratio in relation to the firm’s competitors.
-	- a company’s credit policy is too stringent, causing the firm to miss out on sales opportunities.
-- Alternatively, a low or declining turnover can signal that customers are struggling to pay their bills.

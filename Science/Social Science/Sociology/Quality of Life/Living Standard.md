@@ -1,3 +1,3 @@
-[[Income]]
+[[Personal Income]]
 [[Comforts]]
 [[Service Availability]]

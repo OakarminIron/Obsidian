@@ -12,3 +12,4 @@
 [[web.assets_frontend]]
 [[Bootstrap]]
 
+[[🟣Dashboard Views]]

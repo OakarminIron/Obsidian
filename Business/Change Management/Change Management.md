@@ -1,5 +1,5 @@
 
 
-[[Organizational Change]]
+[[Organisational Change]]
 [[Individual Change]]
 [[Team Change]]

@@ -1,7 +1,7 @@
 [
-  "dataview",
   "obsidian-better-internal-link-inserter",
   "obsidian-excel-to-markdown-table",
   "obsidian-living-graph",
-  "janitor"
+  "janitor",
+  "obisidian-note-linker"
 ]

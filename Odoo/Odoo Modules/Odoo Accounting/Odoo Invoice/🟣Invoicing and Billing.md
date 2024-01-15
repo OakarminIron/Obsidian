@@ -6,3 +6,4 @@
 [[🟣EPC QR code]]
 [[🟣Payment Terms]]
 [[Credit Note Debit Note]]
+[[🟣Predictive Vendor Bill]]

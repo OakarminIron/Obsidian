@@ -1,4 +1,4 @@
-`Secundum quid` is a Latin phrase that translates to "according to what" or "in respect to what." It is a term used in logic and philosophy, particularly in the context of Aristotle's philosophy, to indicate a partial or qualified truth.
+`Secundum quid` is a Latin phrase that translates to "according to what" or "in respect to what." It is a term used in logic and philosophy, particularly in the context of [[Aristotle]]'s philosophy, to indicate a partial or qualified truth.
 
 In Aristotelian logic, `secundum quid` refers to a fallacy that occurs when a general rule or principle is incorrectly applied to a particular case without considering its specific circumstances or exceptions. It involves making an over-generalization or drawing a hasty conclusion based on incomplete or limited information.
 

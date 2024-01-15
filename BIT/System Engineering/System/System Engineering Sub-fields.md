@@ -2,7 +2,7 @@
 [[Human Computer Interaction]]
 
 --------------------------
-[[Organization]]al Studies
+[[Organisation]]al Studies
 [[Project Management]]
 [[Process System Engineering]]
 [[Other SE Sub-fields]]

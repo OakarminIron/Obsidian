@@ -1,1 +1,1 @@
-Physical Quality of Life
+Physical [[Quality of Life]]

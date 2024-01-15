@@ -1,0 +1,4 @@
+An individual income tax (or personal income tax) is levied on the wages, salaries, investments, or other forms of income an individual or household earns.
+Many individual income taxes are [[Progressive Tax]] meaning tax rates increase as a taxpayer’s income increases, resulting in higher-earners paying a larger share of income taxes than lower-earners.
+
+[[Payroll taxes]] are taxes paid on the wages and salaries of employees to finance social insurance programs. Most taxpayers will be familiar with payroll taxes from looking at their pay stub at the end of each pay period, where the amount of payroll tax withheld by their employer from their income is clearly listed.

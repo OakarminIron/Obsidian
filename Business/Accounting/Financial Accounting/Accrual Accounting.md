@@ -1,1 +1,0 @@
-Cash accounting records payments and receipts when they are received. Accrual records payments and receipts when services or good are provided or debt is incurred.

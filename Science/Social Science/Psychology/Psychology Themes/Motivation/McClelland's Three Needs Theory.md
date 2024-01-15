@@ -2,7 +2,7 @@
     -   Typical behaviors:
         -   High: Must win at any cost, must be on top, and receive credit.
         -   Low: Fears failure, avoids responsibility.
--   _Need for Power ([[nPOW]])_: Influence, Competitive
+-   _Need for [[Power]] ([[nPOW]])_: Influence, Competitive
     -   Typical behaviors:
         -   High: Demands blind loyalty and harmony, does not tolerate disagreement.
         -   Low: Remains aloof, maintains social distance.
