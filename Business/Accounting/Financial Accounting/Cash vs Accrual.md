@@ -5,3 +5,6 @@ Cash accounting is an accounting method where payment receipts are recorded duri
 
 [[Accrual]] records payments and receipts when services or good are provided or debt is incurred. စာရင်းထဲတန်းတန်းထည့် စာရင်းနဲ့သွားတဲ့ပုံစံ when payment is received or made.
 - Accrual accounting uses the double-entry accounting method.
+
+
+So Cash Basis and Accrual Basis accounting are the two different methods for recording tax information on accounting transactions. The recording of the transaction (revenue and expense) time is the notable difference between these two methods. Let us have a look at these two methods.

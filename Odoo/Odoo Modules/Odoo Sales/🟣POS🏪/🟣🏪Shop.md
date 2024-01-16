@@ -5,4 +5,4 @@
 [[🟣🏪Bill Splitting]] 
 [[🟣🏪Ship Later]]
 [[🟣Sales Team]]
-[[account.journal]]
+[[🟣Journals]]

@@ -1,7 +1,0 @@
-[[🟣COA]]
-[[🟣Invoicing and Billing]]
-[[🟣Asset- Management]]
-[[🟣Analytic]]
-[[🟣Multi Currency]]
-[[🟣Budget]]
-[[🟣Fiscal Position]]

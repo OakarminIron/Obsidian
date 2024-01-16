@@ -2,5 +2,5 @@
 [[🟣Sales]]
 [[🟣Purchase]]
 [[🟣Web]]
-[[🟣Accounting]]
+[[🟣Accounting🧾]]
 [[🟣MRP]]

@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "",
+  "search": "path:\"Odoo\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -53,6 +53,6 @@
   "repelStrength": 18.5,
   "linkStrength": 0.92,
   "linkDistance": 47,
-  "scale": 0.059326171875,
+  "scale": 0.0263671875,
   "close": true
 }

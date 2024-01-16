@@ -5,4 +5,4 @@
 -   [[Rites of conflict reduction]]: resolve arguments between certain members or groups
 -   [[Rites of integration]]: reawaken feelings of membership in the organization
 
-Related HR 
+Related [[HR]] 

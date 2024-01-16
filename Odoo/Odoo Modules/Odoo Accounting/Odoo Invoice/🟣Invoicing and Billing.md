@@ -1,5 +1,3 @@
-[[🟣Purchase]] Bill
-[[🟣Sales]] Invoice
 [[🟣Invoice Bill Policy]]
 
 [[🟣Invoicing Ways]]

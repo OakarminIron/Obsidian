@@ -3,5 +3,6 @@
 [[🟣POS🏪]]
 [[🟣e-Commerce]]
 [[🟣Loyalty]]
-
 [[🟣Sales Team]]
+
+[[🟣Invoicing and Billing]]

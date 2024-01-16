@@ -4,4 +4,4 @@ The general ledger is where all transactions are posted and recorded over time, 
 It provides a summarized view of account balances and activities.
 
 
-It's the whole [[🟣Accounting]] module in Odoo.
+It's the whole [[🟣Accounting🧾]] module in Odoo.

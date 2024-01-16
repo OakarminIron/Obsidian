@@ -1,1 +1,0 @@
-[[account.bank.statement]]

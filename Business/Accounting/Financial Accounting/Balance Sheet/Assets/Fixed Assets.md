@@ -2,4 +2,4 @@
 [[Prepaid Expenses]]
 
 
-[[Amortization vs Depreciation]]
+[[Amortisation vs Depreciation]]

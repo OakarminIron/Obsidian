@@ -19,7 +19,7 @@
 20. [[Burden of Proof]] There is God, if you don't believe, prove me wrong
 21. [[Texas Sharpshooter]]. Like drawing bulls eyes around bullet holes
 
--Topics by Aristotle
+-Topics by [[Aristotle]]
 -Logically Fallacious: The Ultimate Collection of Over 300 Logical Fallacies (Academic Edition) by `Bo Bennett`
 -Examples of `Yourdictionary`
 -Images from World of weird things web page

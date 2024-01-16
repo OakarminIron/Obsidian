@@ -50,7 +50,6 @@ touch /var/log/odoo/odoo17c.log
 chown odoo /var/log/odoo/odoo17e.log 
 ```
 
-
 ```in_odoo_config
  logfile = /var/log/odoo/odoo17c.log
 ```
@@ -61,6 +60,7 @@ createdb -p 5434 -U odoo mydb
 pg_restore -p 5434 -d mydb mydb.dump
 ```
 
+Option A (Run with Source Code)
 ```github
 mkdir /home/odoo/Documents/Github/odoo
 cd /home/odoo/Documents/Github/odoo/
@@ -69,15 +69,16 @@ cd /home/odoo/Documents/Github/odoo/odoo
 pip3 install -r requirements.txt
 ```
 
+Option B Install with installer
 ```direct
 wget -q -O - https://nightly.odoo.com/odoo.key | sudo gpg --dearmor -o /usr/share/keyrings/odoo-archive-keyring.gpg
 
- echo 'deb [signed-by=/usr/share/keyrings/odoo-archive-keyring.gpg] https://nightly.odoo.com/16.0/nightly/deb/ ./' | sudo tee /etc/apt/sources.list.d/odoo.list
+echo 'deb [signed-by=/usr/share/keyrings/odoo-archive-keyring.gpg] https://nightly.odoo.com/16.0/nightly/deb/ ./' | sudo tee /etc/apt/sources.list.d/odoo.list
  
 sudo apt-get update && sudo apt-get install odoo
 ```
 
-[[Odoo Service]]
+If you done with option A make sure to add [[Odoo Service]]. Before that make a [[odoo.config]]
 
 ```odoo
 sudo service odoo stop

@@ -1,1 +1,1 @@
-Fractals are complex mathematical patterns that exhibit self-similarity at different scales. လှပနေတဲ့ Pattern တွေ / အချိုးကျတာတို့ / Balance ဖြစ်တာတို့ နဲ့ဆိုင်မယ်
+Fractals are complex mathematical patterns that exhibit self-similarity at different scales. လှပနေတဲ့ Pattern တွေ / အချိုးကျတာတို့ / [[Balance]] ဖြစ်တာတို့ နဲ့ဆိုင်မယ်
