@@ -9,3 +9,4 @@ Here in the Odoo platform, you have five types of journals for the purpose of li
 	- exchange difference
 	- opening balance
 	- and many others
+[[🟣💳Provider]]

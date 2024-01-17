@@ -1,0 +1,6 @@
+- [[🟣💳Payment]] ID `M21` Both side
+- [[🟣Journal Entries]] IDs `M21`
+- Transactions
+- Authorised Transactions
+- Amount Paid
+- [[🟣💳Provider]]
