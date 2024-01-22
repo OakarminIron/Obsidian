@@ -3,5 +3,5 @@ Data science combines
 - [[Statistic]]
 - Specialised [[☧Programming]]
 - Advanced [[Analytical Research]]
-- [[AI]]
+- [[Artificial Intelligence (AI🤖)]]
 - Machine Learning with specific subject matter expertise to uncover actionable insights hidden in an [[Organizational Data]]

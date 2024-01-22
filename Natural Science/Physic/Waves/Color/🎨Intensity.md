@@ -1,1 +1,0 @@
-Saturation refers to the purity or vividness of a color. A highly saturated color is vibrant and pure, while a desaturated color appears more muted or grayish. Intensity is closely related to saturation and represents the strength or brightness of a color.

@@ -1,4 +1,4 @@
 [[☧Programming]]
 [[Data-Structure and Algorithm]]
-[[AI]]
+[[Artificial Intelligence (AI🤖)]]
 [[👨‍💻🅾️CS Object]]

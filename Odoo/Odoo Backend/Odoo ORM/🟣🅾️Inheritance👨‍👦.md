@@ -46,3 +46,6 @@ class ProductProduct(models.Model):
 product_tmpl_id = fields.Many2one('product.template', 'Product Template', required=True, ondelete="cascade")
 ```
 
+
+
+for OWL Inheritance go to [[🦉Inheritance]]

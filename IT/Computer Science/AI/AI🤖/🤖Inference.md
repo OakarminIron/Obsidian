@@ -1,0 +1,1 @@
+After training, the model can make predictions or decisions on new, unseen data. This process is called inference.

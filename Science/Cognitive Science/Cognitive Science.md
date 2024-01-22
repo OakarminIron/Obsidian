@@ -5,7 +5,7 @@
 [[Philosophy]]
 [[Cognitive Psychology]]
 [[Linguistics]]
-[[AI]]
+[[Artificial Intelligence (AI🤖)]]
 [[Neuroscience]]
 [[Anthropology]]
 [[Design💠]]

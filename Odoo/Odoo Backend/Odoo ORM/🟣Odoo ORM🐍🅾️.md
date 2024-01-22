@@ -1,7 +1,7 @@
 [[🟣🅾️Models]]
 [[🟣🅾️Fields]]
 [[🟣🅾️Records-set]]
-[[🟣Methods]]
+[[🟣🅾️Methods]]
 [[🟣Method Decorators]]
 [[🟣🅾️Environment]]
 

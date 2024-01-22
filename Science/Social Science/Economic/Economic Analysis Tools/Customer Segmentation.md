@@ -1,1 +1,3 @@
-Customer segmentation involves dividing a market into distinct groups based on shared characteristics or behaviors. This analysis helps businesses understand their target customers' preferences, [[Needs]], and purchasing patterns, enabling them to tailor their offerings and marketing strategies accordingly.
+Customer segmentation involves dividing a market into distinct groups based on shared characteristics or behaviours. This analysis helps businesses understand their target customers' preferences, [[Needs]], and purchasing patterns, enabling them to tailor their offerings and marketing strategies accordingly.
+
+[[RFM Analysis]]

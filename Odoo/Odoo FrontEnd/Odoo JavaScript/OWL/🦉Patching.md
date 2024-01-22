@@ -1,14 +1,12 @@
-In Odoo 16, the OWL framework is used to create web interfaces for different Odoo modules. Sometimes, you may need to modify the behavior of an existing OWL component without having to override it completely. To achieve this, you can use the "patch" method provided by the OWL framework. In this blog, we will learn how to patch an existing OWL component in Odoo 16.
+In OWL, patching can be achieved using the "patch" method provided by the framework. 
 
-What is Patching?
-Patching is a way to modify the behavior of an existing method without overriding it completely. In OWL, patching can be achieved using the "patch" method provided by the framework. The patch method takes three arguments:
-
+The patch method takes three arguments:
 * The object or class to be patched
 * The name of the method to be patched
 * An object containing the new method or properties to be added
 
 `patch(obj, patchName, patchValue, options)`
-Using this method, we can modify the existing behavior of the method or add new properties to the object or class.
+
 
 **Patching a List View Component**
 Let's say we want to add a button to the `ListView` in Odoo and set an alert when clicking on it. 
@@ -32,7 +30,10 @@ patch(ListRenderer.prototype, "my_list_view_patch", {
  },
 });
 ```
-The code defines a patch for the `ListRenderer` class in the Odoo web framework. The patch adds a new method named "`_onClick`" to the `ListRenderer` class, which shows a window alert with the message "`helooooo`" when called. The patch is applied to the `ListRenderer` class using the "patch" function from the "@web/core/utils/patch" module. The "setup" method of the `ListRenderer` class is also overridden in this patch, and the console logs the message "List view started!" when it is called.
+- The code defines a patch for the `ListRenderer` class in the Odoo web framework. 
+- The patch adds a new method named "`_onClick`" to the `ListRenderer` class, which shows a window alert with the message "`helooooo`" when called.
+- The patch is applied to the `ListRenderer` class using the "patch" function from the "@web/core/utils/patch" module. 
+- The "setup" method of the `ListRenderer` class is also overridden in this patch, and the console logs the message "List view started!" when it is called.
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -49,3 +50,4 @@ The code defines a patch for the `ListRenderer` class in the Odoo web framework.
 ```
 
 
+[[🦉Inheritance]]
