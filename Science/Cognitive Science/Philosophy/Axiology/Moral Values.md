@@ -1,6 +1,6 @@
-Moral values are principles or beliefs about what is right or wrong, good or bad, and they guide an individual's behavior and decision-making based on their sense of morality. 
+Moral values are principles or beliefs about what is right or wrong, good or bad, and they guide an individual's behaviour and decision-making based on their sense of morality. 
 These values are deeply ingrained and are often shaped by a person's upbringing, culture, religion, and personal experiences. 
-Moral values help individuals distinguish between actions or behaviors that they consider ethical and those they deem unethical. 
+Moral values help individuals distinguish between actions or behaviours that they consider ethical and those they deem unethical. 
 
 Some common moral values include:
 

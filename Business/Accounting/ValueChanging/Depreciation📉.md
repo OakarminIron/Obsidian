@@ -6,4 +6,4 @@ This allocation is typically done in a systematic and consistent manner, usually
 	b. It helps match the cost of the asset with the revenue it generates during its useful life, contributing to more accurate income determination.
 	c. It aids in complying with accounting principles and tax regulations, which often require depreciation for financial reporting and tax purposes.
 
-[[Depreciation Methods]]
+[[📉Depreciation Methods]]

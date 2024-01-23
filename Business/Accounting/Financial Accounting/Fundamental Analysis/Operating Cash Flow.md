@@ -1,5 +1,5 @@
 Using the indirect method, net income is adjusted to a cash basis using changes in non-cash accounts. 
-Because most companies report the net income on an accrual basis, it includes various non-cash items, such as [[Depreciation]] and [[Amortisation]].
+Because most companies report the net income on an accrual basis, it includes various non-cash items, such as [[Depreciation📉]] and [[Amortisation]].
 
 ```
 OCF = NI + D&A - NWC

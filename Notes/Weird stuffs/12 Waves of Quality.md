@@ -2,7 +2,7 @@ Can be in
 - [[Shape]]
 - [[Symbols]] or [[Signs]]
 - [[Spell]]
-- [[Sound]]
+- [[🌊Sound]]
 - [[Color🎨]]
 - [[Movement]]
 - [[Feelings]]

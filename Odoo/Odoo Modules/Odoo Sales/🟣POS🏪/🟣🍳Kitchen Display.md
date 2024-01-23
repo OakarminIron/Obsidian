@@ -1,4 +1,4 @@
-POS -> Orders -> Preparation Display
+`POS` -> Orders -> Preparation Display
 	- Stages
 		- Colour
 		- Alert timer

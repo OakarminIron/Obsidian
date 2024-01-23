@@ -1,0 +1,4 @@
+Have some unique properties that set them apart from other types of mechanical waves such as sound waves.
+Electromagnetic waves do not require a medium to travel through and can travel through a vacuum, such as through space. 
+They are created by the oscillation of electric and magnetic fields and can have a wide range of frequencies, from radio waves to gamma rays. 
+[[Light]], specifically, falls in the visible spectrum of the electromagnetic waves and is the type of wave that we perceive as light and that our eyes can detect.

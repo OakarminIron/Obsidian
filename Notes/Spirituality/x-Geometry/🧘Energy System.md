@@ -1,5 +1,5 @@
 Life Force passing through the human body.
-They it decay and turn to [[Electromagnetic waves]] as decayed.
+They it decay and turn to [[🌊Electromagnetic Waves]] as decayed.
 
 In `esotericism` we have to recognise that the human body has an [[🧘Energy Field Aura]] around it, which has its own north-south axis. As we move around, the angle formed between our individual axis and that of the earth is constantly changing, and this in turn either strengthens or weakens our energy field. The positive range is very small, vulnerable most of the time, and is a major factor affecting our health and well being. 
 

@@ -1,0 +1,4 @@
+Units of Production Depreciation
+- Method: This method calculates depreciation based on the actual usage or production of the asset. The more an asset is used, the more it depreciates.
+- Formula: Depreciation Expense = (Cost of Asset - Accumulated Depreciation) / Total Estimated Units of Production x Actual Units Produced
+- Usage: It is suitable for assets whose wear and tear is primarily determined by usage or production levels, such as manufacturing equipment.

@@ -1,4 +1,4 @@
 [[Sacred Geometry]]
 [[Bio-Geometry🧘]]
 [[Feng shui]]
-[[x-Waves]]
+[[x-Waves🌊]]

@@ -15,4 +15,4 @@ Operating expenses are the day-to-day costs associated with running your busines
 		- Funds allocated for advertising campaigns
 		- Marketing materials, and online advertising 
 	- Insurances
-	- [[Depreciation]]
+	- [[Depreciation📉]]

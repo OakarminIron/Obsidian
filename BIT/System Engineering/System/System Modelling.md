@@ -1,3 +1,3 @@
-[[System Modeling Types]]
+[[System Modelling Types]]
 
 [[Systems Modeling Language(SysML)]]

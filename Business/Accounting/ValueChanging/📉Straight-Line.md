@@ -1,0 +1,5 @@
+
+- Method: Under the straight-line depreciation method, the asset's cost is evenly spread over its estimated useful life.
+- Formula: Depreciation Expense = (Cost of Asset - Salvage Value) / Useful Life
+- Salvage Value: Salvage value is the estimated residual value of the asset at the end of its useful life.
+- Usage: This method is straightforward and easy to calculate. It's often used when an asset's value decreases consistently over time. It provides a consistent and predictable expense on the income statement.

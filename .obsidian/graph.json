@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"BIT\"  ",
@@ -48,11 +48,11 @@
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.19739583333333,
   "lineSizeMultiplier": 1.04427083333333,
-  "collapse-forces": true,
-  "centerStrength": 0.355318615143235,
-  "repelStrength": 18.5,
-  "linkStrength": 0.92,
+  "collapse-forces": false,
+  "centerStrength": 0.0677083333333333,
+  "repelStrength": 12.5,
+  "linkStrength": 1,
   "linkDistance": 47,
-  "scale": 0.01171875,
+  "scale": 0.200225830078125,
   "close": true
 }

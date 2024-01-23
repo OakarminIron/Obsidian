@@ -1,4 +1,5 @@
-[[loyalty.card (coupon)]]
+[[loyalty.card(coupon)]]
+[[sale.order.coupon.points]]
 [[loyalty.rule]]
 [[loyalty.reward]]
-[[sale.order.coupon.points]]
+
