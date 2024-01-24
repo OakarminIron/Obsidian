@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "b9d37220d6e78b51",
+        "id": "4147c317cf4f07e7",
         "type": "tabs",
         "children": [
           {
-            "id": "8ddceb61c5cd38e9",
+            "id": "d848025517fb1180",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -153,34 +152,34 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "8ddceb61c5cd38e9",
+  "active": "fd44166b0763d382",
   "lastOpenFiles": [
+    "Odoo/Odoo Modules/Odoo Inventory/🟣📦Inventory Adjustment.md",
+    "Odoo/Odoo Modules/Odoo Inventory/🟣📦Warehouse Management.md",
+    "Odoo/Odoo Modules/Odoo Inventory/🟣📦Opening Stock.md",
+    "Odoo/Odoo Modules/Odoo Inventory/🟣Inventory Valuation.md",
+    "Odoo/Odoo Modules/Odoo Inventory/🟣Inventory📦.md",
+    "Odoo/Odoo Modules/Odoo Inventory/🟣📦Logistic.md",
+    "Odoo/Odoo Modules/Odoo Inventory/🟣📦Operations Picking.md",
+    "Odoo/Odoo Backend/Odoo ORM/Environment(function).md",
+    "Odoo/Odoo Backend/Odoo ORM/🟣🅾️Environment.md",
+    "Odoo/Odoo Backend/Odoo ORM/🟣🅾️Records-set.md",
+    "IT/Computer Science/Programming/Programming Languages/JavaScript/📜Modules and Environment.md",
+    "IT/Computer Science/Programming/Programming Languages/JavaScript/📜Modules.md",
+    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account/🟣🧾Actions.md",
+    "Odoo/Odoo Modules/Odoo Accounting/🟣Accounting🧾.md",
+    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account/🟣🧾Configs.md",
+    "Business/Accounting/Financial Accounting/Bookkeeping/General Ledger.md",
+    "Business/Accounting/Financial Accounting/Bookkeeping/BookKeeping Notes.md",
+    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Reconcillation/🟣Reconciliation🖇️.md",
+    "Odoo/Odoo Modules/Odoo Sales/🟣POS🏪/🟣🍳Floor Plan.md",
+    "Odoo/Odoo Modules/Odoo Sales/🟣POS🏪/🟣Restaurant🍳.md",
     "NWC.md",
     "Business/Accounting/Financial Accounting/Balance Sheet/Assets/Prepaid Expenses.md",
     "Business/Accounting/Financial Accounting/Balance Sheet/Assets/Current Assets/Current Assets.md",
     "Business/Accounting/Financial Accounting/Fundamental Analysis/Net Working Capital.md",
     "Business/Accounting/ValueChanging/📉Depreciation Methods.md",
     "Business/Accounting/ValueChanging/📉DDB.md",
-    "Business/Accounting/ValueChanging/📉SYD.md",
-    "Business/Accounting/ValueChanging/📉UOP.md",
-    "Business/Accounting/ValueChanging/📉Declining.md",
-    "Business/Accounting/ValueChanging/📉Straight-Line.md",
-    "Business/Accounting/ValueChanging/Depreciation📉.md",
-    "Odoo/Odoo FrontEnd/Odoo JavaScript/OWL/🦉🧰Life-cycle.md",
-    "BIT/System Engineering/Software Engineering/API/🚡Architectural Styles/XML-RPC.md",
-    "BIT/System Engineering/Software Engineering/API/API🚡.md",
-    "BIT/System Engineering/Software Engineering/API/🚡Data Exchange Formats/JSON.md",
-    "Odoo/Odoo Modules/Odoo Sales/🟣Loyalty/loyalty.program.md",
-    "Odoo/Odoo Modules/Odoo Sales/🟣POS🏪/🟣🍳Kitchen Display.md",
-    "Odoo/Odoo Modules/Odoo Sales/🟣POS🏪/🟣🍳Floor Plan.md",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account/🟣Fiscal Position.md",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account/🟣Rounding.md",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account/🟣🧾Configs.md",
-    "Odoo/Odoo Modules/Odoo Accounting/🟣Accounting🧾.md",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account/🟣🧾Actions.md",
-    "Science/Social Science/Psychology/Psychology Themes/Motivation/Motivation.md",
-    "Science/Social Science/Psychology/Psychology Themes/Motivation/Motivation Theories.md",
-    "Science/Social Science/Psychology/Psychology Themes/Motivation/Motivation Applications.md",
     "BIT/System Engineering/System Engineering",
     "Science/Natural Science/Physic/Waves/Color/Colour Model.png",
     "Science/Natural Science/Physic/Waves/Color/Colors.png",

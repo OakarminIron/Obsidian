@@ -2,4 +2,6 @@ A warehouse is a location where goods are kept. It serves as the company’s war
 
 [[🟣🏬Warehouse]]
 [[🟣Inventory Valuation]]
+[[🟣📦Inventory Adjustment]]
+
 

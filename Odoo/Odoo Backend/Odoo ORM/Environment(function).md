@@ -1,4 +1,6 @@
-[[ref()]]
-[[is_superuser()]]
-[[is_admin()]]
-[[is_system()]]
+- [[ref()]] = `record = self.env.ref('module.xml_id')`
+	- `xml_id (str)`: Record `xml_id`, following the format <module.id>.
+	- `raise_if_not_found (bool)`
+- [[is_superuser()]] `if self.env.is_superuser():  # Perform superuser-specific tasks`
+- [[is_admin()]] `if self.env.is_admin():`
+- [[is_system()]] `if self.env.is_system():`
