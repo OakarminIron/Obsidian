@@ -1,4 +1,4 @@
-A Dataset is a set or collection of data that pertain to a specific topic[[🌐Domain]].
+A Dataset is a set or collection of data that pertain to a specific topic[[🤌Domain]].
 This set is normally presented in a tabular pattern. 
 
 Every column describes a particular variable. 

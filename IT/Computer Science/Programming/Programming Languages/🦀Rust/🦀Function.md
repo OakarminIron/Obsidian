@@ -1,0 +1,2 @@
+[[🦀Print]]
+fn main()

@@ -1,0 +1,24 @@
+- [[🌐OPTIONS]]: 
+	- Used to describe the communication options for the target resource. 
+	- It can be used to check what HTTP methods are supported by a server, for example.
+-------------------------------
+- [[🌐GET]]: 
+	- Used to retrieve information from the specified server resource. 
+- [[🌐HEAD]]: 
+	- Similar to GET, but the server should only respond with headers and no body. 
+	- It is often used to check for the existence of a resource or to retrieve metadata about a resource.
+-------------------------------
+- [[🌐POST]]: 
+	- Used to submit data to be processed to a specified resource. 
+	- The data is included in the body of the request. 
+	- It can lead to side effects, such as the creation of a new resource on the server.
+- [[🌐PUT]]: 
+	- Similar to POST, but used to update a resource or create a new resource if it does not exist. 
+	- The entire resource is usually replaced with the new data provided in the request.
+- [[🌐PATCH]]: 
+	- Used to apply partial modifications to a resource. 
+	- It is often used when you want to update only specific fields.
+-------------------------------
+- [[🌐DELETE]]: 
+	- Used to request the removal of a resource from the server.
+

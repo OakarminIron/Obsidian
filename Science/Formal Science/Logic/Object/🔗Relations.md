@@ -1,4 +1,4 @@
-The [[🅾️🌐Object Domain]] is formed by objects a, b, c;
+The [[🅾️🤌Object Domain]] is formed by objects a, b, c;
 
 a is father of b,
 b the mother of c,
