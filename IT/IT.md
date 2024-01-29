@@ -1,6 +1,6 @@
 [[OSI 7 Layers]]
-[[💻 Hardware]]
-[[💻 Software]]
+[[Hardware]]
+[[Software]]
 [[ITSM]]
 
 [[Database]]

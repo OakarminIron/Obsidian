@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "9ee912ac27cb9b45",
+        "id": "a2f9b6a3129e4f47",
         "type": "tabs",
         "children": [
           {
-            "id": "b664e49027ff9f3e",
+            "id": "4726ad8c8ee1c60e",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "65b35da177116dc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/X/Security.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -152,35 +165,35 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "b664e49027ff9f3e",
+  "active": "4726ad8c8ee1c60e",
   "lastOpenFiles": [
-    "IT/Computer Science/Programming/Programming Languages/Regex.md",
-    "IT/Computer Science/Programming/Programming Languages/PHP🐘.md",
-    "IT/Computer Science/Programming/Programming Languages/Julia👧.md",
-    "IT/Computer Science/Programming/Programming Languages/📜JavaScript/JavaScript📜.md",
-    "IT/Computer Science/Programming/Programming Languages/🐍Python/Python🐍.md",
-    "IT/Computer Science/Programming/Programming Languages/🦀Rust/🦀DataTypes.md",
-    "IT/Computer Science/Programming/Programming Languages/🦀Rust/🦀std.md",
-    "IT/Computer Science/Programming/Programming Languages/🦀Rust/🦀PreLudes.md",
-    "🦀stdModules.md",
-    "IT/Computer Science/Programming/Programming Languages/🦀Rust/🦀Libraries.md",
-    "IT/Computer Science/Programming/Programming Languages/🦀Rust/Rust🦀.md",
-    "IT/Computer Science/Programming/Programming Languages/🦀Rust/🦀Function.md",
-    "🦀Print.md",
-    "IT/Computer Science/Programming/Programming Languages/☧/☧Programming Languages.md",
+    "Notes/X/Security.md",
+    "Notes/X/Value.md",
+    "Science/Formal Science/Logic/Property📏.md",
+    "Science/Social Science/Economy/Economic/Surplus.md",
+    "Science/Formal Science/Math/Geometry/Balance.md",
+    "Science/Formal Science/Math/Geometry/🐚Fractal.md",
+    "Notes/ISO/IEC 20000.md",
+    "IT/ITSM/ITSM.md",
+    "Science/Social Science/Sociology/Power/Power.md",
+    "Notes/X/Power is Power.md",
+    "Notes/Skill Framework/My Skill Framework.md",
+    "Notes/Skill Framework/Odoo Solutions Architect.md",
+    "Notes/Skill Framework/Solution Architect.md",
+    "Notes/Skill Framework/Enterprise Architect.md",
+    "Notes/Skill Framework/Odoo Functional Architect.md",
+    "IT/Computer Science/AI/AI🤖/AGI.md",
+    "Science/Formal Science/Math/Probability and Statistic/Deviation.md",
+    "BIT/Requirement Engineering/Topics/RA/Object Oriented Analysis.md",
+    "BIT/Requirement Engineering/Topics/RA/RA Forms.md",
+    "Science/Formal Science/Logic/Object/🅾️Object.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/👨‍💻💩Bloaters.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/👨‍💻Code Smells💩.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/👨‍💻💩Couples.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/👨‍💻💩Dispensable.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/👨‍💻💩Change Prevents.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/👨‍💻💩Object-Orientation Abusers.md",
     "IT/Computer Science/Programming/Programming Languages/🦀Rust",
-    "IT/OSI/7.OSI Application Layer/HTTP/🌐Methods.md",
-    "IT/OSI/7.OSI Application Layer/HTTP/HTTP🌐.md",
-    "Odoo/🟣🍱Bundles/🟣🍱Bundles.md",
-    "Science/Formal Science/Logic/Logical Construction/🤌Domain.md",
-    "Science/Formal Science/Logic/Logical Construction/🌐Web Domain.md",
-    "Science/Formal Science/Logic/Logical Construction/🌏Geographical Domain.md",
-    "Science/Scientific Domain.md",
-    "Scientific Domain.md",
-    "IT/OSI/7.OSI Application Layer/🌐DNS.md",
-    "Science/Formal Science/Logic/Object/🅾️🤌Object Domain.md",
-    "Science/Formal Science/Logic/Logical Construction/🪙🤌Business Domain.md",
-    "Science/Formal Science/Logic/Logical Construction/🧩🤌Logical Domain.md",
     "IT/OSI/7.OSI Application Layer/HTTP",
     "BIT/System Engineering/System Engineering",
     "Science/Natural Science/Physic/Waves/Color/Colour Model.png",

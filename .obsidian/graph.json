@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -8,35 +8,35 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"BIT\"  ",
+      "query": "path:\"BIT/\"",
       "color": {
         "a": 1,
         "rgb": 30976
       }
     },
     {
-      "query": "path:\"Business\"",
+      "query": "path:\"Business/\"",
       "color": {
         "a": 1,
         "rgb": 16776960
       }
     },
     {
-      "query": "path:\"IT\"",
+      "query": "path:\"IT/\"",
       "color": {
         "a": 1,
         "rgb": 44718
       }
     },
     {
-      "query": "path:\"Odoo\"",
+      "query": "path:\"Odoo/\"",
       "color": {
         "a": 1,
         "rgb": 7604389
       }
     },
     {
-      "query": "path:\"Science\"",
+      "query": "path:\"Science/\"",
       "color": {
         "a": 1,
         "rgb": 16729600
@@ -49,10 +49,10 @@
   "nodeSizeMultiplier": 1.19739583333333,
   "lineSizeMultiplier": 1.04427083333333,
   "collapse-forces": true,
-  "centerStrength": 0.302055329089648,
+  "centerStrength": 0.322810969621466,
   "repelStrength": 18.5,
   "linkStrength": 0.92,
   "linkDistance": 47,
-  "scale": 0.028008852543191052,
+  "scale": 0.45050811767578125,
   "close": false
 }

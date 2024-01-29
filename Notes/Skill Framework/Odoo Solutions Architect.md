@@ -28,3 +28,6 @@ Job Summary
 	- Have used different versions of `Odoo` and know what has changed between `Odoo` releases
 	- Can accompany sales people and business analysts on client visits to provide technical and product advice
 	- Understand business accounting principles and how to use and configure the accounting features in `Odoo`
+
+
+[[Solution Architect]]

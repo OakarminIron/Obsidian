@@ -8,7 +8,7 @@ Encompasses various processes, practices, and frameworks that contribute to the 
 
 [[ITIL4]]
 [[Agile ITSM]]
-[[IEC 20000]]
+[[IEC 20000]] Standard
 [[DevOps]]
 [[COBIT]] (Control Objectives for Information and Related Technologies)
 [[SIAM]] (Service Integration and Management)

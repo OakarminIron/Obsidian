@@ -1,0 +1,4 @@
+1. Balance: Balance refers to the distribution of visual weight within a composition. It involves arranging elements in a way that creates a sense of equilibrium, stability, and evenness. There are three main types of balance:    
+    - [[Symmetry]] Balance: Also known as formal balance, symmetrical balance occurs when elements are evenly distributed on either side of a central axis. It creates a sense of stability and order.        
+    - [[Asymmetry]] Balance: Asymmetrical balance, also called informal balance, involves the arrangement of different elements that have equal visual weight but are not identical. It achieves balance through careful consideration of factors such as color, size, shape, and position.        
+    - Radial Balance: Radial balance is achieved when elements radiate outward from a central point, like the spokes of a wheel. It creates a sense of [[Harmony]] and equilibrium around a focal point.

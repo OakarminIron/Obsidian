@@ -7,4 +7,5 @@ It can be differentiated from program management in that program management is c
 
 
 [[Process Mining]]
-[[Business Process Re-engineering]]
+[[Business Process Analysis (BPA)]]
+[[Business Process Re-engineering (BPR)]]

@@ -1,1 +1,0 @@
-A game of throne quote

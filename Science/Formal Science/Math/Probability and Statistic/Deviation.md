@@ -1,4 +1,4 @@
 [[Standard Deviation]]
-[[STD Score]]
+[[Deviation Score]]
 
 ![[Standard Deviation.png]]

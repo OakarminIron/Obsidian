@@ -1,3 +1,0 @@
-[[IT Applications]]
-[[Runtime Environments]]
-

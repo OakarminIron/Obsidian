@@ -1,4 +1,4 @@
-[[Multi-modality learning]]
+[[Multi-Modality learning]]
 Fleming claimed that not everyone has one defined preferred modality of learning; some people may have a mixture that makes up their preferred learning style. 
 There are two types of multi-modality learners: 
 	- Type one learners are able to assimilate their learning style to those around them .  ဘေးလူကိုကြည့်ရင်းနားလည်

@@ -10,4 +10,5 @@ Factors to be successful `BPR`
 - Ongoing continuous improvements
 - Business Environment Analysis
 
-`BPR` ကိုအပျော့သွားချင်တယ်ဆို [[Socio-Technical design]] နဲ့သွားလို့ရမယ်
+`BPR` ကိုအပျော့သွားချင်တယ်ဆို [[Sociology-Technical Design]] နဲ့သွားလို့ရမယ်
+
