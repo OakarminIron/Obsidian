@@ -5,5 +5,5 @@ The terms "thought" and "thinking" refer to a wide variety of psychological acti
 [[🤔LEAN Thinking🌸]]
 [[🤔Design Thinking]]
 [[🤔Dualism🌗]]
-[[Non-dualism]]
+[[🤔System Thinking]]
  

@@ -1,1 +1,3 @@
-[[Enterprise Modelling]]
+[[🏢Modelling]]
+[[Functional Modelling]]
+[[Architectural Modelling]]

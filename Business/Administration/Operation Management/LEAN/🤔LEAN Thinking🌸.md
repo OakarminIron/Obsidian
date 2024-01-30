@@ -7,6 +7,13 @@ Lean thinking is a way of thinking about an activity and seeing the waste inadve
 [[🌸🇪 Lean Enterprise]]
 
 
-The aim of lean thinking is to create a lean culture, one that sustains growth by aligning customer satisfaction with employee satisfaction, and that offers innovative products or services profitably while minimizing unnecessary over-costs to customers, suppliers and the environment. 
-The basic insight of lean thinking is that if you train every person to identify wasted time and effort in their own job and to better work together to improve processes by eliminating such waste, the resulting [[Culture]] (basic thinking, mindset and assumptions) will deliver more value at less expense while developing every employee's confidence, competence and ability to work with others.
+The aim of lean thinking is to create a lean culture, one that sustains growth by
+- aligning customer satisfaction with 
+- employee satisfaction, and that offers 
+- innovative products or services **profitably** 
+while minimising unnecessary over-costs to 
+- customers, 
+- suppliers and 
+- the environment. 
+
 

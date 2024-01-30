@@ -3,5 +3,5 @@
 Co-creation of value 
 Outcomes, Cost and Risks 
 
-[[System Value]] 
+[[Value of a System]] 
 [[🪙Service Value]]

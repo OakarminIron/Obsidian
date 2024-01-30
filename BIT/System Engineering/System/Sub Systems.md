@@ -1,0 +1,1 @@
+A subsystem is a set of elements, which is a system itself, and a component of a larger system. 

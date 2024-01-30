@@ -4,28 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a2f9b6a3129e4f47",
+        "id": "8bccfc3139480a72",
         "type": "tabs",
         "children": [
           {
-            "id": "4726ad8c8ee1c60e",
+            "id": "5c45c98fa0687478",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "65b35da177116dc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/X/Security.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
             }
           }
         ]
@@ -57,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "PEST",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,34 +152,41 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "4726ad8c8ee1c60e",
+  "active": "5c45c98fa0687478",
   "lastOpenFiles": [
-    "Notes/X/Security.md",
-    "Notes/X/Value.md",
-    "Science/Formal Science/Logic/Property📏.md",
-    "Science/Social Science/Economy/Economic/Surplus.md",
-    "Science/Formal Science/Math/Geometry/Balance.md",
-    "Science/Formal Science/Math/Geometry/🐚Fractal.md",
-    "Notes/ISO/IEC 20000.md",
-    "IT/ITSM/ITSM.md",
-    "Science/Social Science/Sociology/Power/Power.md",
-    "Notes/X/Power is Power.md",
-    "Notes/Skill Framework/My Skill Framework.md",
-    "Notes/Skill Framework/Odoo Solutions Architect.md",
-    "Notes/Skill Framework/Solution Architect.md",
+    "BIT/Requirement Engineering/RA/RA Tools/Viewpoints Framework.md",
+    "BIT/Requirement Engineering/RA/RA Tools/Viewponts.png",
+    "BIT/Requirement Engineering/RA/RA Tools/PESTLE.md",
+    "BIT/System Engineering/HCI/Usability Engineering/Product Evaluation/Compliance and Regulatory Evaluation.md",
+    "BIT/Enterprise Engineering/🏢Modelling.md",
+    "BIT/Enterprise Engineering/🏢Modelling Components.md",
+    "BIT/Enterprise Engineering/🏢Modelling Tools.md",
+    "BIT/Enterprise Engineering/🏢Enterprise Engineering.md",
+    "BIT/Enterprise Engineering/🏢Artefacts.md",
+    "BIT/Enterprise Engineering/IESE.md",
+    "BIT/Enterprise Engineering/IESE Views.md",
+    "BIT/Enterprise Engineering/ESE Application.md",
+    "BIT/Enterprise Engineering/Enterprise Architecture.png",
+    "BIT/Enterprise Engineering/Architecture Domain.md",
+    "BIT/Enterprise Engineering/🏢Architecture EA.md",
+    "BIT/Enterprise Engineering/🏢Analysis.md",
+    "BIT/Enterprise Engineering/🏢🤌Enterprise Domain.md",
+    "Science/Formal Science/Logic/Logical Construction/🤌Domain.md",
+    "Science/Formal Science/Logic/Logical Construction/🪙🤌Business Domain.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Architecture/DDD/Domain Engineering.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Architecture/DDD/Domain Knowledge.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Architecture/DDD/Domain Models.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Architecture/DDD/Domain Driven Design.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Architecture/DDD/Feature Modelling.md",
     "Notes/Skill Framework/Enterprise Architect.md",
-    "Notes/Skill Framework/Odoo Functional Architect.md",
-    "IT/Computer Science/AI/AI🤖/AGI.md",
-    "Science/Formal Science/Math/Probability and Statistic/Deviation.md",
-    "BIT/Requirement Engineering/Topics/RA/Object Oriented Analysis.md",
-    "BIT/Requirement Engineering/Topics/RA/RA Forms.md",
-    "Science/Formal Science/Logic/Object/🅾️Object.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/👨‍💻💩Bloaters.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/👨‍💻Code Smells💩.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/👨‍💻💩Couples.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/👨‍💻💩Dispensable.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/👨‍💻💩Change Prevents.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software Design/Software Design Refactoring/👨‍💻💩Object-Orientation Abusers.md",
+    "Business/Administration/Organization",
+    "README.md",
+    "Business/Administration/Organisation/Organisational Culture/OC Rites.md",
+    "BIT/Requirement Engineering/RA/RA Tools/Zachman Framework.png",
+    "BIT/System Engineering/System/Function",
+    "BIT/Enterprise Engineering/SESE.pdf",
+    "BIT/System Engineering/Untitled",
+    "Science/Social Science/Economic",
     "IT/Computer Science/Programming/Programming Languages/🦀Rust",
     "IT/OSI/7.OSI Application Layer/HTTP",
     "BIT/System Engineering/System Engineering",
@@ -202,14 +196,8 @@
     "Pasted image 20240122140359.png",
     "IT/Computer Science/AI/AI🤖",
     "Untitled",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Payment",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Reconcillation",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Journal",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo Journal",
     "Odoo/Odoo Modules/Odoo Accounting/Odoo Account/🟣🧾Horizontal Groups.png",
     "Notes/Spirituality/Chakara/7 Chakra.png",
-    "Odoo/Odoo Modules/Odoo Sales/🟣POS🏪/🟣🏪Bill Splitting.png",
-    "Odoo/Odoo Modules/Odoo Inventory/🟣Lead Time.png"
+    "Odoo/Odoo Modules/Odoo Sales/🟣POS🏪/🟣🏪Bill Splitting.png"
   ]
 }

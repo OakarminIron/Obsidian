@@ -10,4 +10,4 @@
 
 တန်ဖိုးကိုဘာနဲ့တိုင်းမလဲ[[Property📏]]
 
-[[System Value]] and [[🪙Service Value]]
+[[Value of a System]] and [[🪙Service Value]]

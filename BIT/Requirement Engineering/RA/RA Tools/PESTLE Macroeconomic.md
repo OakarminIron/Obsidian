@@ -1,0 +1,6 @@
+- Use PESTLE analysis to assess the overall business environment and identify trends and [[Porter's Five Forces]] .
+- PESTLE analysis in the macroeconomic context helps organisations gain insights into external factors that can shape
+	- market conditions
+	- customer behaviour
+	- regulatory landscapes. 
+- This information can guide strategic planning, risk management, and adaptation to external forces.

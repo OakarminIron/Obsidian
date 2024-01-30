@@ -1,3 +1,3 @@
-[[Organisation]]
+[[Enterprise Organisation]]
 
 [[Operation Management]]

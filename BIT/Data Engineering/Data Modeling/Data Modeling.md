@@ -1,1 +1,0 @@
-[[Kimball Dimensional Modeling]]

@@ -1,5 +1,0 @@
-- [[MOST]] 
-- [[CATWOE]] 
-- [[🤔The Six Hats]]: 
-- [[Five Whys]]: 
-- [[MoSCoW]] 

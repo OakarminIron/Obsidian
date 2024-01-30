@@ -3,6 +3,6 @@
 [[☧Operators]]
 
 
-[[☧Programming Pardadigms]]
+[[☧Programming Paradigms]]
 
 [[Clean Code Principles]]

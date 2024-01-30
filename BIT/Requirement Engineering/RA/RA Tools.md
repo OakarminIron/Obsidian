@@ -1,0 +1,6 @@
+- [[MOST]] 
+- [[CATWOE]] 
+- [[🤔The Six Hats]]
+- [[Five Whys]] Why ၅ ခါမေးတာ အရစ်ရှည်တာ
+- [[MoSCoW]] မော်စကို
+- [[5W1H]]

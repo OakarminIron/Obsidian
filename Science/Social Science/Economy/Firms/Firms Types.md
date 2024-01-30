@@ -8,4 +8,4 @@ Limited Liability Company ([[LLC]]): An `LLC` combines elements of both partners
 
 Cooperative: A cooperative ([[Co-Op]]) is an organization owned and operated by its members, who typically have a common interest or goal. Cooperatives can be formed by consumers, producers, or workers and are governed democratically. Examples include agricultural cooperatives and credit unions.
 
-[[Nonprofit Organization]]: Nonprofit organizations are formed for purposes other than generating profit for their members. They are typically focused on serving a particular cause or addressing a specific societal need. Nonprofits can take various legal forms, such as charitable organizations, foundations, or social enterprises.
+[[Nonprofit Organisation]]: Nonprofit organizations are formed for purposes other than generating profit for their members. They are typically focused on serving a particular cause or addressing a specific societal need. Nonprofits can take various legal forms, such as charitable organizations, foundations, or social enterprises.

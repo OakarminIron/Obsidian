@@ -1,4 +1,4 @@
-[[Enterprise Analysis]]
+[[🏢Analysis]]
 [[Requirements planning and management]]
 [[Requirement Engineering]] 
 [[BA Documentation]]

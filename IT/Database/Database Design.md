@@ -1,4 +1,4 @@
 [[Ontology]]_[ontology](https://en.wikipedia.org/wiki/Ontology_(information_science))_
 
-[[Normalization]]
+[[Normalisation]]
 [[N1 Problem]]

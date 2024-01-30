@@ -1,6 +1,6 @@
-[[Organizational Behavior]]
+[[Organisational Behaviour]]
 
-[[Industrial and organizational psychology]]
+[[Industrial and Organisational Psychology]]
 
 [[Occupational stress]]
-[[Organizational stressors]]
+[[Organisational Stressors]]
