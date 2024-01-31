@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "8bccfc3139480a72",
+        "id": "b7a0bebb74ebca28",
         "type": "tabs",
         "children": [
           {
-            "id": "5c45c98fa0687478",
+            "id": "e885f3681d80461a",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PEST",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,8 +153,16 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "5c45c98fa0687478",
+  "active": "e885f3681d80461a",
   "lastOpenFiles": [
+    "Business/Accounting/Financial Accounting/Balance Sheet/COA Format.md",
+    "Business/Accounting/Financial Accounting/Balance Sheet/Assets/Prepaid Expenses.md",
+    "Business/Accounting/Financial Accounting/Balance Sheet/Balance Sheet Accounts.md",
+    "Business/Accounting/Financial Accounting/Balance Sheet/Chart of Accounts (COA).md",
+    "Business/Accounting/Financial Accounting/Statements/Income Statement P&L Accounts.md",
+    "Business/Accounting/Financial Accounting/Profit & Loss.md",
+    "Business/Accounting/Financial Accounting/Balance Sheet/Assets/Non Current Assets/Intangible Assets.md",
+    "Odoo/Odoo Modules/Odoo Accounting/Odoo COA/🟣COA.md",
     "BIT/Requirement Engineering/RA/RA Tools/Viewpoints Framework.md",
     "BIT/Requirement Engineering/RA/RA Tools/Viewponts.png",
     "BIT/Requirement Engineering/RA/RA Tools/PESTLE.md",
@@ -174,14 +183,7 @@
     "Science/Formal Science/Logic/Logical Construction/🤌Domain.md",
     "Science/Formal Science/Logic/Logical Construction/🪙🤌Business Domain.md",
     "BIT/System Engineering/Software Engineering/Software Development/Architecture/DDD/Domain Engineering.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Architecture/DDD/Domain Knowledge.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Architecture/DDD/Domain Models.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Architecture/DDD/Domain Driven Design.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Architecture/DDD/Feature Modelling.md",
-    "Notes/Skill Framework/Enterprise Architect.md",
     "Business/Administration/Organization",
-    "README.md",
-    "Business/Administration/Organisation/Organisational Culture/OC Rites.md",
     "BIT/Requirement Engineering/RA/RA Tools/Zachman Framework.png",
     "BIT/System Engineering/System/Function",
     "BIT/Enterprise Engineering/SESE.pdf",

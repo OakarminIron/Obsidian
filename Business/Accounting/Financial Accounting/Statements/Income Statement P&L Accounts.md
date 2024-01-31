@@ -1,4 +1,4 @@
-
+[[Profit & Loss]]
 The primary purpose of a P&L report is to show whether a company is making a profit or incurring a loss during that time frame
 
 1. Revenue (Sales)
