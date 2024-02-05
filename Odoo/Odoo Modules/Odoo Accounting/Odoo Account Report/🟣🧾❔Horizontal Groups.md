@@ -1,0 +1,1 @@
+The Horizontal Group is a new feature in the Odoo 16 Accounting module. Using this feature, you can add horizontal groups to your reports. It will be helpful to easily analyze company reports as per your preference. For example, you are requested to generate the company-wise Balance Sheet report for a particular year.

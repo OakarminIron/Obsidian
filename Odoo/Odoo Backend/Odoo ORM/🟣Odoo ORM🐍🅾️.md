@@ -5,3 +5,4 @@
 [[🟣Method Decorators]]
 [[🟣🅾️Environment]]
 
+[[🟣Function From Data.xml]]

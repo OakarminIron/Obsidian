@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "b7a0bebb74ebca28",
+        "id": "6aef84812952e218",
         "type": "tabs",
         "children": [
           {
-            "id": "e885f3681d80461a",
+            "id": "febc97c6e9c16b6d",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "b7bb7beaeecce78a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Report/🟣🧾❔Horizontal Groups.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -153,36 +165,37 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "e885f3681d80461a",
+  "active": "febc97c6e9c16b6d",
   "lastOpenFiles": [
+    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Report/🟣🧾❔Horizontal Groups.md",
+    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Report/🟣🧾Report Options❔.md",
+    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Report/🟣🧾Report Editor.md",
+    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Report/🟣🧾Report Columns↕️.md",
+    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Report/🟣🧾↔️↔️.md",
+    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Report",
+    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Report/🟣🧾Report Lines↔️.md",
+    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Report/🟣🧾Accounting Reports.md",
+    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account/🟣🧾Actions.md",
+    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Reconcillation/🟣Reconciliation🖇️.md",
+    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Move/🟣Invoicing and Billing.md",
+    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account/🟣🧾Asset-Management.md",
+    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account/🟣🧾Asset Model.md",
+    "Odoo/🟣🍱Bundles/🟣🍱Bundles.md",
+    "Odoo/Odoo Backend/Odoo ORM/🟣Function From Data.xml.md",
+    "Odoo/Odoo Backend/Odoo ORM/🟣🅾️Records-set.md",
+    "Odoo/Odoo Backend/Odoo ORM/🟣Odoo ORM🐍🅾️.md",
+    "Odoo/Odoo Backend/Odoo ORM/🟣🅾️Methods.md",
+    "Odoo/Odoo Backend/Odoo ORM/🟣🅾️Fields.md",
+    "Odoo/Odoo Install/Odoo Service.md",
+    "Odoo/Odoo Install/Odoo Install Cloud.md",
+    "Odoo/Odoo Install/Odoo Install.md",
+    "IT/Computer Science/Programming/Programming Languages/🐍Python/🐍Virtual Environment.md",
     "Business/Accounting/Financial Accounting/Balance Sheet/COA Format.md",
     "Business/Accounting/Financial Accounting/Balance Sheet/Assets/Prepaid Expenses.md",
     "Business/Accounting/Financial Accounting/Balance Sheet/Balance Sheet Accounts.md",
     "Business/Accounting/Financial Accounting/Balance Sheet/Chart of Accounts (COA).md",
-    "Business/Accounting/Financial Accounting/Statements/Income Statement P&L Accounts.md",
-    "Business/Accounting/Financial Accounting/Profit & Loss.md",
-    "Business/Accounting/Financial Accounting/Balance Sheet/Assets/Non Current Assets/Intangible Assets.md",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo COA/🟣COA.md",
-    "BIT/Requirement Engineering/RA/RA Tools/Viewpoints Framework.md",
     "BIT/Requirement Engineering/RA/RA Tools/Viewponts.png",
-    "BIT/Requirement Engineering/RA/RA Tools/PESTLE.md",
-    "BIT/System Engineering/HCI/Usability Engineering/Product Evaluation/Compliance and Regulatory Evaluation.md",
-    "BIT/Enterprise Engineering/🏢Modelling.md",
-    "BIT/Enterprise Engineering/🏢Modelling Components.md",
-    "BIT/Enterprise Engineering/🏢Modelling Tools.md",
-    "BIT/Enterprise Engineering/🏢Enterprise Engineering.md",
-    "BIT/Enterprise Engineering/🏢Artefacts.md",
-    "BIT/Enterprise Engineering/IESE.md",
-    "BIT/Enterprise Engineering/IESE Views.md",
-    "BIT/Enterprise Engineering/ESE Application.md",
     "BIT/Enterprise Engineering/Enterprise Architecture.png",
-    "BIT/Enterprise Engineering/Architecture Domain.md",
-    "BIT/Enterprise Engineering/🏢Architecture EA.md",
-    "BIT/Enterprise Engineering/🏢Analysis.md",
-    "BIT/Enterprise Engineering/🏢🤌Enterprise Domain.md",
-    "Science/Formal Science/Logic/Logical Construction/🤌Domain.md",
-    "Science/Formal Science/Logic/Logical Construction/🪙🤌Business Domain.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Architecture/DDD/Domain Engineering.md",
     "Business/Administration/Organization",
     "BIT/Requirement Engineering/RA/RA Tools/Zachman Framework.png",
     "BIT/System Engineering/System/Function",
@@ -197,7 +210,6 @@
     "Pasted image 20240122140355.png",
     "Pasted image 20240122140359.png",
     "IT/Computer Science/AI/AI🤖",
-    "Untitled",
     "Odoo/Odoo Modules/Odoo Accounting/Odoo Account/🟣🧾Horizontal Groups.png",
     "Notes/Spirituality/Chakara/7 Chakra.png",
     "Odoo/Odoo Modules/Odoo Sales/🟣POS🏪/🟣🏪Bill Splitting.png"

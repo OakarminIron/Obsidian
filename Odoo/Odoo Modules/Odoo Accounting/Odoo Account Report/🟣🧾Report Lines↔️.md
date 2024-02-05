@@ -1,0 +1,6 @@
+- [[🟣🧾↔️Code]] Which is used in other computation
+- [[🟣🧾↔️↔️]]
+- [[🟣🧾↔️Action]]  Linked to action window
+- [[🟣🧾↔️Level]] Which is sequence
+- [[🟣🧾↔️Group By]] 
+- 
