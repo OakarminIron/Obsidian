@@ -1,0 +1,2 @@
+User-centred design (`UCD`) or user-driven development (`UDD`) is an iterative design process in which designers focus on the users and their needs in each phase of the design process. In `UCD`, design teams involve users throughout the design process via a variety of research and design techniques, to create highly usable and accessible products for them.   [[Driven Designs]]
+![[User-Centered Design.png]]

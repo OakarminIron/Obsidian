@@ -1,0 +1,3 @@
+- An event-driven architecture consists of event producers that generate a stream of events, and event consumers that listen for the events.
+- Events are delivered in near real time, so consumers can respond immediately to events as they occur.
+- Notify Listener

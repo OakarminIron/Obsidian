@@ -5,7 +5,7 @@ Focus  on understanding and modelling the common features, functionalities, and 
 Domain engineering helps in reducing development time, cost, and effort by reusing domain-specific components and leveraging existing knowledge and expertise within the domain. It provides a systematic way of building software systems that are tailored to the specific needs and requirements of a particular application domain.
 
 [[🤌Domain]]
-[[Domain Models]]
+[[Domain Engineering]]
 [[Domain Analysis]]
 [[Core Assets]]
 [[Feature Modelling]]

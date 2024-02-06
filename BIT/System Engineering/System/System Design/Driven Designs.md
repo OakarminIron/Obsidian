@@ -1,8 +1,9 @@
-"Driven Design" is a term that encompasses various design methodologies that prioritize specific factors or considerations in the design process.
+"Driven Design" is a term that encompasses various design methodologies that prioritise specific factors or considerations in the design process.
 
 [[Domain Driven Design]]
+[[Event Driven Architecture]]
 [[Model Driven Design]]
-[[User-Centered Design]]
+[[User-Driven Design]]
 [[Data-Driven Design]]
 [[Test-Driven Development]]
 [[Behavior-Driven Development]]

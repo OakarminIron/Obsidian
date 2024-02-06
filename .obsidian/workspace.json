@@ -4,28 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6aef84812952e218",
+        "id": "7e2d4ec661ab0b95",
         "type": "tabs",
         "children": [
           {
-            "id": "febc97c6e9c16b6d",
+            "id": "b75f5967d1da3997",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "b7bb7beaeecce78a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Report/🟣🧾❔Horizontal Groups.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
             }
           }
         ]
@@ -165,35 +152,35 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "febc97c6e9c16b6d",
+  "active": "b75f5967d1da3997",
   "lastOpenFiles": [
+    "Notes/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna.md",
+    "Notes/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/ဟေတု(hetu)Root.md",
+    "BIT/System Engineering/System/System Design/DDD/Domain Driven Design.md",
+    "BIT/System Engineering/System/System Design/DDD/Event Driven Architecture.md",
+    "BIT/System Engineering/System/System Design/Driven Designs.md",
+    "BIT/System Engineering/System/System Design/Data-Driven Design.md",
+    "BIT/System Engineering/HCI/Usability Engineering/User-Driven Design.md",
+    "BIT/System Engineering/Software Engineering/SE Scaling/CQRS.md",
+    "BIT/System Engineering/Software Engineering/SE Scaling/Read Replica.md",
+    "BIT/System Engineering/Software Engineering/SE Scaling/Event Sourcing.md",
+    "Domain Language.md",
+    "BIT/System Engineering/System/System Design/DDD/Domain Engineering.md",
+    "BIT/System Engineering/System/System Design/DDD/Domain Models.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software Development👨‍💻.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software Design/👨‍💻Software Design.md",
+    "BIT/System Engineering/System/System Design/System Design.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/WordPress.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/🐘Frameworks.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/👨‍💻Development Frameworks.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/🐍Frameworks/🐍Frameworks.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/📜Frameworks/📜Frameworks.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/📜Frameworks/⚛️React.js.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/📜Frameworks/🅰️Angular.js.md",
+    "Odoo/Odoo FrontEnd/Odoo JavaScript/🟣📜Odoo JavaScript.md",
+    "Business/Accounting/Financial Accounting/Balance Sheet/Liabilities/Deffered Revenue.md",
     "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Report/🟣🧾❔Horizontal Groups.md",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Report/🟣🧾Report Options❔.md",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Report/🟣🧾Report Editor.md",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Report/🟣🧾Report Columns↕️.md",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Report/🟣🧾↔️↔️.md",
     "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Report",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Report/🟣🧾Report Lines↔️.md",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Report/🟣🧾Accounting Reports.md",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account/🟣🧾Actions.md",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Reconcillation/🟣Reconciliation🖇️.md",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Move/🟣Invoicing and Billing.md",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account/🟣🧾Asset-Management.md",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account/🟣🧾Asset Model.md",
-    "Odoo/🟣🍱Bundles/🟣🍱Bundles.md",
-    "Odoo/Odoo Backend/Odoo ORM/🟣Function From Data.xml.md",
-    "Odoo/Odoo Backend/Odoo ORM/🟣🅾️Records-set.md",
-    "Odoo/Odoo Backend/Odoo ORM/🟣Odoo ORM🐍🅾️.md",
-    "Odoo/Odoo Backend/Odoo ORM/🟣🅾️Methods.md",
-    "Odoo/Odoo Backend/Odoo ORM/🟣🅾️Fields.md",
-    "Odoo/Odoo Install/Odoo Service.md",
-    "Odoo/Odoo Install/Odoo Install Cloud.md",
-    "Odoo/Odoo Install/Odoo Install.md",
-    "IT/Computer Science/Programming/Programming Languages/🐍Python/🐍Virtual Environment.md",
-    "Business/Accounting/Financial Accounting/Balance Sheet/COA Format.md",
-    "Business/Accounting/Financial Accounting/Balance Sheet/Assets/Prepaid Expenses.md",
-    "Business/Accounting/Financial Accounting/Balance Sheet/Balance Sheet Accounts.md",
-    "Business/Accounting/Financial Accounting/Balance Sheet/Chart of Accounts (COA).md",
     "BIT/Requirement Engineering/RA/RA Tools/Viewponts.png",
     "BIT/Enterprise Engineering/Enterprise Architecture.png",
     "Business/Administration/Organization",
