@@ -1,1 +1,1 @@
-[[Logical Formalization]]
+[[🧩Logical Formalisation]]

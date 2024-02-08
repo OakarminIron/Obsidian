@@ -1,1 +1,5 @@
-Product derivation involves generating specific software products or variations from the core assets and feature models identified within the domain. It involves selecting the desired features, configuring the system based on the feature model, and applying customization and specialization as required. Product derivation ensures that each software product within the domain is tailored to meet the specific needs and requirements of a particular customer or use case.
+Product derivation involves generating specific software products or variations from the core assets and feature models identified within the domain. 
+It involves selecting the desired features, configuring the system based on the feature model, and applying customisation and specialisation as required. 
+Product derivation ensures that each software product within the domain is tailored to meet the specific needs and requirements of a particular customer or use case.
+
+Customised Software  ဆိုပြီး အကြမ်းခေါ်ကြတယ်

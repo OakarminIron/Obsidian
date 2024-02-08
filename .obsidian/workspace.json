@@ -4,18 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "7e2d4ec661ab0b95",
+        "id": "8fe1a9c85db14fbd",
         "type": "tabs",
         "children": [
           {
-            "id": "b75f5967d1da3997",
+            "id": "bd8760307f76bc95",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "204504e6cd7419e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIT/Operational intelligence/Process Mining/Process Mining Techniques.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BIT/Operational intelligence/Process Mining/Process Mining Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BIT/Operational intelligence/Process Mining/Process Mining Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BIT/Operational intelligence/Process Mining/Process Mining Techniques.md"
+              }
             }
           }
         ]
@@ -152,34 +170,34 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "b75f5967d1da3997",
+  "active": "204504e6cd7419e8",
   "lastOpenFiles": [
-    "Notes/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna.md",
-    "Notes/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/ဟေတု(hetu)Root.md",
-    "BIT/System Engineering/System/System Design/DDD/Domain Driven Design.md",
-    "BIT/System Engineering/System/System Design/DDD/Event Driven Architecture.md",
-    "BIT/System Engineering/System/System Design/Driven Designs.md",
-    "BIT/System Engineering/System/System Design/Data-Driven Design.md",
-    "BIT/System Engineering/HCI/Usability Engineering/User-Driven Design.md",
-    "BIT/System Engineering/Software Engineering/SE Scaling/CQRS.md",
-    "BIT/System Engineering/Software Engineering/SE Scaling/Read Replica.md",
-    "BIT/System Engineering/Software Engineering/SE Scaling/Event Sourcing.md",
-    "Domain Language.md",
+    "Conformance Checking.md",
+    "BIT/Operational intelligence/Process Mining/Process Mining Techniques.md",
+    "BIT/Operational intelligence/Process Mining/Conformance Checking.md",
+    "BIT/Operational intelligence/Process Mining/Performance Analysis.md",
+    "BIT/Operational intelligence/Process Mining/Process Discovery.md",
+    "BIT/Operational intelligence/Process Mining/Process Mining.md",
+    "BIT/Operational intelligence/Business Process Management.md",
     "BIT/System Engineering/System/System Design/DDD/Domain Engineering.md",
-    "BIT/System Engineering/System/System Design/DDD/Domain Models.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software Development👨‍💻.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software Design/👨‍💻Software Design.md",
-    "BIT/System Engineering/System/System Design/System Design.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/WordPress.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/🐘Frameworks.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/👨‍💻Development Frameworks.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/🐍Frameworks/🐍Frameworks.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/📜Frameworks/📜Frameworks.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/📜Frameworks/⚛️React.js.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/📜Frameworks/🅰️Angular.js.md",
-    "Odoo/Odoo FrontEnd/Odoo JavaScript/🟣📜Odoo JavaScript.md",
-    "Business/Accounting/Financial Accounting/Balance Sheet/Liabilities/Deffered Revenue.md",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Report/🟣🧾❔Horizontal Groups.md",
+    "BIT/System Engineering/System/System Design/DDD/Domain Analysis.md",
+    "BIT/System Engineering/System/System Design/DDD/Feature Modelling.md",
+    "BIT/System Engineering/System/System Design/DDD/Core Assets.md",
+    "BIT/System Engineering/System/System Design/DDD/Product Derivation.md",
+    "Notes/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna.md",
+    "Science/Formal Science/Logic/🧩Logical Formalisation.md",
+    "Notes/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/ဟေတု(hetu)Root.md",
+    "Science/Formal Science/Logic/Meta Language.md",
+    "Science/Formal Science/Logic/🧩Logic.md",
+    "Science/Formal Science/Logic/Language.md",
+    "IT/Cyber Security/Au/Authentication and Authorisation.md",
+    "IT/Cyber Security/Au/JWT (JSON Web Tokens).md",
+    "IT/Cyber Security/Au/Authorisation.md",
+    "IT/Cyber Security/Au/OAuth.md",
+    "IT/Cyber Security/Cyber Security.md",
+    "Science/Formal Science/Logic/Logical Construction/Domain Models.md",
+    "Science/Formal Science/Logic/Logical Construction/🤌Domain.md",
+    "IT/ITSM/DevOps/Git.md",
     "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Report",
     "BIT/Requirement Engineering/RA/RA Tools/Viewponts.png",
     "BIT/Enterprise Engineering/Enterprise Architecture.png",

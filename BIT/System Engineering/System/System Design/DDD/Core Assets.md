@@ -1,1 +1,3 @@
-Core assets refer to the fundamental components, architectures, frameworks, or designs that embody the commonalities and reusable elements within a domain. These assets capture the essence of the domain and provide a foundation for building specific software systems within the domain. Core assets can include generic functionalities, standardized processes, domain-specific libraries, or pre-defined architectural patterns that can be reused across multiple projects.
+Core assets refer to the fundamental components, architectures, frameworks, or designs that embody the commonalities and reusable elements within a domain. 
+These assets capture the essence of the domain and provide a foundation for building specific software systems within the domain. 
+Core assets can include generic functionalities, standardised processes, domain-specific libraries, or `pre-defined` architectural patterns that can be reused across multiple projects.

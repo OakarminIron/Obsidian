@@ -13,5 +13,6 @@ Logic plays a central role in multiple fields, such as philosophy, mathematics, 
 
 [[🧩⛩Logical Structures]]
 [[🧩🛠Logical Construction]]
+[[🧩Logical Formalisation]]
 [[Logical Argument]]
 [[Formula]]

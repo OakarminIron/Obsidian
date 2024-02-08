@@ -4,9 +4,11 @@ Focus  on understanding and modelling the common features, functionalities, and 
 
 Domain engineering helps in reducing development time, cost, and effort by reusing domain-specific components and leveraging existing knowledge and expertise within the domain. It provides a systematic way of building software systems that are tailored to the specific needs and requirements of a particular application domain.
 
-[[🤌Domain]]
-[[Domain Engineering]]
-[[Domain Analysis]]
-[[Core Assets]]
-[[Feature Modelling]]
-[[Product Derivation]]
+[[🤌Domain]] 
+
+
+- [[Domain Analysis]] အရင်လုပ်
+- [[Feature Modelling]] Design ချ
+- [[Product Derivation]] ထုတ်
+
+Can use together with [[GAP Analysis]] တို့နဲ့လဲတွဲသုံးလို့ရတယ်
