@@ -1,0 +1,2 @@
+- [[Number of players]]: This can be two (think chess) or many (think market competition).
+- [[Types of players]]: They can be cooperative (working together) or non-cooperative (competing against each other).

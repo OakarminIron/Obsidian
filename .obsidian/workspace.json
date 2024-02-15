@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd8760307f76bc95",
+            "id": "e0e07cf137850140",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "204504e6cd7419e8",
+            "id": "16b36acc246c7956",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIT/Operational intelligence/Process Mining/Process Mining Techniques.md",
+                "file": "Science/Formal Science/Math/Game Theory/🎲Concepts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "game theory",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIT/Operational intelligence/Process Mining/Process Mining Techniques.md",
+                "file": "Science/Formal Science/Math/Game Theory/🎲Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIT/Operational intelligence/Process Mining/Process Mining Techniques.md",
+                "file": "Science/Formal Science/Math/Game Theory/🎲Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIT/Operational intelligence/Process Mining/Process Mining Techniques.md"
+                "file": "Science/Formal Science/Math/Game Theory/🎲Concepts.md"
               }
             }
           }
@@ -170,10 +171,24 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "204504e6cd7419e8",
+  "active": "16b36acc246c7956",
   "lastOpenFiles": [
-    "Conformance Checking.md",
+    "Science/Formal Science/Math/Game Theory/Game Theory🎲.md",
+    "Science/Formal Science/Math/🔣Applied Mathematics.md",
+    "Science/Formal Science/Math/Game Theory/🎲Strategies.md",
+    "Science/Formal Science/Math/Game Theory/🎲Pure S.md",
+    "Science/Formal Science/Math/Game Theory/🎲Information Sets.md",
+    "Science/Formal Science/Math/Game Theory/🎲Mixed S.md",
+    "Science/Formal Science/Math/Game Theory/🎲Concepts.md",
+    "Science/Formal Science/Math/Game Theory/🎲Equilibrium.md",
+    "Science/Formal Science/Math/Game Theory/🎲Payoffs.md",
+    "Science/Formal Science/Math/Game Theory/🎲Players.md",
+    "Science/Formal Science/Math/Game Theory/🎲Game Theory Application.md",
+    "Science/Formal Science/Math/Game Theory/Game Types/🎲Game Types.md",
+    "IT/Operation Systems/Ubuntu Commands/Ubuntu Commands.md",
+    "IT/Operation Systems/Ubuntu.md",
     "BIT/Operational intelligence/Process Mining/Process Mining Techniques.md",
+    "Conformance Checking.md",
     "BIT/Operational intelligence/Process Mining/Conformance Checking.md",
     "BIT/Operational intelligence/Process Mining/Performance Analysis.md",
     "BIT/Operational intelligence/Process Mining/Process Discovery.md",
@@ -184,20 +199,6 @@
     "BIT/System Engineering/System/System Design/DDD/Feature Modelling.md",
     "BIT/System Engineering/System/System Design/DDD/Core Assets.md",
     "BIT/System Engineering/System/System Design/DDD/Product Derivation.md",
-    "Notes/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna.md",
-    "Science/Formal Science/Logic/🧩Logical Formalisation.md",
-    "Notes/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/ဟေတု(hetu)Root.md",
-    "Science/Formal Science/Logic/Meta Language.md",
-    "Science/Formal Science/Logic/🧩Logic.md",
-    "Science/Formal Science/Logic/Language.md",
-    "IT/Cyber Security/Au/Authentication and Authorisation.md",
-    "IT/Cyber Security/Au/JWT (JSON Web Tokens).md",
-    "IT/Cyber Security/Au/Authorisation.md",
-    "IT/Cyber Security/Au/OAuth.md",
-    "IT/Cyber Security/Cyber Security.md",
-    "Science/Formal Science/Logic/Logical Construction/Domain Models.md",
-    "Science/Formal Science/Logic/Logical Construction/🤌Domain.md",
-    "IT/ITSM/DevOps/Git.md",
     "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Report",
     "BIT/Requirement Engineering/RA/RA Tools/Viewponts.png",
     "BIT/Enterprise Engineering/Enterprise Architecture.png",
