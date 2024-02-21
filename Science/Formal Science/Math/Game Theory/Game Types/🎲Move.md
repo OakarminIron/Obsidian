@@ -1,3 +1,7 @@
-[[🎲Simultaneous Move]] games are the one in which the move of two players (the strategy adopted by two players) is simultaneous. In simultaneous move, players do not have knowledge about the move of other players. On the contrary, sequential games are the one in which players are aware about the moves of players who have already adopted a strategy.
+[[🎲Simultaneous Move]] games are the one in which the move of two players (the strategy adopted by two players) is simultaneous. 
+In simultaneous move, players do not have knowledge about the move of other players. 
+On the contrary, sequential games are the one in which players are aware about the moves of players who have already adopted a strategy.
 
-In [[🎲Sequential Move]] games, the players do not have a deep knowledge about the strategies of other players. For example, a player has knowledge that the other player would not use a single strategy, but he/she is not sure about the number of strategies the other player may use. Simultaneous games are represented in normal form while sequential games are represented in extensive form.
+In [[🎲Sequential Move]] games, the players do not have a deep knowledge about the strategies of other players. 
+For example, a player has knowledge that the other player would not use a single strategy, but he/she is not sure about the number of strategies the other player may use. 
+Simultaneous games are represented in normal form while sequential games are represented in extensive form.

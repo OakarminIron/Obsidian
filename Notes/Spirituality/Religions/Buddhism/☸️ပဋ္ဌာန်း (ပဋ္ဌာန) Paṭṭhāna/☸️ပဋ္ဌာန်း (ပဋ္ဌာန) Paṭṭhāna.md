@@ -15,28 +15,28 @@ But `patthana`  sounds like [[Patterns]]
 
 | ပစ္စယော        | paccaya     | Condition         | ပစ္စယော(paccaya)            |
 |----------------|-------------|-------------------|-----------------------------|
-| ဟေတု           | hetu        | Root              | [[ဟေတု(hetu)Root]]                  |
-| အာရမ္မဏ        | ārammana    | Object            | [[အာရမ္မဏ(ārammana)Object]]           |
-| အဓိပတိ         | adhipati    | Predominance      | [[အဓိပတိ(adhipati)Predominance]]            |
-| အနန္တရ         | anantara    | Proximity         | [[အနန္တရ(anantara)Proximity]]            |
-| သမနန္တရပစ္စယော | samanantara | Contiguity        | သမနန္တရပစ္စယော(samanantara)Contiguity |
-| သဟဇာတ          | sahajāta    | Co-nascence        | သဟဇာတ(sahajāta)Co-nascence             |
-| အညမည           | aññamañña   | Mutuality         | အညမည(aññamañña)Mutuality             |
-| နိဿယ           | nissaya     | Support           | နိဿယ(nissaya)Support               |
-| ဥပနိဿယ         | upanissaya  | Decisive support  | ဥပနိဿယ(upanissaya)DecisiveSupport          |
-| ပုရေဇာတ        | purejāta    | Pre-nascence       | [[ပုရေဇာတ(purejāta)Pre-nascence]]           |
-| ပစ္ဆာဇာတ       | pacchājāta  | Post-nascence      | [[ပစ္ဆာဇာတ(pacchājāta)Post-nascence]]        |
-| အာသေ၀န         | āsevana     | Frequency         | [[အာသေ၀န(āsevana)Frequency]]             |
-| ကမ္မ           | kamma       | Karma             | ကမ္မ(kamma)Karma                 |
-| ဝိပါက          | vipāka      | Consequence       | ဝိပါက(vipāka)Consequence               |
-| အာဟာရ          | āhāra       | Nutriment         | အာဟာရ(āhāra)Nutriment]]                |
-| ဣန္ဒြိယ        | indriya     | Faculty           | ဣန္ဒြိယ(indriya)Faculty]]            |
-| ဈာန            | jhāna       | Astral             | ဈာန(jhāna)Astral                  |
-| မဂ္ဂ           | magga       | Path              | မဂ္ဂ(magga)Path                 |
-| သမ္ပယုတ္တ      | sampayutta  | Association       | သမ္ပယုတ္တ(sampayutta)Association       |
-| ဝိပ္ပယုတ္တ     | vippayutta  | Dissociation      | ဝိပ္ပယုတ္တ(vippayutta)Dissociation      |
-| အတ္ထိ          | atthi       | Presence          | အတ္ထိ(atthi)Presence                |
-| နတ္ထိ          | natthi      | Absence           | နတ္ထိ(natthi)Absence               |
-| ဝိဂတ           | vigata      | Disappearance     | ဝိဂတ(vigata)Disappearance                |
-| အဝိဂတ          | avigata     | Non-disappearance | အဝိဂတ(avigata)Non-disappearance              |
+| ဟေတု           | hetu        | Root              | [[☸️Root]]                  |
+| အာရမ္မဏ        | ārammana    | Object            | [[☸️Object]]           |
+| အဓိပတိ         | adhipati    | Predominance      | [[☸️Predominance]]            |
+| အနန္တရ         | anantara    | Proximity         | [[☸️Proximity]]            |
+| သမနန္တရပစ္စယော | samanantara | Contiguity        | ☸️Contiguity |
+| သဟဇာတ          | sahajāta    | Co-nascence        | ☸️Co-nascence             |
+| အညမည           | aññamañña   | Mutuality         | ☸️Mutuality             |
+| နိဿယ           | nissaya     | Support           | ☸️Support               |
+| ဥပနိဿယ         | upanissaya  | Decisive support  | ☸️DecisiveSupport          |
+| ပုရေဇာတ        | purejāta    | Pre-nascence       | [[☸️Pre-nascence]]           |
+| ပစ္ဆာဇာတ       | pacchājāta  | Post-nascence      | [[☸️Post-nascence]]        |
+| အာသေ၀န         | āsevana     | Frequency         | [[☸️Frequency]]             |
+| ကမ္မ           | kamma       | Karma             | ☸️Karma                 |
+| ဝိပါက          | vipāka      | Consequence       | ☸️Consequence               |
+| အာဟာရ          | āhāra       | Nutriment         | ☸️Nutriment                |
+| ဣန္ဒြိယ        | indriya     | Faculty           | ☸️Faculty            |
+| ဈာန            | jhāna       | Astral             | ☸️Astral                  |
+| မဂ္ဂ           | magga       | Path              | ☸️Path                 |
+| သမ္ပယုတ္တ      | sampayutta  | Association       | ☸️Association       |
+| ဝိပ္ပယုတ္တ     | vippayutta  | Dissociation      | ☸️Dissociation      |
+| အတ္ထိ          | atthi       | Presence          | [[☸️Presence]]                |
+| နတ္ထိ          | natthi      | Absence           | [[☸️Absence]]               |
+| ဝိဂတ           | vigata      | Disappearance     | ☸️Disappearance                |
+| အဝိဂတ          | avigata     | Non-disappearance | ☸️Non-disappearance              |
 
