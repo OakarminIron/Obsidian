@@ -1,7 +1,7 @@
 
 A sub-field within computer science associated with constructing machines that can simulate human intelligence. 
 AI research deals with the question of how to create computers that are capable of intelligent behaviour
-
+AI is the software that imitates human behaviours and capabilities.
 ![[AI_Onion.png]]
 
 [[🤖Sub-Fields]]

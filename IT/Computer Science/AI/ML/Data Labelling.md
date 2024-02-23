@@ -1,0 +1,1 @@
+The process of identifying raw Data(images, text files, video, etc.) and adding one or more meaningful and informative labels to provide context so that a machine learning model can learn. It's important for [[ML Types]]

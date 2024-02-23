@@ -1,4 +1,4 @@
-Narrow AI’s machine intelligence comes from the use of natural language processing ([[NLP]]) to perform tasks. 
+Narrow AI’s machine intelligence comes from the use of natural language processing ([[Natural Language Processing]]) to perform tasks. 
 `NLP` is evident in chat-bots and similar AI technologies. 
 By understanding speech and text in natural language, AI is programmed to interact with humans in a natural, personalised manner.
 

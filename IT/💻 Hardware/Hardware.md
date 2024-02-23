@@ -1,4 +1,5 @@
 [[🔳CPU]]
+[[🔲GPU]]
 [[👻Memory RAM]]
 [[💿Memory ROM]]
 

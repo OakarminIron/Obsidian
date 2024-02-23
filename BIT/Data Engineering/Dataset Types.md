@@ -1,0 +1,8 @@
+- [[Numerical Datasets]]: Numerical datasets consist of quantitative data expressed in 🔣Real Numbers, allowing arithmetic operations. Examples include the weight and height of a person, the count of red blood cells in a medical report, and the number of pages in a book.
+- [[Bivariate Datasets]]: Involve two variables, exploring their Relationship. For instance, analysing the percentage score and age of students in a class or studying the sales of ice cream in relation to the temperature on a given day.
+- [[Multivariate Datasets]] (Tables):Multivariate datasets comprise three or more variables.
+- [[Categorical Datasets]]: represent features or characteristics and involve categorical variables, such as a person's gender (male or female) or marital status (married/unmarried).
+- [[Correlation Datasets]]: Demonstrate relationships between values.
+	- Positive correlation implies variables move in the same direction
+	- Negative correlation indicates opposite movement, and zero correlation signifies no relationship. 
+	- For instance, the correlation between weight and height, where taller individuals are generally heavier.

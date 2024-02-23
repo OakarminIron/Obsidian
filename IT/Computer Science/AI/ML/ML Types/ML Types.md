@@ -4,3 +4,4 @@ Knowing the various machine learning types is essential to understand the differ
 [[Supervised Learning]]
 [[Unsupervised Learning]]
 [[Reinforcement Learning]]
+

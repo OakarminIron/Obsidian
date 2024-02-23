@@ -1,0 +1,2 @@
+- [[MNIST]] database which is images of handwritten digits used to test classification , clustering, and image processing algorithm.
+- [[CoCo]] (Common Objects in Context) a dataset with contains many common images.
