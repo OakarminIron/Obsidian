@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "fb16a4099e8755b9",
+        "id": "a5e4e9ca1dfac93b",
         "type": "tabs",
         "children": [
           {
-            "id": "dcb13bbd36b70c43",
+            "id": "0d684a3421e2fcef",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -149,10 +149,11 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "janitor:Janitor: scan vault": false,
-      "obisidian-note-linker:Note Linker": false
+      "obisidian-note-linker:Note Linker": false,
+      "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "fd44166b0763d382",
+  "active": "0d684a3421e2fcef",
   "lastOpenFiles": [
     "IT/Computer Science/AI/NLP/Natural Language Processing.md",
     "IT/Computer Science/AI/DL/Deep Learning.md",
