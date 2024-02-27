@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a5e4e9ca1dfac93b",
+        "id": "ceb1237d23094600",
         "type": "tabs",
         "children": [
           {
-            "id": "0d684a3421e2fcef",
+            "id": "1a32802336a22711",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "05a87f576f113e9e",
@@ -153,8 +153,15 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "0d684a3421e2fcef",
+  "active": "1a32802336a22711",
   "lastOpenFiles": [
+    "Business/Change Management/Team Change/Type of Teams/Type of Teams.md",
+    "Business/Change Management/Team Change/Team Change Models/Group.md",
+    "Science/Social Science/Fallacies/Secundum quid.md",
+    "Science/Social Science/Fallacies/Falacy များ.md",
+    "README.md",
+    "Odoo/Odoo Install/Odoo Install Cloud.md",
+    "IT/ITSM/DevOps/Git.md",
     "IT/Computer Science/AI/NLP/Natural Language Processing.md",
     "IT/Computer Science/AI/DL/Deep Learning.md",
     "IT/Computer Science/AI/DL",
@@ -177,13 +184,6 @@
     "IT/Computer Science/AI/ML/ML Types/ML Types.md",
     "IT/Computer Science/AI/ML/ML Types/Supervised Learning.md",
     "IT/Computer Science/DSA/Algorithm/Naive Bayes.md",
-    "IT/Computer Science/AI/🤖Regression.md",
-    "IT/Computer Science/AI/AI🤖/🤖Frameworks and Libraries.md",
-    "IT/Computer Science/AI/ML/Machine Learning.md",
-    "IT/Computer Science/AI/ML/Data Labelling.md",
-    "IT/💻 Hardware/CUDA.md",
-    "IT/💻 Hardware/🔲GPU.md",
-    "IT/💻 Hardware/Hardware.md",
     "IT/Computer Science/AI/NN",
     "IT/Computer Science/AI/NN/Neural Network.png",
     "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Report",

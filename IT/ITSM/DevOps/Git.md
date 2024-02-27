@@ -16,6 +16,8 @@ git clone git@github.com:<username>/<repository>.git -i ~/.ssh/xxx
 git clone git@github.com:<repo_user>/<repo_name>.git -b branch --single-branch --depth 1 ////Github/repo_user/repo_name
 git clone https://github.com/<repo_user>/<repo_name>.git -b branch --single-branch --depth 1 ////Github/repo_user/repo_name
 git clone https://<yourname>:<yourpass>@github.com/<repo_user>/<repo_name>.git -i ~/.ssh/sshkey 
+
+git clone https://OakarminIron:xxxxx@github.com/OakarminIron/Custom.git -b 17c
 ```
 
 ```bash

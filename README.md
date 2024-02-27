@@ -90,7 +90,7 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 ### Strikethrough
 ~~The world is flat.~~
 ### Task List
-- [x] Write the press release
+- [ ] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
 

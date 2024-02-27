@@ -1,17 +1,17 @@
-1. [[Circular Argument]] Quran and Phorphet
+1. [[Circular Argument]] Quran and Prophet
 2. [[Straw-man Argument]] , Misrepresents or distorts their opponent's argument to make it easier to attack and then refutes the distorted version rather than the actual argument.
 3. [[Appeal to Ignorance]]
 4. [[Appeal to Nature]] It's Good because It's Nature , ::D
 5. [[Appeal to Authority]]  It's that because X said.
 6. [[Appeal to Pity]]
 7. [[Slippery Slope Fallacy]] , If chicken is killed I will never be the Business Owner like KFC
-8. [[Ad Hominem]] - Personal Attack
+8. [[Ad Hominem]] , Personal Attack
 9. [[Fallacy of Sunk Costs]]
 10. [[Bandwagon Fallacy]]
 12. [[Red Herring Fallacy]] - Changing the subject
 13. [[False Dilemma]] , Black and White fallacy ,  But there will be 50 shades of Gray
 14. [[Hasty Generalisation]] - Over Generalisation upon fact that is too small
-15. [[Tu Quoque]] - similar to personal attack , upon fact that is not relevant
+15. [[Tu Quoque]] -Similar to personal attack , upon fact that is not relevant
 16. [[Equivocation]]
 17. [[Causal Fallacy]]
 18. [[Composition Fallacy]] Wheel is made of rubber, so the whole car can be also rubber
