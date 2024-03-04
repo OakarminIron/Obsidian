@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "ceb1237d23094600",
+        "id": "94be97fbdabe68d0",
         "type": "tabs",
         "children": [
           {
-            "id": "1a32802336a22711",
+            "id": "b68606b377fcdb96",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 339.5
   },
   "right": {
     "id": "05a87f576f113e9e",
@@ -153,37 +153,37 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "1a32802336a22711",
+  "active": "b68606b377fcdb96",
   "lastOpenFiles": [
-    "Business/Change Management/Team Change/Type of Teams/Type of Teams.md",
-    "Business/Change Management/Team Change/Team Change Models/Group.md",
-    "Science/Social Science/Fallacies/Secundum quid.md",
-    "Science/Social Science/Fallacies/Falacy များ.md",
-    "README.md",
+    "Notes/Spirituality/Religions/Buddhism/☸️Causes.md",
+    "Notes/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna.md",
+    "Notes/Spirituality/Religions/Buddhism/မာရ.md",
+    "Notes/Spirituality/Religions/Buddhism/☸️Execute Logic.md",
+    "Notes/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/☸️Predominance.md",
+    "Science/Social Science/Psychology/Psychology Themes/Motivation/Motivation.md",
+    "Wisdomအသိဉာဏ်ပညာ.md",
+    "Mindစိတ်.md",
+    "Wishဆန္ဒ.md",
+    "Notes/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/☸️Object.md",
+    "Notes/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/☸️Root.md",
+    "☸️Anti-attachment.md",
+    "Notes/Spirituality/Religions/Buddhism/ကိလေသာ.md",
+    "☸️Attachment.md",
+    "Notes/Spirituality/Religions/Buddhism/အဘိဓမ္မာ ပိဋကတ် Abhidhamma Piṭaka.md",
+    "Notes/Spirituality/Religions/Buddhism/☸️Buddhism.md",
     "Odoo/Odoo Install/Odoo Install Cloud.md",
-    "IT/ITSM/DevOps/Git.md",
-    "IT/Computer Science/AI/NLP/Natural Language Processing.md",
-    "IT/Computer Science/AI/DL/Deep Learning.md",
+    "Notes/Spirituality/Religions/Buddhism/ခန္ဓငါးပါး.md",
+    "Notes/Spirituality/Religions/Buddhism/မာန.md",
+    "IT/Database/PostgreSQL/PG Cluster.md",
+    "Odoo/Odoo Install/Odoo Install.md",
+    "Odoo/Odoo.md",
+    "IT/OSI/7.OSI Application Layer/SSH.md",
+    "IT/OSI/7.OSI Application Layer/7.OSI Application Layer.md",
+    "Science/Cognitive Science/Cognitive Psychology/Attention/Clinical Attention Model.md",
+    "IT/Hosting/AWS/AWS Services/Identity/AWS Identity.md",
     "IT/Computer Science/AI/DL",
-    "IT/Computer Science/AI/🤖Classification.md",
-    "IT/Computer Science/AI/🤖📷 Types.md",
     "IT/Computer Science/AI/CV",
-    "IT/Computer Science/AI/🤖Computer Vision📷.md",
-    "IT/Computer Science/AI/NN/🤖📷Neural Networks.md",
-    "🤖📷.md",
-    "IT/Computer Science/AI/AI🤖/🤖Sub-Fields.md",
-    "Recurrent Neural Network.md",
-    "Convolution Neural Network.md",
-    "IT/Computer Science/AI/AI🤖/Deep Learning.md",
-    "IT/Computer Science/AI/NN/Neural Networks.md",
-    "Speech Recognition.md",
-    "IT/Computer Science/AI/NN/Neural Network.md",
-    "IT/Computer Science/AI/ML/ML Clustering.md",
-    "IT/Computer Science/AI/ML/ML Types/Unsupervised Learning.md",
     "IT/Computer Science/AI/Classification Matrix.png",
-    "IT/Computer Science/AI/ML/ML Types/ML Types.md",
-    "IT/Computer Science/AI/ML/ML Types/Supervised Learning.md",
-    "IT/Computer Science/DSA/Algorithm/Naive Bayes.md",
     "IT/Computer Science/AI/NN",
     "IT/Computer Science/AI/NN/Neural Network.png",
     "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Report",
