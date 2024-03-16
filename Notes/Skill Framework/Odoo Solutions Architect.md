@@ -10,11 +10,11 @@ Job Summary
 	g. Account for possible project challenges on constraints including, risks, time, resources and scope.
 	h. Work closely with project management teams to successfully monitor progress of initiatives.
 	i. Be a proactive team member and come up with new ideas and solutions as per company needs.
-	j. Responsible for database administration and optimisation, mapping of relational fields, to plan for scale 
+	j. Responsible for database administration and optimization, mapping of relational fields, to plan for scale 
 2. Requirements 
 	a. At least 4 years of experience working with Amazon AWS, at scale -- other cloud infrastructure experience is a plus.
 	b. At least 2 years of experience as an architect in the e-Commerce industry.
-	c. At least 4 years of experience with database optimisation in PostgreSQL, config optimisation.
+	c. At least 4 years of experience with database optimization in PostgreSQL, config optimization.
 	d. At least 4 years of experience managing, building and administering PostgreSQL databases.
 	e. Strong knowledge of PostgreSQL, queries, stored procedures.
 	f. Responsible for overall systems/application architecture in previous company.

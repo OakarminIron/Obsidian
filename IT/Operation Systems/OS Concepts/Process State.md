@@ -1,5 +1,3 @@
-New
-Ready
-Running 
-Waiting
-Terminated
+[[Ready]] [[New]]
+[[Running]] [[Waiting]]
+[[Terminated]]
