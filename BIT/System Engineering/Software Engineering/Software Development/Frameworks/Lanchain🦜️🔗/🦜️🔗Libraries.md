@@ -1,0 +1,3 @@
+- Available in both 🐍Python and 📜JavaScript. These libraries are the backbone of LangChain, offering interfaces and integrations for various components. 
+	- **Components**: compo-sable tools and integrations for working with language models. Components are modular and easy-to-use, whether you are using the rest of the LangChain framework or not.
+	- **Off-the-shelf chains**: built-in assemblages of components for accomplishing higher-level tasks

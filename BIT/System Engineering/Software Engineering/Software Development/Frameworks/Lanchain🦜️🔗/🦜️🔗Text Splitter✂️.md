@@ -1,0 +1,7 @@
+- [[🦜️🔗✂️Recursive]] A list of user defined characters
+- [[🦜️🔗✂️HTML]] HTML specific characters
+- [[🦜️🔗✂️Markdown]] Markdown specific characters
+- [[🦜️🔗✂️Code]] Code (Python, `JS`) specific characters
+- [[🦜️🔗✂️Token]] Tokens
+- [[🦜️🔗✂️Character]] A user defined character
+- [[🦜️🔗✂️Semantic Chunker]]  Sentences

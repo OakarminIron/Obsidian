@@ -1,4 +1,0 @@
-[[Operation Systems]]
-[[Web Applications]]
-
-
