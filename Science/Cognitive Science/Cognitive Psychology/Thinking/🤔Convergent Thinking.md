@@ -1,0 +1,1 @@
+Linear thinking is when a person follows a logical set of steps to select the best solution and form already-formulated ideas.

@@ -13,5 +13,6 @@
 - [[Innovation]]
 - [[Change Management]]
 - [[Research🔍]]
+- [[Manufacturing]]
 
 

@@ -1,3 +1,4 @@
+The ability to recall information such as list or words, mathematical formulas and definitions.
 In simplified terms, the brain's memory system can be divided into two main types of memory: short-term memory (also known as working memory) and long-term memory.
 
 1.  [[🧠Short-term Memory]]: This is the type of memory that holds information temporarily, allowing us to perform tasks and process information in the present moment. It has limited capacity and is relatively fleeting unless actively rehearsed or transferred to long-term memory. Short-term memory is like the computer's random-access memory (RAM) as it stores information temporarily while we are awake and conscious.
@@ -12,3 +13,5 @@ In simplified terms, the brain's memory system can be divided into two main type
 
 [[🧠Memory Formation]]
 [[Sleeping 💤🧠 Brain Memory]]
+
+

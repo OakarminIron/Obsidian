@@ -1,0 +1,1 @@
+Lateral thinking involves using new thoughts or ideas that are outside of the norm in order to solve problems

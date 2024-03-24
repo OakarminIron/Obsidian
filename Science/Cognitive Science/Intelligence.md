@@ -1,0 +1,1 @@
+what we called g factor. According to [[Thurstone's Model]]

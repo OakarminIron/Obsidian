@@ -1,0 +1,1 @@
+This involves coming up with new ides, or using existing ideas or objects to come up with a solution or create something new

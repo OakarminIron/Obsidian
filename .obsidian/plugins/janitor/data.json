@@ -1,5 +1,5 @@
 {
-  "runAtStartup": true,
+  "runAtStartup": false,
   "addRibbonIcon": true,
   "promptUser": true,
   "promptForBigFiles": true,
