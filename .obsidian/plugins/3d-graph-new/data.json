@@ -1,8 +1,8 @@
 {
   "savedSettings": [
     {
-      "id": "56f27559-1ddf-43d4-b266-5eca2dd3cc7e",
       "title": "Odoo",
+      "id": "56f27559-1ddf-43d4-b266-5eca2dd3cc7e",
       "setting": {
         "filter": {
           "searchQuery": "path:Odoo",
@@ -84,7 +84,7 @@
   "temporaryGlobalGraphSetting": {
     "filter": {
       "searchQuery": "path:Odoo",
-      "showOrphans": false,
+      "showOrphans": true,
       "showAttachments": false
     },
     "groups": [

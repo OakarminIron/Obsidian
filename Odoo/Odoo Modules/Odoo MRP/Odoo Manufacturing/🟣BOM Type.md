@@ -1,10 +1,14 @@
 [[🟣Manufacturing BOM]]
 
+- It lists all the individual parts and assemblies needed to make a final product.
+- Every single part required for production, even down to tiny items like screws, is listed.
+- Parts are organized based on how they're assembled in the manufacturing process.
+- Provides detailed instructions for production, including quantities and placement of parts.
+- Typically has more levels to describe each stage of assembly, making it more detailed.
+- Helps in production planning, ordering, and assembly line setup.
+
 [[🟣Engineering BOM]]
-
-
-The major differences between the manufacturing bill of materials and the engineering bill of materials are in their structure and depth. Manufacturing BOMs must contain all the parts and assemblies. If an item needs to be purchased to make the final product, then it needs to be represented on the MBOM. All these parts are structured into the manufacturing bill of materials based on how the product is assembled. For instance, if a product has ten 6-32 screws, each screw is listed in the manufacturing BOM in the subassembly where it is used. On the other hand, the engineering BOM for this product may only have one line item that lists the 6-32 screw with a quantity of 10. The engineering BOM may not provide any information about how parts relate to each other.
-
-In fact, there may be more than one engineering BOM because different engineering departments each create their own. The structure of the mechanical BOM is generally derived from the mechanical CAD model. That BOM is organized according to the engineers’ design process and often contains groups of unassociated parts collected together for the engineers’ convenience in working with the model. Mechanical BOMs commonly list printed circuit board assemblies (PCBAs) as a single item because adding hundreds of tiny components is tedious, slows work on the CAD model, and adds little value to the mechanical design process. Electrical BOMs, on the other hand, only show all the components that make up the PCBAs; they don’t deal with the rest of the product at all. And the firmware required for a product may not be listed on either the mechanical or the electrical BOM.
-
-In addition to being more complete, MBOMs tend to have more levels to describe each stage of the assembly process in more detail. For example, the lens subassembly that needs time to cure will be called out separately with its own part number and manufacturing work instructions (MWI). In the EBOM, the individual lenses and mounts would exist, but they would be included in a larger optical assembly. For the mechanical engineers, the many subassemblies needed by manufacturing add layers of complexity to the structure and make it harder to work with the CAD model.
+- It usually has fewer items listed compared to M-BOM.
+- Lists components at a higher level, often grouping similar items together.
+- Created by different engineering departments, each focusing on their specific area of expertise.
+- Derived from the design process and often based on the mechanical CAD model.

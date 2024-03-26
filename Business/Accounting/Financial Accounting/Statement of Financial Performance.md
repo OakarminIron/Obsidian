@@ -1,6 +1,6 @@
 - [[Cost of Good Sold COGS]]
 - [[SGA]]
-- [[Depreciation📉]] / [[Amortisation]]
+- [[Depreciation📉]] / [[Amortization]]
 - [[EBIT]]
 - [[Interest]] & [[Tax Expenses]]
 - [[Profit & Loss]]
