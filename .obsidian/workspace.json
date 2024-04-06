@@ -4,32 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fd81b4cddcde6622",
+        "id": "6962228e5643233a",
         "type": "tabs",
         "children": [
           {
-            "id": "7f89afd4d1750c50",
+            "id": "17e9d80b9fdf6d1f",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "25bcf55611a0e070",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Business/Accounting/Financial Accounting/Statements/Cash Flows Statement.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business/Accounting/Financial Accounting/Statements/Cash Flows Statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business/Accounting/Financial Accounting/Statements/Cash Flows Statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Business/Accounting/Financial Accounting/Statements/Cash Flows Statement.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -172,11 +154,18 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "25bcf55611a0e070",
+  "active": "cc2ac9646174365e",
   "lastOpenFiles": [
+    "IT/Operation Systems/Ubuntu Commands/Ubuntu Commands.md",
+    "IT/Operation Systems/Ubuntu.md",
+    "Odoo/Odoo Modules/Odoo Modules.md",
+    "Odoo/Odoo Modules/🟣Trading Modules.md",
+    "Odoo/Odoo Modules/Odoo Support Modules.md",
+    "Odoo/Odoo Modules/Odoo Technical.md",
+    "Odoo/Odoo Modules/Odoo Sales/🟣Sales.md",
+    "Business/Accounting/Financial Accounting/Statements/Cash Flows Statement.md",
     "Business/Accounting/Financial Accounting/Fundamental Analysis/Operating Cash Flow.md",
     "Business/Accounting/ValueChanging/Amortization.md",
-    "Business/Accounting/Financial Accounting/Statements/Cash Flows Statement.md",
     "Business/Accounting/Financial Accounting/Financial Metric Ratios/Solvency ratios/(Debt Ratio) debt-to-assets.md",
     "Odoo/Odoo.md",
     "Odoo/Odoo Modules/Odoo MRP/Odoo Manufacturing/🟣BOM Type.md",
@@ -193,14 +182,7 @@
     "Science/Cognitive Science/Intelligence/Thurstone's Model.md",
     "Science/Cognitive Science/Cognitive Psychology/Brain Memory🧠.md",
     "Science/Cognitive Science/Cognitive Psychology/🧠Memory.md",
-    "Science/Cognitive Science/🧠Meta-cognition.md",
     "Science/Cognitive Science/Intelligence",
-    "Science/Cognitive Science/Intelligence.md",
-    "BIT/Business IT.md",
-    "Business/Manufacturing/Marginal Costing.md",
-    "Business/Accounting/Management Accounting/Cost/Fixed or Variable Costs.md",
-    "Business/Manufacturing/Long Run Short run.md",
-    "Business/Manufacturing/Fixed Costs.md",
     "Business/Manufacturing",
     "BIT/System Engineering/Software Engineering/Software Development/Frameworks/Lanchain🦜️🔗",
     "BIT/System Engineering/Software Engineering/Software Development/Software/AI Apps",

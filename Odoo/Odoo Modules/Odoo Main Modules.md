@@ -1,6 +1,0 @@
-[[🟣Inventory📦]]
-[[🟣Sales]]
-[[🟣Purchase]]
-[[🟣Web]]
-[[🟣Accounting🧾]]
-[[🟣MRP]]
