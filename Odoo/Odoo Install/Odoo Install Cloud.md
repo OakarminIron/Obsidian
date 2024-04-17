@@ -85,3 +85,6 @@ sudo service odoo stop
 edit config file
 tail -f -n 100 /var/log/odoo/odoo-server.log
 ```
+
+
+[[Odoo SSL]]

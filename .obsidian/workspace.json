@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6962228e5643233a",
+        "id": "38355bd213f917c6",
         "type": "tabs",
         "children": [
           {
-            "id": "17e9d80b9fdf6d1f",
+            "id": "f62cfad340bb92f0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,10 +153,15 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "cc2ac9646174365e",
+  "active": "f62cfad340bb92f0",
   "lastOpenFiles": [
-    "IT/Operation Systems/Ubuntu Commands/Ubuntu Commands.md",
+    "Odoo/Odoo Install/Odoo SSL.md",
+    "Odoo/Odoo Install/Odoo Install Cloud.md",
+    "Odoo/Odoo Install/Odoo Install.md",
+    "IT/OSI/6.OSI Presentation Layer/6.OSI Presentation Layer.md",
     "IT/Operation Systems/Ubuntu.md",
+    "IT/Operation Systems/Ubuntu Commands/Ubuntu Commands.md",
+    "IT/Operation Systems/Ubuntu Commands/Ubuntu SWAP increase.md",
     "Odoo/Odoo Modules/Odoo Modules.md",
     "Odoo/Odoo Modules/🟣Trading Modules.md",
     "Odoo/Odoo Modules/Odoo Support Modules.md",
@@ -177,11 +181,6 @@
     "Science/Cognitive Science/Cognitive Psychology/Thinking/Thinking🤔.md",
     "Science/Cognitive Science/Cognitive Psychology/Thinking/🤔Critical Thinking.md",
     "Science/Cognitive Science/Cognitive Psychology/Thinking/🤔Creative Thinking.md",
-    "Science/Cognitive Science/Cognitive Psychology/Thinking/🤔Abstract vs Concrete Thinking.md",
-    "Science/Cognitive Science/Cognitive Psychology/Thinking/🤔Parallel vs Adversarial.md",
-    "Science/Cognitive Science/Intelligence/Thurstone's Model.md",
-    "Science/Cognitive Science/Cognitive Psychology/Brain Memory🧠.md",
-    "Science/Cognitive Science/Cognitive Psychology/🧠Memory.md",
     "Science/Cognitive Science/Intelligence",
     "Business/Manufacturing",
     "BIT/System Engineering/Software Engineering/Software Development/Frameworks/Lanchain🦜️🔗",
