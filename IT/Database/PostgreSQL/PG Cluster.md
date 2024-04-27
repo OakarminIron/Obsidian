@@ -7,7 +7,7 @@ pg_ctlcluster 14 main stop
 pg_createcluster 13 c01
 pg_dropcluster 13 c01
 ```
-When creating the cluster with user like pg_createcluster -u odoo 13 c02    ,,, sometimme you have to switich that user to start that cluster
+When creating the cluster with user like `pg_createcluster` -u `odoo` 13 `c02`    ,,, sometime you have to switch that user to start that cluster
 Have to start auto or manual in `/etc/postgresql/version/cluster/start.conf`
 ```
 

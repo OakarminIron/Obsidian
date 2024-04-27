@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "38355bd213f917c6",
+        "id": "804b878cf3338e9c",
         "type": "tabs",
         "children": [
           {
-            "id": "f62cfad340bb92f0",
+            "id": "b3ba7ccea45c9fa5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ubuntu ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -153,34 +154,34 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "f62cfad340bb92f0",
+  "active": "b3ba7ccea45c9fa5",
   "lastOpenFiles": [
-    "Odoo/Odoo Install/Odoo SSL.md",
-    "Odoo/Odoo Install/Odoo Install Cloud.md",
-    "Odoo/Odoo Install/Odoo Install.md",
-    "IT/OSI/6.OSI Presentation Layer/6.OSI Presentation Layer.md",
     "IT/Operation Systems/Ubuntu.md",
-    "IT/Operation Systems/Ubuntu Commands/Ubuntu Commands.md",
+    "IT/Database/PostgreSQL/pgSQL Quaries.md",
+    "IT/Database/PostgreSQL/PostgreSQL Notes.md",
+    "IT/Database/Database Type/Relational Database/PostgreSQL.md",
+    "IT/Hosting/AWS/AWS Services/DB/AWS DB.md",
+    "IT/ITSM/DevOps/Git.md",
+    "IT/Hosting/Odoo.sh.md",
+    "Notes/X/Grafana Odoo.md",
+    "IT/Hosting/AWS/AWS Services/DevOps/🟡Cloud Formation.md",
+    "IT/ITSM/DevOps/DevOps Tools.md",
+    "IT/Database/PostgreSQL/PG Cluster.md",
+    "Odoo/Odoo Install/Odoo Install Cloud.md",
+    "IT/Database/PostgreSQL/Collation Version Mismatch.md",
     "IT/Operation Systems/Ubuntu Commands/Ubuntu SWAP increase.md",
+    "Odoo/Odoo Install/Odoo Service.md",
+    "Odoo/Odoo Install/Odoo Install.md",
+    "IT/Computer Science/Programming/Programming Languages/🐍Python/🐍Virtual Environment.md",
+    "Odoo/Odoo Install/Odoo SSL.md",
+    "IT/OSI/6.OSI Presentation Layer/6.OSI Presentation Layer.md",
+    "IT/Operation Systems/Ubuntu Commands/Ubuntu Commands.md",
     "Odoo/Odoo Modules/Odoo Modules.md",
     "Odoo/Odoo Modules/🟣Trading Modules.md",
     "Odoo/Odoo Modules/Odoo Support Modules.md",
     "Odoo/Odoo Modules/Odoo Technical.md",
     "Odoo/Odoo Modules/Odoo Sales/🟣Sales.md",
     "Business/Accounting/Financial Accounting/Statements/Cash Flows Statement.md",
-    "Business/Accounting/Financial Accounting/Fundamental Analysis/Operating Cash Flow.md",
-    "Business/Accounting/ValueChanging/Amortization.md",
-    "Business/Accounting/Financial Accounting/Financial Metric Ratios/Solvency ratios/(Debt Ratio) debt-to-assets.md",
-    "Odoo/Odoo.md",
-    "Odoo/Odoo Modules/Odoo MRP/Odoo Manufacturing/🟣BOM Type.md",
-    "Business/Manufacturing/Build of Materials (BOM).md",
-    "Business/Manufacturing/Production Function.md",
-    "Business/Manufacturing/Manufacturing.md",
-    "Science/Cognitive Science/Cognitive Psychology/Thinking/🤔Convergent Thinking.md",
-    "Science/Cognitive Science/Cognitive Psychology/Thinking/🤔Divergent Thinking.md",
-    "Science/Cognitive Science/Cognitive Psychology/Thinking/Thinking🤔.md",
-    "Science/Cognitive Science/Cognitive Psychology/Thinking/🤔Critical Thinking.md",
-    "Science/Cognitive Science/Cognitive Psychology/Thinking/🤔Creative Thinking.md",
     "Science/Cognitive Science/Intelligence",
     "Business/Manufacturing",
     "BIT/System Engineering/Software Engineering/Software Development/Frameworks/Lanchain🦜️🔗",

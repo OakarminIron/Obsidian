@@ -2,7 +2,7 @@
 ▪ SQL Server
 ▪ Oracle
 ▪ MySQL server
-▪ PostgreSQL
+▪ [[PostgreSQL]]
 ▪ MariaDB
 ▪ [[AWS Aurora]]
 
