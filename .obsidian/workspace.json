@@ -11,8 +11,13 @@
             "id": "b3ba7ccea45c9fa5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "IT/Database/PostgreSQL/pgSQL Quaries.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ubuntu ",
+                "query": "postgresql",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IT/Database/PostgreSQL/pgSQL Quaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IT/Database/PostgreSQL/pgSQL Quaries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IT/Database/PostgreSQL/pgSQL Quaries.md"
+              }
             }
           }
         ]
@@ -156,11 +165,11 @@
   },
   "active": "b3ba7ccea45c9fa5",
   "lastOpenFiles": [
-    "IT/Operation Systems/Ubuntu.md",
-    "IT/Database/PostgreSQL/pgSQL Quaries.md",
     "IT/Database/PostgreSQL/PostgreSQL Notes.md",
     "IT/Database/Database Type/Relational Database/PostgreSQL.md",
     "IT/Hosting/AWS/AWS Services/DB/AWS DB.md",
+    "IT/Operation Systems/Ubuntu.md",
+    "IT/Database/PostgreSQL/pgSQL Quaries.md",
     "IT/ITSM/DevOps/Git.md",
     "IT/Hosting/Odoo.sh.md",
     "Notes/X/Grafana Odoo.md",

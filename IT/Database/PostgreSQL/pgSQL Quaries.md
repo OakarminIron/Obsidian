@@ -105,3 +105,14 @@ INNER JOIN information_schema.key_column_usage AS kcu
 ON xtable.constraint_name = kcu.constraint_name    
 group by 1 order by 2 desc
 ```
+
+
+Reverse Find
+```SQL
+SELECT code_list.code
+FROM (
+    SELECT unnest(ARRAY[700001, 700002, 700003, 700004, 700005, 700006, 700007]) AS code
+) AS code_list
+LEFT JOIN account_account ON code_list.code = account_account.code::integer
+WHERE account_account.code IS NULL;
+```
