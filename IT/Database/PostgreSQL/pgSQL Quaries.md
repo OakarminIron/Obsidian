@@ -115,4 +115,6 @@ FROM (
 ) AS code_list
 LEFT JOIN account_account ON code_list.code = account_account.code::integer
 WHERE account_account.code IS NULL;
+
+SELECT name_list.name FROM ( SELECT unnest(ARRAY['Name1', 'Name2', 'Name3', 'Name4']) AS name ) AS name_list LEFT JOIN account_account ON name_list.name = account_account.name WHERE account_account.name IS NULL;
 ```

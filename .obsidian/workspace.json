@@ -11,13 +11,8 @@
             "id": "b3ba7ccea45c9fa5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Database/PostgreSQL/pgSQL Quaries.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Database/PostgreSQL/pgSQL Quaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Database/PostgreSQL/pgSQL Quaries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "IT/Database/PostgreSQL/pgSQL Quaries.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -165,11 +156,11 @@
   },
   "active": "b3ba7ccea45c9fa5",
   "lastOpenFiles": [
+    "IT/Database/PostgreSQL/pgSQL Quaries.md",
     "IT/Database/PostgreSQL/PostgreSQL Notes.md",
     "IT/Database/Database Type/Relational Database/PostgreSQL.md",
     "IT/Hosting/AWS/AWS Services/DB/AWS DB.md",
     "IT/Operation Systems/Ubuntu.md",
-    "IT/Database/PostgreSQL/pgSQL Quaries.md",
     "IT/ITSM/DevOps/Git.md",
     "IT/Hosting/Odoo.sh.md",
     "Notes/X/Grafana Odoo.md",
