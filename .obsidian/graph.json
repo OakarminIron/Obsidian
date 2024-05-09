@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "path:\"Odoo/\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -49,10 +49,10 @@
   "nodeSizeMultiplier": 1.19739583333333,
   "lineSizeMultiplier": 1.04427083333333,
   "collapse-forces": true,
-  "centerStrength": 0.0833333333333333,
-  "repelStrength": 7.60416666666667,
-  "linkStrength": 0.791666666666667,
+  "centerStrength": 0.332450099904815,
+  "repelStrength": 18.5,
+  "linkStrength": 0.92,
   "linkDistance": 47,
-  "scale": 0.029777702399741104,
-  "close": false
+  "scale": 0.96354883719149,
+  "close": true
 }

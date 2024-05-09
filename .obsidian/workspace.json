@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "804b878cf3338e9c",
+        "id": "6055bd03e2947c5b",
         "type": "tabs",
         "children": [
           {
-            "id": "b3ba7ccea45c9fa5",
+            "id": "4a5a5a470733e052",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "postgresql",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,12 +61,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 380.5
   },
   "right": {
     "id": "05a87f576f113e9e",
@@ -82,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Spirituality/Spiritual Forces/Communication Across Different Realms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Spirituality/Spiritual Forces/Communication Across Different Realms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Spirituality/Spiritual Forces/Communication Across Different Realms.md"
+              }
             }
           }
         ]
@@ -154,34 +157,35 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "b3ba7ccea45c9fa5",
+  "active": "fd44166b0763d382",
   "lastOpenFiles": [
+    "Notes/Spirituality/Spirituality.md",
+    "Notes/Spirituality/Spiritual Forces/Deity.md",
+    "Notes/Spirituality/Spiritual Forces/Communication Across Different Realms.md",
+    "BIT/Data Engineering/Data X/Data Transport.md",
+    "BIT/Data Engineering/Data Management.md",
+    "BIT/Data Engineering/Data X/Data Storage.md",
+    "BIT/Data Engineering/Data X/အရေးခံ.md",
+    "Notes/Weird stuffs/AA/Ancient Aliens.md",
+    "Notes/Weird stuffs/12 Waves of Quality.md",
+    "Alien.md",
+    "Notes/X/Universe.md",
+    "Notes/Spirituality/Religions/🕉️Hinduism.md",
+    "IT/Computer Science/Programming/Programming Languages/🐍Python/🐍Virtual Environment.md",
+    "IT/Operation Systems/Ubuntu.md",
+    "Odoo/Odoo Install/Odoo Install Cloud.md",
     "IT/Database/PostgreSQL/pgSQL Quaries.md",
     "IT/Database/PostgreSQL/PostgreSQL Notes.md",
     "IT/Database/Database Type/Relational Database/PostgreSQL.md",
     "IT/Hosting/AWS/AWS Services/DB/AWS DB.md",
-    "IT/Operation Systems/Ubuntu.md",
+    "IT/Operation Systems/Ubuntu Commands/Ubuntu Boot Header.md",
+    "IT/OSI/7.OSI Application Layer/SSH.md",
     "IT/ITSM/DevOps/Git.md",
-    "IT/Hosting/Odoo.sh.md",
-    "Notes/X/Grafana Odoo.md",
-    "IT/Hosting/AWS/AWS Services/DevOps/🟡Cloud Formation.md",
-    "IT/ITSM/DevOps/DevOps Tools.md",
-    "IT/Database/PostgreSQL/PG Cluster.md",
-    "Odoo/Odoo Install/Odoo Install Cloud.md",
-    "IT/Database/PostgreSQL/Collation Version Mismatch.md",
-    "IT/Operation Systems/Ubuntu Commands/Ubuntu SWAP increase.md",
-    "Odoo/Odoo Install/Odoo Service.md",
-    "Odoo/Odoo Install/Odoo Install.md",
-    "IT/Computer Science/Programming/Programming Languages/🐍Python/🐍Virtual Environment.md",
-    "Odoo/Odoo Install/Odoo SSL.md",
-    "IT/OSI/6.OSI Presentation Layer/6.OSI Presentation Layer.md",
-    "IT/Operation Systems/Ubuntu Commands/Ubuntu Commands.md",
-    "Odoo/Odoo Modules/Odoo Modules.md",
-    "Odoo/Odoo Modules/🟣Trading Modules.md",
-    "Odoo/Odoo Modules/Odoo Support Modules.md",
-    "Odoo/Odoo Modules/Odoo Technical.md",
-    "Odoo/Odoo Modules/Odoo Sales/🟣Sales.md",
-    "Business/Accounting/Financial Accounting/Statements/Cash Flows Statement.md",
+    "Odoo/Odoo Notes/pgSQL Odoo.md",
+    "IT/Database/Database.md",
+    "IT/OSI/7.OSI Application Layer/HTTP/🌐CORS.md",
+    "Notes/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna.md",
+    "Odoo/Odoo Notes",
     "Science/Cognitive Science/Intelligence",
     "Business/Manufacturing",
     "BIT/System Engineering/Software Engineering/Software Development/Frameworks/Lanchain🦜️🔗",
@@ -198,7 +202,6 @@
     "BIT/Enterprise Engineering/Enterprise Architecture.png",
     "Business/Administration/Organization",
     "BIT/Requirement Engineering/RA/RA Tools/Zachman Framework.png",
-    "BIT/System Engineering/System/Function",
     "Science/Natural Science/Physic/Waves/Color/Colour Model.png",
     "Science/Natural Science/Physic/Waves/Color/Colors.png",
     "Pasted image 20240122140355.png"

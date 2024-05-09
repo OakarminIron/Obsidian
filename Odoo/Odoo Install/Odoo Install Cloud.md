@@ -3,8 +3,7 @@ see also [[Git]]
 see also [[SSH]]
 AS Ubuntu
 ```ubuntu
-sudo apt-get update
-sudo apt-get upgrade
+sudo apt-get update && sudo apt-get upgrade
 sudo adduser odoo --home /home/odoo --shell /bin/bash
 sudo usermod -aG sudo odoo
 sudo nano /etc/ssh/sshd_config
@@ -15,6 +14,10 @@ sudo service ssh restart
 ```
 
 Then Login into
+```
+sudo apt install -y postgresql-common
+sudo /usr/share/postgresql-common/pgdg/apt.postgresql.org.sh
+```
 
 ```odoo
 sudo apt install -y postgresql
@@ -64,7 +67,7 @@ Option A (Run with Source Code)
 ```github
 mkdir /home/odoo/Documents/Github/odoo
 cd /home/odoo/Documents/Github/odoo/
-git clone https://www.github.com/odoo/odoo.git -b 17.0 --single-branch --depth 1 /home/odoo/Document/Github/odoo/odoo17c
+git clone https://www.github.com/odoo/odoo.git -b 17.0 --single-branch --depth 1 /home/odoo/Documents/Github/odoo/odoo17c
 cd /home/odoo/Documents/Github/odoo/odoo
 pip3 install -r requirements.txt
 ```
@@ -76,6 +79,10 @@ wget -q -O - https://nightly.odoo.com/odoo.key | sudo gpg --dearmor -o /usr/shar
 echo 'deb [signed-by=/usr/share/keyrings/odoo-archive-keyring.gpg] https://nightly.odoo.com/16.0/nightly/deb/ ./' | sudo tee /etc/apt/sources.list.d/odoo.list
  
 sudo apt-get update && sudo apt-get install odoo
+
+sudo rm /etc/apt/sources.list.d/odoo.list
+sudo rm /usr/share/keyrings/odoo-archive-keyring.gpg
+
 ```
 
 If you done with option A make sure to add [[Odoo Service]]. Before that make a [[odoo.config]]
