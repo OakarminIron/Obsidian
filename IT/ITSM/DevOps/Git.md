@@ -45,3 +45,9 @@ git gc --prune=all
 ```
 To restore full
 `git fetch --unshallow`
+
+
+```bash
+find  -type d -name '__pycache__' -exec rm -r {} +
+
+```

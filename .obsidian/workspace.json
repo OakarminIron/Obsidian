@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6055bd03e2947c5b",
+        "id": "15a6f8c3686d7cf7",
         "type": "tabs",
         "children": [
           {
-            "id": "4a5a5a470733e052",
+            "id": "4beb1682663ad67f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -45,7 +45,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Spirituality/Spiritual Forces/Communication Across Different Realms.md",
+                "file": "IT/ITSM/DevOps/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Spirituality/Spiritual Forces/Communication Across Different Realms.md",
+                "file": "IT/ITSM/DevOps/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Spirituality/Spiritual Forces/Communication Across Different Realms.md"
+                "file": "IT/ITSM/DevOps/Git.md"
               }
             }
           }
@@ -157,8 +158,9 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "fd44166b0763d382",
+  "active": "cc2ac9646174365e",
   "lastOpenFiles": [
+    "IT/Operation Systems/Ubuntu.md",
     "Notes/Spirituality/Spirituality.md",
     "Notes/Spirituality/Spiritual Forces/Deity.md",
     "Notes/Spirituality/Spiritual Forces/Communication Across Different Realms.md",
@@ -172,7 +174,6 @@
     "Notes/X/Universe.md",
     "Notes/Spirituality/Religions/🕉️Hinduism.md",
     "IT/Computer Science/Programming/Programming Languages/🐍Python/🐍Virtual Environment.md",
-    "IT/Operation Systems/Ubuntu.md",
     "Odoo/Odoo Install/Odoo Install Cloud.md",
     "IT/Database/PostgreSQL/pgSQL Quaries.md",
     "IT/Database/PostgreSQL/PostgreSQL Notes.md",
