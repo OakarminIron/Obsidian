@@ -95,3 +95,4 @@ tail -f -n 100 /var/log/odoo/odoo-server.log
 
 
 [[Odoo SSL]]
+Odoo Install Colud

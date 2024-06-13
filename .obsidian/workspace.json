@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "15a6f8c3686d7cf7",
+        "id": "dc7f036a9fe6664e",
         "type": "tabs",
         "children": [
           {
-            "id": "4beb1682663ad67f",
+            "id": "e8e31f4bb7c0132a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "IT/Computer Science/Programming/Programming Languages/🐍Python/🐍pipwheel.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pip",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/ITSM/DevOps/Git.md",
+                "file": "IT/Computer Science/Programming/Programming Languages/🐍Python/🐍pipwheel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/ITSM/DevOps/Git.md",
+                "file": "IT/Computer Science/Programming/Programming Languages/🐍Python/🐍pipwheel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/ITSM/DevOps/Git.md"
+                "file": "IT/Computer Science/Programming/Programming Languages/🐍Python/🐍pipwheel.md"
               }
             }
           }
@@ -158,9 +163,24 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "cc2ac9646174365e",
+  "active": "e8e31f4bb7c0132a",
   "lastOpenFiles": [
+    "Odoo/Odoo Backend/🟣Views/🟣Buttons.md",
+    "Odoo/Odoo Backend/🟣Views/🟣Forms Views.md",
+    "Odoo/Odoo Backend/🟣Views/🟣Views.md",
+    "Odoo/Odoo Backend/🟣Views/🟣View Elements.md",
+    "Odoo/Odoo Backend/🟣Views/🟣List Views.md",
+    "Odoo/Odoo FrontEnd/Odoo Frontend Services.md",
+    "Odoo/Odoo FrontEnd/Odoo Frontend.md",
     "IT/Operation Systems/Ubuntu.md",
+    "IT/ITSM/DevOps/Git.md",
+    "Odoo/Odoo Notes/pgSQL Odoo.md",
+    "Odoo/Odoo Install/Odoo SSL.md",
+    "Odoo/Odoo Install/Odoo Install Cloud.md",
+    "Odoo/Odoo Install/odoo.config.md",
+    "IT/Computer Science/Programming/Programming Languages/🐍Python/🐍pipwheel.md",
+    "IT/Database/PostgreSQL/PG Cluster.md",
+    "Odoo/Odoo Install/Odoo Install.md",
     "Notes/Spirituality/Spirituality.md",
     "Notes/Spirituality/Spiritual Forces/Deity.md",
     "Notes/Spirituality/Spiritual Forces/Communication Across Different Realms.md",
@@ -171,21 +191,6 @@
     "Notes/Weird stuffs/AA/Ancient Aliens.md",
     "Notes/Weird stuffs/12 Waves of Quality.md",
     "Alien.md",
-    "Notes/X/Universe.md",
-    "Notes/Spirituality/Religions/🕉️Hinduism.md",
-    "IT/Computer Science/Programming/Programming Languages/🐍Python/🐍Virtual Environment.md",
-    "Odoo/Odoo Install/Odoo Install Cloud.md",
-    "IT/Database/PostgreSQL/pgSQL Quaries.md",
-    "IT/Database/PostgreSQL/PostgreSQL Notes.md",
-    "IT/Database/Database Type/Relational Database/PostgreSQL.md",
-    "IT/Hosting/AWS/AWS Services/DB/AWS DB.md",
-    "IT/Operation Systems/Ubuntu Commands/Ubuntu Boot Header.md",
-    "IT/OSI/7.OSI Application Layer/SSH.md",
-    "IT/ITSM/DevOps/Git.md",
-    "Odoo/Odoo Notes/pgSQL Odoo.md",
-    "IT/Database/Database.md",
-    "IT/OSI/7.OSI Application Layer/HTTP/🌐CORS.md",
-    "Notes/Spirituality/Religions/Buddhism/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna/☸️ပဋ္ဌာန်း (ပဋ္ဌာန) Paṭṭhāna.md",
     "Odoo/Odoo Notes",
     "Science/Cognitive Science/Intelligence",
     "Business/Manufacturing",
