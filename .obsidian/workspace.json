@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dc7f036a9fe6664e",
+        "id": "51b12e8dc8fd02ad",
         "type": "tabs",
         "children": [
           {
-            "id": "e8e31f4bb7c0132a",
+            "id": "446d1aac47811611",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Computer Science/Programming/Programming Languages/🐍Python/🐍pipwheel.md",
+                "file": "IT/Operation Systems/Ubuntu.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pip",
+                "query": "clean",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 348.5
   },
   "right": {
     "id": "05a87f576f113e9e",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Computer Science/Programming/Programming Languages/🐍Python/🐍pipwheel.md",
+                "file": "IT/Operation Systems/Ubuntu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Computer Science/Programming/Programming Languages/🐍Python/🐍pipwheel.md",
+                "file": "IT/Operation Systems/Ubuntu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,15 +139,40 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Computer Science/Programming/Programming Languages/🐍Python/🐍pipwheel.md"
+                "file": "IT/Operation Systems/Ubuntu.md"
               }
             }
+          },
+          {
+            "id": "0ee8c51307e4a566",
+            "type": "leaf",
+            "state": {
+              "type": "chatbot-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a870b284a6accf72",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "31ebd8da40a3039d",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 235.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -163,34 +188,37 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "e8e31f4bb7c0132a",
+  "active": "446d1aac47811611",
   "lastOpenFiles": [
     "Odoo/Odoo Backend/🟣Views/🟣Buttons.md",
     "Odoo/Odoo Backend/🟣Views/🟣Forms Views.md",
-    "Odoo/Odoo Backend/🟣Views/🟣Views.md",
-    "Odoo/Odoo Backend/🟣Views/🟣View Elements.md",
     "Odoo/Odoo Backend/🟣Views/🟣List Views.md",
-    "Odoo/Odoo FrontEnd/Odoo Frontend Services.md",
-    "Odoo/Odoo FrontEnd/Odoo Frontend.md",
-    "IT/Operation Systems/Ubuntu.md",
-    "IT/ITSM/DevOps/Git.md",
-    "Odoo/Odoo Notes/pgSQL Odoo.md",
-    "Odoo/Odoo Install/Odoo SSL.md",
-    "Odoo/Odoo Install/Odoo Install Cloud.md",
-    "Odoo/Odoo Install/odoo.config.md",
-    "IT/Computer Science/Programming/Programming Languages/🐍Python/🐍pipwheel.md",
-    "IT/Database/PostgreSQL/PG Cluster.md",
-    "Odoo/Odoo Install/Odoo Install.md",
-    "Notes/Spirituality/Spirituality.md",
-    "Notes/Spirituality/Spiritual Forces/Deity.md",
-    "Notes/Spirituality/Spiritual Forces/Communication Across Different Realms.md",
-    "BIT/Data Engineering/Data X/Data Transport.md",
-    "BIT/Data Engineering/Data Management.md",
-    "BIT/Data Engineering/Data X/Data Storage.md",
-    "BIT/Data Engineering/Data X/အရေးခံ.md",
-    "Notes/Weird stuffs/AA/Ancient Aliens.md",
-    "Notes/Weird stuffs/12 Waves of Quality.md",
-    "Alien.md",
+    "Odoo/Odoo Backend/🟣Views/🟣Views.md",
+    "Notes/Spirituality/Religions/Buddhism/☸️Execute Logic.md",
+    "Odoo/Odoo.md",
+    "IT/Computer Science/AI/AI🤖/🤖Models.md",
+    "MPS👁️.md",
+    "Tokenizer.md",
+    "Ollama.md",
+    "IT/Computer Science/AI/AI🤖/🤖Frameworks and Libraries.md",
+    "IT/Computer Science/AI/AI🤖/🤖Platforms.md",
+    "Hugging Face🤗.md",
+    "AI Model.md",
+    "IT/Computer Science/AI/AI🤖/Artificial Intelligence (AI🤖).md",
+    "AI.md",
+    "IT/Computer Science/AI/AI🤖/Temperature in AI.md",
+    "smart-chats",
+    "IT/Computer Science/AI/CUDA.md",
+    "Notes/X/Temperature.md",
+    "Notes/X/🌡Thermal Temperature.md",
+    "Graphic Driver.md",
+    "IT/Computer Science/AI/AI🤖/🤖Level.md",
+    "IT/Computer Science/AI/AI🤖/AGI.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software/Software.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Software/AI Apps.md",
+    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/Lanchain🦜️🔗/Lanchain🦜️🔗.md",
+    "BMO/Profiles",
+    "BMO",
     "Odoo/Odoo Notes",
     "Science/Cognitive Science/Intelligence",
     "Business/Manufacturing",
@@ -201,12 +229,9 @@
     "IT/Computer Science/AI/DL",
     "IT/Computer Science/AI/CV",
     "IT/Computer Science/AI/Classification Matrix.png",
-    "IT/Computer Science/AI/NN",
     "IT/Computer Science/AI/NN/Neural Network.png",
-    "Odoo/Odoo Modules/Odoo Accounting/Odoo Account Report",
     "BIT/Requirement Engineering/RA/RA Tools/Viewponts.png",
     "BIT/Enterprise Engineering/Enterprise Architecture.png",
-    "Business/Administration/Organization",
     "BIT/Requirement Engineering/RA/RA Tools/Zachman Framework.png",
     "Science/Natural Science/Physic/Waves/Color/Colour Model.png",
     "Science/Natural Science/Physic/Waves/Color/Colors.png",

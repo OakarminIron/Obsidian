@@ -2,3 +2,9 @@
 .obsidian/workspace.json
 .obsidian/workspace.json
 .obsidian/graph.json
+
+
+
+
+# Ignore Smart Connections folder
+.smart-connections

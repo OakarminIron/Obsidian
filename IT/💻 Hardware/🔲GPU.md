@@ -2,4 +2,4 @@ A General Processing Unit that is specially designed to quickly render graphic c
 It can have thousands of core for parallel operations.
 
 
-[[CUDA]]
+[[IT/💻 Hardware/CUDA]]
