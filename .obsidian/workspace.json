@@ -4,16 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "51b12e8dc8fd02ad",
+        "id": "64b5046b42034889",
         "type": "tabs",
         "children": [
           {
-            "id": "446d1aac47811611",
+            "id": "34c60b9c518347a9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "4433e6a21883d87e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Operation Systems/Ubuntu.md",
+                "file": "IT/Computer Science/AI/NN/Applications of Transformer Networks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "clean",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Operation Systems/Ubuntu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Operation Systems/Ubuntu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "IT/Operation Systems/Ubuntu.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,12 +171,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 235.5,
-    "collapsed": true
+    "width": 226.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,39 +186,39 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "janitor:Janitor: scan vault": false,
-      "obisidian-note-linker:Note Linker": false,
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "446d1aac47811611",
+  "active": "34c60b9c518347a9",
   "lastOpenFiles": [
-    "Odoo/Odoo Backend/🟣Views/🟣Buttons.md",
-    "Odoo/Odoo Backend/🟣Views/🟣Forms Views.md",
-    "Odoo/Odoo Backend/🟣Views/🟣List Views.md",
-    "Odoo/Odoo Backend/🟣Views/🟣Views.md",
-    "Notes/Spirituality/Religions/Buddhism/☸️Execute Logic.md",
-    "Odoo/Odoo.md",
-    "IT/Computer Science/AI/AI🤖/🤖Models.md",
-    "MPS👁️.md",
-    "Tokenizer.md",
-    "Ollama.md",
-    "IT/Computer Science/AI/AI🤖/🤖Frameworks and Libraries.md",
-    "IT/Computer Science/AI/AI🤖/🤖Platforms.md",
-    "Hugging Face🤗.md",
-    "AI Model.md",
+    "IT/Computer Science/AI/NN/Applications of Transformer Networks.md",
+    "IT/Computer Science/AI/NLP/Natural Language Processing.md",
+    "IT/Computer Science/AI/NN/Transformer Networks.md",
+    "IT/Computer Science/AI/NN/Key Features of Transformer Networks.md",
+    "IT/Computer Science/AI/AI🤖/OpenAI.md",
+    "Science/Cognitive Science/Cognitive Psychology/Cognitive Psychology.md",
+    "Science/Cognitive Science/Cognitive Psychology/Attention/Attention.md",
+    "IT/Computer Science/AI/NN/🤖Attention.md",
+    "IT/Computer Science/AI/NN/🤖📷Neural Networks.md",
+    "README.md",
+    "IT/Computer Science/AI/NN/How Transformers Work.md",
+    "IT/Computer Science/AI/NN/Feed-forward.md",
+    "IT/Computer Science/AI/NN/Recurrent Neural Network.md",
     "IT/Computer Science/AI/AI🤖/Artificial Intelligence (AI🤖).md",
-    "AI.md",
-    "IT/Computer Science/AI/AI🤖/Temperature in AI.md",
+    "IT/Computer Science/AI/NN/Convolution Neural Network.md",
+    "IT/Computer Science/AI/AI🤖/🤖Sub-Fields.md",
+    "IT/Computer Science/AI/NLP/Large Language Models.md",
+    "IT/Computer Science/AI/Communication/Prompting.md",
+    "BMO/Profiles/BMO.md",
+    "IT/Computer Science/AI/Communication",
+    "smart-chats/UNTITLED CHAT 2024-07-04 09 00 05.md",
+    "Odoo/Odoo Install/Odoo Install Cloud.md",
+    "Odoo/Odoo Install/Odoo Service.md",
+    "IT/ITSM/DevOps/Git.md",
+    "Notes/Skill Framework/My Skill Framework.md",
+    "Notes/Skill Framework/Odoo Functional Architect.md",
+    "Odoo/Odoo Notes/pgSQL Odoo.md",
     "smart-chats",
-    "IT/Computer Science/AI/CUDA.md",
-    "Notes/X/Temperature.md",
-    "Notes/X/🌡Thermal Temperature.md",
-    "Graphic Driver.md",
-    "IT/Computer Science/AI/AI🤖/🤖Level.md",
-    "IT/Computer Science/AI/AI🤖/AGI.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software/Software.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Software/AI Apps.md",
-    "BIT/System Engineering/Software Engineering/Software Development/Frameworks/Lanchain🦜️🔗/Lanchain🦜️🔗.md",
     "BMO/Profiles",
     "BMO",
     "Odoo/Odoo Notes",
@@ -227,7 +229,6 @@
     "BIT/System Engineering/Software Engineering/Software Development/Frameworks/Lanchain🦜️🔗/🦜️🔗Retrieval.png",
     "BIT/System Engineering/Software Engineering/Software Development/Frameworks/Lanchain🦜️🔗/Lanchain.png",
     "IT/Computer Science/AI/DL",
-    "IT/Computer Science/AI/CV",
     "IT/Computer Science/AI/Classification Matrix.png",
     "IT/Computer Science/AI/NN/Neural Network.png",
     "BIT/Requirement Engineering/RA/RA Tools/Viewponts.png",

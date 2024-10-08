@@ -25,8 +25,8 @@ sudo pg_lsclusters
 sudo su root
 su postgres
 psql -p 5432 -U postgres -d postgres 
-CREATE USER odoo PASSWORD 'xxx';"
-ALTER USER odoo WITH SUPERUSER;"
+CREATE USER odoo PASSWORD 'xxx';
+ALTER USER odoo WITH SUPERUSER;
 \q  or Ctrl+d
 exit
 exit
@@ -45,7 +45,7 @@ mkdir /home/odoo/Documents
 mkdir /home/odoo/Downloads
 cd /home/odoo/Downloads
 sudo wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6.1-2/wkhtmltox_0.12.6.1-2.jammy_amd64.deb
-sudo apt install ./wkhtmltox_0.12.6.1-2.jammy_amd64.deb -y
+sudo apt install ./wkhtmlsudo service ssh restarttox_0.12.6.1-2.jammy_amd64.deb -y
 mkdir /home/odoo/Documents/Github
 sudo mkdir /var/log/odoo
 sudo chown odoo:root /var/log/odoo
@@ -67,9 +67,13 @@ Option A (Run with Source Code)
 ```github
 mkdir /home/odoo/Documents/Github/odoo
 cd /home/odoo/Documents/Github/odoo/
-git clone https://www.github.com/odoo/odoo.git -b 17.0 --single-branch --depth 1 /home/odoo/Documents/Github/odoo/odoo17c
+git clone https://www.github.com/odoo/odoo.git -b 17.0 --single-branch --depth 1 /home/odoo/Documents/GitHub/odoo/odoo17c
 cd /home/odoo/Documents/Github/odoo/odoo
 pip3 install -r requirements.txt
+
+
+
+
 ```
 
 Option B Install with installer

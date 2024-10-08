@@ -14,3 +14,6 @@ AI is the software that imitates human behaviours and capabilities.
 [[🤖Inference]]
 [[🤖Setting]]
 [[🤖Fine-tuning]] allows adaptation of`` pre-trained`` models to specific use cases, saving costs and enabling lower latency.
+[[Prompting]]
+
+[[Activation Map]]

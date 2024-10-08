@@ -9,6 +9,7 @@
 
 
 [[🟣📦Removal Strategies]]
+[[🟣📦Put away(Step Routes)]]
 [[🟣📦Costing]]
 
 

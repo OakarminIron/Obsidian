@@ -1,0 +1,1 @@
+A **feedforward** operation in the context of neural networks refers to the process of passing input data through the layers of the network to generate an output. In a feed-forward neural network, information flows in one direction—from the input layer, through the hidden layers, to the output layer—without any loops or cycles.

@@ -1,2 +1,6 @@
-[[Convolution Neural Network]]
-[[Recurrent Neural Network]]
+- [[Convolution Neural Network]]
+- [[Recurrent Neural Network]]
+- [[Graph Neural Networks (GNNs)]]
+	- Purpose: Designed for graph-structured data, such as social networks or molecular structures.
+	- Key Feature: Learns node representations based on the structure and features of the graph.
+- [[Transformer Networks]]
