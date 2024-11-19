@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "path:\"IT/Computer Science/AI\"  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -48,11 +48,11 @@
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.19739583333333,
   "lineSizeMultiplier": 1.04427083333333,
-  "collapse-forces": true,
-  "centerStrength": 0.287643827168656,
-  "repelStrength": 18.5,
-  "linkStrength": 0.92,
-  "linkDistance": 47,
-  "scale": 0.200225830078125,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 15,
+  "linkStrength": 1,
+  "linkDistance": 163,
+  "scale": 0.3003387451171875,
   "close": true
 }
