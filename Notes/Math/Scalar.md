@@ -1,0 +1,1 @@
+A scalar is a quantity that has only [[Magnitude]] (size or amount) but no direction.

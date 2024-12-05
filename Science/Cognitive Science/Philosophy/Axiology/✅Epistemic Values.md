@@ -8,11 +8,11 @@ Epistemic values are central to epistemology, the branch of philosophy concerned
 [[Truth]]: The fundamental epistemic value is the pursuit of truth and the belief that knowledge should be as accurate and reliable as possible. Epistemic agents seek to align their beliefs with reality.
 [[Justification]]: Beliefs should be supported by good reasons and evidence. Epistemic agents value the process of providing rational justification for their beliefs, making them more likely to be true.
 [[Rationality]]: Epistemic agents aim to be rational in their thinking, which involves reasoning logically, avoiding fallacies, and critically evaluating evidence and arguments.
-[[Skepticism]]: A healthy degree of skepticism is valued, encouraging individuals to critically assess their own beliefs and to question received wisdom, authority, and popular opinion.
+[[Scepticism]]: A healthy degree of scepticism is valued, encouraging individuals to critically assess their own beliefs and to question received wisdom, authority, and popular opinion.
 [[Open-mindedness]]: Epistemic agents value an open mind, which means being willing to consider alternative viewpoints and revising one's beliefs when presented with compelling evidence.
 [[Empiricism]]: The reliance on empirical evidence gained through sensory experience and observation as a key source of knowledge is an important epistemic value.
-[[Pluralism]]: Recognizing that there can be multiple valid ways of knowing and understanding the world, and respecting diverse perspectives and sources of knowledge.
+[[Pluralism]]: Recognise that there can be multiple valid ways of knowing and understanding the world, and respecting diverse perspectives and sources of knowledge.
 [[Peer Disagreement]]: Epistemic humility is valued, and individuals consider how to respond when they encounter disagreement with peers or experts, aiming to resolve such conflicts in a rational manner.
 [[Objectivity]]: Striving to minimize bias and emotional influence in the evaluation of evidence and the formation of beliefs.
-[[Accuracy and Precision]]: Pursuing knowledge that is not only true but also as precise and accurate as possible, recognizing the importance of clear and well-defined concepts.
+[[Accuracy and Precision]]: Pursuing knowledge that is not only true but also as precise and accurate as possible, recognising the importance of clear and well-defined concepts.
 

@@ -1,0 +1,1 @@
+[[GAAP]] - stands for generally accepted accounting principles, which set the standard accounting rules for preparing, presenting, and reporting financial statements in the U.S.

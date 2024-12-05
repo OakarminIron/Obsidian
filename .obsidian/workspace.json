@@ -4,20 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "64b5046b42034889",
+        "id": "a70a36a1d110cd5b",
         "type": "tabs",
         "children": [
           {
-            "id": "34c60b9c518347a9",
+            "id": "5fd308dabeb42479",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Database/PostgreSQL/PG Cluster.md",
+                "file": "Notes/Math/Euclid.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Euclid"
             }
           }
         ]
@@ -40,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -49,13 +53,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pg_createcluster",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,15 +69,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 277.5
   },
   "right": {
     "id": "05a87f576f113e9e",
@@ -87,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Database/PostgreSQL/PG Cluster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -104,10 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Database/PostgreSQL/PG Cluster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -118,7 +127,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -130,7 +141,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -138,9 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "IT/Database/PostgreSQL/PG Cluster.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -148,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "chatbot-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -156,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -164,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -185,35 +204,37 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "34c60b9c518347a9",
+  "active": "5fd308dabeb42479",
   "lastOpenFiles": [
+    "README.md",
+    "Notes/Math/Euclid.md",
+    "Notes/Math/Magnitude.md",
+    "Notes/Math",
+    "Untitled.canvas",
+    "Notes/Math/Vector.md",
+    "Notes/Math/Scalar.md",
+    "Science/Formal Science/Math/Linear Algebra.md",
+    "IT/Computer Science/AI/AI🤖/🤖Models.md",
+    "Science/Cognitive Science/Philosophy/Axiology/✅Epistemic Values.md",
+    "Scepticism.md",
+    "Business/Accounting/Financial Accounting/Statements/Cash Flows Statement.md",
+    "Business/Accounting/Financial Accounting/Cash Flow Method.md",
+    "Business/Accounting/Financial Accounting/Monthly Recurring Revenue.md",
+    "Business/Accounting/Accounting.md",
+    "Business/Accounting/Accounting Standard.md",
+    "Odoo/Odoo Modules/Odoo Accounting/🟣Accounting🧾.md",
+    "Odoo/Odoo Notes/pgSQL Odoo.md",
+    "IT/Database/PostgreSQL/PG Windows.md",
+    "IT/Database/PostgreSQL/pgSQL Quaries.md",
+    "Odoo/Odoo Install/Odoo Install Cloud.md",
+    "IT/Database/PostgreSQL/PG Cluster.md",
+    "IT/Database/PostgreSQL/PostgreSQL Notes.md",
     "IT/Computer Science/Programming/Programming Languages/🐍Python/🐍Virtual Environment.md",
     "IT/Computer Science/Programming/Programming Languages/🐍Python/Python🐍.md",
-    "README.md",
     "IT/Operation Systems/Ubuntu.md",
     "IT/Computer Science/AI/NN/Applications of Transformer Networks.md",
     "IT/Computer Science/AI/NLP/Natural Language Processing.md",
-    "IT/Computer Science/AI/NN/Transformer Networks.md",
-    "IT/Computer Science/AI/NN/Key Features of Transformer Networks.md",
-    "IT/Computer Science/AI/AI🤖/OpenAI.md",
-    "Science/Cognitive Science/Cognitive Psychology/Cognitive Psychology.md",
-    "Science/Cognitive Science/Cognitive Psychology/Attention/Attention.md",
-    "IT/Computer Science/AI/NN/🤖Attention.md",
-    "IT/Computer Science/AI/NN/🤖📷Neural Networks.md",
-    "IT/Computer Science/AI/NN/How Transformers Work.md",
-    "IT/Computer Science/AI/NN/Feed-forward.md",
-    "IT/Computer Science/AI/NN/Recurrent Neural Network.md",
-    "IT/Computer Science/AI/AI🤖/Artificial Intelligence (AI🤖).md",
-    "IT/Computer Science/AI/NN/Convolution Neural Network.md",
-    "IT/Computer Science/AI/AI🤖/🤖Sub-Fields.md",
-    "IT/Computer Science/AI/NLP/Large Language Models.md",
-    "IT/Computer Science/AI/Communication/Prompting.md",
-    "BMO/Profiles/BMO.md",
     "IT/Computer Science/AI/Communication",
-    "smart-chats/UNTITLED CHAT 2024-07-04 09 00 05.md",
-    "Odoo/Odoo Install/Odoo Install Cloud.md",
-    "Odoo/Odoo Install/Odoo Service.md",
-    "IT/ITSM/DevOps/Git.md",
     "smart-chats",
     "BMO/Profiles",
     "BMO",
@@ -224,7 +245,6 @@
     "BIT/System Engineering/Software Engineering/Software Development/Software/AI Apps",
     "BIT/System Engineering/Software Engineering/Software Development/Frameworks/Lanchain🦜️🔗/🦜️🔗Retrieval.png",
     "BIT/System Engineering/Software Engineering/Software Development/Frameworks/Lanchain🦜️🔗/Lanchain.png",
-    "IT/Computer Science/AI/DL",
     "IT/Computer Science/AI/Classification Matrix.png",
     "IT/Computer Science/AI/NN/Neural Network.png",
     "BIT/Requirement Engineering/RA/RA Tools/Viewponts.png",
