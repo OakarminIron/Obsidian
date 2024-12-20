@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fbc8b11b0ee9b933",
+        "id": "08628602a39e176a",
         "type": "tabs",
         "children": [
           {
-            "id": "e7c7e2e4f4672f51",
+            "id": "3c8de412e5fd24aa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Odoo/Odoo Install/Odoo SSL.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Odoo SSL"
             }
           }
         ]
@@ -48,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nginx",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -199,12 +205,13 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "e7c7e2e4f4672f51",
+  "active": "3c8de412e5fd24aa",
   "lastOpenFiles": [
-    "IT/Operation Systems/Ubuntu Commands/Ubuntu SWAP increase.md",
+    "Odoo/Odoo Install/Odoo SSL.md",
     "IT/Operation Systems/Ubuntu.md",
-    "IT/Operation Systems/Ubuntu Commands/Ubuntu Log Too Large.md",
     "IT/Operation Systems/Ubuntu Commands/Ubuntu Onedrive.md",
+    "IT/Operation Systems/Ubuntu Commands/Ubuntu SWAP increase.md",
+    "IT/Operation Systems/Ubuntu Commands/Ubuntu Log Too Large.md",
     "Odoo/Odoo Install/Odoo Install Cloud.md",
     "Odoo/Odoo FrontEnd/🟣Dashboard Views.md",
     "Notes/Math/Euclid.md",
@@ -228,7 +235,6 @@
     "IT/Database/PostgreSQL/PG Windows.md",
     "IT/Database/PostgreSQL/pgSQL Quaries.md",
     "IT/Database/PostgreSQL/PG Cluster.md",
-    "IT/Database/PostgreSQL/PostgreSQL Notes.md",
     "IT/Computer Science/AI/Communication",
     "smart-chats",
     "BMO/Profiles",
